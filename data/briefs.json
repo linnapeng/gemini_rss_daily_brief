@@ -1,1 +1,63 @@
-[]
+[
+  {
+    "date": "2026-07-24",
+    "zh_summary": "今日零售与餐饮行业动态包括：星巴克在墨西哥市场面临挑战；泡泡玛特在新加坡开设烘焙店；Cracker Barrel剥离Maple Street Biscuit Company并关闭16家门店。",
+    "en_summary": "Today's retail and F&B highlights include: Starbucks facing challenges in the Mexican market; Pop Mart launching a bakery in Singapore; and Cracker Barrel divesting the Maple Street Biscuit Company while closing 16 locations.",
+    "items": [
+      {
+        "zh_head": "星巴克在墨西哥市场面临挑战",
+        "en_head": "Starbucks faces challenges in the Mexican market",
+        "zh_fact": "有报道质疑墨西哥市场是否正成为Alsea运营的星巴克业务的新难题。",
+        "en_fact": "Reports are questioning whether the Mexican market is becoming a fresh headache for Alsea's Starbucks business.",
+        "zh_why": "该市场是星巴克的重要运营区域，任何经营压力都可能影响其区域增长。",
+        "en_why": "As a key operating region for Starbucks, any operational pressure could impact regional growth.",
+        "insight_zh": "",
+        "insight_en": "",
+        "zh_watch": "关注Alsea在墨西哥的后续运营表现及市场反馈。",
+        "en_watch": "Monitor Alsea's subsequent operational performance and market feedback in Mexico.",
+        "sources": [
+          {
+            "name": "World Coffee Portal",
+            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUG5lVW1nRTFhUFRySmo0WHVXRzFDSWttRW1JbUpwVVN4OEhxZHNpb081UVRTUHNadlZDZU0xbmJoTlptYzY1dlVFRzU3T1VCMERVb3gwSEk0TnVNd3VneXZQU1pmVms3ZThpSVA4NzY2Q3F5RXZUOExZbUdkS203VnNQdk5Qcml3X3RwUnhqX3pUZXNMdWVMNjNvdWR0blI4QVR6S3RoUTY?oc=5"
+          }
+        ]
+      },
+      {
+        "zh_head": "泡泡玛特在新加坡开设烘焙店",
+        "en_head": "Pop Mart opens a bakery in Singapore",
+        "zh_fact": "泡泡玛特在新加坡开设了一家烘焙店，标志着其业务版图的进一步扩张。",
+        "en_fact": "Pop Mart has opened a bakery in Singapore, marking a further expansion of its business footprint.",
+        "zh_why": "此举显示了零售品牌通过跨界餐饮进行多元化尝试的趋势。",
+        "en_why": "This move highlights the trend of retail brands diversifying through cross-industry ventures into F&B.",
+        "insight_zh": "",
+        "insight_en": "",
+        "zh_watch": "观察该跨界模式在当地市场的接受度及后续扩张计划。",
+        "en_watch": "Observe the local market reception of this cross-industry model and potential future expansion plans.",
+        "sources": [
+          {
+            "name": "BusinessToday Malaysia",
+            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSVIwRnFBd2VzUkttWE1vZlZnTmIzWndqZDRiUEt5STNTVUY0a2NVRkdGQThKX1ZWd0YwTzlrXzdIRVF0dGdHeldHOFJpLWd2dWY4TG1WVk1aaUxsdlJrTHhqRDN1MFB3TGRDSmFRdUhhUFptaU9TY2NYRFRjQXFMSXNYWjlaRm9EMmpFWGFWWV90XzlIRE9EcGVRSVMtVWpSYTNZ?oc=5"
+          }
+        ]
+      },
+      {
+        "zh_head": "Cracker Barrel剥离Maple Street Biscuit Company",
+        "en_head": "Cracker Barrel divests Maple Street Biscuit Company",
+        "zh_fact": "Cracker Barrel已将Maple Street Biscuit Company出售给肯塔基州的Biscuit Belly，并因此关闭了16家门店。",
+        "en_fact": "Cracker Barrel has divested the Maple Street Biscuit Company to Kentucky-based Biscuit Belly, resulting in the closure of 16 locations.",
+        "zh_why": "此次剥离反映了餐饮企业在当前环境下对资产组合的调整与优化。",
+        "en_why": "The divestment reflects the adjustment and optimization of asset portfolios by restaurant companies in the current environment.",
+        "insight_zh": "",
+        "insight_en": "",
+        "zh_watch": "关注Cracker Barrel后续的资产重组策略及门店运营调整。",
+        "en_watch": "Monitor Cracker Barrel's subsequent asset restructuring strategy and store operational adjustments.",
+        "sources": [
+          {
+            "name": "eciks.org",
+            "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxORmZDWHltb1JJdHRmUEpIck1qWXQxanpIaFFXUG8xTWw1bmJOX0gtZkNUQ25QcXR0aHlxb3h1VnBqZ0xna2o1VXZSLWlmYUI0amUwWWVWZVBEOW9JTkVwaXAyR0RnT0JYVDVtU09MVV9KRG5CbjNFdlI1RHlPWUx4bEhGNDFlQQ?oc=5"
+          }
+        ]
+      }
+    ]
+  }
+]

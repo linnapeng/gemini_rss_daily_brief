@@ -1,64 +1,60 @@
 [
   {
     "date": "2026-07-24",
-    "zh_summary": "今日零售与消费领域动态：POP MART在新加坡开设烘焙店，标志着其跨界创新的新尝试；Godrej Consumer Products向宠物护理业务注资2亿卢比以扩大市场份额；同时，ITC公司通过AI战略布局，目标在2035年实现8万亿卢比的快速消费品市场规模。",
-    "en_summary": "Key retail and consumer updates today: POP MART has launched a bakery in Singapore, marking a new cross-industry innovation; Godrej Consumer Products is investing ₹200 crore into its pet care segment to scale market presence; meanwhile, ITC is leveraging an AI strategy to target an ₹8 lakh crore FMCG market opportunity by 2035.",
+    "zh_summary": "今日零售与消费领域动态：ITC制定了到2035年实现8万亿卢比FMCG业务的战略；Wipro收购了TTK Healthcare的个人护理品牌；Haldiram's在旁遮普邦开设新店以扩大零售足迹。",
+    "en_summary": "Key developments in retail and consumer sectors today: ITC has outlined a strategy to reach an 8 trillion rupee FMCG business by 2035; Wipro has acquired personal care brands from TTK Healthcare; Haldiram's is expanding its retail footprint with a new store in Punjab.",
     "items": [
       {
-        "zh_head": "POP MART在新加坡开设烘焙店",
-        "en_head": "POP MART Launches Bakery in Singapore",
-        "zh_fact": "POP MART在新加坡开设了一家烘焙店，这是其品牌跨界创新的最新举措。",
-        "en_fact": "POP MART has opened a bakery in Singapore, marking a new chapter in the brand's cross-industry innovation.",
-        "zh_why": "此举显示了零售品牌通过多元化经营和生活方式体验来拓展品牌边界的趋势。",
-        "en_why": "This move highlights the trend of retail brands expanding their boundaries through diversification and lifestyle experiences.",
-        "insight_zh": "零售商正通过跨界实体体验来增强品牌粘性。",
-        "insight_en": "Retailers are leveraging cross-industry physical experiences to enhance brand stickiness.",
-        "zh_watch": "关注该模式在其他市场的复制潜力。",
-        "en_watch": "Monitor the potential for replicating this model in other markets.",
+        "zh_head": "ITC制定2035年FMCG业务增长目标",
+        "en_head": "ITC Targets 8 Trillion Rupee FMCG Opportunity by 2035",
+        "zh_fact": "ITC宣布计划通过高端化、数字化渠道和人工智能战略，到2035年将其快速消费品（FMCG）业务规模扩大至8万亿卢比。",
+        "en_fact": "ITC has announced plans to scale its FMCG business to 8 trillion rupees by 2035, leveraging premiumization, digital channels, and AI strategies.",
+        "zh_why": "公司旨在通过技术驱动的创新和市场渗透，在竞争激烈的消费品市场中实现长期增长。",
+        "en_why": "The company aims to achieve long-term growth in the competitive consumer goods market through technology-driven innovation and market penetration.",
+        "insight_zh": "大型消费品企业正日益依赖人工智能和数字化转型来优化供应链并捕捉高端消费需求。",
+        "insight_en": "Large consumer goods firms are increasingly relying on AI and digital transformation to optimize supply chains and capture premium consumer demand.",
+        "zh_watch": "关注ITC在AI应用方面的实际执行效果及其对利润率的影响。",
+        "en_watch": "Monitor the actual execution of ITC's AI initiatives and their impact on profit margins.",
         "sources": [
           {
-            "name": "BusinessToday Malaysia",
-            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSVIwRnFBd2VzUkttWE1vZlZnTmIzWndqZDRiUEt5STNTVUY0a2NVRkdGQThKX1ZWd0YwTzlrXzdIRVF0dGdHeldHOFJpLWd2dWY4TG1WVk1aaUxsdlJrTHhqRDN1MFB3TGRDSmFRdUhhUFptaU9TY2NYRFRjQXFMSXNYWjlaRm9EMmpFWGFWWV90XzlIRE9EcGVRSVMtVWpSYTNZ?oc=5"
+            "name": "India Retailing",
+            "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQOW1LRE81dldUVmkwazJwa0Q5cS1MS0pralNaRkdlSmpjak5GS0FKc2pyRlE3RmZYT1ZfX0pLakhlVGYzRVUweDJtUzAzNjFubXlrZkpRd3FEMTFYcWJwTVFvbFN6MG11S3ZmUFhhcFJKcTk4ejdfS2tvOVVIUG1Bb2RRTHZEM3RvOFM0RFdrS1FHUHltQ094eGVvM2N5S0l2TkR6S2VSQjFjM2I4VHZuSG9XVG5iSEd0Q0JpUWlucFVDZw?oc=5"
           }
         ]
       },
       {
-        "zh_head": "Godrej Consumer Products注资宠物护理业务",
-        "en_head": "Godrej Consumer Products Invests in Pet Care Segment",
-        "zh_fact": "Godrej Consumer Products向其子公司Godrej Pet Care注资2亿卢比，旨在扩大其在快速消费品宠物市场的份额。",
-        "en_fact": "Godrej Consumer Products has infused ₹200 crore into Godrej Pet Care to scale its presence in the FMCG pet segment.",
-        "zh_why": "公司正通过资本投入加速在增长型消费细分市场的布局。",
-        "en_why": "The company is accelerating its footprint in high-growth consumer segments through capital infusion.",
-        "insight_zh": "宠物经济已成为FMCG企业寻求增长的重要赛道。",
-        "insight_en": "The pet economy has become a critical growth avenue for FMCG companies.",
-        "zh_watch": "观察该投资对公司整体利润率的影响。",
-        "en_watch": "Observe the impact of this investment on overall company margins.",
+        "zh_head": "Wipro收购TTK Healthcare旗下品牌",
+        "en_head": "Wipro Acquires TTK Healthcare's Personal Care Brands",
+        "zh_fact": "Wipro以25.6亿卢比的价格收购了TTK Healthcare旗下的EVA和Good Home品牌。",
+        "en_fact": "Wipro has acquired the EVA and Good Home brands from TTK Healthcare for 2.56 billion rupees.",
+        "zh_why": "此次收购旨在增强Wipro在个人护理和家居用品领域的品牌组合。",
+        "en_why": "The acquisition is intended to strengthen Wipro's brand portfolio in the personal care and home care segments.",
+        "insight_zh": "",
+        "insight_en": "",
+        "zh_watch": "观察Wipro如何整合这些新品牌并利用其分销网络提升市场份额。",
+        "en_watch": "Observe how Wipro integrates these new brands and leverages its distribution network to increase market share.",
         "sources": [
           {
-            "name": "Trade Brains",
-            "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNX3o4bTNlcGN2Sm54WVJCazlxNS1WNVNEcDAtd0pLQnFjaUx6MWVfbm0yeGNqY1dEeVNuLWp0VHNOODFmX3FFazBqbTFwWmdWVHg2V0pKLXRzNFoxQTVXeWpXZi1tSVZHekRtalJPeGtiQ0JLakQ1ampxWFB3VFVyZjZKUEhFUjVqYW5PaWpMT203SWFLdmJGMlpjcFhiaHhtajQ5ZWQzU0lPaUNS?oc=5"
+            "name": "The Economic Times",
+            "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUDJsVHVWcDUwT0p2R1VQMkU3VFk1M3J2YUN5ZGQ0TFo0MzRTZzBvem5YMVV3XzNkUGs5N0VMTHFHb2NwNkRXcEVkWERBTm93blBzRGhrWWR5X3BNaUZoUElfQ28tal9ZRjZjRktEY1pfdUlWbzZzbUpHRUtVOVpadGtrWWxqWlVFMkdFbHRJMS0xQkc2c3Z1MWhyX21mM2phckNTdzdzNUFLVk10WGxYUzdkX1ByaEo2b2dOSDlvc2w3clJHUzh4SDFUVGdGZnBG0gHWAUFVX3lxTFBNUmJ2WUs5SlRVajFUVVFPYXpBNFF3U20tR0Y5VTNLTl9MUHVEQ1dCOE9Hd04zdHhoblplYWtHV3FPbVp3cXhJV1VOa0tkZ1ZiVHVzRXFOUXFhMUhTRjJFdDhJd2NCb2ZNMHd6TzZCSVF4YlAzT0tfS0hqMlctTl81YTVUZlFvdXNMMWJ4NERrMjBUVnZtQmdvTzNGNnlvQjhVX2hBWlllaURaNXBzVlBBd01sYmh1SE1EeWJCWFh0TlJvYklpWTRTbzRWTEt1eVhFaURHQUE?oc=5"
           }
         ]
       },
       {
-        "zh_head": "ITC利用AI战略布局2035年FMCG市场",
-        "en_head": "ITC Targets 2035 FMCG Market with AI Strategy",
-        "zh_fact": "ITC公司宣布计划利用AI战略，目标在2035年占据8万亿卢比的快速消费品市场份额。",
-        "en_fact": "ITC has announced plans to leverage an AI strategy to target an ₹8 lakh crore addressable FMCG market by 2035.",
-        "zh_why": "公司旨在通过技术赋能应对市场竞争并捕捉年轻消费群体的需求。",
-        "en_why": "The company aims to use technology to navigate market competition and capture the needs of the youth demographic.",
-        "insight_zh": "数字化转型正成为大型消费品公司实现长期增长的核心驱动力。",
-        "insight_en": "Digital transformation is becoming a core driver for long-term growth among major consumer goods companies.",
-        "zh_watch": "关注AI在供应链和产品开发中的实际落地效果。",
-        "en_watch": "Monitor the practical implementation of AI in supply chain and product development.",
+        "zh_head": "Haldiram's在旁遮普邦扩张零售网络",
+        "en_head": "Haldiram's Expands Retail Presence in Punjab",
+        "zh_fact": "知名食品零售商Haldiram's在旁遮普邦的古尔达斯普尔（Gurdaspur）开设了新的门店。",
+        "en_fact": "Prominent food retailer Haldiram's has opened a new store in Gurdaspur, Punjab.",
+        "zh_why": "此举是公司持续扩大其在印度北部零售版图战略的一部分。",
+        "en_why": "This move is part of the company's ongoing strategy to expand its retail footprint in Northern India.",
+        "insight_zh": "",
+        "insight_en": "",
+        "zh_watch": "关注该品牌在二三线城市扩张的门店运营效率。",
+        "en_watch": "Monitor the operational efficiency of the brand's expansion into Tier-2 and Tier-3 cities.",
         "sources": [
           {
-            "name": "Whalesbook",
-            "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNdnZjODFiZ1BFam9XcVd1d2gyaXRhSmdrV0QxMDZyN0ZzbmFKbkh0cjNaNVM4ZmxXNW1ZT25vRk1IN2NJLXUtc2U2TC1EN0swVlJOcUl1bWpUYmRWdVVYUjRHNzFsbWdkdEVHZXVNeE05OWxnV0JnY2tTUS04RnQ5OXBJOThOSVVDTlk3d3dHeW5nbGpuOXg0ZzlZdlBPVTR4QWVDOGdVUWlEaEFhRm56cFNiUzh1MTBOTzF6QXN1c3Q1RHpMMC14em1CZkFzVVU4OVlpZXZtMFduc3RBMGxQSTdfQTRjRGl4T0hNVg?oc=5"
-          },
-          {
-            "name": "financialexpress.com",
-            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNDJTcUNZMExDOVI2dEYzaFpRVFRWREczWENRT1d2SHN4TF9EaC1INmVpaTRHV1lZTGZ1a3otcl9ra1RRZDh3dWtoXzIxRTNCQ2dpd3ZlUlEwcjBDX3ptRUg2c21aQnJZT0I4OEJWeVZNUG1kZm5keThyOGQ2LUUtRlk4ZXhDU1lPSXhXdVBsZGt0QmZGU1ZGcWt0QWVGd3p1RUZKa0xjRk3SAa8BQVVfeXFMT0pmcnhhTHJEaWZKbjNqcmN2cVphZnZHUHFYcjFWc1hhcjBXZzlrX2t2Y0JmTk9vdjhzNmJ5elhQM0ZQWVlNOVlnUGVnTC1tN2hzZVpkSmk1QXVYV01PNGw5V2ZIOGlBb1B5Z3lkd0FUczJNNGdlWXlHdTV5akI0TVNyYkV4Yll6cjFqaThYVTQ2YmlSUVZHSE5YZkQ3VkR1ZXowUWRIUk9KRmRpRVlKUQ?oc=5"
+            "name": "India Retailing",
+            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOOXNaQkRmOFpaNmwxRXBnUlRIZ1pKSjE4OThoTUlucno4S2RZM2hPR284MXBfNTFBOHRJWklXX2xtVDZRejdyRTE1d3U0V1puT3hVN3NOYzRQSERYdFVNSjNITkZIV0hoVVRjZldldGJJNi1RM2VmZkhZbGFwUEFLZ1F1TFRXZkhrb3VBZUlncUNrZWRLQ1ZB?oc=5"
           }
         ]
       }

@@ -1,38 +1,20 @@
 [
   {
     "date": "2026-07-24",
-    "zh_summary": "今日零售与餐饮行业动态包括：星巴克在墨西哥市场面临挑战；泡泡玛特在新加坡开设烘焙店；Cracker Barrel剥离Maple Street Biscuit Company并关闭16家门店。",
-    "en_summary": "Today's retail and F&B highlights include: Starbucks facing challenges in the Mexican market; Pop Mart launching a bakery in Singapore; and Cracker Barrel divesting the Maple Street Biscuit Company while closing 16 locations.",
+    "zh_summary": "今日零售与消费领域动态：POP MART在新加坡开设烘焙店，标志着其跨界创新的新尝试；Godrej Consumer Products向宠物护理业务注资2亿卢比以扩大市场份额；同时，ITC公司通过AI战略布局，目标在2035年实现8万亿卢比的快速消费品市场规模。",
+    "en_summary": "Key retail and consumer updates today: POP MART has launched a bakery in Singapore, marking a new cross-industry innovation; Godrej Consumer Products is investing ₹200 crore into its pet care segment to scale market presence; meanwhile, ITC is leveraging an AI strategy to target an ₹8 lakh crore FMCG market opportunity by 2035.",
     "items": [
       {
-        "zh_head": "星巴克在墨西哥市场面临挑战",
-        "en_head": "Starbucks faces challenges in the Mexican market",
-        "zh_fact": "有报道质疑墨西哥市场是否正成为Alsea运营的星巴克业务的新难题。",
-        "en_fact": "Reports are questioning whether the Mexican market is becoming a fresh headache for Alsea's Starbucks business.",
-        "zh_why": "该市场是星巴克的重要运营区域，任何经营压力都可能影响其区域增长。",
-        "en_why": "As a key operating region for Starbucks, any operational pressure could impact regional growth.",
-        "insight_zh": "",
-        "insight_en": "",
-        "zh_watch": "关注Alsea在墨西哥的后续运营表现及市场反馈。",
-        "en_watch": "Monitor Alsea's subsequent operational performance and market feedback in Mexico.",
-        "sources": [
-          {
-            "name": "World Coffee Portal",
-            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUG5lVW1nRTFhUFRySmo0WHVXRzFDSWttRW1JbUpwVVN4OEhxZHNpb081UVRTUHNadlZDZU0xbmJoTlptYzY1dlVFRzU3T1VCMERVb3gwSEk0TnVNd3VneXZQU1pmVms3ZThpSVA4NzY2Q3F5RXZUOExZbUdkS203VnNQdk5Qcml3X3RwUnhqX3pUZXNMdWVMNjNvdWR0blI4QVR6S3RoUTY?oc=5"
-          }
-        ]
-      },
-      {
-        "zh_head": "泡泡玛特在新加坡开设烘焙店",
-        "en_head": "Pop Mart opens a bakery in Singapore",
-        "zh_fact": "泡泡玛特在新加坡开设了一家烘焙店，标志着其业务版图的进一步扩张。",
-        "en_fact": "Pop Mart has opened a bakery in Singapore, marking a further expansion of its business footprint.",
-        "zh_why": "此举显示了零售品牌通过跨界餐饮进行多元化尝试的趋势。",
-        "en_why": "This move highlights the trend of retail brands diversifying through cross-industry ventures into F&B.",
-        "insight_zh": "",
-        "insight_en": "",
-        "zh_watch": "观察该跨界模式在当地市场的接受度及后续扩张计划。",
-        "en_watch": "Observe the local market reception of this cross-industry model and potential future expansion plans.",
+        "zh_head": "POP MART在新加坡开设烘焙店",
+        "en_head": "POP MART Launches Bakery in Singapore",
+        "zh_fact": "POP MART在新加坡开设了一家烘焙店，这是其品牌跨界创新的最新举措。",
+        "en_fact": "POP MART has opened a bakery in Singapore, marking a new chapter in the brand's cross-industry innovation.",
+        "zh_why": "此举显示了零售品牌通过多元化经营和生活方式体验来拓展品牌边界的趋势。",
+        "en_why": "This move highlights the trend of retail brands expanding their boundaries through diversification and lifestyle experiences.",
+        "insight_zh": "零售商正通过跨界实体体验来增强品牌粘性。",
+        "insight_en": "Retailers are leveraging cross-industry physical experiences to enhance brand stickiness.",
+        "zh_watch": "关注该模式在其他市场的复制潜力。",
+        "en_watch": "Monitor the potential for replicating this model in other markets.",
         "sources": [
           {
             "name": "BusinessToday Malaysia",
@@ -41,20 +23,42 @@
         ]
       },
       {
-        "zh_head": "Cracker Barrel剥离Maple Street Biscuit Company",
-        "en_head": "Cracker Barrel divests Maple Street Biscuit Company",
-        "zh_fact": "Cracker Barrel已将Maple Street Biscuit Company出售给肯塔基州的Biscuit Belly，并因此关闭了16家门店。",
-        "en_fact": "Cracker Barrel has divested the Maple Street Biscuit Company to Kentucky-based Biscuit Belly, resulting in the closure of 16 locations.",
-        "zh_why": "此次剥离反映了餐饮企业在当前环境下对资产组合的调整与优化。",
-        "en_why": "The divestment reflects the adjustment and optimization of asset portfolios by restaurant companies in the current environment.",
-        "insight_zh": "",
-        "insight_en": "",
-        "zh_watch": "关注Cracker Barrel后续的资产重组策略及门店运营调整。",
-        "en_watch": "Monitor Cracker Barrel's subsequent asset restructuring strategy and store operational adjustments.",
+        "zh_head": "Godrej Consumer Products注资宠物护理业务",
+        "en_head": "Godrej Consumer Products Invests in Pet Care Segment",
+        "zh_fact": "Godrej Consumer Products向其子公司Godrej Pet Care注资2亿卢比，旨在扩大其在快速消费品宠物市场的份额。",
+        "en_fact": "Godrej Consumer Products has infused ₹200 crore into Godrej Pet Care to scale its presence in the FMCG pet segment.",
+        "zh_why": "公司正通过资本投入加速在增长型消费细分市场的布局。",
+        "en_why": "The company is accelerating its footprint in high-growth consumer segments through capital infusion.",
+        "insight_zh": "宠物经济已成为FMCG企业寻求增长的重要赛道。",
+        "insight_en": "The pet economy has become a critical growth avenue for FMCG companies.",
+        "zh_watch": "观察该投资对公司整体利润率的影响。",
+        "en_watch": "Observe the impact of this investment on overall company margins.",
         "sources": [
           {
-            "name": "eciks.org",
-            "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxORmZDWHltb1JJdHRmUEpIck1qWXQxanpIaFFXUG8xTWw1bmJOX0gtZkNUQ25QcXR0aHlxb3h1VnBqZ0xna2o1VXZSLWlmYUI0amUwWWVWZVBEOW9JTkVwaXAyR0RnT0JYVDVtU09MVV9KRG5CbjNFdlI1RHlPWUx4bEhGNDFlQQ?oc=5"
+            "name": "Trade Brains",
+            "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNX3o4bTNlcGN2Sm54WVJCazlxNS1WNVNEcDAtd0pLQnFjaUx6MWVfbm0yeGNqY1dEeVNuLWp0VHNOODFmX3FFazBqbTFwWmdWVHg2V0pKLXRzNFoxQTVXeWpXZi1tSVZHekRtalJPeGtiQ0JLakQ1ampxWFB3VFVyZjZKUEhFUjVqYW5PaWpMT203SWFLdmJGMlpjcFhiaHhtajQ5ZWQzU0lPaUNS?oc=5"
+          }
+        ]
+      },
+      {
+        "zh_head": "ITC利用AI战略布局2035年FMCG市场",
+        "en_head": "ITC Targets 2035 FMCG Market with AI Strategy",
+        "zh_fact": "ITC公司宣布计划利用AI战略，目标在2035年占据8万亿卢比的快速消费品市场份额。",
+        "en_fact": "ITC has announced plans to leverage an AI strategy to target an ₹8 lakh crore addressable FMCG market by 2035.",
+        "zh_why": "公司旨在通过技术赋能应对市场竞争并捕捉年轻消费群体的需求。",
+        "en_why": "The company aims to use technology to navigate market competition and capture the needs of the youth demographic.",
+        "insight_zh": "数字化转型正成为大型消费品公司实现长期增长的核心驱动力。",
+        "insight_en": "Digital transformation is becoming a core driver for long-term growth among major consumer goods companies.",
+        "zh_watch": "关注AI在供应链和产品开发中的实际落地效果。",
+        "en_watch": "Monitor the practical implementation of AI in supply chain and product development.",
+        "sources": [
+          {
+            "name": "Whalesbook",
+            "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNdnZjODFiZ1BFam9XcVd1d2gyaXRhSmdrV0QxMDZyN0ZzbmFKbkh0cjNaNVM4ZmxXNW1ZT25vRk1IN2NJLXUtc2U2TC1EN0swVlJOcUl1bWpUYmRWdVVYUjRHNzFsbWdkdEVHZXVNeE05OWxnV0JnY2tTUS04RnQ5OXBJOThOSVVDTlk3d3dHeW5nbGpuOXg0ZzlZdlBPVTR4QWVDOGdVUWlEaEFhRm56cFNiUzh1MTBOTzF6QXN1c3Q1RHpMMC14em1CZkFzVVU4OVlpZXZtMFduc3RBMGxQSTdfQTRjRGl4T0hNVg?oc=5"
+          },
+          {
+            "name": "financialexpress.com",
+            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNDJTcUNZMExDOVI2dEYzaFpRVFRWREczWENRT1d2SHN4TF9EaC1INmVpaTRHV1lZTGZ1a3otcl9ra1RRZDh3dWtoXzIxRTNCQ2dpd3ZlUlEwcjBDX3ptRUg2c21aQnJZT0I4OEJWeVZNUG1kZm5keThyOGQ2LUUtRlk4ZXhDU1lPSXhXdVBsZGt0QmZGU1ZGcWt0QWVGd3p1RUZKa0xjRk3SAa8BQVVfeXFMT0pmcnhhTHJEaWZKbjNqcmN2cVphZnZHUHFYcjFWc1hhcjBXZzlrX2t2Y0JmTk9vdjhzNmJ5elhQM0ZQWVlNOVlnUGVnTC1tN2hzZVpkSmk1QXVYV01PNGw5V2ZIOGlBb1B5Z3lkd0FUczJNNGdlWXlHdTV5akI0TVNyYkV4Yll6cjFqaThYVTQ2YmlSUVZHSE5YZkQ3VkR1ZXowUWRIUk9KRmRpRVlKUQ?oc=5"
           }
         ]
       }

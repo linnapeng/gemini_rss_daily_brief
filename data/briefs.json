@@ -1,5 +1,66 @@
 [
   {
+    "date": "2026-07-25",
+    "zh_summary": "今日零售与餐饮行业动态：星巴克计划重新推出“独角兽星冰乐”；Cafe Rio在犹他州推出创新“炸薯条卷饼”；塔塔消费品公司公布第一季度财报，营收与利润双双增长。",
+    "en_summary": "Today's retail and F&B updates: Starbucks plans to bring back the 'Unicorn Frappuccino'; Cafe Rio launches an innovative 'fry-stuffed burrito' in Utah; Tata Consumer Products reports Q1 financial growth in both revenue and profit.",
+    "items": [
+      {
+        "zh_head": "星巴克计划重新推出“独角兽星冰乐”",
+        "en_head": "Starbucks Plans to Bring Back the 'Unicorn Frappuccino'",
+        "zh_fact": "尽管该产品首次推出时曾引发门店运营混乱，星巴克仍决定重新上架“独角兽星冰乐”。",
+        "en_fact": "Starbucks is bringing back the 'Unicorn Frappuccino' despite the operational chaos it caused during its initial launch.",
+        "zh_why": "此举旨在利用该产品的社交媒体热度，尽管其曾给门店带来巨大的制作压力。",
+        "en_why": "The move aims to capitalize on the product's social media popularity, despite the significant operational strain it previously placed on stores.",
+        "insight_zh": "餐饮品牌在追求社交媒体传播效应时，需平衡产品创新与门店运营效率。",
+        "insight_en": "F&B brands must balance product innovation with operational efficiency when pursuing social media viral effects.",
+        "zh_watch": "关注该产品回归后的门店运营表现及消费者反馈。",
+        "en_watch": "Monitor store operational performance and consumer feedback following the product's return.",
+        "sources": [
+          {
+            "name": "inc.com",
+            "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSi1oWTlIMGdEQWlKQ0UyT1VnZllRWGpUa1ZqZmZtZ2pJdjRnQ25aS1N4MEtsXzdKcUkySFdJRGswTV9ndHVRTHBpOWVjNW91ZWNLcEtieXN1VUdwVGw0enRDYzNHQmNaRm1DOGdxVDlyQ2phUFlNZVF2NGI2NDc1WjlnSDFCUlF6VkFhV1U3MlVzOFNGa0d3Q1FZUTdhNFNaSmtNczloZVZCYWN1c0tRVjVtVWR2SDNydnd6X0N4QlNOOEd3bVlwYnF0aDM?oc=5"
+          }
+        ]
+      },
+      {
+        "zh_head": "Cafe Rio推出犹他州限定“炸薯条卷饼”",
+        "en_head": "Cafe Rio Launches Utah-Exclusive 'Fry-Stuffed Burrito'",
+        "zh_fact": "Cafe Rio在犹他州推出了一款内含炸薯条的卷饼，并搭配特制炸薯条酱，旨在庆祝当地饮食文化。",
+        "en_fact": "Cafe Rio introduced a fry-stuffed burrito paired with fry sauce in Utah to celebrate local food culture.",
+        "zh_why": "通过结合当地标志性口味，品牌试图增强区域市场的消费者参与度。",
+        "en_why": "By incorporating iconic local flavors, the brand aims to increase consumer engagement in the regional market.",
+        "insight_zh": "区域性限定产品是餐饮连锁强化品牌在地化认同的有效手段。",
+        "insight_en": "Regionally exclusive products are an effective way for restaurant chains to strengthen brand localization and identity.",
+        "zh_watch": "观察此类区域创新是否会扩展至其他市场。",
+        "en_watch": "Observe whether such regional innovations expand to other markets.",
+        "sources": [
+          {
+            "name": "ABC4 Utah",
+            "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSUwwQUEteG5jN1VWZW5pTDY3aU1GakY0cmNIM3Y4YkQzSzZXdnBPVEJTbzJMeS1ETGttLVk4SEt4bjBUZDUxYzkxYmVUWkR6Mjl2dXo0d2VYbTVxUnFZVWVUMlJmMXFtQnZZRVBJdWJRNVVYZDJiaXhIMERIT0ZjaV9jSljSAYoBQVVfeXFMTlpVc0JTbWNWSzBScW5wUFJHRVdTT1FwTENabW5oZmlLU0wtRXJ4Z21NaEo1c253UElnSFNLVlU5aXNSNTdDN1pfT3BaSU9EdENWaG9fV3o1UWlyZ1U3WlV3NzJDZWpDdzRzRVRGdGZ2c0p3TUh1WmVhUlhScHdpUkwySVpFLWdDaGVR?oc=5"
+          }
+        ]
+      },
+      {
+        "zh_head": "塔塔消费品公司第一季度业绩增长",
+        "en_head": "Tata Consumer Products Reports Q1 Growth",
+        "zh_fact": "塔塔消费品公司2027财年第一季度财报显示，公司营收同比增长12%，净利润同比增长28%，达到42.7亿卢比。",
+        "en_fact": "Tata Consumer Products' Q1 FY27 results show a 12% year-over-year revenue increase and a 28% rise in net profit to ₹4.27 billion.",
+        "zh_why": "尽管面临利润率压力，公司整体财务表现依然强劲。",
+        "en_why": "Despite facing margin pressures, the company's overall financial performance remains robust.",
+        "insight_zh": "在通胀环境下，消费品巨头通过营收增长抵消成本压力是关键策略。",
+        "insight_en": "In an inflationary environment, revenue growth is a key strategy for consumer goods giants to offset cost pressures.",
+        "zh_watch": "关注后续季度中利润率压力的缓解情况。",
+        "en_watch": "Monitor the easing of margin pressures in subsequent quarters.",
+        "sources": [
+          {
+            "name": "The Economic Times",
+            "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPT1BNQjFfbGFGd3VzS1F2YTlnRURvbWstTE95WFQ3cDNObm5ZM3VVNUQ1MU1BQTVYLTVLQzhRYVRXTWhqb0pNZlU5azgtMzVndkJIRlM4d0pra0ZoYjBvd3M1RzVpaU9Yd2pvQ1BsQUl5YXd2cGJuNUpLNm1qdFRiY1NXTEJTaHBWTTVYMm9pMTg3N0stOTdodnB3LTdKV29Lc2k5ZElWb040MHFtUlo3TTgxM3BhUGRWTUFIcmVBLU9Yc05UVU16NS1MWFVCMWNaSGE4T1FpNkpyMlVkZjFueGRnT3Y1NlQ5U250etIB8gFBVV95cUxNa2N6MHlTTDNsdjVsUXZ1blE2VjlYdE9zeHBoT0N2emYzZU9COU9XUXJya3RqRFJ4NGt1Q3NkdEltRVIwTDJUbTJCdmhaSlJsWk5CWFB6R2w1YmpsOGtxTHU0MHphbXFHY0FxWnBNSGRBNDl2NTd2aWpfdlFkNWRIU3ZFQjhrczh1ejdSYVRKOUZGNVkxX2NVU1VwNjV6ZGhBWnlyMUtWZXdiTjRHMTZhOXJXSkVlQjQzbXRMMENqUkl6SjdzeWpHZ0dFbVBSeFptZGNjejZRTjBQUmZBY2dWQ25xOXFWdEM4c1dMc3NVYWxWUQ?oc=5"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "date": "2026-07-24",
     "zh_summary": "今日零售与消费领域动态：ITC制定了到2035年实现8万亿卢比FMCG业务的战略；Wipro收购了TTK Healthcare的个人护理品牌；Haldiram's在旁遮普邦开设新店以扩大零售足迹。",
     "en_summary": "Key developments in retail and consumer sectors today: ITC has outlined a strategy to reach an 8 trillion rupee FMCG business by 2035; Wipro has acquired personal care brands from TTK Healthcare; Haldiram's is expanding its retail footprint with a new store in Punjab.",

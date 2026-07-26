@@ -1,5 +1,66 @@
 [
   {
+    "date": "2026-07-26",
+    "zh_summary": "本简报涵盖了食品饮料行业的最新动态，包括Grupo Bimbo的利润增长、Campbell's的新品发布以及私募股权对食品企业的价值提升策略。",
+    "en_summary": "This brief covers recent developments in the food and beverage industry, including margin expansion at Grupo Bimbo, new product launches by Campbell's, and private equity strategies to boost corporate value in the sector.",
+    "items": [
+      {
+        "zh_head": "Grupo Bimbo 2026年第二季度利润率加速增长",
+        "en_head": "Grupo Bimbo Q2 2026 margin expansion accelerates",
+        "zh_fact": "Grupo Bimbo公布了2026年第二季度业绩，显示其利润率扩张速度加快。",
+        "en_fact": "Grupo Bimbo reported its Q2 2026 results, highlighting an acceleration in margin expansion.",
+        "zh_why": "该数据反映了公司在当前市场环境下提升盈利能力的运营效率。",
+        "en_why": "The data reflects the company's operational efficiency in improving profitability within the current market environment.",
+        "insight_zh": "食品巨头正通过优化运营来应对成本压力。",
+        "insight_en": "Food giants are optimizing operations to navigate cost pressures.",
+        "zh_watch": "关注其后续季度在原材料成本波动下的利润维持能力。",
+        "en_watch": "Monitor its ability to maintain margins amidst fluctuating raw material costs in subsequent quarters.",
+        "sources": [
+          {
+            "name": "Investing.com Australia",
+            "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWWhhNDUxRVZuRmljMFQzZDV3RnlneTB6UUpIUHA2SlJ4WmFUam9SUkdjOVN4djUtaTFRakpqckEwX2NpLUxGekNWVDFOU1M4RmlLYml1czdaNHkyeGY5OFl1alZycjhnd2xQaEtNSGR6Ni1xNEFPZUE1ODVwVnEwaElQQnBZYWY3U3B0MFBiUTR2cDI3dHh0b3JINUd0cUdHNDM4eE9aNmowdGctaW40LQ?oc=5"
+          }
+        ]
+      },
+      {
+        "zh_head": "Campbell's推出新款蛋白汤品",
+        "en_head": "Campbell's launches new protein soups",
+        "zh_fact": "Campbell's（CPB）近期推出了新款蛋白汤产品，市场正评估其对公司业绩的潜在推动作用。",
+        "en_fact": "Campbell's (CPB) has launched new protein soups, with the market evaluating their potential impact on company performance.",
+        "zh_why": "此举旨在通过产品创新吸引注重健康和营养的消费者群体。",
+        "en_why": "This move aims to attract health-conscious consumers through product innovation.",
+        "insight_zh": "传统食品品牌正通过功能性食品创新寻求增长点。",
+        "insight_en": "Legacy food brands are seeking growth through functional food innovation.",
+        "zh_watch": "观察该系列产品在市场上的销售表现及对整体营收的贡献。",
+        "en_watch": "Observe the sales performance of this product line and its contribution to overall revenue.",
+        "sources": [
+          {
+            "name": "simplywall.st",
+            "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNOWhiS1F3VTI2UGJjSlAzUXlNSkFScHBxUDk1dUVfbFFIWVlSMGh3Nm9JVzBlU1RabEJxbmZXbTNKZnhnUk9kR2JuZU9UdURPSXBLYkMxamxaMjF5RmRfWk42TG14bk9fNlJBZFZPMENJTm50NlEyUF9ZV2J4bWo0ZTY0R2hnMURjUDRhLWF6b09EbVhIemhLMWNrS29tUUVnaVZKdHhPWWRrY0w5WjFOaWIybVl1d3JZVHhVb09vZ1lEajVKQ3U1ZWtfTGoyeS1DTU90Sldub9IB3AFBVV95cUxQTlJYUmxsUkxmTEdvMkd0dU1Jb1BTcVloUHZvbGFOUERRalYwdjNVTkZSY01tOHdxQlAzdlJpZVpwTWs5dW1qbzJOaWhWOWltT3lxMEFZN3FhWDEzMEZUWTFpMGhVYjBnWC1yaWh5Nmx4dnk4VGVhaHlUU0hLTmlqTXE2ZEZmOE1wVHhpRE1FWEdXTnRBTlFHVXFqZk9tZkJPTUJGSDRSaGx1OXdVdVpiY1pPclV1OUZpYnRtWkdIWkVIekFZV05xWUlxWms1MnBQcUpDYko4U2dfaUZR?oc=5"
+          }
+        ]
+      },
+      {
+        "zh_head": "私募股权基金寻求提升食品饮料企业价值",
+        "en_head": "Private equity funds seek to boost value of food and beverage companies",
+        "zh_fact": "报道指出，由私募股权基金（PEF）持有的食品和饮料公司正在采取措施以提升其企业价值。",
+        "en_fact": "Reports indicate that food and beverage companies owned by private equity funds (PEFs) are implementing measures to boost their corporate value.",
+        "zh_why": "私募股权所有者通常通过重组和效率提升来优化投资组合表现。",
+        "en_why": "Private equity owners typically optimize portfolio performance through restructuring and efficiency improvements.",
+        "insight_zh": "资本运作正在加速食品饮料行业的整合与转型。",
+        "insight_en": "Capital operations are accelerating consolidation and transformation in the food and beverage industry.",
+        "zh_watch": "关注此类企业在未来可能出现的并购或业务剥离动作。",
+        "en_watch": "Watch for potential M&A or divestiture activities from these companies in the future.",
+        "sources": [
+          {
+            "name": "매일경제",
+            "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ydDNzdE9pMkVHWURocTBJVDV2dFVtUXUyWllqMnJoWU1IMnhoaWRUS2l2dWJaRUx1alhObzVTYXN3LVhsc0tZRlB1ZHZ0RnpxSVE?oc=5"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "date": "2026-07-25",
     "zh_summary": "今日零售与餐饮行业动态：星巴克计划重新推出“独角兽星冰乐”；Cafe Rio在犹他州推出创新“炸薯条卷饼”；塔塔消费品公司公布第一季度财报，营收与利润双双增长。",
     "en_summary": "Today's retail and F&B updates: Starbucks plans to bring back the 'Unicorn Frappuccino'; Cafe Rio launches an innovative 'fry-stuffed burrito' in Utah; Tata Consumer Products reports Q1 financial growth in both revenue and profit.",

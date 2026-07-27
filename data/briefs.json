@@ -1,5 +1,70 @@
 [
   {
+    "date": "2026-07-27",
+    "zh_summary": "今日零售与餐饮行业动态包括：星巴克在日本推出针对年轻消费者的轻盈咖啡饮品，同时其韩国市场的Aerocano产品在五个月内销量突破550万杯；Cafe Rio推出新款犹他手持卷饼；餐饮连锁Sapphire Foods计划新开60至80家KFC门店，并放缓必胜客的扩张步伐。",
+    "en_summary": "Today's retail and F&B updates include: Starbucks Japan launching lighter coffee drinks for younger consumers, while its Korean market reports over 5.5 million cups of Aerocano sold in five months; Cafe Rio introduces a new Utah handheld burrito; and restaurant chain Sapphire Foods targets 60 to 80 new KFC stores while moderating Pizza Hut growth.",
+    "items": [
+      {
+        "zh_head": "星巴克在日本推出轻盈咖啡饮品，韩国Aerocano销量强劲",
+        "en_head": "Starbucks Japan launches lighter coffee drinks; Korean Aerocano sales hit milestone",
+        "zh_fact": "星巴克在日本市场推出针对年轻消费者的轻盈咖啡饮品。与此同时，星巴克韩国的Aerocano产品在上市五个月内销量已超过550万杯。",
+        "en_fact": "Starbucks Japan has launched lighter coffee drinks targeting younger consumers. Meanwhile, Starbucks Korea's Aerocano has surpassed 5.5 million cups sold within five months of its release.",
+        "zh_why": "品牌正通过产品创新和本地化策略，以适应不同市场消费者的口味偏好与需求。",
+        "en_why": "The brand is utilizing product innovation and localization strategies to cater to the specific taste preferences and demands of consumers in different markets.",
+        "insight_zh": "咖啡连锁巨头正通过细分产品线和本地化爆款策略，在成熟市场寻求增长动力。",
+        "insight_en": "Coffee giants are seeking growth in mature markets through segmented product lines and localized hit products.",
+        "zh_watch": "星巴克即将公布的财报表现。",
+        "en_watch": "Starbucks' upcoming quarterly financial results.",
+        "sources": [
+          {
+            "name": "QSR Media Asia",
+            "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSy1ZTGhxdjd4cUZhZGFWaWRjeE0wWS1ONVJmN09QUFJhcEFydnBVbFJjVlpkUFY3Tl9ZOGVHTEVScl8zMEFXMlkyaGVMQUdWU1VUc3N1ZDk0UWdIYnhfOG14VHNHckIyamdZcW1RUEp1TW9HWms4dnVoR1UtclFSZVV6SWpGRkhDTHNNLVdaREw4UDFLdnlrd2pHcEp4UkhZNFJJSHFPZ3A4OUJR?oc=5"
+          },
+          {
+            "name": "Koreabizwire",
+            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVlMwMl9TS1gxRzM5dEQtOTRLVFlHV0JhQ1dZdGphUlFRVk1MSkNPbnNIMUlVNHBzTWFKSHlIWkZRRTFFcExWX3FIME4wc3czcHppOVRPeW5ZWUZzVVVZTzJIU2lObGJTRks2TTJQX081TE5FZWVaeThXREduMXVuTFRQRlJmN2Rqd09RYUE5VEdzT1pFa0RlYw?oc=5"
+          }
+        ]
+      },
+      {
+        "zh_head": "Cafe Rio推出新款犹他手持卷饼",
+        "en_head": "Cafe Rio launches new Utah handheld burrito",
+        "zh_fact": "餐饮品牌Cafe Rio正式推出其“犹他手持卷饼”（Utah Handheld Burrito）。",
+        "en_fact": "Restaurant brand Cafe Rio has officially launched its \"Utah Handheld Burrito.\"",
+        "zh_why": "此举旨在通过推出便携式新品，提升品牌在快餐市场的竞争力。",
+        "en_why": "The launch aims to enhance the brand's competitiveness in the quick-service market by introducing a portable new product.",
+        "insight_zh": "快餐连锁通过推出便携式产品以适应现代消费者快节奏的用餐习惯。",
+        "insight_en": "Fast-food chains are introducing portable items to accommodate the fast-paced dining habits of modern consumers.",
+        "zh_watch": "该新品的市场反馈及对销售额的拉动作用。",
+        "en_watch": "Market reception of the new product and its impact on sales.",
+        "sources": [
+          {
+            "name": "QSR Magazine",
+            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1JZjNzM2NUWlhuS1M3X01ibHVyN2xiTkZYcTBab1pHX2huQ3ZZNzNfZGxIN3FNa3NKQ2VkOVpFbnRKNjJvMFVDYWNILUhsOTlGb284dGhFNWhJbzFwSjYtLWtta3ZveV9Jb2xsbEZydHV6ZmJCSTNxUXljYWNpQQ?oc=5"
+          }
+        ]
+      },
+      {
+        "zh_head": "Sapphire Foods调整扩张策略，聚焦KFC门店增长",
+        "en_head": "Sapphire Foods adjusts expansion strategy, focusing on KFC growth",
+        "zh_fact": "Sapphire Foods计划新开60至80家KFC门店，同时将放缓必胜客（Pizza Hut）的扩张步伐。",
+        "en_fact": "Sapphire Foods is targeting the opening of 60 to 80 new KFC stores while moderating the expansion of Pizza Hut.",
+        "zh_why": "公司正在根据各品牌的市场表现优化其门店组合与投资优先级。",
+        "en_why": "The company is optimizing its store portfolio and investment priorities based on the market performance of each brand.",
+        "insight_zh": "多品牌运营商通过资源重分配，优先支持高增长潜力的品牌。",
+        "insight_en": "Multi-brand operators are reallocating resources to prioritize brands with higher growth potential.",
+        "zh_watch": "必胜客后续的运营调整及KFC的开店进度。",
+        "en_watch": "Subsequent operational adjustments for Pizza Hut and the progress of KFC store openings.",
+        "sources": [
+          {
+            "name": "Sahi",
+            "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcmJTYWh4SHd0VWJkVDEyQVJuOVBJb3d1cGdyQkNJQjRud1BXSkpFT1JiMGNVMTNCU2szcThGU3RFTkV3RDhEWUdhSFNKUnp4ejJoaTh1a3J3b2tCOEc2RkhuZHluWW5aLS1Ba25kcjhFLUM2UnlsOWdrbG5LbW9HWWJjdTFkaGNPSVprWmxoRlpSZ18tX3VMWkltOHY3VDlvMDhScFlvSnd5NTdESDF1OUtzMA?oc=5"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "date": "2026-07-26",
     "zh_summary": "本简报涵盖了食品饮料行业的最新动态，包括Grupo Bimbo的利润增长、Campbell's的新品发布以及私募股权对食品企业的价值提升策略。",
     "en_summary": "This brief covers recent developments in the food and beverage industry, including margin expansion at Grupo Bimbo, new product launches by Campbell's, and private equity strategies to boost corporate value in the sector.",

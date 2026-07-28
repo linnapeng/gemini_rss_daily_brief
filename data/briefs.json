@@ -1,5 +1,74 @@
 [
   {
+    "date": "2026-07-28",
+    "zh_summary": "今日简报涵盖星巴克测试气泡饮品、餐饮业推陈出新以及零售业的并购与扩张动态。",
+    "en_summary": "Today's brief covers Starbucks testing sparkling beverages, innovation in the food and beverage sector, and retail M&A and expansion activities.",
+    "items": [
+      {
+        "zh_head": "星巴克测试气泡饮品",
+        "en_head": "Starbucks Tests Sparkling Beverages",
+        "zh_fact": "星巴克正在三个市场测试其全新的气泡饮品系列，包括Sparkling Refresher和Spritz。",
+        "en_fact": "Starbucks is testing its new line of sparkling beverages, including Sparkling Refresher and Spritz, across three markets.",
+        "zh_why": "此举旨在探索饮品创新的未来，通过气泡元素提升消费者的清爽体验。",
+        "en_why": "This initiative aims to explore the future of refreshment by incorporating sparkling elements to enhance the consumer experience.",
+        "insight_zh": "咖啡连锁品牌正通过产品多元化来应对消费者对清爽型饮品日益增长的需求。",
+        "insight_en": "Coffee chains are diversifying their product portfolios to meet the growing consumer demand for refreshing beverage options.",
+        "zh_watch": "关注该系列在测试市场后的推广计划。",
+        "en_watch": "Monitor the rollout plans for this line following the market tests.",
+        "sources": [
+          {
+            "name": "Starbucks",
+            "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZU1hdFA3N2xLQlBRaFNNTnVyT1BWOElEVE9PZnRmUHpTam8yNU4wTnFyUTVZX0pKTE9VbnZJVVNselNVZVpLcm8wMUZkd0RnVmhhNjk2Vld1S3JaRlF6dHF6NDY1RWlyVGpyaWFwVFpHNUE3aHYtUmJ1Rk5sZ05RNzFIZFVKSGJXRjRRRUtxZlhhTXhjZHBPQTJMcUNESkh4UkZtQjBvN080ZWIzbFdVRg?oc=5"
+          },
+          {
+            "name": "Nation’s Restaurant News",
+            "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQblhJRVNMMmpnVllsYWY5UEYtU25BUFh5RmgtdjhZZmt5aUFVeDRBYlpyM21BUHVnVXl3M0I2UTkzczVNUEEzV1lfd0JMRlFEMnhjeFNIcmg5cGlmU0ljYmpUY2ctQTB6c0NaNGVyeHhXcEQ4cE5XZTJqbE9LVUhLQ3NXajgtcnJ0UnJFbDF3?oc=5"
+          }
+        ]
+      },
+      {
+        "zh_head": "餐饮业推陈出新：汉堡风味卷饼",
+        "en_head": "F&B Innovation: Burger-Inspired Burritos",
+        "zh_fact": "Cafe Rio推出了全新的“犹他手持卷饼”（Utah Handheld Burrito），将汉堡风味融入卷饼产品中。",
+        "en_fact": "Cafe Rio has launched the new 'Utah Handheld Burrito,' incorporating burger-inspired flavors into a burrito format.",
+        "zh_why": "餐饮品牌通过跨界口味融合来吸引寻求新奇体验的消费者。",
+        "en_why": "Food and beverage brands are utilizing cross-category flavor fusion to attract consumers seeking novel experiences.",
+        "insight_zh": "将经典快餐元素融入不同品类是目前餐饮创新的重要趋势。",
+        "insight_en": "Integrating classic fast-food elements into different product categories is a key trend in current F&B innovation.",
+        "zh_watch": "观察此类跨界创新产品在市场上的接受度。",
+        "en_watch": "Observe the market reception of such cross-category innovative products.",
+        "sources": [
+          {
+            "name": "Trend Hunter",
+            "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1mdEVsWGpidWdIbDIyVml2cjdGQU5nNzVjbWRFT1V1YzRKN1pEQjFCZ054UnRtR2tkRl9GUDA5MmtTdV9GRUtZRTlFNERlMGo4dFplZTNad2NYZXVlcXlfRDl1RXZLUW5UTGdocdIBbEFVX3lxTE1mdEVsWGpidWdIbDIyVml2cjdGQU5nNzVjbWRFT1V1YzRKN1pEQjFCZ054UnRtR2tkRl9GUDA5MmtTdV9GRUtZRTlFNERlMGo4dFplZTNad2NYZXVlcXlfRDl1RXZLUW5UTGdocQ?oc=5"
+          },
+          {
+            "name": "Yahoo",
+            "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQam5fV21HSy1UMnFUSU5hMmlTdFVRU3gyME1oLUFWa3g2TnRDZVlXOFV5Tk1BelFCbFR6Z3RTbldVbHhYcFJSX01XRXd1bHJ3b0lUdjFTYnM1bzZ0YzJDbHRWNjJKZ0l1V2xEMm9pZlZNQTZZV3pkSDNVYlhtQUFzdC04SDVTRk9NUUkyWjdwZWw?oc=5"
+          }
+        ]
+      },
+      {
+        "zh_head": "零售媒体扩张：Vusion收购In-Store Media",
+        "en_head": "Retail Media Expansion: Vusion Acquires In-Store Media",
+        "zh_fact": "Vusion宣布收购In-Store Media，旨在将零售媒体业务扩展至实体店场景。",
+        "en_fact": "Vusion has announced the acquisition of In-Store Media to expand its retail media operations into physical store environments.",
+        "zh_why": "此举旨在通过数字化手段增强实体零售店的广告投放与互动能力。",
+        "en_why": "This move aims to enhance advertising and engagement capabilities in physical retail stores through digital solutions.",
+        "insight_zh": "零售商正积极寻求将线上广告的精准性引入线下实体店，以实现全渠道营销。",
+        "insight_en": "Retailers are actively seeking to bring the precision of online advertising into physical stores to achieve omnichannel marketing.",
+        "zh_watch": "关注该收购对实体零售店数字化转型的影响。",
+        "en_watch": "Monitor the impact of this acquisition on the digital transformation of physical retail stores.",
+        "sources": [
+          {
+            "name": "Retail TouchPoints",
+            "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPYUp2YzFnU2lVNlJtemV4YUVtMWo3dWpCNDhTQzh2S1dtOGxzbVoteldTTDJuTk1OamEyaV9UY0RYTUZMQU1UT2JfSEFxZVAzVEFWTXBvQkpMeWdjWDBlZXc5cTAzLVloVldqYUVfTUNIOEhnU2JVNDcxMjZaZC1RQW8tREhzODJlM0xQcTYtT1RUQThlNkRlWF9jZEMtOHBMRUhlZ1ZFa1ZMbnBKWEhKRXhHU2NqN0tnTEgwN29kLXQ?oc=5"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "date": "2026-07-27",
     "zh_summary": "今日零售与餐饮行业动态包括：星巴克在日本推出针对年轻消费者的轻盈咖啡饮品，同时其韩国市场的Aerocano产品在五个月内销量突破550万杯；Cafe Rio推出新款犹他手持卷饼；餐饮连锁Sapphire Foods计划新开60至80家KFC门店，并放缓必胜客的扩张步伐。",
     "en_summary": "Today's retail and F&B updates include: Starbucks Japan launching lighter coffee drinks for younger consumers, while its Korean market reports over 5.5 million cups of Aerocano sold in five months; Cafe Rio introduces a new Utah handheld burrito; and restaurant chain Sapphire Foods targets 60 to 80 new KFC stores while moderating Pizza Hut growth.",

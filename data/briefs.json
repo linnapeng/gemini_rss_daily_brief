@@ -1,5 +1,66 @@
 [
   {
+    "date": "2026-07-29",
+    "zh_summary": "今日零售与餐饮行业动态：Luckin Coffee投资30亿元用于智能烘焙技术；星巴克通过Jimoto计划推出区域限定饮品；Samlip推出旨在满足日常时刻的Bespoke系列面包。",
+    "en_summary": "Retail and F&B industry updates today: Luckin Coffee invests RMB 3B in smart roasting technology; Starbucks launches regional exclusive drinks via its Jimoto program; Samlip introduces a Bespoke bread line for daily life moments.",
+    "items": [
+      {
+        "zh_head": "瑞幸咖啡投资30亿元布局智能烘焙",
+        "en_head": "Luckin Coffee Invests RMB 3B in Smart Roasting",
+        "zh_fact": "瑞幸咖啡宣布投资30亿元人民币用于智能烘焙设施建设。",
+        "en_fact": "Luckin Coffee has announced an investment of RMB 3 billion in smart roasting facilities.",
+        "zh_why": "此举旨在通过技术升级提升咖啡生产效率与品质控制。",
+        "en_why": "This move aims to enhance production efficiency and quality control through technological upgrades.",
+        "insight_zh": "咖啡连锁品牌正通过加大基础设施投入来巩固供应链优势。",
+        "insight_en": "Coffee chains are strengthening supply chain advantages by increasing infrastructure investment.",
+        "zh_watch": "关注该投资对瑞幸成本结构及产品一致性的长期影响。",
+        "en_watch": "Monitor the long-term impact of this investment on Luckin's cost structure and product consistency.",
+        "sources": [
+          {
+            "name": "Pluang",
+            "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBtUFJHZjVkYzV0YVFuSEp0VXZ2eHYwR3NsZGNMTGE1Smg3bVNkeWVrMWF1bVZUcXR2RWtRQmNhWUhvMm1sSHFpajdCTHdMaWd4RkVjOXpKeXJrcWFxUnB4MDlKN3RMOEV5UUgtNWd3QWtVd1dyTEd6U2Zna3I?oc=5"
+          }
+        ]
+      },
+      {
+        "zh_head": "星巴克通过Jimoto计划推出区域限定饮品",
+        "en_head": "Starbucks Launches Regional Exclusive Drinks via Jimoto Program",
+        "zh_fact": "星巴克利用其Jimoto计划，在特定区域市场推出独家调配的混合饮品。",
+        "en_fact": "Starbucks is leveraging its Jimoto program to introduce exclusive blended beverages in specific regional markets.",
+        "zh_why": "该计划旨在通过本地化产品增强品牌与消费者的情感连接。",
+        "en_why": "The program aims to strengthen the emotional connection between the brand and consumers through localized products.",
+        "insight_zh": "全球连锁品牌正通过区域化策略应对消费者对个性化体验的需求。",
+        "insight_en": "Global chains are addressing consumer demand for personalized experiences through regionalization strategies.",
+        "zh_watch": "观察此类本地化策略在提升区域销售额方面的实际表现。",
+        "en_watch": "Observe the actual performance of such localization strategies in driving regional sales.",
+        "sources": [
+          {
+            "name": "Trend Hunter",
+            "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE03dmtBY3hCVTFvdGZBM2JSMDJKTVNBeTRHT0lTZEJ3S04zYUdMRGh2UTREMER6cnZlaWxYUVVsUnFWcURVMngySW1yQWVVLXFia21SQkNCaGtNY001TW44ZFpiQ2hxWW00dnlZ?oc=5"
+          }
+        ]
+      },
+      {
+        "zh_head": "Samlip推出Bespoke系列面包",
+        "en_head": "Samlip Launches Bespoke Breads",
+        "zh_fact": "Samlip推出了一系列名为“Bespoke”的面包产品，定位为满足消费者日常生活中不同时刻的需求。",
+        "en_fact": "Samlip has launched a line of bread products called 'Bespoke,' positioned to meet consumer needs for various moments in daily life.",
+        "zh_why": "该产品线旨在通过场景化营销提升面包在日常消费中的渗透率。",
+        "en_why": "The product line aims to increase bread penetration in daily consumption through scenario-based marketing.",
+        "insight_zh": "烘焙品牌正通过细分消费场景来寻求增长点。",
+        "insight_en": "Bakery brands are seeking growth by segmenting consumption scenarios.",
+        "zh_watch": "关注该系列产品在市场上的接受度及后续的场景化推广策略。",
+        "en_watch": "Monitor the market acceptance of this series and subsequent scenario-based promotional strategies.",
+        "sources": [
+          {
+            "name": "The Korea Times",
+            "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNOXp2bi14TF9fQzRJWkc1UWl6N2M2UXZseXJDdkphUWZrTzIwSWg2NHFKTGkwWGVZc1dGYmZYbHA1V2pNQlNlWTRyYVJvZFRKSkx3WHlCVEZrYkQzQ3B5VGhEM0ZEM2VrMk5EUUhVZTkydThQNDNITUN0ZjIzSHVmZWpXWEprVnpQNDVrSGVBSGtVWnBEbktyUGh3SDdkM0Z5VUpsQ0ZxQkdnVWJ2OGJB0gG0AUFVX3lxTFB4SVlLNm9vOW5RS3BxQlR5d0FBVEJaVi1faVUxb0h3aWItZ05GZ2diWGFMa3FINGhGZVJDVk8ycVhCekcxYTRYUDZhNVkyWHFkdzY5WW9ZRkpGaTd5Y01mNXdJekpRR0tDRXhDdll1cEQyTmFQX0VjMzU2Rlo5QS1TcVNGSGJ1MTRJbC1UYndVVHU1LWw2UjVFa0pWc1NGN2wzQ0F5WlpnbEs5TmQ0YkFGTXFiRA?oc=5"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "date": "2026-07-28",
     "zh_summary": "今日简报涵盖星巴克测试气泡饮品、餐饮业推陈出新以及零售业的并购与扩张动态。",
     "en_summary": "Today's brief covers Starbucks testing sparkling beverages, innovation in the food and beverage sector, and retail M&A and expansion activities.",

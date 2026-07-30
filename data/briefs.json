@@ -1,5 +1,78 @@
 [
   {
+    "date": "2026-07-30",
+    "zh_summary": "今日零售与餐饮行业动态：星巴克凭借英国市场的强劲表现推动国际销售增长；英国烘焙连锁巨头Greggs计划年内新开110家门店；泡泡玛特在新加坡开设旗舰店并推出POP BAKERY烘焙概念。",
+    "en_summary": "Retail and F&B updates: Starbucks reports international sales growth driven by UK strength; UK bakery chain Greggs plans to open 110 new stores this year; Pop Mart launches a new flagship in Singapore featuring its POP BAKERY concept.",
+    "items": [
+      {
+        "zh_head": "星巴克国际销售增长受英国市场推动",
+        "en_head": "Starbucks international sales growth driven by UK strength",
+        "zh_fact": "星巴克报告称，英国市场的持续强劲表现助力其国际销售增长，公司同时上调了利润指引。",
+        "en_fact": "Starbucks reported that continued strength in the UK helped drive international sales growth, with the company also raising its margin guidance.",
+        "zh_why": "该表现反映了星巴克在不同收入水平和时段的客户群体中均保持了稳健的销售势头。",
+        "en_why": "The performance reflects robust sales momentum across customer income levels and times of day.",
+        "insight_zh": "全球化连锁品牌正通过优化运营效率和深耕核心市场来应对宏观经济压力。",
+        "insight_en": "Global chains are leveraging operational efficiency and core market penetration to navigate macroeconomic pressures.",
+        "zh_watch": "关注星巴克后续在各区域市场的利润率表现。",
+        "en_watch": "Monitor Starbucks' margin performance across regional markets.",
+        "sources": [
+          {
+            "name": "MCA Insight",
+            "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPU0w0TE1ab2FCemM3OVc3SS16R19jemNfQmc1d2xSdFdJLVhyTTl2aDN2bUotbVZ5al9wVmp1Y29aOS1oTy16NHhlTFFPdTB2WXpvVWpWdzRMem5QQXdJbmptTk5KX1FfR1hZRkR1SXAyNUx3VUR1UGd1cjNSYzBWLWRWQ1lhZzNKZDl5eVNSMTJyZEM1ZC1aQzI4M2Z5UWNQZjY2M2JDMVF6YlZrMkpoMWtoTEdDUkJQeU5BcW1ldWd6UVF3Mmc?oc=5"
+          },
+          {
+            "name": "Longbridge",
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5jZTFCMEgxRXV1Qmo0MzhzbG8tenhfQ1RCVUZOdnRqbW1TM3VQOWN5cm9aeVdOdm4tSkowOFJRSzRkWDdzUjk5Tnh0SHJuSTJFUjZn?oc=5"
+          }
+        ]
+      },
+      {
+        "zh_head": "英国烘焙连锁Greggs扩张计划",
+        "en_head": "Greggs bakery chain expansion plans",
+        "zh_fact": "英国最大的烘焙连锁店Greggs宣布，在营收达到11亿英镑的背景下，计划今年新开110家门店。",
+        "en_fact": "Britain's biggest bakery chain, Greggs, announced plans to open 110 new stores this year as its revenue reached £1.1 billion.",
+        "zh_why": "公司正通过创新门店形式和产品组合来驱动增长。",
+        "en_why": "The company is betting on new shop formats and innovation to drive growth.",
+        "insight_zh": "实体零售在特定餐饮细分领域仍具备强劲的扩张潜力。",
+        "insight_en": "Physical retail continues to show strong expansion potential in specific F&B segments.",
+        "zh_watch": "观察新门店形式对整体盈利能力的贡献。",
+        "en_watch": "Observe the contribution of new shop formats to overall profitability.",
+        "sources": [
+          {
+            "name": "GB News",
+            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBZbGVVd1FWOTRyb1R5ajFWZ3lZZjJFX3gyeTFKQ3F2YXdXdWtqQ18wZVBiVE04dUFHcE1RX0FpYXRtQjlqNUR2MEwtQk1GN3lVeGg1ZmFtbjVkYUVWcmt2eG9Gai1DU2xVWmdJUjRn?oc=5"
+          },
+          {
+            "name": "marketingweek.com",
+            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5tSFZ0bll6dGdEd3VPNEZxMG1fa2lDdVhPU04zaV9NbTc3alpoZTk4N1ZoSm9MNWlGX1JzZzUwZkJVYW9aYlRZWi1HQzBOa2thVG5ZblhQQWFISWd2Mnk1cG0tQ3BDcm16Z21qWTlPSDY?oc=5"
+          }
+        ]
+      },
+      {
+        "zh_head": "泡泡玛特新加坡旗舰店引入烘焙概念",
+        "en_head": "Pop Mart Singapore flagship debuts bakery concept",
+        "zh_fact": "泡泡玛特在新加坡圣淘沙开设新旗舰店，并首次推出“POP BAKERY”烘焙概念店。",
+        "en_fact": "Pop Mart opened a new flagship store in Sentosa, Singapore, featuring the debut of its 'POP BAKERY' concept.",
+        "zh_why": "这是品牌跨界餐饮零售、丰富线下消费体验的最新尝试。",
+        "en_why": "This marks the brand's latest attempt to cross over into F&B retail and enrich the offline consumer experience.",
+        "insight_zh": "潮流玩具品牌正通过多元化业态提升品牌粘性。",
+        "insight_en": "Designer toy brands are enhancing brand stickiness through diversified business formats.",
+        "zh_watch": "关注该跨界模式在其他市场的可复制性。",
+        "en_watch": "Monitor the replicability of this cross-category model in other markets.",
+        "sources": [
+          {
+            "name": "Retail Asia",
+            "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUS1SUFJvVTB3VUFLVFlFcTRWdklRMFRZWUhRVUN2T3IxclgzSXEzV1dMdlRNUUt4RFBEZmh6YTZhVHFjLV8zS1F1eDhWZHlRaXZwWWZCekQtcmZhNWlBS0J0bHUwbEtMRUFmN2w3VzExMzBSVGhFLTVObDdoeFdDdDIzeDBVYlU?oc=5"
+          },
+          {
+            "name": "China Daily",
+            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9FWUlPckFUNmx6QWprcklYY2FuR2ZQbXZ4aGxYVm1DSDJJVUY1WVlQYXM3YXFBNGdUOVE2cmdPVEV3SWoyRHlGMmhHNG1jWC14LU00ZHl3WXd5eUVjZVFHelVud3loR3Q0OV9FN3JHZjJWdWNqWDk1aXE2U1Vkdw?oc=5"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "date": "2026-07-29",
     "zh_summary": "今日零售与餐饮行业动态：Luckin Coffee投资30亿元用于智能烘焙技术；星巴克通过Jimoto计划推出区域限定饮品；Samlip推出旨在满足日常时刻的Bespoke系列面包。",
     "en_summary": "Retail and F&B industry updates today: Luckin Coffee invests RMB 3B in smart roasting technology; Starbucks launches regional exclusive drinks via its Jimoto program; Samlip introduces a Bespoke bread line for daily life moments.",

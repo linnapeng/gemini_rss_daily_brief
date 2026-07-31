@@ -1,5 +1,74 @@
 [
   {
+    "date": "2026-07-31",
+    "zh_summary": "今日零售与餐饮业动态：星巴克凭借美国市场复苏实现季度利润增长并上调全年预期；Style Union在德里新开门店以扩大零售版图；同时，餐饮与零售品牌持续通过收购与数字化转型推动业务扩张。",
+    "en_summary": "Retail and F&B updates for today: Starbucks reported a quarterly profit beat driven by a US turnaround and raised its full-year guidance; Style Union expanded its retail footprint with a new store in Delhi; meanwhile, brands continue to drive growth through strategic acquisitions and digital transformation.",
+    "items": [
+      {
+        "zh_head": "星巴克季度利润超预期并上调全年指引",
+        "en_head": "Starbucks Q3 profit beats expectations and raises full-year guidance",
+        "zh_fact": "星巴克第三季度利润超出预期，得益于美国市场的业务复苏，公司随之上调了全年业绩预期。",
+        "en_fact": "Starbucks reported a third-quarter profit beat driven by a turnaround in its US business, leading the company to raise its full-year financial guidance.",
+        "zh_why": "美国市场的门店改造和服务优化措施已初见成效，推动了销售增长。",
+        "en_why": "Remodels and service tweaks in the US market are paying off, contributing to sales growth.",
+        "insight_zh": "餐饮巨头通过优化运营效率和提升客户价值感，能够有效应对市场波动。",
+        "insight_en": "F&B giants can effectively navigate market volatility by optimizing operational efficiency and enhancing customer value perception.",
+        "zh_watch": "星巴克在南印度海得拉巴开设了首家臻选门店，显示其对高端市场的持续布局。",
+        "en_watch": "Starbucks opened its first Reserve Store in South India (Hyderabad), signaling continued investment in the premium segment.",
+        "sources": [
+          {
+            "name": "Proactive financial news",
+            "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPOTlkSE53elJVWkV1ZFNwZXRTYUQ4TW9VMXAydVVNaHQ0TlY4LTFpaVBmS2JYLVdCckJ2SXBpSDdWUnRpWHRYSWxxdnZlYV92aVQzNmpKSm5hbGppd0hLOU1EUW1ibFVMekJXREhXbFBzd1BBWF92Z3JMZ3hPaEdoOXRwN0xva3hWakVGZ3dNd2d6eE5RYlgxWHVfMWxLWWFmaUNtbmdFNG5OdUw4ODMyU29vZVJEOUxfOWs2ZmdvU3Z6MG4zMTFDWDZDOGtGc3l6Y05aTw?oc=5"
+          },
+          {
+            "name": "NewsMeter",
+            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdmNrZllYUk0wNVlkZ0NRdnBiNFdWdmZ5T3hvc2s5Z09IWHJidnRBbGlHUDd6TzhVYjZ4YVJXTjJTQmpZQ3RLYU9GQU1SQWlXbXBxNXlRQUU3d2tDbnJFVkxCQl96S1JlYy1wR2dySHVHM1Z0bVd3M1J4N3ZPR2tvYmx0TGhTNTFsLTV3eDlWNVdLY1EyVHVQaF9FOG5hQzd4TjZuN20zbmczcVh1RFNBT2xB?oc=5"
+          }
+        ]
+      },
+      {
+        "zh_head": "Style Union 德里新店开业，零售版图进一步扩张",
+        "en_head": "Style Union expands retail footprint with new Delhi store launch",
+        "zh_fact": "零售品牌 Style Union 在德里 Jasola 开设了新店，进一步扩大了其在当地的零售业务覆盖范围。",
+        "en_fact": "Retail brand Style Union has launched a new store in Jasola, Delhi, further expanding its retail footprint in the region.",
+        "zh_why": "此举是该品牌持续扩张零售网络战略的一部分。",
+        "en_why": "This move is part of the brand's ongoing strategy to expand its retail network.",
+        "insight_zh": "实体零售商通过在关键城市布局新店，仍是获取市场份额的重要手段。",
+        "insight_en": "Physical store expansion in key cities remains a vital tactic for retailers to capture market share.",
+        "zh_watch": "关注该品牌在其他地区的扩张速度及门店运营表现。",
+        "en_watch": "Monitor the brand's expansion pace and store performance in other regions.",
+        "sources": [
+          {
+            "name": "Indian Retailer",
+            "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQzM5NEpSdWtCUmVTM2ctc21GRUxCcU9GR3hjVW9tdE8tVW5qUmVXZmYxd3F0aXQwOGZTXzZkQlFZdFpoZkxGNUtQeFBzUlBXc0dzYWdJN3Z5ZWRmYVJrTWZyRkl3YWdaR0t6aWZibmZSTzhIZ0VjMEU1SVdjNHB1RV9lZjFiYmRvQmc0cURZOTBYZG15NVNTZFZuVXBEZ1QzSWVTNFBHSUM5LXJzdzBmcngyaERnUUE4TXp3?oc=5"
+          }
+        ]
+      },
+      {
+        "zh_head": "餐饮与零售业通过收购与人才引进加速增长",
+        "en_head": "F&B and retail sectors accelerate growth through acquisitions and talent acquisition",
+        "zh_fact": "Punch Pubs 通过持续收购提升收入；温迪公司（Wendy’s）聘请了前 Nando’s 员工 Tony Weedon 担任数字产品经理以推动数字化创新。",
+        "en_fact": "Punch Pubs is boosting revenue through steady acquisitions; The Wendy’s Company has hired former Nando’s employee Tony Weedon as Digital Product Manager to drive digital innovation.",
+        "zh_why": "企业正通过并购扩大规模，并引入专业人才以加强数字化能力。",
+        "en_why": "Companies are scaling through M&A and bringing in specialized talent to strengthen digital capabilities.",
+        "insight_zh": "数字化转型与规模化扩张是当前餐饮零售企业保持竞争力的核心驱动力。",
+        "insight_en": "Digital transformation and scaling are the core drivers for F&B and retail companies to maintain competitiveness.",
+        "zh_watch": "观察这些战略举措在未来季度对企业利润率和市场份额的具体影响。",
+        "en_watch": "Observe the specific impact of these strategic moves on corporate margins and market share in future quarters.",
+        "sources": [
+          {
+            "name": "Foodservice Equipment Journal",
+            "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQXhqb3lFY0VJUEE5c29YNlFWMzZPc0ZaTkJfRTU4WEtXSHFCakFpeUNQcE9jdHR3QmdRSk5HOXE5bE1KUDBoWE9TekV3emRQdGxDcnk2RklEN0ZVYWJraTJ6dEtOWUh1bGliWE9BN2l2VzhJT0ZsY2dGV2hYRzVoNFV2UXNxNGdpZHhCdW01akktb3p2a2pZN01XRGUwd1hWTmNVRXh2WlRRUkdKR3gzMnFqcGMyZXNK?oc=5"
+          },
+          {
+            "name": "Retail Technology Innovation Hub",
+            "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOQmZBY2hEckdVSzRFMTIyYU5udnc5RFI2dTQ1Q0gybEhhZ21LX21ZWnVKR0I1cmpXREhNWEJ2ek5Obk5LMjYyUWpZU2xNekg3NTJuNWZWdzZuOE9ZVk9OdFFjTW9HbG8tWHpzUVo0RFR3VnB4V2FLakhCX3FYSlp0dldQQjFEalkxYVJhMjFvU3k4R083dVV3MDJyX1pWOUJqUk40dEVsdHZBZTFSSC00YjJDclNLc1c2OWFVODltRWtRZ01IV09LWnpOWi1pUEVqbEh3aF9Sbw?oc=5"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "date": "2026-07-30",
     "zh_summary": "今日零售与餐饮行业动态：星巴克凭借英国市场的强劲表现推动国际销售增长；英国烘焙连锁巨头Greggs计划年内新开110家门店；泡泡玛特在新加坡开设旗舰店并推出POP BAKERY烘焙概念。",
     "en_summary": "Retail and F&B updates: Starbucks reports international sales growth driven by UK strength; UK bakery chain Greggs plans to open 110 new stores this year; Pop Mart launches a new flagship in Singapore featuring its POP BAKERY concept.",

@@ -1,5 +1,78 @@
 [
   {
+    "date": "2026-08-01",
+    "zh_summary": "今日简报重点关注咖啡连锁店在印度的扩张策略、全球餐饮创新趋势以及零售行业的最新动态。",
+    "en_summary": "Today's brief highlights expansion strategies for coffee chains in India, global foodservice innovation trends, and recent developments in the retail sector.",
+    "items": [
+      {
+        "zh_head": "塔塔星巴克加速在印度的门店扩张",
+        "en_head": "Tata Starbucks Targets Rapid Store Expansion In India",
+        "zh_fact": "塔塔星巴克正在印度市场积极推进门店扩张，以应对日益激烈的竞争并抓住高端咖啡市场的增长机遇。",
+        "en_fact": "Tata Starbucks is aggressively pursuing store expansion in India to capture growth in the premium coffee market amid rising competition.",
+        "zh_why": "该举措反映了国际咖啡品牌对印度消费升级和高端咖啡需求增长的长期看好。",
+        "en_why": "This move reflects the long-term optimism of international coffee brands regarding India's consumption upgrade and the growing demand for premium coffee.",
+        "insight_zh": "印度市场已成为全球咖啡连锁品牌争夺增长份额的关键战场。",
+        "insight_en": "The Indian market has become a key battleground for global coffee chains seeking growth.",
+        "zh_watch": "关注其在二三线城市的渗透速度及本地化产品策略。",
+        "en_watch": "Monitor the pace of penetration into tier-2 and tier-3 cities and local product strategies.",
+        "sources": [
+          {
+            "name": "Whalesbook",
+            "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNS1lJbFZYVGlYNnE4VndiRy1yclFQb1BPSUEzQ253V1dVMnB6cUZ6SVl5Z0J1UER2bU5zRHZHbE5DXzBDeUtnaHl4Y1RiTGVPUHpxZ1dvVlpiMHVqWjZyMEEyR1FXM0RvSU5SZkdkMjVhdEdwXzd1Q3dlSGFzUi1kOXgtUlFKMlVneUNwZmotSGhJZkt4aVFFcTdYdWh5WlhSSmFEWWQ1N3pBcnR5WTF2elVScjBZWGhOaEJQNFJtSVFpQXZwOGxPUDd5SmpiMTYtYnc?oc=5"
+          },
+          {
+            "name": "The Economic Times",
+            "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPbnl0NXdDeFBRaFlfQVdybDBzZ21EVzdWWEFMZTQ3NUpHbjVmR1B5QzhaS1lybVFla0VHaUk4X1JKcURoNEtTZFdaczFIUXZxUldRTDhpdGhVVTdFeHJOMWl4UmpITHE1ZUlqNHJXOC10RjdqWFktQTVwODBOd2d2RHRHV29nTmtESGlsVUpSaXFwMUJGT2dWWERMb1ZqYlUzRXFGYkRxVEtEYmVFekFoaUdfV3RHQ2RXa0l1VGVGWHZxeF9rNFpFeG5pUTE4TFBrZUVBNUg4Qk1VWU4xdmRZMXNtVWdWTHItWVHSAeoBQVVfeXFMT255dDV3Q3hQUWhZX0FXcmwwc2dtRFc3VlhBTGU0NzVKR241ZkdQeUM4WktZcm1RZWtFR2lJOF9SSnFEaDRLU2RXWnMxSFF2cVJXUUw4aXRoVVU3RXhyTjFpeFJqSExxNWVJajRyVzgtdEY3alhZLUE1cDgwTndndkR0R1dvZ05rREhpbFVKUmlxcDFCRk9nVlhETG9WamJVM0VxRmJEcVRLRGJlRXpBaGlHX1d0R0NkV2tJdVRlRlh2cXhfazRaRXhuaVExOExQa2VFQTVIOEJNVVlOMXZkWTFzbVVnVkxyLVlR?oc=5"
+          }
+        ]
+      },
+      {
+        "zh_head": "餐饮行业季节性创新趋势显现",
+        "en_head": "Foodservice Industry Sees Seasonal Innovation Trends",
+        "zh_fact": "餐饮企业正通过推出季节性新品（如星巴克的能量提神饮品）来吸引消费者，并利用创新技术（如冷聚变技术在冰淇淋业务中的应用）提升产品竞争力。",
+        "en_fact": "Foodservice companies are attracting consumers with seasonal launches, such as Starbucks' new energy refreshers, and leveraging innovations like cold fusion technology in the gelato business.",
+        "zh_why": "季节性产品和技术创新是餐饮品牌维持市场活力和应对消费者口味变化的重要手段。",
+        "en_why": "Seasonal products and technological innovations are essential tools for foodservice brands to maintain market vitality and address changing consumer tastes.",
+        "insight_zh": "",
+        "insight_en": "",
+        "zh_watch": "关注餐饮品牌如何平衡季节性促销与长期产品线规划。",
+        "en_watch": "Monitor how foodservice brands balance seasonal promotions with long-term product line planning.",
+        "sources": [
+          {
+            "name": "ABC News",
+            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQelhUNzZGY1czT2cwMF9EcUdqb1B3Njd5TFJFMjFleFd3SmFHUkpYZ0RhSDJwUVFpXzUyUEZBeTBFNGsyZVBZcGdHb2ZyZmlnR1NzTk1pb09SX1UyVm9ZQTR4a0xsN3hYWGQ0U29KNlhhYTMyOVMySXgzQldudEFKaEpRbWo1VVVXWHhaZldkcEgwSXFWNjg3Mm1qbmbSAaIBQVVfeXFMTXFfbnpLTGtnSzd0U3JReTJ2WTB5NGkxdTN0cWZNZE91dkxEdlhfclA3MjJKOENwdmpQMm83ekxIOFNrS1V0ZnhrQ3diZTBHdVlNVXFoMkJNZHN5ZDdoQ0IxamJvYTUzcmhVZkpycE96cmg3cFV2REV2NnM3ZktTSzlua0I3S1g5Q2VhY0toeWlQY2pWZ181bWxKNzRic2I4UGpB?oc=5"
+          },
+          {
+            "name": "Food Business News",
+            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSVdhZnhNdnZfTHl2cnBodWluTHBWcHZNbC1ld0tvRVVBTjJFQlJjVVR4TXpVaTZNaWhmMThJbE1pb0FETEpDMHZsSTVRUFpXVWxXZjhTS1RYakFaTVN4SlRYWk82dDIwM1M0OXp2Wnphb0hOeElSSHV2dTNYdjhWY0lid2p0TW1neUp0MWxSMTk1V2x3bFlnbmVwR09jMGhvWmc?oc=5"
+          },
+          {
+            "name": "TD Stories",
+            "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORVlwLUwzSlRfeTh4ZHE0QUktWW52VHR1ZGxMTDZ5d1FPaXd1cFVOY2MyakdPRHRPU2R1VWdLMUVuV0pjQ1RLSXh1ZXZybkNDVGgzc1g2cHg2X1VocUlaNVJLMkpXcUVuREhiRlU5RHRpVmpRaFZtU2phcnlqZEExbnBGWTVia3JhUjdTdGNqYkp0dEdiQThqc0lSSjhZeU5TZlRnTmxn?oc=5"
+          }
+        ]
+      },
+      {
+        "zh_head": "Couche-Tard 宣布其史上最大规模的欧洲收购案",
+        "en_head": "Couche-Tard Announces Largest Acquisition to Date in Europe",
+        "zh_fact": "便利店巨头 Couche-Tard 宣布将通过其史上最大规模的收购案进一步扩大在欧洲的市场份额。",
+        "en_fact": "Convenience store giant Couche-Tard has announced its largest acquisition to date to further expand its market share in Europe.",
+        "zh_why": "此举旨在通过并购实现规模化扩张，巩固其在全球便利零售领域的领先地位。",
+        "en_why": "This move aims to achieve scale through M&A and consolidate its leading position in the global convenience retail sector.",
+        "insight_zh": "",
+        "insight_en": "",
+        "zh_watch": "观察该收购案对欧洲便利店市场竞争格局的影响。",
+        "en_watch": "Observe the impact of this acquisition on the competitive landscape of the European convenience store market.",
+        "sources": [
+          {
+            "name": "Convenience Store News",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQLTRrMXZ3TXJjRXE5MGVfUUp2d05tUjhDU1hRZ3Ria2VYNVcxbC10QnRNbExacUtZakE0UXV5alJNTVkweTdCZjc3RWtlRFEtQ1F5ME13aEdodFZ6Vm40N056b0R6V09wLUlFNzBuVEdyeXd0SzBGd2VpRVRLZTdDcXRTWXlLcmI0?oc=5"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "date": "2026-07-31",
     "zh_summary": "今日零售与餐饮业动态：星巴克凭借美国市场复苏实现季度利润增长并上调全年预期；Style Union在德里新开门店以扩大零售版图；同时，餐饮与零售品牌持续通过收购与数字化转型推动业务扩张。",
     "en_summary": "Retail and F&B updates for today: Starbucks reported a quarterly profit beat driven by a US turnaround and raised its full-year guidance; Style Union expanded its retail footprint with a new store in Delhi; meanwhile, brands continue to drive growth through strategic acquisitions and digital transformation.",

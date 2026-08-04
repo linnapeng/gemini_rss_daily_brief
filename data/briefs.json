@@ -1,5 +1,70 @@
 [
   {
+    "date": "2026-08-04",
+    "zh_summary": "印度消费经济预计到2030年将达到1.9万亿美元，人工智能和快速商务正重塑增长格局。与此同时，星巴克正在进行4亿美元的软件重构，重点转向AI辅助编码。在零售领域，Urban Outfitters在英国引入了包裹柜配送服务以优化结账体验。",
+    "en_summary": "India's consumer economy is projected to reach $1.9 trillion by 2030, with AI and quick commerce reshaping growth. Meanwhile, Starbucks is undergoing a $400 million software rethink, focusing on AI-assisted coding. In retail, Urban Outfitters has launched parcel locker delivery in the UK to enhance the checkout experience.",
+    "items": [
+      {
+        "zh_head": "印度消费经济预计到2030年达1.9万亿美元",
+        "en_head": "India's Consumer Economy Projected to Hit $1.9 Trillion by 2030",
+        "zh_fact": "德勤印度与FICCI的报告指出，在人工智能和快速商务的推动下，印度消费经济规模预计将在2030年达到1.9万亿美元。",
+        "en_fact": "A report by Deloitte India and FICCI indicates that India's consumer economy is expected to reach $1.9 trillion by 2030, driven by AI and quick commerce.",
+        "zh_why": "该增长主要归因于技术驱动的运营效率提升以及零售和快消品行业对AI的广泛部署。",
+        "en_why": "The growth is primarily attributed to technology-driven operational efficiencies and the widespread deployment of AI across the retail and FMCG sectors.",
+        "insight_zh": "AI不仅是消费增长的引擎，也是企业应对政策挑战和市场规模扩张的关键工具。",
+        "insight_en": "AI is not only an engine for consumption growth but also a critical tool for businesses to navigate policy challenges and market scaling.",
+        "zh_watch": "关注印度快消品行业在应对GST倒置和废物处理规则等政策挑战时的表现。",
+        "en_watch": "Monitor the performance of the Indian FMCG sector as it navigates policy challenges such as GST inversion and waste management rules.",
+        "sources": [
+          {
+            "name": "Storyboard18",
+            "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOQ3NiZ1Y3T2RWaFo3a0JVaTE3WGYzWnlhVTYzLTVYV1pTLWZDdzV6SGM2WXZCRmkwUmN6dG50S1YteXFLb3ozN0l0ejVTX21tZzI1eG9Xck1uOGtySTNRdjhVMFdFWm1wN1lKaURDVHZ3UTg3Q2k2YjdvTXNCLS1FWTFMT19sT3ZTMWota0pwdjFfa1F1N3d0ck9OT1luaXZqT2d1UW8tMXQtOVZrenhxSUpBTnFwMFJOM2YtX2FUVVpvWVp1YWJ1a0xHdU9YRWpNQk5nLW9OTk5ELXJaTXZ1dHFsc2labHJXWWNMNkVnU00xZUk5YWfSAfsBQVVfeXFMT1haMEFzQkxRMW8zTGVkS2FVZkJWNDRLc0ZOdlVqNnp6cW1URjFkcTc3a0R6NE4zTVo2dVQ5SlZUNEJiWW4tTG9iM0c4M0VCcGRpbmgtem94MktSOXEzZUd0b2w3R2gwSjZ1YTJoMEYtYnp4eUw4Mkc0VVY4YWx2by1wSHFrQ2JuVFRUd0VWaXo1b01Uajc0WjBpYUc3M1VId1hkSk84Sjh2eVJGaVJUZmF2eTB6MWZvNWxQaVhNYjdMWE9CeWxfcVpGTWk1b1AxSGduR3paTVNDX2pFVjBMeHlNeWFxeXBmTjFjcDVVeUlGZk1KMjNmbENLVlU?oc=5"
+          },
+          {
+            "name": "Moneycontrol.com",
+            "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPVzJaTnNPUWpNTk5uWDltbDFEcVgwb0c4QUFmb3dwYXZkNlYxM0NMTDBSTWlCbTM1SlpVTGxVaTk5cncwLVh3Uy1Oc3ZtNmFnMG9RMHFEa3oteVpPM3JScmFLcEJpczJKd183TTV6TUJkWi02Rno5bnFmU19KVk13cVlCcnFZNzNqOXZYNFlzMWx6MkdoMS1HRHNERTk4dFNOZ3RlajJVbDUxSzQwOF9icm5SMU03ZTlrVlZvT1l4NmM2N1dtRmp2eG5YdVdHZU9fVUlXZ0J1MExrN3Q3WWF6ank3V1RfQdIB6wFBVV95cUxQemF2TnRZcWljUFBUcV9GTE1NcjRxUHNwaWVaV2cyX1d3WUxGdzlXcEhyVDJzaHd6bXRyMlJnaHdsbmhvMkFkNC1URTFYUl85c2d5YTBJWC1XOEFSbVNFU1NIQVJiWlNQcU93S3hSNGxuclkwWWtXZFNSbFhRX1dKR2dPbGlfSkRpYy1BWlZDeHVBS3VvaFVZUDhVVUFqdGpYRWZ1U2lSOUZTLVVDZmpjX3B0VlB5ckpmVkpQSk5NRFZnVXIwZVBZbkhjLVZVTGpWV0p4ci1kZHd3cWwtdHpURVA4bC16VXE2aHZn?oc=5"
+          }
+        ]
+      },
+      {
+        "zh_head": "星巴克启动4亿美元软件重构，转向AI辅助编码",
+        "en_head": "Starbucks Initiates $400M Software Rethink, Pivoting to AI-Assisted Coding",
+        "zh_fact": "星巴克正在进行一项价值4亿美元的软件重构计划，旨在通过AI辅助编码技术减少对微软、IBM和甲骨文等传统SaaS合同的依赖。",
+        "en_fact": "Starbucks is undergoing a $400 million software rethink, aiming to reduce reliance on traditional SaaS contracts with Microsoft, IBM, and Oracle through AI-assisted coding.",
+        "zh_why": "此举反映了大型企业在数字化转型中从传统软件服务转向AI代理技术的趋势。",
+        "en_why": "This move reflects a trend among large enterprises in digital transformation to shift from traditional software services toward AI agents.",
+        "insight_zh": "企业技术支出的重心正在从传统的SaaS订阅模式向更具自主性的AI开发能力转移。",
+        "insight_en": "The focus of corporate technology spending is shifting from traditional SaaS subscription models toward more autonomous AI development capabilities.",
+        "zh_watch": "观察星巴克在这一技术转型过程中如何平衡成本与运营效率。",
+        "en_watch": "Observe how Starbucks balances costs and operational efficiency during this technological transition.",
+        "sources": [
+          {
+            "name": "Mi-3.com.au",
+            "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWk9ZLVVaT2ZaQzZ5VGFtQURJaG5YdW5VZ25mZHlnVUtCZ1h1ZXF5RjMxVFlWQlB3UTFQUkdRNU5DRG5nclhYUkp1LTQ5RGFyT2NCQmF1eDBVRUFCb1pfWUxRdmFWVkRnMWJWYjZjTFNRMkRyNE1sQm5KVlhCZTM5NDBsS0JoVWdOWDB1NVRKZDl6bjYyR3F1X0R6aE1Gd3VETEtFX1QyX1JxZkZUeFdGcXNFZWFWdw?oc=5"
+          }
+        ]
+      },
+      {
+        "zh_head": "Urban Outfitters在英国推出包裹柜配送服务",
+        "en_head": "Urban Outfitters Launches Parcel Locker Delivery in the UK",
+        "zh_fact": "Urban Outfitters与InPost合作，在英国结账流程中引入了包裹柜配送选项。",
+        "en_fact": "Urban Outfitters has partnered with InPost to introduce parcel locker delivery options at checkout for shoppers in the UK.",
+        "zh_why": "此举旨在通过提供更灵活的配送方式来提升消费者的购物便利性和结账体验。",
+        "en_why": "The move aims to enhance consumer convenience and the checkout experience by providing more flexible delivery options.",
+        "insight_zh": "零售商正通过物流创新来满足消费者对配送灵活性日益增长的需求。",
+        "insight_en": "Retailers are leveraging logistics innovation to meet the growing consumer demand for delivery flexibility.",
+        "zh_watch": "关注该配送模式在英国市场的普及程度及其对退货率的影响。",
+        "en_watch": "Monitor the adoption rate of this delivery model in the UK market and its impact on return rates.",
+        "sources": [
+          {
+            "name": "Retail Technology Innovation Hub",
+            "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNZkg0Znp2SG1fVUV6ZVBhT093aE5RVnV1SEpXSW5UYlRZLXVWei1sb3RxRHFiWERNdjVFamlNMk9lQW5weGRocUpPb2E3YXp5bFNRczhtNzk3WEhKUjBja016ZDgyZlNvTEdWSGlXbWVhVGFpdk5hQng5TjE1cnljemVxUEwtRnZRbUlPM0RUM0RvRFoxWldTajJmTzRENG5zVk9mTVRJbGMzd2poZ2UzLTFOZDFoY2Y2VHNVMkhwS21mOFl6N2JOQUNpOGVmZzMycS1HMjVQaWUwVU9JSWc?oc=5"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "date": "2026-08-02",
     "zh_summary": "今日简报涵盖了餐饮行业的创新动态、小型企业的扩张以及消费市场面临的宏观经济压力。",
     "en_summary": "Today's brief covers innovation in the food and beverage sector, small business expansion, and the macroeconomic pressures facing the consumer market.",

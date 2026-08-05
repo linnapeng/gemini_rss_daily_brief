@@ -1,5 +1,74 @@
 [
   {
+    "date": "2026-08-05",
+    "zh_summary": "今日零售与消费行业动态包括：星巴克在巴林开展创新项目并预告秋季新品；宝洁以38亿美元收购Thorne以加强健康零售布局；印度消费经济预计到2030年将达到1.9万亿美元，同时监管机构呼吁零售商改善消费者申诉处理机制。",
+    "en_summary": "Key retail and consumer industry updates today include: Starbucks hosting innovation sessions in Bahrain and teasing autumn product returns; P&G acquiring Thorne for $3.8 billion to bolster its wellness retail portfolio; and projections that India's consumer economy will reach $1.9 trillion by 2030, alongside regulatory calls for improved consumer grievance redressal.",
+    "items": [
+      {
+        "zh_head": "星巴克开展创新项目并预告秋季新品",
+        "en_head": "Starbucks Hosts Innovation Session and Teases Autumn Returns",
+        "zh_fact": "星巴克在巴林为孤儿举办了EmpowerME创新会议；同时，公司已确定南瓜拿铁（Pumpkin Spice Latte）的回归日期。",
+        "en_fact": "Starbucks hosted an EmpowerME innovation session for orphans in Bahrain; meanwhile, the company has set the return date for its Pumpkin Spice Latte.",
+        "zh_why": "展示了品牌在社会责任与季节性产品营销方面的持续投入。",
+        "en_why": "Highlights the brand's ongoing commitment to social responsibility and seasonal product marketing.",
+        "insight_zh": "",
+        "insight_en": "",
+        "zh_watch": "关注季节性限定产品对第四季度销售额的推动作用。",
+        "en_watch": "Monitor the impact of seasonal limited-time offerings on Q4 sales performance.",
+        "sources": [
+          {
+            "name": "zawya.com",
+            "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQd1dNZFV5NFBsZXRoMFZUY2tfc3Y5OVZaa1VJR01TWm9OakdtSHJ1NUhjZTlldWx4OC1fX1dIRlFlSXlQbUw0emI3Z1VQMk1oVVViR014Zml0dW9aT0J5NHNuV0Q1R0ZPV19qYzVpS0NVVEE1N19HUTFRTlZ3cm8ta1Nqblh3S29YVkZGSGxJZVJvRU1sLW9pRUVWWGduX2NiYlR0UUEwSW01UmliMTVsVDZJalRieXNWT0lkM1M0WWhJZloxUDAwOFdxVDlyNnc4YWFxTGRCUlh2cUZBWjg1cXhxaHA?oc=5"
+          },
+          {
+            "name": "Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRk5IeWs5UWRNaVoyZEpfSmFDbEU5YjdWNkEyMU5VdUtmTUYzNWZBbDUtVk8wUGMwbDRBSnMyMF9lSEEyVmdFTllmU2U0aTRIMmRxT1M1OFgxMUFsellUV1IxNTlhaTFvOTBnMjNBaWE5QkRpRk5OZ2JsRGlidW5wNzMyeUlzUi16TXVLTEpNZGlhd2ZZTnlxZ19mbzUtVjRvOVN0WjR6Y1g1akt0M3c?oc=5"
+          }
+        ]
+      },
+      {
+        "zh_head": "宝洁以38亿美元收购Thorne",
+        "en_head": "P&G Acquires Thorne for $3.8 Billion",
+        "zh_fact": "宝洁公司宣布以38亿美元收购健康品牌Thorne，旨在强化其健康零售产品组合。",
+        "en_fact": "Procter & Gamble has announced the acquisition of wellness brand Thorne for $3.8 billion to strengthen its wellness retail portfolio.",
+        "zh_why": "此举反映了大型消费品公司向高增长的健康与保健领域进行战略扩张的趋势。",
+        "en_why": "Reflects the trend of major consumer goods companies strategically expanding into the high-growth health and wellness sector.",
+        "insight_zh": "",
+        "insight_en": "",
+        "zh_watch": "观察宝洁如何整合Thorne的业务及其对未来财报的影响。",
+        "en_watch": "Observe how P&G integrates Thorne's operations and the subsequent impact on future financial reports.",
+        "sources": [
+          {
+            "name": "Retail Systems",
+            "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTldXcGcyNkFlTTJBYkljdklObHEzczJVeXBmZ01Qd1NuWGdnS0drTV9hVEtXb0NrZ21JVGZ1NUtZemdLcGJJT1pMQ0VDUmctYnFTUmo4cG1veEtzYUFfZk9qQUNlR0ozc0xTX1lCanZvbHVSR3hlSEkwdGVYYjRYZTl3bzNQeTFtc0ZfRkJOM2FLdUVKMnJjN3laVnpVdEJWU1RfUm9BQQ?oc=5"
+          }
+        ]
+      },
+      {
+        "zh_head": "印度消费经济增长前景与监管要求",
+        "en_head": "India's Consumer Economy Growth Outlook and Regulatory Demands",
+        "zh_fact": "报告显示印度消费经济预计到2030年将达到1.9万亿美元；同时，消费者事务部秘书要求快消品和零售行业必须改善消费者申诉处理系统。",
+        "en_fact": "Reports project India's consumer economy will reach $1.9 trillion by 2030; meanwhile, the Consumer Affairs Secretary has called for the FMCG and retail industries to improve consumer grievance redressal systems.",
+        "zh_why": "结合了宏观经济增长潜力与日益严格的消费者权益保护监管环境。",
+        "en_why": "Combines macroeconomic growth potential with an increasingly stringent regulatory environment for consumer protection.",
+        "insight_zh": "",
+        "insight_en": "",
+        "zh_watch": "关注印度零售商在合规性方面的投入及其对运营成本的影响。",
+        "en_watch": "Monitor the investment by Indian retailers in compliance and its impact on operational costs.",
+        "sources": [
+          {
+            "name": "economictimes.com",
+            "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPYWJOUWt3MmpDNzJfaFBkVVhIYUVnZ1ZPanlVUm1idEdCMTVkd1I5b2Jta0UtUk01Yms0UEk2OFhBS05MaG9McG15cWhwZ1JXZDhxU0lNSUJDTHZFeVZmajI3bUZ6UXFvU0hfN0U1TWE1angzS2tXektTUW15UnktVld1dGtvZ2tDVkNkc3RobnRKMjRKQjlycGRfWjR0UTJjRUlJcTJXNHVCQklrb1ZDR1JYVk1sRm9EcWpwX2JFSzdQOGwxcWd3Z2F5blg5M3dmTXJfNjhMNDNjd1FRNkRxajVyZUw4MWhPTFVWNGhOMloyRVJWN05RTjNQYUdIY1FGMHNlcEIybWpGdjFGNXh3dzRWNFVnQWZkLXdZc9IBnAJBVV95cUxPYWJOUWt3MmpDNzJfaFBkVVhIYUVnZ1ZPanlVUm1idEdCMTVkd1I5b2Jta0UtUk01Yms0UEk2OFhBS05MaG9McG15cWhwZ1JXZDhxU0lNSUJDTHZFeVZmajI3bUZ6UXFvU0hfN0U1TWE1angzS2tXektTUW15UnktVld1dGtvZ2tDVkNkc3RobnRKMjRKQjlycGRfWjR0UTJjRUlJcTJXNHVCQklrb1ZDR1JYVk1sRm9EcWpwX2JFSzdQOGwxcWd3Z2F5blg5M3dmTXJfNjhMNDNjd1FRNkRxajVyZUw4MWhPTFVWNGhOMloyRVJWN05RTjNQYUdIY1FGMHNlcEIybWpGdjFGNXh3dzRWNFVnQWZkLXdZcw?oc=5"
+          },
+          {
+            "name": "economictimes.com",
+            "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOdlhSZm5GTHVNaExBaGJUSXFyOC1hUGxrSE1zdlVtTE1yTWxvVy1ET0EtR1pjN0hyYUVmOExNOHA3eUVrZUV1OEZKNi16RWZNaWx0S2pjTXFQb1I3TzExMldyM2dnR1kyLUtqN2tFbWo5YUt1dmtra1VIY2ZNaEhCR2M0V19oWXNMWVpOX1pZQnlnOHp1Yy1rWEluUkRvMFNuTmZ4R2pZVldNSHZfaEd6REFINWtncUJaU3cxOG1mZjlxcnhZV2JRdFpjNHZxQ1RfS01rd1dWaGxfZDZ2S1lXZGNPQmJMNUFBRm45SEZKUDFzWklSNWY4NDFXU2ZyQWNiYThlUVhCb0Fvd9IBjwJBVV95cUxPVERueEc3VjY2cVo0eS1VTldjT25pZkNMTTc2YUVPRTJ1M1M1S0ZzbXJsMm9HMjVFNDZjcDhSUjliSU1hUHY1ZUdhQ2xPVG5HaDlkVTRhWHI1U0JQNl9zUlc1MVhFNzd1emRmbjYwY3FfWW1BTGNMMGtEMXRoUlQ5a2U3MkR6ckhSYmdQSEFONm82ZlFsWFd2dV9jeFZZdnoxUXh3VFlwd056dnZUcERoMkJLV1JTeFBCT0hiMUR6UDNKMXdDUGJnbFdzbENtZGswcWVkY2pXYkZpOFFjZ3FTWFdTN3JmZ081TkN5X0dtQUk0NVBfcEJzVlpmY0h3Y2tWelFpVnBfVzhXUFkzdnYw?oc=5"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "date": "2026-08-04",
     "zh_summary": "印度消费经济预计到2030年将达到1.9万亿美元，人工智能和快速商务正重塑增长格局。与此同时，星巴克正在进行4亿美元的软件重构，重点转向AI辅助编码。在零售领域，Urban Outfitters在英国引入了包裹柜配送服务以优化结账体验。",
     "en_summary": "India's consumer economy is projected to reach $1.9 trillion by 2030, with AI and quick commerce reshaping growth. Meanwhile, Starbucks is undergoing a $400 million software rethink, focusing on AI-assisted coding. In retail, Urban Outfitters has launched parcel locker delivery in the UK to enhance the checkout experience.",

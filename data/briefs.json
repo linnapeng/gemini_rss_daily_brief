@@ -1,5 +1,84 @@
 [
   {
+    "date": "2026-08-06",
+    "zh_summary": "今日零售与餐饮业动态：星巴克关闭西雅图办公楼门店，Brevato Coffee在利默里克开设新店，同时食品品牌通过烘焙灵感口味进行创新，且英国非酒精饮料通胀率达到4.4%。",
+    "en_summary": "Today's retail and F&B updates: Starbucks closes a store in a Seattle office tower, Brevato Coffee opens a new location in Limerick, food brands innovate with bakery-inspired flavors, and non-alcoholic beverage inflation in Great Britain reaches 4.4%.",
+    "items": [
+      {
+        "zh_head": "星巴克关闭西雅图办公楼门店",
+        "en_head": "Starbucks closes store in downtown Seattle office tower",
+        "zh_fact": "星巴克已关闭其位于西雅图市中心一栋办公楼内的门店。",
+        "en_fact": "Starbucks has closed a store located in a downtown Seattle office tower.",
+        "zh_why": "该举措反映了办公场所周边零售店在混合办公模式下的运营调整。",
+        "en_why": "The move reflects operational adjustments for retail locations near office spaces amid hybrid work trends.",
+        "insight_zh": "办公楼周边餐饮业正面临客流量变化的持续挑战。",
+        "insight_en": "Food and beverage outlets near office hubs continue to face challenges from shifting foot traffic patterns.",
+        "zh_watch": "关注连锁咖啡品牌在核心商业区门店布局的进一步优化。",
+        "en_watch": "Monitor further optimization of store footprints by coffee chains in core business districts.",
+        "sources": [
+          {
+            "name": "The Business Journals",
+            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVGQ2YnFwdDZULXF4bDV2NW9WRUV4NUV0a29FOHQwZzBJc2VfbHVUaEtKQVp0VmpLaEdRdFVWbzdDa2ZVX0I5N21yYkdNUjVKZF91WFNmXzVWc21aSFQ0UmMwdEVyZThjNzNaallLd2VNRlJ6azZJcDFZTlltbUs0RUpfYWNHTlJYVGFnN1p2ejhELVFUNktGUFFqVQ?oc=5"
+          }
+        ]
+      },
+      {
+        "zh_head": "Brevato Coffee在利默里克开设新店",
+        "en_head": "Brevato Coffee brand opens new Limerick city café",
+        "zh_fact": "咖啡品牌Brevato Coffee在爱尔兰利默里克市开设了一家新咖啡馆。",
+        "en_fact": "Coffee brand Brevato Coffee has opened a new café in Limerick city, Ireland.",
+        "zh_why": "这是该品牌在当地市场扩张业务的一部分。",
+        "en_why": "This opening is part of the brand's expansion within the local market.",
+        "insight_zh": "独立及精品咖啡品牌在区域性城市的扩张依然活跃。",
+        "insight_en": "Expansion of independent and boutique coffee brands in regional cities remains active.",
+        "zh_watch": "观察该品牌在爱尔兰市场的后续增长策略。",
+        "en_watch": "Observe the brand's subsequent growth strategy in the Irish market.",
+        "sources": [
+          {
+            "name": "businessplus.ie",
+            "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9POTRGbG5feDNiUGFfXzdRcGEycVZqN1VvMUV1aWtzd1U1VTBiSmxhNnNNQW91WUEwalFhSDllREZWTHd6T1EzeVFGdmRXS2pFVHJPb0dRcGpRRDVEV1U4OElTX2F1RnN5bWhCa3FvXzA2UQ?oc=5"
+          }
+        ]
+      },
+      {
+        "zh_head": "食品品牌通过烘焙灵感口味进行创新",
+        "en_head": "Food brands innovate with bakery-inspired flavors",
+        "zh_fact": "Galaxy品牌推出了两款受烘焙食品启发的新口味，以扩大其分享装产品组合。",
+        "en_fact": "The Galaxy brand has launched two new bakery-inspired flavors to expand its 'more to share' portfolio.",
+        "zh_why": "品牌通过跨品类口味创新来吸引消费者并增加产品吸引力。",
+        "en_why": "Brands are utilizing cross-category flavor innovation to engage consumers and increase product appeal.",
+        "insight_zh": "将烘焙元素融入糖果和饮料是当前提升产品新鲜感的主流趋势。",
+        "insight_en": "Integrating bakery elements into confectionery and beverages is a mainstream trend for refreshing product lines.",
+        "zh_watch": "关注此类跨界口味创新对销售额的拉动作用。",
+        "en_watch": "Monitor the impact of such cross-category flavor innovations on sales performance.",
+        "sources": [
+          {
+            "name": "c-talk.co.uk",
+            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5lQTA5NnZpUUg3TTNLNzdxNERqWkVwZUFjUXVJSHBrRFdqQ0llVVF0YlZMUmFPd0lybUN1cWZmdndTS21mYW5DX2xoMmZwRGhkbWJZZU5lUUhrWFFORUcwRw?oc=5"
+          }
+        ]
+      },
+      {
+        "zh_head": "英国非酒精饮料通胀率达4.4%",
+        "en_head": "Great Britain’s non-alcoholic beverage inflation at 4.4%",
+        "zh_fact": "最新数据显示，英国非酒精饮料的通胀率为4.4%，高于整体消费品2.3%的通胀水平。",
+        "en_fact": "Latest data shows that inflation for non-alcoholic beverages in Great Britain is 4.4%, higher than the 2.3% inflation rate for consumer goods overall.",
+        "zh_why": "成本压力持续影响饮料行业的定价策略。",
+        "en_why": "Cost pressures continue to impact pricing strategies within the beverage industry.",
+        "insight_zh": "饮料行业的通胀压力显著高于一般消费品，可能影响消费者的购买决策。",
+        "insight_en": "Inflationary pressure in the beverage sector is significantly higher than in general consumer goods, which may influence consumer purchasing decisions.",
+        "zh_watch": "关注饮料价格上涨对市场需求及品牌忠诚度的影响。",
+        "en_watch": "Monitor the impact of rising beverage prices on market demand and brand loyalty.",
+        "sources": [
+          {
+            "name": "Stock Titan",
+            "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWHVSakhzTGVDdk9YbkUtZmc0aFF4VkpONU00SldkVnBPeHMtb2dnUHFwa1pLYXRhWFdLN29hbXo2VWRzWWpHNWEwalBld1VzZ3pvZXNOY1c3Y2w3MHRBbTZFWElJc3RYUTBTb1pHOUtnU0tQa2RLWXRiRy1oOFdzN09tNFFmNWwzU1Izc1dNY1dxRk1uRk0yT09ILVlDQWJvWjB2T25QOXJQQWxzRXpnUkxMT254SDhm?oc=5"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "date": "2026-08-05",
     "zh_summary": "今日零售与消费行业动态包括：星巴克在巴林开展创新项目并预告秋季新品；宝洁以38亿美元收购Thorne以加强健康零售布局；印度消费经济预计到2030年将达到1.9万亿美元，同时监管机构呼吁零售商改善消费者申诉处理机制。",
     "en_summary": "Key retail and consumer industry updates today include: Starbucks hosting innovation sessions in Bahrain and teasing autumn product returns; P&G acquiring Thorne for $3.8 billion to bolster its wellness retail portfolio; and projections that India's consumer economy will reach $1.9 trillion by 2030, alongside regulatory calls for improved consumer grievance redressal.",

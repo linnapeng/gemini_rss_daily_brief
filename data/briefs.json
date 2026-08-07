@@ -1,5 +1,70 @@
 [
   {
+    "date": "2026-08-07",
+    "zh_summary": "今日商业简报涵盖了星巴克中国的人事变动、印度快消品市场的扩张计划以及英国快消品行业的通胀情况。",
+    "en_summary": "Today's business brief covers leadership changes at Starbucks China, expansion plans in the Indian FMCG market, and inflation trends within the UK's FMCG sector.",
+    "items": [
+      {
+        "zh_head": "星巴克中国任命前首席执行官Leo Tsoi为恒隆新任行政总裁",
+        "en_head": "Hang Lung names Starbucks China ex-CEO Leo Tsoi as new chief",
+        "zh_fact": "恒隆地产宣布任命星巴克中国前首席执行官Leo Tsoi为公司新任行政总裁。",
+        "en_fact": "Hang Lung Properties has appointed former Starbucks China CEO Leo Tsoi as its new chief executive officer.",
+        "zh_why": "此举标志着恒隆地产在零售与商业地产领域引入了具有深厚消费品牌运营背景的领导者。",
+        "en_why": "This move signals Hang Lung's intent to leverage leadership with deep experience in consumer brand operations for its retail and commercial property portfolio.",
+        "insight_zh": "零售地产商正通过引入消费品行业高管来加强对租户品牌策略的理解。",
+        "insight_en": "Retail landlords are increasingly hiring consumer goods executives to better align with tenant brand strategies.",
+        "zh_watch": "Leo Tsoi上任后对恒隆零售资产组合的战略调整。",
+        "en_watch": "Strategic adjustments to Hang Lung's retail portfolio under Leo Tsoi's leadership.",
+        "sources": [
+          {
+            "name": "The Standard (HK)",
+            "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRzBSWUlIXzJqR2RYRFpLRkV4eGZDRHJmOENVaGo4S1VBNDlCa2VWdmdqWkhkbUgtT29qQ1lTQ1RSTTIxeWE5UkxhcTFFTEdjcWRUdm1rRVJqU0F4U3Zkc3dYM1lmSU9ueUJGZnlpM3dzRlA2cG1HdllYQzRMOXdyWnR5MlZsckVDeElBUFpxakYtejEwSVlVenBtU193WE9fbDFaZUJHeFdsSFd6bmhrbmtVMmU?oc=5"
+          }
+        ]
+      },
+      {
+        "zh_head": "Emami Agrotech投资75亿卢比进军印度零食市场",
+        "en_head": "Emami Agrotech launches WeMe to enter India's snacking market with ₹750 crore investment",
+        "zh_fact": "Emami Agrotech推出了名为WeMe的零食品牌，并计划投资75亿卢比以扩大其在印度零食市场的份额。",
+        "en_fact": "Emami Agrotech has launched a snacking brand, WeMe, backed by a ₹750 crore investment to capture market share in India.",
+        "zh_why": "该投资旨在利用印度消费经济的增长潜力，通过新品牌进入高增长的零食细分市场。",
+        "en_why": "The investment aims to capitalize on India's growing consumer economy by entering the high-growth snacking segment with a new brand.",
+        "insight_zh": "印度快消品企业正通过大规模资本投入来争夺日益增长的年轻消费群体。",
+        "insight_en": "Indian FMCG companies are deploying significant capital to capture the country's expanding young consumer base.",
+        "zh_watch": "WeMe品牌在印度竞争激烈的零食市场的市场渗透率。",
+        "en_watch": "Market penetration of the WeMe brand within India's competitive snacking sector.",
+        "sources": [
+          {
+            "name": "ET Retail",
+            "url": "https://news.google.com/rss/articles/CBMizgJBVV95cUxPaDljVzFNRmVGQmNXVFlueTBEREpqUGZVbTg2UFRtVGhIenJiY0xpRWZ5MHNId0xMVF9aNmJMVV82NXBCLUl2TU9obXVWT2pQeTJ1LUdtMU1JWWhqc1lvbnRBUE84XzJPNkJMUGhZMmxYSDdJY2EzUTVQMmZFVS1iZlVVdU5rQVBvRXptSTVYaXFKNHo5UC1ReFh5SUc2MEItSjBmM3BlYU9ZRU5lMnJveG5ZRUlJdko0Y0MtV2I3VU5TdkZKRzFubTdKWk5QbmNoVFdlOXY4S0tyQkpaMGJON2JOU3FLTDNmRFhiNFpqQ0Y0MnFRaHZ1LXYyeG0yQlhtazd0dUplakt6TUgtWFdpTkU1Nkh0NGVQN0VQYTNwcmhHLWhOYUJBWXk1OVdFcms4V0FnZjNhWnhqY0RycjhUc044OEpRaGtweFhnS2Zn?oc=5"
+          }
+        ]
+      },
+      {
+        "zh_head": "英国快消品行业通胀率保持在2.3%",
+        "en_head": "UK FMCG sector inflation remains at 2.3%",
+        "zh_fact": "最新数据显示，英国快消品（FMCG）行业的整体通胀率为2.3%，其中非酒精饮料的通胀率达到4.4%。",
+        "en_fact": "Recent data indicates that the overall inflation rate in the UK's FMCG sector is 2.3%, with non-alcoholic beverages seeing a 4.4% increase.",
+        "zh_why": "通胀压力持续影响英国消费者的购买力，促使企业通过新的通胀晴雨表工具监测市场动态。",
+        "en_why": "Inflationary pressures continue to impact UK consumer purchasing power, prompting firms to monitor market dynamics via new inflation barometer tools.",
+        "insight_zh": "通胀数据反映了英国零售市场在成本压力下的价格波动，饮料类产品受到的影响尤为明显。",
+        "insight_en": "Inflation data highlights price volatility in the UK retail market under cost pressures, with beverage products showing significant sensitivity.",
+        "zh_watch": "未来几个月非酒精饮料价格的进一步走势。",
+        "en_watch": "Future price trends for non-alcoholic beverages in the coming months.",
+        "sources": [
+          {
+            "name": "Stock Titan",
+            "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWHVSakhzTGVDdk9YbkUtZmc0aFF4VkpONU00SldkVnBPeHMtb2dnUHFwa1pLYXRhWFdLN29hbXo2VWRzWWpHNWEwalBld1VzZ3pvZXNOY1c3Y2w3MHRBbTZFWElJc3RYUTBTb1pHOUtnU0tQa2RLWXRiRy1oOFdzN09tNFFmNWwzU1Izc1dNY1dxRk1uRk0yT09ILVlDQWJvWjB2T25QOXJQQWxzRXpnUkxMT254SDhm?oc=5"
+          },
+          {
+            "name": "NIQ",
+            "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOUHgtYVZQVUxjdzB2cFRrOFNOQW9RWGhGWGlHc19ZMXVBZkFOTmdDRGpLQm5HZmJrQWFMdmM2ZzkxaHpmeHF4MWxkSng2TUNVRmQtYndqcjZpdWpNQThFWDRMaTNISlM1d1dwbXVKeXRzWjdYR3VGTjBiRDNDWVZlc3hpV2Q5ekgybUpMbkhHdmV6Q0g0NU0xb0tTcjB0NWcyNW4yVG1DZjZoYnVISFdBSzVOT3BaTzFGT1d3cXRHQWJHbkJVSGlyWjF4ZEg?oc=5"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "date": "2026-08-06",
     "zh_summary": "今日零售与餐饮业动态：星巴克关闭西雅图办公楼门店，Brevato Coffee在利默里克开设新店，同时食品品牌通过烘焙灵感口味进行创新，且英国非酒精饮料通胀率达到4.4%。",
     "en_summary": "Today's retail and F&B updates: Starbucks closes a store in a Seattle office tower, Brevato Coffee opens a new location in Limerick, food brands innovate with bakery-inspired flavors, and non-alcoholic beverage inflation in Great Britain reaches 4.4%.",

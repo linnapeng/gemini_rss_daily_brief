@@ -1,5 +1,66 @@
 [
   {
+    "date": "2026-08-08",
+    "zh_summary": "今日简报涵盖了星巴克中国前CEO的人事变动、英国消费品通胀数据以及餐饮行业的季节性创新趋势。",
+    "en_summary": "Today's brief covers the leadership appointment of the former Starbucks China CEO, consumer goods inflation in Great Britain, and seasonal innovation trends in the foodservice industry.",
+    "items": [
+      {
+        "zh_head": "恒隆集团任命星巴克中国前CEO蔡德粦为新任首席执行官",
+        "en_head": "Hang Lung Group appoints former Starbucks China CEO Leo Tsoi as new CEO",
+        "zh_fact": "恒隆集团及恒隆地产宣布任命蔡德粦（Leo Tsoi）为新任首席执行官，他此前曾担任星巴克中国首席执行官。",
+        "en_fact": "Hang Lung Group and Hang Lung Properties have appointed Leo Tsoi, the former CEO of Starbucks China, as their new Chief Executive Officer.",
+        "zh_why": "此举标志着恒隆在零售与品牌运营领域引入了具有深厚餐饮与消费品牌背景的领导者。",
+        "en_why": "This move signals Hang Lung's focus on bringing in leadership with deep experience in the food, beverage, and consumer brand sectors for its retail operations.",
+        "insight_zh": "零售地产商通过引入餐饮零售背景的高管，旨在加强其商业综合体的品牌吸引力与运营深度。",
+        "insight_en": "Retail property developers are increasingly hiring executives with F&B retail backgrounds to enhance the brand appeal and operational depth of their commercial complexes.",
+        "zh_watch": "蔡德粦上任后对恒隆零售组合的战略调整。",
+        "en_watch": "Strategic adjustments to Hang Lung's retail portfolio under Tsoi's leadership.",
+        "sources": [
+          {
+            "name": "The Standard (HK)",
+            "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRzBSWUlIXzJqR2RYRFpLRkV4eGZDRHJmOENVaGo4S1VBNDlCa2VWdmdqWkhkbUgtT29qQ1lTQ1RSTTIxeWE5UkxhcTFFTEdjcWRUdm1rRVJqU0F4U3Zkc3dYM1lmSU9ueUJGZnlpM3dzRlA2cG1HdllYQzRMOXdyWnR5MlZsckVDeElBUFpxakYtejEwSVlVenBtU193WE9fbDFaZUJHeFdsSFd6bmhrbmtVMmU?oc=5"
+          }
+        ]
+      },
+      {
+        "zh_head": "英国消费品通胀率达2.3%，非酒精饮料价格上涨4.4%",
+        "en_head": "Great Britain's consumer goods inflation at 2.3%; non-alcoholic beverages up 4.4%",
+        "zh_fact": "最新数据显示，英国消费品通胀率为2.3%，其中非酒精饮料类别的价格涨幅达到4.4%。",
+        "en_fact": "Recent data indicates that consumer goods inflation in Great Britain is 2.3%, with non-alcoholic beverages experiencing a 4.4% price increase.",
+        "zh_why": "该数据反映了当前英国零售市场在非酒精饮料领域的成本压力与定价趋势。",
+        "en_why": "This data reflects current cost pressures and pricing trends within the non-alcoholic beverage segment of the British retail market.",
+        "insight_zh": "",
+        "insight_en": "",
+        "zh_watch": "饮料品牌如何应对持续的通胀压力及其对消费者购买行为的影响。",
+        "en_watch": "How beverage brands navigate persistent inflationary pressures and the impact on consumer purchasing behavior.",
+        "sources": [
+          {
+            "name": "Stock Titan",
+            "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWHVSakhzTGVDdk9YbkUtZmc0aFF4VkpONU00SldkVnBPeHMtb2dnUHFwa1pLYXRhWFdLN29hbXo2VWRzWWpHNWEwalBld1VzZ3pvZXNOY1c3Y2w3MHRBbTZFWElJc3RYUTBTb1pHOUtnU0tQa2RLWXRiRy1oOFdzN09tNFFmNWwzU1Izc1dNY1dxRk1uRk0yT09ILVlDQWJvWjB2T25QOXJQQWxzRXpnUkxMT254SDhm?oc=5"
+          }
+        ]
+      },
+      {
+        "zh_head": "餐饮服务行业聚焦季节性创新",
+        "en_head": "Foodservice industry focuses on seasonal innovation",
+        "zh_fact": "餐饮服务行业正通过推出季节性新品来推动市场创新，以适应不断变化的消费者需求。",
+        "en_fact": "The foodservice industry is driving market innovation through the introduction of seasonal new products to meet evolving consumer demands.",
+        "zh_why": "季节性产品是餐饮连锁店吸引客流和提升品牌活力的关键策略。",
+        "en_why": "Seasonal offerings are a key strategy for restaurant chains to drive foot traffic and enhance brand vitality.",
+        "insight_zh": "",
+        "insight_en": "",
+        "zh_watch": "餐饮企业在季节性菜单开发上的投入产出比。",
+        "en_watch": "The return on investment for foodservice companies regarding seasonal menu development.",
+        "sources": [
+          {
+            "name": "meat+poultry",
+            "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNOWNIcnRndDNzaXhIWHBNTG1yc2I3UFBmVnQwNkRPeVVURGJ4UWJwZDNVNHdoQl9maXpRMzkzX1VULWhDUjhiYzEtbkhQdGJLbEx2clRJeUd3YXhMa190ZUsyUjU4UHpQYXdSNkJnMTlObW0xdjFOdk8yelFxMTdBWFRUM2ZTbmRRY2NRVEJkcW8?oc=5"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "date": "2026-08-07",
     "zh_summary": "今日商业简报涵盖了星巴克中国的人事变动、印度快消品市场的扩张计划以及英国快消品行业的通胀情况。",
     "en_summary": "Today's business brief covers leadership changes at Starbucks China, expansion plans in the Indian FMCG market, and inflation trends within the UK's FMCG sector.",

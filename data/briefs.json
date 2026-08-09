@@ -1,5 +1,66 @@
 [
   {
+    "date": "2026-08-09",
+    "zh_summary": "今日零售与餐饮行业动态：Popeyes印度推出新款Paneer汉堡系列，Dutch Bros上调2026年业绩预期并加码得来速门店扩张，同时印度食品饮料企业因FSSAI监管趋严正面临产品合规调整。",
+    "en_summary": "Today's retail and F&B updates: Popeyes India launches a new Paneer burger range, Dutch Bros raises its 2026 outlook alongside drive-thru expansion, and Indian food and beverage firms are recalibrating products due to stricter FSSAI regulations.",
+    "items": [
+      {
+        "zh_head": "Popeyes印度推出新款Paneer汉堡系列",
+        "en_head": "Popeyes India Launches New Paneer Burger Range",
+        "zh_fact": "Popeyes印度宣布推出其有史以来规模最大的Paneer（印度奶酪）汉堡系列，并引入了新的大胆口味。",
+        "en_fact": "Popeyes India has launched its largest-ever Paneer burger range, featuring new bold flavors.",
+        "zh_why": "此举旨在通过本土化口味创新吸引印度市场消费者。",
+        "en_why": "The move aims to attract Indian consumers through localized flavor innovation.",
+        "insight_zh": "国际快餐品牌通过针对特定市场的食材创新（如Paneer）来提升市场渗透率。",
+        "insight_en": "International fast-food brands are increasing market penetration through ingredient innovations tailored to specific markets, such as Paneer.",
+        "zh_watch": "该系列在印度市场的销售表现及消费者反馈。",
+        "en_watch": "Sales performance and consumer feedback for the new range in the Indian market.",
+        "sources": [
+          {
+            "name": "Indian Retailer",
+            "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNc3VOOGhsdXZBM2tCb1NJYnVNWmtVMUhpTVNaMHREYXAyV0REOTh5X3ZsV3FlWExxSHZtOEhhajFVVzFyZl9FZThHM2VZVldMMm85dENFRFA4TWV6ZmdkUVNuR2JuRE5oSTdneWtzVDZ2NUREcVBtXzZHR1V4MDlna3U5NDVGNnk3aTJwbUxWT1hnNmFlQU5LdDFRbzJ0b1NLcDJMRkJ2M2M4OFZa?oc=5"
+          }
+        ]
+      },
+      {
+        "zh_head": "Dutch Bros上调2026年业绩预期并扩张得来速门店",
+        "en_head": "Dutch Bros Raises 2026 Outlook and Expands Drive-Thru Footprint",
+        "zh_fact": "咖啡连锁品牌Dutch Bros上调了2026年全年业绩预期，并正在通过收购得来速门店来加速扩张战略。",
+        "en_fact": "Coffee chain Dutch Bros has lifted its 2026 full-year outlook and is accelerating its expansion strategy by acquiring drive-thru locations.",
+        "zh_why": "公司正通过优化门店模式和提升运营效率来应对增长需求。",
+        "en_why": "The company is addressing growth demands by optimizing its store model and enhancing operational efficiency.",
+        "insight_zh": "得来速模式在咖啡零售中展现出极高的运营韧性与扩张潜力。",
+        "insight_en": "The drive-thru model continues to demonstrate high operational resilience and expansion potential in coffee retail.",
+        "zh_watch": "收购门店后的整合效果及后续财务表现。",
+        "en_watch": "Integration results following the acquisitions and subsequent financial performance.",
+        "sources": [
+          {
+            "name": "simplywall.st",
+            "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPeFQwb0tDNGtOYlBzTGtuOVZSZXlnQzZycGlIY285Z2hWTVRDamoyX2FRdTRjTVJCYWpKV0xwQlJsYzNyUHluN21oOEkwakhZQnN0TGtiLUhjb0hXQ0JTbWhNRjJSRHBnRGVsaHRFMUdQbkJvR1dpTl9fWjVWekgxNGFib2l0YW5hOWQwa1VXbXVCampwRU5nNE5mSTdSOG9vRmZSdTVaZl84eURaVEk4Q3B6NmJOeXJPdGZxRWdHd1I4VW02Y1BRM1JIc0szYkc0cUI3NHlXY9IB1wFBVV95cUxPeFQwb0tDNGtOYlBzTGtuOVZSZXlnQzZycGlIY285Z2hWTVRDamoyX2FRdTRjTVJCYWpKV0xwQlJsYzNyUHluN21oOEkwakhZQnN0TGtiLUhjb0hXQ0JTbWhNRjJSRHBnRGVsaHRFMUdQbkJvR1dpTl9fWjVWekgxNGFib2l0YW5hOWQwa1VXbXVCampwRU5nNE5mSTdSOG9vRmZSdTVaZl84eURaVEk4Q3B6NmJOeXJPdGZxRWdHd1I4VW02Y1BRM1JIc0szYkc0cUI3NHlXYw?oc=5"
+          }
+        ]
+      },
+      {
+        "zh_head": "印度食品饮料企业面临FSSAI监管压力",
+        "en_head": "Indian F&B Firms Face Regulatory Pressure from FSSAI",
+        "zh_fact": "受印度食品安全标准局（FSSAI）近期监管行动影响，多家食品饮料企业被迫重新审视其产品配方与合规性。",
+        "en_fact": "Following recent regulatory actions by the Food Safety and Standards Authority of India (FSSAI), several food and beverage firms are being forced to revisit their product formulations and compliance.",
+        "zh_why": "监管机构对食品安全标准的严格执行要求企业进行产品调整。",
+        "en_why": "Strict enforcement of food safety standards by the regulator is requiring companies to make product adjustments.",
+        "insight_zh": "监管环境的变化正迫使食品行业从单纯的规模扩张转向更注重合规与产品质量的稳健增长。",
+        "insight_en": "Shifting regulatory environments are forcing the food industry to pivot from pure scale expansion toward robust growth focused on compliance and product quality.",
+        "zh_watch": "行业内产品配方调整的广度及对市场供应的影响。",
+        "en_watch": "The breadth of product reformulation across the industry and its impact on market supply.",
+        "sources": [
+          {
+            "name": "The Economic Times",
+            "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQZHZtSW1MUVZabklDblRDNXplTVZxSnpnMmZfZVNpcm02THlGR0VCclRaZ0NLbUhBRDhEaldpTnZNcFExMWI1by1ERjRkcTZZZjQ4bUR3OERnbzVjVDdjR0dQeHcyazIwYWV1dzR1RWZ4c0stZlZxTjh4WjZwNVAtWVlwNzhMMndENExlSmp4UTJpV21YenZoRGFkaU1ydkVGVEQyZVVlWnVQNTB1RWxvX3lVYmRWZnlJWmJBdFhwMW0tN2hjcXVSejJkX3pwR19GLXJ0VWprOUMtcXY4MWfSAeMBQVVfeXFMTkl4S2VwRWdwX2hRLVlNMThIX2U1Mk9DWERHVW1MUVJNQV9nczJPYkp0YVBmcFJBcWdJcmlXMzkyejBaZUNucEJuTEVZdGRiZ3VlUU1zYXhNd0xDeld6NUxLaXpYM1RQVVE3LWtpVHBhaE0yRmVqVHJ6U2IwSlZiWTRib2QtUkx5SGl2N0pqYkVCSTZFd25HNE1zbS1GRXJJd3hPQWxhanJnZElMNlhtYXNaYUFWcVhITjhxRjR5UTl5SlVRUnhTZk1wRjVIYzRfLUhYQV9kU2F0YXFRRVh3X0dGcVU?oc=5"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "date": "2026-08-08",
     "zh_summary": "今日简报涵盖了星巴克中国前CEO的人事变动、英国消费品通胀数据以及餐饮行业的季节性创新趋势。",
     "en_summary": "Today's brief covers the leadership appointment of the former Starbucks China CEO, consumer goods inflation in Great Britain, and seasonal innovation trends in the foodservice industry.",

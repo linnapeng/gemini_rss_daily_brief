@@ -1,5 +1,66 @@
 [
   {
+    "date": "2026-08-11",
+    "zh_summary": "今日商业简报涵盖了咖啡与烘焙行业的创新、快消品（FMCG）市场的动态以及品牌零售策略的调整。",
+    "en_summary": "Today's business brief covers innovations in the coffee and bakery sectors, dynamics in the FMCG market, and shifts in retail and brand strategies.",
+    "items": [
+      {
+        "zh_head": "MilkLab 进入新西兰市场",
+        "en_head": "MilkLab Enters New Zealand Market",
+        "zh_fact": "咖啡奶品牌 MilkLab 已正式进入新西兰，旨在挖掘当地不断增长的家庭咖啡消费市场。",
+        "en_fact": "Coffee milk brand MilkLab has officially entered New Zealand, aiming to tap into the burgeoning in-home coffee market.",
+        "zh_why": "该举措反映了品牌通过扩展地理版图以捕捉家庭咖啡消费趋势的战略。",
+        "en_why": "This move reflects a strategy to capture in-home coffee consumption trends by expanding the brand's geographical footprint.",
+        "insight_zh": "家庭咖啡市场的增长正促使专业乳制品品牌寻求新的零售渠道。",
+        "insight_en": "Growth in the in-home coffee market is driving specialized dairy brands to seek new retail channels.",
+        "zh_watch": "新西兰消费者对高端咖啡奶产品的接受度。",
+        "en_watch": "Consumer reception of premium coffee milk products in New Zealand.",
+        "sources": [
+          {
+            "name": "Inside FMCG",
+            "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPekJzMUE5UUVKMHBqeFdnWEdBYy1pa2NHbE5OckVFM2oyV29HdjYteFJlYzRSQWU0LURQeXlmaDNkTHFDZmRhSUQ2eGg5b2s3RjhyLWNYX245QWxmZklOazQtYmZzNnAtZlRVbmJnc1hMd29iVVh3ME9rcmRTczJseWJvMTc3YVpia2owRmx3aHRQMnlMSlp6MjFxS0doVlJ3ZnBfbTJ3?oc=5"
+          }
+        ]
+      },
+      {
+        "zh_head": "GEN Restaurant Group 消费品销售激增",
+        "en_head": "GEN Restaurant Group Sees CPG Sales Surge",
+        "zh_fact": "GEN Restaurant Group 报告称其消费品（CPG）销售额激增 341%，并计划将其 Costco 合作范围扩大至超过 100 家门店。",
+        "en_fact": "GEN Restaurant Group reported a 341% surge in CPG sales and plans to expand its Costco commitments to over 100 warehouses.",
+        "zh_why": "通过零售渠道（如 Costco）的扩张，餐饮品牌正在成功实现收入来源的多元化。",
+        "en_why": "Restaurant brands are successfully diversifying revenue streams through expansion into retail channels like Costco.",
+        "insight_zh": "餐饮企业正通过将核心产品转化为零售包装商品来提升品牌影响力和盈利能力。",
+        "insight_en": "Restaurant businesses are leveraging their core products into retail-packaged goods to enhance brand reach and profitability.",
+        "zh_watch": "该品牌在零售渠道的持续扩张能力及其对整体利润的贡献。",
+        "en_watch": "The brand's ability to sustain retail expansion and its contribution to overall profitability.",
+        "sources": [
+          {
+            "name": "Pulse 2.0",
+            "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOOVozNjVfOUJxcjFjdWJXZXJnZmNfcHJBQVYxVVBJWXc2eFdrdElpRmlLLUJvRlRKWFFaUWlJTkRYR05yS0U3bHQzX2piQXllUEFBOHRZS1RCaWFKZnR2R3F6TVlaUXc1dmhlWGtFU3A3bld0eWplY3pjZU14eDMyZUtJQzd1WmZBZVhIRi04eGVhbWVuMFlQZHRiMy1OMGxGS19mUG9uMUJCOUlxVEk4Rm41Uk9jLVUw0gG-AUFVX3lxTFA3VFRjekRqN0N6QXM4VnBNQmpVemtMNEZ1VzAyTVFsVnBOZEl3SGYyNkdNcVd6VFpHMlc4TllYVzk4cDZudVdHVklUOWFLYkt4c0pfSVZVTnBmdDAyQy1zQ0tGYnJIZjRYbFIzU2dwclRNZ0QyRzFHVENmSWpzM0pIaEc0cFM5Y1ozcERTTkl2WmY5UkZUTHJNMWZ0OWtIelQwenpUOGlRUUw1XzlPdWxSNFBYMG0xV1ZVa1dta1E?oc=5"
+          }
+        ]
+      },
+      {
+        "zh_head": "哈瑞宝（Haribo）开设首批美国零售店",
+        "en_head": "Haribo Launches First-Ever U.S. Retail Stores",
+        "zh_fact": "糖果品牌哈瑞宝（Haribo of America）已正式开设其在美国的首批零售门店。",
+        "en_fact": "Confectionery brand Haribo of America has officially launched its first-ever retail stores in the United States.",
+        "zh_why": "此举标志着该品牌从传统的批发分销模式向直接面向消费者（DTC）零售体验的战略转型。",
+        "en_why": "This move marks a strategic shift for the brand from traditional wholesale distribution to direct-to-consumer (DTC) retail experiences.",
+        "insight_zh": "通过开设实体店，快消品牌能够更好地控制品牌形象并直接收集消费者反馈。",
+        "insight_en": "By opening physical stores, FMCG brands can better control brand image and directly gather consumer feedback.",
+        "zh_watch": "哈瑞宝零售店在美国市场的扩张速度及消费者参与度。",
+        "en_watch": "The pace of Haribo's retail expansion in the U.S. market and consumer engagement levels.",
+        "sources": [
+          {
+            "name": "Snack Food & Wholesale Bakery",
+            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaERYMjVLYVdVVF9iWjlfRjA5SUhaM3FoS1Ftb3ZNOFNJME9fOC1rd3cxQ084d3JmMzVQYWJ5dU85VHo5NzRad3JpVDQ1N0VwWkJIckVSaFhpQ1ZXY0FYTnIzamI5T0NIMXRHQmZOMXpoYkIzRmlOYkhTZmhLZTlzb0Jpa1BtNzlDNjdmU05odERuNDBuT2FsVF9sN0l3TUlBRjNHODFhNnY?oc=5"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "date": "2026-08-10",
     "zh_summary": "快速消费品行业因持续的投入成本压力计划提价，同时餐饮连锁品牌继续通过产品创新吸引消费者。此外，企业正通过战略收购和业务扩张来增强市场竞争力。",
     "en_summary": "The FMCG sector is planning price hikes due to persistent input cost pressures, while QSR chains continue to drive consumer engagement through product innovation. Meanwhile, companies are leveraging strategic acquisitions and expansion to bolster market competitiveness.",

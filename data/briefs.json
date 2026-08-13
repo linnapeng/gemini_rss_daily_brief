@@ -1,5 +1,70 @@
 [
   {
+    "date": "2026-08-13",
+    "zh_summary": "今日简报涵盖咖啡连锁店的创新与数字化策略、食品饮料行业的营销趋势以及零售业的运营动态。",
+    "en_summary": "Today's brief covers innovation and digital strategies in coffee chains, marketing trends in the food and beverage industry, and operational updates in retail.",
+    "items": [
+      {
+        "zh_head": "Black Sheep Coffee推出“液体曲奇”饮品",
+        "en_head": "Black Sheep Coffee launches Liquid Cookie drink",
+        "zh_fact": "Black Sheep Coffee推出了名为“液体曲奇”（Liquid Cookie）的新品，将甜点元素融入饮品中。",
+        "en_fact": "Black Sheep Coffee has launched a new product called 'Liquid Cookie,' incorporating dessert elements into a beverage.",
+        "zh_why": "此举旨在通过产品创新吸引寻求甜点体验的消费者，丰富其饮品菜单。",
+        "en_why": "This move aims to attract consumers seeking dessert experiences through product innovation and expand their beverage menu.",
+        "insight_zh": "咖啡连锁店正通过模糊饮品与甜点的界限来提升产品的差异化竞争力。",
+        "insight_en": "Coffee chains are enhancing product differentiation by blurring the lines between beverages and desserts.",
+        "zh_watch": "关注此类跨界创新是否能有效提升客单价及复购率。",
+        "en_watch": "Monitor whether such cross-category innovations effectively increase average transaction value and repeat purchase rates.",
+        "sources": [
+          {
+            "name": "QSR Media UK",
+            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTUZUODgyZ2ZTUkp1T3R2aDM4aXZCTTB5ZTBVYklERkRWdXNYMEV5dGx2SGpvYnFTWktzS2ZaUFhDdmlzMlVFNnVDNm4xbk4xODBxU1JocHRxSFZWWXpDeHIxZmNnSVl2bV9pczlkSjdxY19wUm41TXRPa2tDOUt2YTdkald1VHJJeFpCSlBDdDA2UFNfWUtxczJ6OGZQaWd2MHhxU1llem0?oc=5"
+          }
+        ]
+      },
+      {
+        "zh_head": "7 Brew利用新应用程序效仿星巴克忠诚度模式",
+        "en_head": "7 Brew uses new app to follow Starbucks loyalty playbook",
+        "zh_fact": "咖啡连锁品牌7 Brew发布了一款新应用程序，旨在通过数字化手段提升客户忠诚度并推动销售增长。",
+        "en_fact": "Coffee chain 7 Brew has released a new app aimed at boosting customer loyalty and driving sales growth through digital means.",
+        "zh_why": "该策略旨在复制星巴克成功的数字化会员体系，以增强用户粘性。",
+        "en_why": "The strategy aims to replicate Starbucks' successful digital loyalty program to enhance user retention.",
+        "insight_zh": "数字化会员体系已成为咖啡连锁店维持竞争力的标配工具。",
+        "insight_en": "Digital loyalty programs have become a standard tool for coffee chains to maintain competitiveness.",
+        "zh_watch": "观察该应用在提升用户活跃度方面的实际转化效果。",
+        "en_watch": "Observe the actual conversion results of the app in terms of increasing user engagement.",
+        "sources": [
+          {
+            "name": "International Business Times Australia",
+            "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5DQzE5SU9fOS1pVklhVHlma1ZFOVhGVDlZaW9FS3lDXzlKN2ZkZWVUQXVteXMzamNhN2kwVkY4aWJlMHQtc0djbjdpNjhuQ1VVREpZbVV1Q0ZuSHp5MDNYYzVYbXFKSEtVODZwWXVjdWY1RndXR1lnR05B?oc=5"
+          }
+        ]
+      },
+      {
+        "zh_head": "Seedlab Australia警告食品饮料品牌存在“蛋白质洗白”现象",
+        "en_head": "Seedlab Australia warns FMCG brands against 'protein washing'",
+        "zh_fact": "Seedlab Australia对快速消费品（FMCG）行业中出现的“蛋白质洗白”（protein washing）现象提出警告。",
+        "en_fact": "Seedlab Australia has issued a warning regarding the phenomenon of 'protein washing' in the fast-moving consumer goods (FMCG) industry.",
+        "zh_why": "该机构指出部分品牌在营销中过度夸大蛋白质含量，可能误导消费者。",
+        "en_why": "The organization points out that some brands may be misleading consumers by exaggerating protein content in their marketing.",
+        "insight_zh": "随着健康消费趋势的兴起，品牌营销合规性与透明度面临更严格的审视。",
+        "insight_en": "With the rise of health-conscious consumption, marketing compliance and transparency are facing stricter scrutiny.",
+        "zh_watch": "关注监管机构或行业协会是否会针对此类营销行为出台更具体的指导规范。",
+        "en_watch": "Monitor whether regulators or industry associations will introduce more specific guidelines regarding such marketing practices.",
+        "sources": [
+          {
+            "name": "Convenience & Impulse Retailing",
+            "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSkpNSzhzU081cE9ZUDdfSWRaS3pOOERUUGZTeUg5NEFqczZCVGdWQnhMMnd2V3pucWlqc3JsdS1lUmp6d0RTNnZRdlpuR1YwbHozVWNla2tsbDV3d3ZtLWdFdmpWS0JYVjVuN3VJS1M1TVZ3TVZxeW1ScWlqMmtJSDJrS3ZzZHh2UTRveUNjQ3E?oc=5"
+          },
+          {
+            "name": "Food & Drink Business",
+            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPN0tZUUEweXVRX1pnNUdIaG1MZzVYdlBvMEF2UHZVQnk4dnI5MlpTYTdZMy10cXNOT0tBZUg1YUNpTlVodmljcThSRk5IcDF3a0lqbWM1QjZpc3QwVmg2Rm9aMHoxQ3ByQjJYUWV4bnN1UjJYbnQwUV9EMkpoUTZxbC1ITTQ1VHlsV285cmQwdTE2c3psT0Rv?oc=5"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "date": "2026-08-11",
     "zh_summary": "今日商业简报涵盖了咖啡与烘焙行业的创新、快消品（FMCG）市场的动态以及品牌零售策略的调整。",
     "en_summary": "Today's business brief covers innovations in the coffee and bakery sectors, dynamics in the FMCG market, and shifts in retail and brand strategies.",

@@ -1,5 +1,66 @@
 [
   {
+    "date": "2026-08-14",
+    "zh_summary": "今日零售与餐饮行业动态：星巴克韩国强化“快速服务”以提升效率；Just Eat在欧洲市场部署AI语音助手；高木咖啡在檀香山开设快闪店。",
+    "en_summary": "Retail and F&B updates today: Starbucks Korea strengthens its 'fast serve' operations; Just Eat deploys AI voice assistants across Europe; Takagi Coffee launches a pop-up in Honolulu.",
+    "items": [
+      {
+        "zh_head": "星巴克韩国强化“快速服务”",
+        "en_head": "Starbucks Korea strengthens 'fast serve' service",
+        "zh_fact": "星巴克韩国正在加强其“快速服务”系统，旨在缩短高峰时段的餐饮供应时间。",
+        "en_fact": "Starbucks Korea is strengthening its 'fast serve' service to provide drinks and food faster during peak hours.",
+        "zh_why": "该举措旨在通过优化流程来应对高峰时段的客流压力，提升运营效率。",
+        "en_why": "The initiative aims to manage peak-hour traffic and improve operational efficiency by optimizing service workflows.",
+        "insight_zh": "餐饮连锁正通过流程数字化和精细化管理来缓解高峰期运营压力。",
+        "insight_en": "F&B chains are increasingly leveraging process digitization and refined management to alleviate operational pressure during peak periods.",
+        "zh_watch": "该服务模式在其他市场的推广潜力。",
+        "en_watch": "Potential for scaling this service model to other markets.",
+        "sources": [
+          {
+            "name": "매일경제",
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9YN09fQnZILWF4VnczV21OeC1SVW1FWkNFVm5xNUtmdFIyTE9sMTdjMnkzazVOWWFaMnBybFJ5WlRjQ01oaUVLLXlOM25mY1hmSFVB?oc=5"
+          }
+        ]
+      },
+      {
+        "zh_head": "Just Eat在欧洲部署AI语音助手",
+        "en_head": "Just Eat deploys AI voice assistant in Europe",
+        "zh_fact": "外卖平台Just Eat已在欧洲多个市场部署了AI语音助手技术。",
+        "en_fact": "Delivery platform Just Eat has deployed AI voice assistant technology across its European markets.",
+        "zh_why": "此举旨在通过自动化技术提升客户交互体验及订单处理效率。",
+        "en_why": "The move is intended to enhance customer interaction and order processing efficiency through automation.",
+        "insight_zh": "AI语音技术正成为外卖平台提升用户体验和降低人工成本的关键工具。",
+        "insight_en": "AI voice technology is becoming a key tool for delivery platforms to improve user experience and reduce labor costs.",
+        "zh_watch": "AI语音助手在不同语言环境下的准确率与用户接受度。",
+        "en_watch": "Accuracy and user adoption rates of the AI voice assistant across different linguistic markets.",
+        "sources": [
+          {
+            "name": "Retail Technology Innovation Hub",
+            "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPc0tpNVZHSlVJRE9JUjBhbUl4V0QyYVBQOHJSb0JjemkwU25JaXBHd1JRX2kwYmtDeUxvc21tcjVLS0Nod1ZuNHJsYTNzdE1qZEJWcDZ0T2dMX0pKRjJ2bm9obi1ZWS1Cc0QzT3NxZkxFU1lBUGwxeWt3VUgtSjQ0NmgwVFhnZVNHQTYxQURob3B6MHJiVDQ5VVUyS2dKejVuSHhqTHdGNU11UlVmQnRETlpYVXZZai1NX2hUQ3FZMzluVWJxS0RpUDdvaDlua18zZU1mbEY1aVNfNXNlQWZleXQ0Rlk4Zw?oc=5"
+          }
+        ]
+      },
+      {
+        "zh_head": "高木咖啡在檀香山开设快闪店",
+        "en_head": "Takagi Coffee opens pop-up in Honolulu",
+        "zh_fact": "日式咖啡品牌高木咖啡（Takagi Coffee）在檀香山开设了一家快闪店。",
+        "en_fact": "Japanese-style cafe brand Takagi Coffee has launched a new pop-up location in Honolulu.",
+        "zh_why": "品牌通过快闪店模式测试海外市场并提升品牌知名度。",
+        "en_why": "The brand is utilizing the pop-up model to test the overseas market and increase brand awareness.",
+        "insight_zh": "快闪店已成为餐饮品牌低成本进入新市场和吸引消费者的有效手段。",
+        "insight_en": "Pop-up stores have become an effective, low-cost strategy for F&B brands to enter new markets and engage consumers.",
+        "zh_watch": "该品牌未来在海外市场的长期扩张计划。",
+        "en_watch": "Future long-term expansion plans for the brand in overseas markets.",
+        "sources": [
+          {
+            "name": "Aloha State Daily",
+            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZDR2aFNIcFlMZzlYVTBJcjdRSE9UeG1YTGZMTUFQdWhld1l5eDUyLV9NcGdaLVVKVGozYkh0WUd5S19OLW1XRDhfcGsxa0J3a004bjRNNGd6NUVhVk84a1EybUY3WXMzYnZiRWZlWHRqa3FIaHV3ZGMxZlExaVQzdGV3d1k5TmNxYUUxTk9xMGVEZjlja2NuUWxEZ3l1ejdMb3J3?oc=5"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "date": "2026-08-13",
     "zh_summary": "今日简报涵盖咖啡连锁店的创新与数字化策略、食品饮料行业的营销趋势以及零售业的运营动态。",
     "en_summary": "Today's brief covers innovation and digital strategies in coffee chains, marketing trends in the food and beverage industry, and operational updates in retail.",

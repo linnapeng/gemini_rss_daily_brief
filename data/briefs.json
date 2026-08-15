@@ -1,5 +1,66 @@
 [
   {
+    "date": "2026-08-15",
+    "zh_summary": "今日零售与餐饮行业动态包括：Just Eat在欧洲市场部署AI语音助手以提升服务；Minor Food与Serruya Private Equity宣布收购Bonchon；以及Figaro Coffee推出受京都启发的抹茶与咖啡新品。",
+    "en_summary": "Today's retail and F&B highlights include: Just Eat deploying AI voice assistants across European markets; the acquisition of Bonchon by Minor Food and Serruya Private Equity; and Figaro Coffee launching new matcha and coffee drinks inspired by Kyoto.",
+    "items": [
+      {
+        "zh_head": "Just Eat 在欧洲市场部署 AI 语音助手",
+        "en_head": "Just Eat deploys AI voice assistant across European markets",
+        "zh_fact": "外卖平台 Just Eat 宣布在欧洲多个市场部署人工智能语音助手，旨在通过技术创新优化零售与餐饮服务流程。",
+        "en_fact": "Delivery platform Just Eat has announced the deployment of an AI voice assistant across European markets, aiming to optimize retail and F&B service processes through technological innovation.",
+        "zh_why": "此举反映了餐饮配送行业通过自动化技术提升运营效率和消费者交互体验的趋势。",
+        "en_why": "This move reflects a trend in the food delivery industry to enhance operational efficiency and consumer interaction through automation technology.",
+        "insight_zh": "AI 语音技术正在成为餐饮配送平台提升服务响应速度的关键工具。",
+        "insight_en": "AI voice technology is becoming a key tool for food delivery platforms to improve service response times.",
+        "zh_watch": "关注该技术在不同语言和市场环境下的实际应用效果。",
+        "en_watch": "Monitor the practical application effectiveness of this technology across different languages and market environments.",
+        "sources": [
+          {
+            "name": "Retail Technology Innovation Hub",
+            "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPc0tpNVZHSlVJRE9JUjBhbUl4V0QyYVBQOHJSb0JjemkwU25JaXBHd1JRX2kwYmtDeUxvc21tcjVLS0Nod1ZuNHJsYTNzdE1qZEJWcDZ0T2dMX0pKRjJ2bm9obi1ZWS1Cc0QzT3NxZkxFU1lBUGwxeWt3VUgtSjQ0NmgwVFhnZVNHQTYxQURob3B6MHJiVDQ5VVUyS2dKejVuSHhqTHdGNU11UlVmQnRETlpYVXZZai1NX2hUQ3FZMzluVWJxS0RpUDdvaDlua18zZU1mbEY1aVNfNXNlQWZleXQ0Rlk4Zw?oc=5"
+          }
+        ]
+      },
+      {
+        "zh_head": "Minor Food 与 Serruya Private Equity 将收购 Bonchon",
+        "en_head": "Minor Food, Serruya Private Equity to acquire Bonchon",
+        "zh_fact": "Minor Food 与 Serruya Private Equity 达成协议，将共同收购韩式炸鸡连锁品牌 Bonchon。",
+        "en_fact": "Minor Food and Serruya Private Equity have reached an agreement to jointly acquire the Korean fried chicken chain Bonchon.",
+        "zh_why": "此次收购标志着餐饮投资领域对全球化扩张潜力品牌的持续关注。",
+        "en_why": "This acquisition marks the continued interest in the F&B investment sector for brands with global expansion potential.",
+        "insight_zh": "跨国餐饮集团通过并购整合资源，以加速品牌在全球市场的布局。",
+        "insight_en": "Multinational F&B groups are leveraging M&A to consolidate resources and accelerate brand presence in global markets.",
+        "zh_watch": "关注收购完成后 Bonchon 的市场扩张策略及品牌运营调整。",
+        "en_watch": "Monitor Bonchon's market expansion strategy and brand operational adjustments following the acquisition.",
+        "sources": [
+          {
+            "name": "Khaosod English",
+            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUTl2U251Z0hmVFZqcWxFZ3hjdG10MGZfbjRxYTlWV3hvVmw1dEt1WjZ0UXg5UW55NWpfMlhRTWV5Y0VTZkgweTYxU1Q2NF9nRTNKb013NDJNQnhVVmJDZ0daT3NkeThPUEk3YjNLX0tIQnh6UndRWnA1c3JyV19EcFMza29hajdEVktycTBTZ1BJS0lSSzZRb191UjBSOG5CSEHSAacBQVVfeXFMT3pGSE91dHZoQ000eVZWTGV4Q3ZLYk91dG1RTTJLSkxNY3UzNVY3SERkMmJ2TDRpLVlla2ZGbGU3azVTNjduZ2dYSXdaR3NIUVFhZlpUZVNlR2g3LUVUWVRIRnN5dm1SdlF5YVdsNnlOTDdGbVRVXzdQNWdvVUZ6eTNjckpFdV83dHZseFNpd3V1NnZoUk1MOUFyNWNZdHZkQTJ2a0VFLUE?oc=5"
+          }
+        ]
+      },
+      {
+        "zh_head": "Figaro Coffee 推出京都风味新品",
+        "en_head": "Figaro Coffee’s newest drinks bring matcha, coffee, and a little Kyoto energy to your cup",
+        "zh_fact": "Figaro Coffee 近期推出了融合抹茶与咖啡元素的新品系列，主打京都风味特色。",
+        "en_fact": "Figaro Coffee has recently launched a new series of drinks blending matcha and coffee, featuring Kyoto-inspired flavors.",
+        "zh_why": "咖啡连锁店通过引入具有地域文化特色的创新饮品来吸引消费者并丰富菜单选择。",
+        "en_why": "Coffee chains are attracting consumers and diversifying their menus by introducing innovative drinks with regional cultural characteristics.",
+        "insight_zh": "将异国文化元素融入传统咖啡产品是提升品牌新鲜感和吸引力的有效手段。",
+        "insight_en": "Integrating exotic cultural elements into traditional coffee products is an effective way to enhance brand freshness and appeal.",
+        "zh_watch": "观察此类季节性或主题性新品对门店客流量的带动作用。",
+        "en_watch": "Observe the impact of such seasonal or thematic new products on store foot traffic.",
+        "sources": [
+          {
+            "name": "Inquirer.net",
+            "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdHNyOW9UQkhlLUh5dkhNYVBjYUdBUUlRdWlEZGdtZzM3SVRJaUtxWG9ZZHR2V2dScXBwb3lyNEVqNGZCZGg5ZE5KRGtJVi0xcTJYeVM0UTZKbVBRZmZlMGRKMV83T3NqM19DbllXdmRrUDFFVTFFNEV6U0pVbzZ1dHdybWxidHE2V1EtYjJBTnJYWDVmVE9aOFkzenJXNGR6aXRIVmFacHdHRy1OME5TWUhQWlZBNzNDWWfSAb8BQVVfeXFMT2xZSDdjSDl4MWR0bDNYSm9vQlBJVE1mOV9iLUhaV2p3RnhIbDhxNTd2TlZzUjNrQVBHOHdrSkZrRjlkajhDTVdBclFJaUw1VTVVMEhibTdyeFFhNUpSUHZpY0hRTlc5NmFYakhBdmdHdmlFREhEdFVQeXk0U0RJaFhBMHlGdVVQdVdBbnJTZ3BUbWM5ZzNYMTJnWGI1aHZMTnBib01YcF9fUGt1MGJqT3pHbWU1QllUVl81ZnlUbVk?oc=5"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "date": "2026-08-14",
     "zh_summary": "今日零售与餐饮行业动态：星巴克韩国强化“快速服务”以提升效率；Just Eat在欧洲市场部署AI语音助手；高木咖啡在檀香山开设快闪店。",
     "en_summary": "Retail and F&B updates today: Starbucks Korea strengthens its 'fast serve' operations; Just Eat deploys AI voice assistants across Europe; Takagi Coffee launches a pop-up in Honolulu.",

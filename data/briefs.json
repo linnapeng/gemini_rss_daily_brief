@@ -1,5 +1,66 @@
 [
   {
+    "date": "2026-08-16",
+    "zh_summary": "今日简报涵盖了食品饮料行业的最新动态，包括CJ CheilJedang在美国饺子市场的扩张、星巴克对客户服务战略的调整，以及费列罗收购Purely Elizabeth以加强早餐产品布局。",
+    "en_summary": "Today's brief covers key developments in the food and beverage sector, including CJ CheilJedang's expansion in the U.S. dumpling market, Starbucks' strategic shift toward customer service, and Ferrero's acquisition of Purely Elizabeth to bolster its breakfast portfolio.",
+    "items": [
+      {
+        "zh_head": "CJ CheilJedang扩大美国饺子产能",
+        "en_head": "CJ CheilJedang Expands U.S. Dumpling Production",
+        "zh_fact": "CJ CheilJedang目前在美国日产86万个饺子，并正在建设新工厂以巩固其市场领先地位。",
+        "en_fact": "CJ CheilJedang is currently producing 860,000 units of dumplings daily in the U.S. and is constructing a new plant to solidify its market-leading position.",
+        "zh_why": "该举措旨在应对美国市场对冷冻饺子持续增长的需求。",
+        "en_why": "The move is intended to meet the growing demand for frozen dumplings in the U.S. market.",
+        "insight_zh": "全球食品巨头正通过本地化生产设施来优化供应链并扩大市场份额。",
+        "insight_en": "Global food giants are optimizing supply chains and expanding market share through localized production facilities.",
+        "zh_watch": "新工厂投产后的产能提升及市场渗透率变化。",
+        "en_watch": "Capacity increases and market penetration changes following the new plant's operation.",
+        "sources": [
+          {
+            "name": "finance.biggo.com",
+            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5VOEFESmlVN1haWVd0V0QxbXcxT2M5SVBaUXlMcU9lQk1HaXJkMlhBN3FDRURWa25YS2JnejFWM0RFMXdIa1V6OVFSSlEtbW15bmRoaWE4TXhHY0h0b0JTTVQ3bm5NRWZjS2hzQUJCR3VseFY3bkE?oc=5"
+          }
+        ]
+      },
+      {
+        "zh_head": "星巴克CEO强调客户服务战略",
+        "en_head": "Starbucks CEO Emphasizes Customer Service Strategy",
+        "zh_fact": "星巴克CEO表示，公司正致力于成为一家“世界级客户服务”企业，以留住价格敏感型消费者。",
+        "en_fact": "The Starbucks CEO stated that the company is on its way to becoming a 'world-class customer service' company to retain cash-strapped consumers.",
+        "zh_why": "面对消费者的支出压力，星巴克试图通过提升服务体验来维持品牌忠诚度。",
+        "en_why": "Facing consumer spending pressure, Starbucks is attempting to maintain brand loyalty by enhancing the service experience.",
+        "insight_zh": "",
+        "insight_en": "",
+        "zh_watch": "该服务转型对门店运营效率及销售额的影响。",
+        "en_watch": "The impact of this service transformation on store operational efficiency and sales.",
+        "sources": [
+          {
+            "name": "Fortune",
+            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRjRqc19oNy0xalRDcVRTVUpFak02dFpMd2hFTnNRb1lta1lrRVo4a19OSHdGUW1uVUM2V3VGbHNvTF9FOWN0aFlaY3YyenlJcTBRSHZnOTFsMWtxdVpQdm8zeHVoVmR2ZEsyR0N6cEpLbnVoT2g3aHR0UHpvcTR4cHlnOWpvdzJLU2VLLTR3d0c1RTQ0OGp5ZUZlQ1k?oc=5"
+          }
+        ]
+      },
+      {
+        "zh_head": "费列罗收购Purely Elizabeth",
+        "en_head": "Ferrero to Acquire Purely Elizabeth",
+        "zh_fact": "费列罗宣布收购快速增长的食品品牌Purely Elizabeth，以加速其在美国早餐市场的布局。",
+        "en_fact": "Ferrero announced the acquisition of the fast-growing food brand Purely Elizabeth to accelerate its expansion into the U.S. breakfast market.",
+        "zh_why": "此举旨在通过收购成熟的健康早餐品牌来丰富其产品组合。",
+        "en_why": "The move aims to diversify its product portfolio by acquiring an established healthy breakfast brand.",
+        "insight_zh": "",
+        "insight_en": "",
+        "zh_watch": "收购完成后费列罗在早餐品类的市场整合表现。",
+        "en_watch": "Ferrero's market integration performance in the breakfast category following the acquisition.",
+        "sources": [
+          {
+            "name": "Pulse 2.0",
+            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPam1oOG5KZHdhREJNV1VMSnQxR2UtbkxfMEMyQVY5N0pGM1dkM1JtMC1LeDN4OTFzdnA1blN0ZWhWb2swTVk1Zjc1UEtfUWpWX1BTb1FBeFdFczVwUHZOYjV4Q3dLODNMOHN6dTlLRjBOM0xTcDh4ZEZfSWNHSnhqUk9SV2hScG1NRF9RWm5NTjBFenljM0dpaTNPRU9zOTY4bXFZYtIBqgFBVV95cUxNQTQ5bnVSM2czQXpEWWxBNGtueFdwREd2Q0JSZmx6dmtCUWUxRjd3bDR0MnFhSlNIXzU5Z1NiTnI3LXZiWEV4MGpQbDFTUUxZTzZFb1ppWUpmSjcwdnZoOFZ4MkJYanVOU3V0Q0UycTY5Z2phNDByOHgyUy1NY3V2Sm1ydDlrcTNiTm90akh0TUpFSV9obGdSUHBxdlBsTW1RVlY5MmlCZVR0dw?oc=5"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "date": "2026-08-15",
     "zh_summary": "今日零售与餐饮行业动态包括：Just Eat在欧洲市场部署AI语音助手以提升服务；Minor Food与Serruya Private Equity宣布收购Bonchon；以及Figaro Coffee推出受京都启发的抹茶与咖啡新品。",
     "en_summary": "Today's retail and F&B highlights include: Just Eat deploying AI voice assistants across European markets; the acquisition of Bonchon by Minor Food and Serruya Private Equity; and Figaro Coffee launching new matcha and coffee drinks inspired by Kyoto.",

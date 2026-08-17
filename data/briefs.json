@@ -1,5 +1,66 @@
 [
   {
+    "date": "2026-08-17",
+    "zh_summary": "今日简报涵盖了餐饮连锁的品牌扩张策略、食品饮料行业的营销趋势以及企业高层的人事变动。",
+    "en_summary": "Today's brief covers brand expansion strategies in restaurant chains, marketing trends in the food and beverage industry, and executive leadership changes.",
+    "items": [
+      {
+        "zh_head": "Dine Brands 旗下 IHOP 与 Applebee’s 双品牌门店数量激增",
+        "en_head": "Dine Brands Expands Dual-Branded IHOP-Applebee’s Locations",
+        "zh_fact": "Dine Brands 宣布其 IHOP 与 Applebee’s 双品牌门店数量已增长至 81 家，较此前规模近乎翻了两番。",
+        "en_fact": "Dine Brands announced that its dual-branded IHOP-Applebee’s locations have nearly quadrupled to 81 units.",
+        "zh_why": "该策略旨在通过共享空间提高运营效率并吸引更多客流。",
+        "en_why": "The strategy aims to improve operational efficiency and capture more foot traffic through shared spaces.",
+        "insight_zh": "餐饮连锁通过整合品牌资源进行空间优化，是当前应对租金与运营成本压力的重要手段。",
+        "insight_en": "Consolidating brand resources for space optimization is a key tactic for restaurant chains to manage rising rental and operational costs.",
+        "zh_watch": "关注该双品牌模式在不同市场的盈利表现。",
+        "en_watch": "Monitor the profitability of this dual-brand model across different markets.",
+        "sources": [
+          {
+            "name": "Pulse 2.0",
+            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOcDVIb1oxQVlROW1WbjhvY2ZqSmp3TDRkOUUyekhiSHZuMUZHSzRJblNFeHZZdkZkbklyajBvbmx5Ym55b2ZXUV9kREd6YXZIWFFKVC0xVEhDLWNBYzRqalVIRXBQWEhNQ0Q3QjgzYllfQjRMd2NIYU4yQmFDeTl0ekpZeHRkY08tNER4SmRrdm5tVFM2UzF30gGcAUFVX3lxTFA1WnRZdl9TcEsyX2x4eG1lZFE5LUdqTnROVURMS0hmSEZpaGwtTjhJVWI0UUo3Q2xCb2cxbjJaS3RlZWhab29tSTg0NmZtRk1WZnRMWG10blRWSFJkdXcxQ2IyekhvVGhzRGNLZ2lSZ0VnMG9EeDRuZXVzNFZ6OTBNdGVWSURKYkQxN05Jb3p6WDMxdDFrTHhDNjRmTQ?oc=5"
+          }
+        ]
+      },
+      {
+        "zh_head": "行业讨论：蛋白质宣称是否已过度使用？",
+        "en_head": "Industry Debate: Is Protein Becoming an Overused Claim?",
+        "zh_fact": "食品与饮料行业新闻指出，市场上针对“蛋白质”含量的营销宣称正面临过度使用的质疑。",
+        "en_fact": "Food & Beverage Industry News reports that marketing claims regarding protein content are facing scrutiny for being overused.",
+        "zh_why": "随着消费者对健康食品的需求增加，品牌纷纷在产品包装上强调蛋白质含量，导致该类宣称的边际效应递减。",
+        "en_why": "As consumer demand for healthy food rises, brands are increasingly highlighting protein content on packaging, leading to diminishing returns for such claims.",
+        "insight_zh": "过度营销可能导致消费者对特定营养标签产生审美疲劳，品牌需寻找新的差异化卖点。",
+        "insight_en": "Over-marketing may lead to consumer fatigue regarding specific nutritional labels, requiring brands to find new points of differentiation.",
+        "zh_watch": "观察未来食品包装是否会转向更具体的营养成分细分。",
+        "en_watch": "Observe if future food packaging shifts toward more specific nutritional ingredient segmentation.",
+        "sources": [
+          {
+            "name": "Food & Beverage Industry News",
+            "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5hRkFrVTk3THJEVnY5NURxU1lYaWNGaEN3RGlPZEY3MnlEX1V0LXpZNjJCWkFWWkJLbEt3eGdMS2ppMkhZSkY0XzM5YzlrUVVmbDRkN2FWaHFrQVVRekdaNGJaQ0dncTNHR3ZfNVZSNlUxX0ZLbVpwcnFYbw?oc=5"
+          }
+        ]
+      },
+      {
+        "zh_head": "Dave & Buster’s 任命 Amanda Busby 为首席运营官",
+        "en_head": "Amanda Busby Appointed as Chief Operating Officer of Dave & Buster’s",
+        "zh_fact": "Dave & Buster’s 正式宣布任命 Amanda Busby 为公司首席运营官（COO）。",
+        "en_fact": "Dave & Buster’s has officially announced the appointment of Amanda Busby as Chief Operating Officer.",
+        "zh_why": "此举旨在加强公司在餐饮娱乐领域的运营管理能力。",
+        "en_why": "This move is intended to strengthen the company’s operational management capabilities in the eatertainment sector.",
+        "insight_zh": "高层人事变动通常预示着公司在运营策略或扩张节奏上的调整。",
+        "insight_en": "Executive leadership changes often signal adjustments in a company's operational strategy or expansion pace.",
+        "zh_watch": "关注新任 COO 上任后对公司运营效率的改进举措。",
+        "en_watch": "Monitor the new COO's initiatives for improving operational efficiency.",
+        "sources": [
+          {
+            "name": "hrtoday.in",
+            "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUGVpMDFzMEljZ2h1TmFQY3BHeEFkNWF5bUcxTUZjMUFfcElQOTJhRUVVQ0F6cnFLSWNnQ2FabHRIQ2VnenoyQmdBWVFlbE4yZE9sWUg5MU0tTV9nWFRwVjhNU0diaXl2X3RhTWdrQmpldndrY1MtQ3lBVVVOeEJuSUc5R2Y?oc=5"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "date": "2026-08-16",
     "zh_summary": "今日简报涵盖了食品饮料行业的最新动态，包括CJ CheilJedang在美国饺子市场的扩张、星巴克对客户服务战略的调整，以及费列罗收购Purely Elizabeth以加强早餐产品布局。",
     "en_summary": "Today's brief covers key developments in the food and beverage sector, including CJ CheilJedang's expansion in the U.S. dumpling market, Starbucks' strategic shift toward customer service, and Ferrero's acquisition of Purely Elizabeth to bolster its breakfast portfolio.",

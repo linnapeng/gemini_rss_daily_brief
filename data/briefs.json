@@ -1,5 +1,66 @@
 [
   {
+    "date": "2026-08-18",
+    "zh_summary": "今日简报涵盖了餐饮零售领域的最新动态，包括星巴克在北美的销售表现、雀巢针对减肥药用户的新产品开发，以及京东在北京推出的无人咖啡店创新。",
+    "en_summary": "Today's brief covers the latest developments in the food and beverage retail sector, including Starbucks' sales performance in North America, Nestle's product development for weight-loss drug users, and JD.com's launch of an unmanned coffee shop in Beijing.",
+    "items": [
+      {
+        "zh_head": "星巴克凭借独角兽星冰乐创下北美销售纪录",
+        "en_head": "Starbucks Unicorn Frappuccino drives record North America sales weekend",
+        "zh_fact": "星巴克近期凭借独角兽星冰乐（Unicorn Frappuccino）的推广，在北美市场创下了周末销售纪录。",
+        "en_fact": "Starbucks achieved a record sales weekend in North America driven by the promotion of its Unicorn Frappuccino.",
+        "zh_why": "该产品作为夏季促销的一部分，成功吸引了消费者并推动了销售增长。",
+        "en_why": "The product, part of a summer promotion, successfully attracted consumers and boosted sales growth.",
+        "insight_zh": "季节性限定产品与社交媒体驱动的营销策略仍是咖啡连锁店提升短期销售的关键手段。",
+        "insight_en": "Seasonal limited-time offerings and social media-driven marketing remain key strategies for coffee chains to boost short-term sales.",
+        "zh_watch": "关注星巴克后续是否会将其作为常态化产品或继续依赖此类爆款策略。",
+        "en_watch": "Monitor whether Starbucks will integrate this as a permanent offering or continue to rely on such viral product strategies.",
+        "sources": [
+          {
+            "name": "Yahoo Finance UK",
+            "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQW93aDhXTm51T2xwQkhWbWFua0RSSmZYdXA4eGxjeXF4Ri1iRTNMaHdmRVNIRnBkX3lobkMwWEd6M1Z5YmV4OUt3Z0d5VEFKVzFGSFhraU9HSjh2UGZqdEdDWXZCS1VRU1FWaXlUd0F5NVB1bVlEdUc1MXdjQWc2cTgwbXhlR2J6eHByVkJJOWw1Ry1HazhUTVhzbjFNVXptODZla3FEYzA1NHdpVlM2SlpKZWN3V2R2Y0xJYQ?oc=5"
+          }
+        ]
+      },
+      {
+        "zh_head": "雀巢计划开发针对减肥药用户的新产品",
+        "en_head": "Nestle looks to develop new products to serve users of weight-loss drugs",
+        "zh_fact": "雀巢公司正在寻求开发新产品，旨在满足服用减肥药物（如GLP-1受体激动剂）的消费者需求。",
+        "en_fact": "Nestle is looking to develop new products aimed at meeting the needs of consumers taking weight-loss drugs, such as GLP-1 agonists.",
+        "zh_why": "随着减肥药物的普及，消费者对营养补充和饮食结构的需求发生了变化，雀巢希望抓住这一新兴市场机会。",
+        "en_why": "With the rise of weight-loss drugs, consumer needs for nutrition and dietary structure are shifting, and Nestle aims to capture this emerging market opportunity.",
+        "insight_zh": "食品巨头正积极调整产品组合以应对医疗干预对消费者饮食习惯的深远影响。",
+        "insight_en": "Food giants are actively adjusting their product portfolios to address the profound impact of medical interventions on consumer dietary habits.",
+        "zh_watch": "观察雀巢后续推出的具体产品线及其在健康食品市场的定位。",
+        "en_watch": "Observe the specific product lines Nestle launches and their positioning within the health food market.",
+        "sources": [
+          {
+            "name": "The Economic Times",
+            "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOeEpUSFZtaXdEZXVDMTB3emFuR0Q4VVd5MDFWdUk2SnQtZHhzZUhmdVpJY0dQdEYteC00emJIOHF0LWEyb05IYkNfb2lYVEg5aTljNDZvdTAyOS1FZkJKakZWQ3RpT2lnS3pZNG1zSUU4UThSbTVEd2VldC1aU3o4VWNXT0hidFRkLWZMSUw2SjdFMGxUMXlLb0VJRHc5d0l6MmNWR3Q5LWZuRTNNRlR4Nll4X1RhNFEtUGhieE5MSFBkeVJrR2E5WjdDSWRhaDZHRG9zR3d0dVd0enliOHNRVUFZTTV2aWQ1SGfSAe8BQVVfeXFMTkZDOFpJYlUtdkFzNEljYVc4X0ZteDh6LVAyU2FST3JSSVJINlQ0dXNaUXVHYkRFN1JqbDdHT1R1ZVBya0VXVGNnckY1eVRqVEZpUnRBZV9UMDhndXNIUUkwQ0tMb09HLUlJaFcwa0xZY2o4MkdwRk9XY3JYQ2VWbUpwSWVraTVFN3plVEN5NXAzVGY5MHBvcmswaWV5VWNBc29sRDE2WnZzR1lGaE0yRFRuR2dmYTV6Q3JSbFJMTEJVclRxMl9Fa1pGS19SNUVBc29fbmxRaFUwc0NRblVOQlVpM25CczRBTXBmcmQ0aWM?oc=5"
+          }
+        ]
+      },
+      {
+        "zh_head": "京东在北京开设24小时无人咖啡店",
+        "en_head": "JD.com launches 24-hour unmanned coffee shop in Beijing",
+        "zh_fact": "京东在北京推出了一家24小时无人咖啡店，该店在运营一小时内售出了202杯咖啡。",
+        "en_fact": "JD.com has launched a 24-hour unmanned coffee shop in Beijing, which served 202 cups of coffee in its first hour of operation.",
+        "zh_why": "此举旨在展示其零售技术能力，并探索无人零售在餐饮场景中的应用效率。",
+        "en_why": "This move aims to showcase its retail technology capabilities and explore the efficiency of unmanned retail in food and beverage scenarios.",
+        "insight_zh": "无人零售技术在快节奏城市环境中的应用正从单纯的零售货架向即时餐饮服务延伸。",
+        "insight_en": "The application of unmanned retail technology in fast-paced urban environments is extending from simple retail shelves to instant food and beverage services.",
+        "zh_watch": "关注该模式的运营成本及在更多城市区域的推广潜力。",
+        "en_watch": "Monitor the operational costs of this model and its potential for expansion into more urban areas.",
+        "sources": [
+          {
+            "name": "globaltimes.cn",
+            "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1neXlyVVQ1aG13aWtPcUpwNGhWdXVWT2tZLVlfSko3cHdPdzBYaG00QnJzTDN0S3pQSHpVN3BHZlpHcmVSM3MyekY2QUhERzR6SmUwMm9sTlRvQUdsQXMtSmp3?oc=5"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "date": "2026-08-17",
     "zh_summary": "今日简报涵盖了餐饮连锁的品牌扩张策略、食品饮料行业的营销趋势以及企业高层的人事变动。",
     "en_summary": "Today's brief covers brand expansion strategies in restaurant chains, marketing trends in the food and beverage industry, and executive leadership changes.",

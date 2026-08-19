@@ -1,5 +1,66 @@
 [
   {
+    "date": "2026-08-19",
+    "zh_summary": "今日简报涵盖了零售与餐饮行业的最新动态，包括京东开设首家无人咖啡店、雀巢利用AI开发针对减重药物使用者的产品，以及零售商Weigel's引入AI驱动的销售平台。",
+    "en_summary": "Today's brief covers key developments in retail and F&B, including JD.com's launch of its first unmanned coffee shop, Nestlé's use of AI to target weight-loss drug users, and Weigel's implementation of an AI-driven POS platform.",
+    "items": [
+      {
+        "zh_head": "京东开设首家无人咖啡店",
+        "en_head": "JD.com launches first unmanned coffee shop",
+        "zh_fact": "京东已正式推出其首家无人咖啡店。",
+        "en_fact": "JD.com has officially launched its first unmanned coffee shop.",
+        "zh_why": "此举标志着京东在零售自动化和无人化运营领域的进一步探索。",
+        "en_why": "This move marks a further exploration by JD.com into retail automation and unmanned operations.",
+        "insight_zh": "无人零售技术正从简单的货架向复杂的餐饮服务场景延伸。",
+        "insight_en": "Unmanned retail technology is extending from simple shelves to complex food and beverage service scenarios.",
+        "zh_watch": "关注无人咖啡店的运营效率及消费者接受度。",
+        "en_watch": "Monitor the operational efficiency and consumer acceptance of the unmanned coffee shop.",
+        "sources": [
+          {
+            "name": "The Manila Times",
+            "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcW9ZNmdzM2NoSzg3aVNCT1JhUmQ5TDNqczZjX21UbGNfU1ljdXFFUm14YUNpSjVRUlBMR1lKSlptaGYyR1U1NlRmeFkwNEF0T2JxdU9CamhFY2J2VERVV1V0Zy1mbUpmckcwWThpTjRxNExnd1hkaHpXVE1OejQxUFZ4Vkcyb05zWnlEMHVKTHh2QkgwV2JYRVlfTU1pWTEwNEtsYzVqTWZGV0FDdEpUME9hZjXSAboBQVVfeXFMUG9XTHkwV0ZaLVFYd05vWlZLVGpqOVZvVGxvcXdJX2JxR0ZycG9RLWVXbjY2TzhIa1FEVlB5X1NGS29aRV9qUEJvQ1dCVmtxU0hKcGhJNzd0SGNkNld5bFExTmhvOWJtQ2piUXI5b093V0hHc20tU0QwdC0ycG13OHRJME9jLXZTX1pEM0ZxV0I0NUFMcHRyUVhnUVlkOXpIaDl6WS1CVk1RVHl4bGtHME4tMDVJSHZ1cm13?oc=5"
+          }
+        ]
+      },
+      {
+        "zh_head": "雀巢利用AI开发针对减重药物使用者的产品",
+        "en_head": "Nestlé targets weight-loss drug users with AI-driven products",
+        "zh_fact": "雀巢正在利用人工智能驱动的产品开发和消费者模拟技术，以满足使用减重药物人群的特定营养需求。",
+        "en_fact": "Nestlé is leveraging AI-driven product development and consumer simulations to meet the specific nutritional needs of people using weight-loss drugs.",
+        "zh_why": "随着减重药物的普及，雀巢试图通过精准营养产品捕捉这一新兴消费群体。",
+        "en_why": "With the rise of weight-loss drugs, Nestlé is aiming to capture this emerging consumer segment through precision nutrition products.",
+        "insight_zh": "食品巨头正通过AI技术快速响应特定健康趋势，实现产品组合的差异化。",
+        "insight_en": "Food giants are using AI to rapidly respond to specific health trends and differentiate their product portfolios.",
+        "zh_watch": "关注该类AI驱动产品的市场表现及消费者反馈。",
+        "en_watch": "Monitor the market performance and consumer feedback for these AI-driven products.",
+        "sources": [
+          {
+            "name": "Sahi",
+            "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMVBWb0lPYk43SGUwdk9fb0NrUzcwYTVsSTloRnI4ai0wdFIzY1pNRW5PdEJodzZjbEY1dndtbTVoVXp5bEJjV2ktTEhiQ0Utck53TDlQUUt4bnBoTWFVQVVWU2VmOWFFeHUyeW1VTjR0SWZzM3JFZ1BYblRiYVdWOFMzVVdZTVhZVm5xa2o5UWlQeFA2VE01TVZaU0t4NmU0VDVwLXNsdEYwNnZTbGVWQ0dkTWllYjNBS1NBYWdvVGxEZw?oc=5"
+          }
+        ]
+      },
+      {
+        "zh_head": "Weigel's便利店引入Tote AI销售平台",
+        "en_head": "Weigel's launches Tote AI's point-of-sale platform",
+        "zh_fact": "便利店连锁品牌Weigel's已在其门店部署了Tote AI的销售点（POS）平台。",
+        "en_fact": "Convenience store chain Weigel's has deployed Tote AI's point-of-sale (POS) platform in its stores.",
+        "zh_why": "此举旨在通过AI技术优化店内零售运营和交易流程。",
+        "en_why": "The move aims to optimize in-store retail operations and transaction processes through AI technology.",
+        "insight_zh": "零售商正加速数字化转型，利用AI提升门店运营效率。",
+        "insight_en": "Retailers are accelerating digital transformation, leveraging AI to improve store operational efficiency.",
+        "zh_watch": "关注该平台对门店交易速度及库存管理的影响。",
+        "en_watch": "Monitor the impact of the platform on store transaction speed and inventory management.",
+        "sources": [
+          {
+            "name": "CSP Daily News",
+            "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZkRfVjU1Zmh2d3phanFZNHpTRkY2YldrdzZEOTdYeHJjaWFPLUM2Q28xOTN3M1o3N185b2tfY0NUVFMxdEJxbGc4bHZEYTZ2T2hjYjhDclRSZGxvQk5xWHczNGRPRTlJQldac2dNcjlmZTZXUnVsbW5vRTF3Y0haQmFzSkVRRXJMTWMtWm4yY0FHNGZsUmpxX1RLRFdTU0pIMDdrX0VLelhHYUlBX1ZnUXo3MlNJU3M?oc=5"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "date": "2026-08-18",
     "zh_summary": "今日简报涵盖了餐饮零售领域的最新动态，包括星巴克在北美的销售表现、雀巢针对减肥药用户的新产品开发，以及京东在北京推出的无人咖啡店创新。",
     "en_summary": "Today's brief covers the latest developments in the food and beverage retail sector, including Starbucks' sales performance in North America, Nestle's product development for weight-loss drug users, and JD.com's launch of an unmanned coffee shop in Beijing.",

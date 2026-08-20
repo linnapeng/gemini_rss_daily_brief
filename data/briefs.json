@@ -1,5 +1,70 @@
 [
   {
+    "date": "2026-08-20",
+    "zh_summary": "今日零售与餐饮行业动态：咖啡连锁品牌通过季节性新品吸引消费者，烘焙品牌扩大配送渠道，大型零售商在食品饮料领域实现增长。",
+    "en_summary": "Today's retail and F&B updates: Coffee chains are leveraging seasonal menu innovations, bakery brands are expanding delivery channels, and major retailers report growth in food and beverage segments.",
+    "items": [
+      {
+        "zh_head": "咖啡连锁品牌推出秋季限定新品",
+        "en_head": "Coffee Chains Launch Seasonal Autumn Menus",
+        "zh_fact": "Paris Baguette 和 Better Buzz Coffee Roasters 均推出了秋季限定菜单及南瓜主题饮品，以吸引季节性消费需求。",
+        "en_fact": "Paris Baguette and Better Buzz Coffee Roasters have introduced seasonal fall menus and pumpkin-themed beverages to capture seasonal consumer demand.",
+        "zh_why": "餐饮品牌通过季节性产品创新来提升客流量和品牌参与度。",
+        "en_why": "F&B brands utilize seasonal product innovation to drive foot traffic and brand engagement.",
+        "insight_zh": "季节性营销已成为咖啡和烘焙连锁店维持市场竞争力的核心策略。",
+        "insight_en": "Seasonal marketing has become a core strategy for coffee and bakery chains to maintain market competitiveness.",
+        "zh_watch": "消费者对秋季限定产品的接受度及销售转化情况。",
+        "en_watch": "Consumer reception and sales conversion of fall-limited offerings.",
+        "sources": [
+          {
+            "name": "Trend Hunter",
+            "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9QX254akxkVVNlT3VKNGhBUFpjdWdrMnpUQ284dkROX0J0cFhBbURFbDlCSS1EdG5XcVNpdWlhNmpiS05HVmpfU0cxTWNuclp0X05TY3h6SzA5aHliV25IVDVsaEdlZw?oc=5"
+          },
+          {
+            "name": "Trend Hunter",
+            "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBiODJWX0daY1JDdkQzbmhvYXFTVnFKc253dGIwMldTRkt6aDdoSlBzb1ZBU1NYbmF5RElmY1JlZFU0M1FOLXRXQy11WHllWVFwR19sMy1SMS05cjdOcTZsdE5JSWM?oc=5"
+          }
+        ]
+      },
+      {
+        "zh_head": "GAIL’s Bakery 扩展按需配送服务",
+        "en_head": "GAIL’s Bakery Expands On-Demand Delivery",
+        "zh_fact": "GAIL’s Bakery 宣布与 Uber Eats 达成合作，在英国市场扩展其按需配送服务范围。",
+        "en_fact": "GAIL’s Bakery has announced a partnership with Uber Eats to expand its on-demand delivery services in the UK market.",
+        "zh_why": "通过第三方平台扩大配送渠道，以触达更多居家或办公场景的消费者。",
+        "en_why": "Expanding delivery channels via third-party platforms to reach more consumers in home or office settings.",
+        "insight_zh": "烘焙零售商正积极数字化，通过即时配送提升服务便利性。",
+        "insight_en": "Bakery retailers are actively digitizing to enhance service convenience through instant delivery.",
+        "zh_watch": "配送服务对整体销售额的贡献及运营效率。",
+        "en_watch": "Contribution of delivery services to overall sales and operational efficiency.",
+        "sources": [
+          {
+            "name": "Retail Technology Innovation Hub",
+            "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOU3dVYUJSSHhWTkNyUzVHT2c2MWw4LVlUYk1ZbVotY2Y4WG5zQ0dONDF2UHpBamJ5ZDdad1JNdlN2RGZWYTRhQkkyV2hHLXljZlYteHJFbGlPaXN0cWVOSDBTeG1rcjZDXzNVcDAwd2xTdm5ibGxLM19tc3dRblAyR0NBVTgtdFJ2ZEhJMk40Q0xSWnEteTZBdVBRSzd4SmpXRld3MW9hSUdtMEs0Qjd6azdkLUVTM1Q0MmsyT1FTeUhVOWE0SEJ6MkNVbFhzbWRSY3I5XzNNbjY?oc=5"
+          }
+        ]
+      },
+      {
+        "zh_head": "Target 在食品饮料领域实现高个位数增长",
+        "en_head": "Target Reports High Single-Digit Growth in Food & Beverage",
+        "zh_fact": "零售巨头 Target 报告称，其食品饮料及美容产品部门实现了高个位数的销售增长。",
+        "en_fact": "Retail giant Target reported high single-digit sales growth in its food and beverage and beauty segments.",
+        "zh_why": "消费者在必需品和个人护理方面的支出保持稳健，推动了大型零售商的业绩。",
+        "en_why": "Steady consumer spending on essentials and personal care is driving performance for major retailers.",
+        "insight_zh": "在宏观经济波动下，食品饮料等刚需品类仍是零售商的核心增长引擎。",
+        "insight_en": "Amid macroeconomic fluctuations, essential categories like food and beverage remain core growth engines for retailers.",
+        "zh_watch": "后续季度该品类增长的可持续性。",
+        "en_watch": "Sustainability of growth in this category for subsequent quarters.",
+        "sources": [
+          {
+            "name": "Progressive Grocer",
+            "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOYzZjelFIQlBvUGVEcll0VlBlcFBBSWQ5U3lQc0tsZjBmVVhwa0locHpyczNpMnlKLVFTRHkwT3d5ZHktVGpsMkVzTHpLU3hhWmNxR2Y4SDRuOFV3ZWxKRVI4Sm1xcGdaV25yWEFWN3JWVnk1Wm9PWEpxdXNEelN3ZExBbTN3Sjd6VFBRYUwyVEtxSDc5Wmc?oc=5"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "date": "2026-08-19",
     "zh_summary": "今日简报涵盖了零售与餐饮行业的最新动态，包括京东开设首家无人咖啡店、雀巢利用AI开发针对减重药物使用者的产品，以及零售商Weigel's引入AI驱动的销售平台。",
     "en_summary": "Today's brief covers key developments in retail and F&B, including JD.com's launch of its first unmanned coffee shop, Nestlé's use of AI to target weight-loss drug users, and Weigel's implementation of an AI-driven POS platform.",

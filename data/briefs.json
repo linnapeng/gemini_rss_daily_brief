@@ -1,5 +1,70 @@
 [
   {
+    "date": "2026-08-21",
+    "zh_summary": "今日简报涵盖了星巴克在可持续包装方面的创新挑战、Antonina's 无麸质烘焙食品在餐饮服务领域的扩张，以及澳门餐饮业的跨界创新合作。",
+    "en_summary": "Today's brief covers Starbucks' innovation challenge for sustainable packaging, the expansion of Antonina's gluten-free bakery line into foodservice, and cross-industry gastronomic innovation in Macau.",
+    "items": [
+      {
+        "zh_head": "星巴克启动10万美元创新挑战赛，寻求无塑料可堆肥杯盖方案",
+        "en_head": "Starbucks Launches $100K Innovation Challenge for Plastic-Free Compostable Cups and Lids",
+        "zh_fact": "星巴克正在寻求全球创新方案，以开发无塑料、可堆肥的杯子和杯盖，并为此设立了10万美元的创新挑战赛。",
+        "en_fact": "Starbucks is seeking global innovation solutions to develop plastic-free, compostable cups and lids, backed by a $100,000 innovation challenge.",
+        "zh_why": "此举旨在减少一次性塑料垃圾，推动其包装的可持续性转型。",
+        "en_why": "The initiative aims to reduce single-use plastic waste and drive the company's transition toward sustainable packaging.",
+        "insight_zh": "大型连锁品牌正通过开放式创新竞赛，将可持续发展压力转化为供应链协作机会。",
+        "insight_en": "Major chains are leveraging open innovation challenges to turn sustainability pressures into supply chain collaboration opportunities.",
+        "zh_watch": "关注该挑战赛后续选出的技术方案及其在门店的落地可行性。",
+        "en_watch": "Monitor the selected technical solutions from the challenge and their feasibility for store-level implementation.",
+        "sources": [
+          {
+            "name": "IndexBox",
+            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPS1E5Vm1ZdDR5OURselVnQW8tRjBSa3pJQjlPTGtoR3ZIOXJHU01kTVg0Y3BlNkpNVXFWOHd6eXI5R0xMRDZIM2R2d05SaWd4OElBZ21PSGxjOFlTSUY0d3dqdW4yWTl1WVh3a19LdkhiM3NxT1F3TVZhaDVaTnpMUEhSY1Q2MkRNSzBGRGgxc0EzeWkwa3dfVEJqY24?oc=5"
+          },
+          {
+            "name": "Packaging Europe",
+            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQTdybVo1UjVHaG9hSmNTMXBGc25ZajNZTDM3VzdYOHkzR0doM2ctb2lCaGlQMHJiajRjd2U4R0FVYVhiRllESHI0alM0ZFNSTjQwSFp1MFlWS21ZZ1dRUlg1cTFHOVFFQVIwQkVhWWtUdVZyalRCeEh0dXpKb1RQUnlmakxQR295Y2VqSTdpaVFocnhjd21GeWZINEZsQUpyRUgzSy1wMlk?oc=5"
+          }
+        ]
+      },
+      {
+        "zh_head": "Antonina's 无麸质烘焙品牌推出餐饮服务专用独立包装系列",
+        "en_head": "Antonina's Gluten-Free Bakery Launches Individually Portioned Line for Foodservice",
+        "zh_fact": "Antonina's Gluten-Free Bakery 宣布推出专门针对餐饮服务运营商的独立包装烘焙产品线。",
+        "en_fact": "Antonina's Gluten-Free Bakery has launched a line of individually portioned bakery products specifically for foodservice operators.",
+        "zh_why": "此举旨在满足餐饮渠道对无麸质食品日益增长的便利性和安全性需求。",
+        "en_why": "The move aims to address the growing demand for convenience and safety in gluten-free options within the foodservice channel.",
+        "insight_zh": "随着消费者健康意识提升，无麸质产品正从零售货架向餐饮服务场景渗透。",
+        "insight_en": "Driven by rising consumer health awareness, gluten-free products are expanding from retail shelves into foodservice scenarios.",
+        "zh_watch": "观察该系列在餐饮渠道的铺货速度及市场反馈。",
+        "en_watch": "Observe the distribution speed and market feedback of this line within the foodservice channel.",
+        "sources": [
+          {
+            "name": "Perishable News",
+            "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPaGI5VkxIQjhnTUNzMl9hN1ZqR01Xd0JaSlFGVjBzRjVuY2p2ZmJmaDJEbVh2eW5ZOE55aWRFVUt3Q3NRTUpGd1FBMDN6M1NRNzNwSzNhSllXcmo2QWlpQnlUOTBlODI0MWg4dTF6YkRYbThwTEMxR1MtQmFrTnBhd0VkYkpZV19KaFlOWEZQbkF4eS0zRXJRWHNHaTBNdDFRbGJpSXlOcW10RnJhZ0pnbG9KMXc2a3NZSklIMDI4Z0E4c2p4Vk5WbHNGQlJTdw?oc=5"
+          }
+        ]
+      },
+      {
+        "zh_head": "澳门餐饮业跨界创新：厨师与康普茶制造商合作",
+        "en_head": "Cross-Industry Gastronomic Innovation in Macau: Chef and Kombucha Maker Collaboration",
+        "zh_fact": "澳门的一位厨师与康普茶制造商达成合作，共同探索餐饮创新的边界。",
+        "en_fact": "A chef and a kombucha maker in Macau have teamed up to explore the boundaries of gastronomic innovation.",
+        "zh_why": "该合作旨在通过跨界融合，为消费者提供独特的餐饮体验。",
+        "en_why": "The collaboration aims to provide unique dining experiences for consumers through cross-industry integration.",
+        "insight_zh": "餐饮创新正趋向于通过跨品类合作来创造差异化价值。",
+        "insight_en": "Gastronomic innovation is increasingly trending toward creating differentiated value through cross-category collaborations.",
+        "zh_watch": "关注此类小规模跨界合作是否会演变为更广泛的餐饮趋势。",
+        "en_watch": "Monitor whether such small-scale cross-industry collaborations evolve into broader culinary trends.",
+        "sources": [
+          {
+            "name": "South China Morning Post",
+            "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNYW9uSkFXWjdjSXAtV2VKLVlMNkJybHNhLVB6RzRSTmF3OW5pNTN2U3N4eGNaazdoT3hUZTZycmc5Z3NHWG45dXJudTZlcDBVRDlJdE52Zkwtdy1UTXo3ZVdCZk5ZdmFyaG0tNjhCVXZ0MnRUOTVpWDJGa1VMYlhlOWtvWWZjX2VEakxnZ3Q5REk1Q3dOTEQzTUFKZVNscDVuXzU2UUlxd0VtbHlIVG5KSkVMV0lqbkhjQV9BT1JRczVqeDNLcmdEMEhjVVJFR1lGcy1oSV9KcDdNWkxKeTF5M1BLZm9rNkFmOUgw?oc=5"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "date": "2026-08-20",
     "zh_summary": "今日零售与餐饮行业动态：咖啡连锁品牌通过季节性新品吸引消费者，烘焙品牌扩大配送渠道，大型零售商在食品饮料领域实现增长。",
     "en_summary": "Today's retail and F&B updates: Coffee chains are leveraging seasonal menu innovations, bakery brands are expanding delivery channels, and major retailers report growth in food and beverage segments.",

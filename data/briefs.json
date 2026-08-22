@@ -1,5 +1,66 @@
 [
   {
+    "date": "2026-08-22",
+    "zh_summary": "今日餐饮与零售业动态：星巴克英国夏季销售强劲，The Hazelnut Factory 进军北阿坎德邦，餐饮业正通过数字化转型与高端化策略应对消费需求变化。",
+    "en_summary": "Today's F&B and retail updates: Starbucks UK reports strong summer sales, The Hazelnut Factory expands into Uttarakhand, and the restaurant industry focuses on digital transformation and premiumization to address shifting consumer demand.",
+    "items": [
+      {
+        "zh_head": "星巴克英国夏季销售表现强劲",
+        "en_head": "Starbucks UK Reports Strong Summer Sales",
+        "zh_fact": "得益于独角兽星冰乐（Unicorn Frappuccino）的推动，星巴克英国在夏季实现了强劲的销售业绩。",
+        "en_fact": "Starbucks UK achieved strong summer sales, driven by the performance of the Unicorn Frappuccino.",
+        "zh_why": "季节性限定产品和创新口味持续成为驱动餐饮连锁店销售增长的关键因素。",
+        "en_why": "Seasonal limited-time offerings and innovative flavors continue to be key drivers for sales growth in coffee chains.",
+        "insight_zh": "餐饮品牌通过社交媒体驱动的创新产品成功吸引了年轻消费者，提升了夏季客流量。",
+        "insight_en": "F&B brands are successfully attracting younger consumers and boosting summer foot traffic through social-media-driven product innovation.",
+        "zh_watch": "关注星巴克后续的季节性产品策略及其对全球市场的影响。",
+        "en_watch": "Monitor Starbucks' future seasonal product strategies and their impact on global markets.",
+        "sources": [
+          {
+            "name": "MCA Insight",
+            "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNazBSanRhRGhYVmdhRHhaQmprQTZCemVPeldVUER4aEoydlMyTkJhbWJsQk9odUxPQVRBVU1WOWpSM000czB6MkJUN1p5T2RfY0pYLWV4aHZGcVc5bWZTVzgwclIxb2xIYVc4ODNVNzFyWjRTNjJvWUtlekF2Z21ja3BxaTVWMjZ2eTdCWHE4TFNaeWVpUWVTMDBQYnNxVHNsUW5tNENmX2Vjc1FkYUZ1aURYX3BRb18tTGVDcnNLWHlCbEk?oc=5"
+          }
+        ]
+      },
+      {
+        "zh_head": "The Hazelnut Factory 进军北阿坎德邦",
+        "en_head": "The Hazelnut Factory Enters Uttarakhand",
+        "zh_fact": "烘焙品牌 The Hazelnut Factory 在北阿坎德邦的奈尼塔尔（Nainital）开设了新门店，进一步扩大其特许经营版图。",
+        "en_fact": "Bakery brand The Hazelnut Factory has expanded its franchise footprint by opening a new outlet in Nainital, Uttarakhand.",
+        "zh_why": "该品牌正在通过特许经营模式加速在印度新兴市场的扩张。",
+        "en_why": "The brand is accelerating its expansion into emerging Indian markets through a franchise model.",
+        "insight_zh": "区域性烘焙品牌正通过渗透二三线城市来捕捉印度不断增长的消费升级需求。",
+        "insight_en": "Regional bakery brands are capturing India's growing premium consumption demand by penetrating Tier-2 and Tier-3 cities.",
+        "zh_watch": "观察该品牌在印度其他地区的扩张速度及市场接受度。",
+        "en_watch": "Observe the brand's expansion pace and market reception in other regions of India.",
+        "sources": [
+          {
+            "name": "Indian Retailer",
+            "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNY0lEdVBjcUxuZ3U5Z1lLQUM1ZG9kVmx5TTBQV2hHRmotdFVFZ3NSeGRRWlhfWGFmVXBxRTNsUGdwZGZYR18tWTBEOXRnMVl3akh2YjNMU29fMlk0RF9kd3dfckZqdVItV1FEc1BLaXdTandIOFRjWHp5UmYzdnZHblF6bnd4emxjTWExNUw4UEVNM0JIZDhEbWpWakVydVdYYnlhVHVfSFFOdzRqQlBhV2Zkd3ZVTGYxNVdkY1JqWWk?oc=5"
+          }
+        ]
+      },
+      {
+        "zh_head": "印度餐饮业探讨数字化转型",
+        "en_head": "Indian Restaurant Industry Maps Digital Transformation",
+        "zh_fact": "NRAI 食品配送峰会 2026 聚焦印度餐饮业的下一阶段发展，重点讨论数字化与配送模式的演进。",
+        "en_fact": "The NRAI Food Delivery Summit 2026 focused on the next phase of India's restaurant industry, highlighting the evolution of digital and delivery models.",
+        "zh_why": "随着消费者行为的改变，餐饮企业必须通过技术手段优化运营效率和配送体验。",
+        "en_why": "As consumer behavior shifts, restaurant businesses must optimize operational efficiency and delivery experiences through technology.",
+        "insight_zh": "数字化已成为餐饮业提升竞争力的核心，特别是在配送服务和客户体验方面。",
+        "insight_en": "Digitalization has become core to competitiveness in the restaurant industry, particularly regarding delivery services and customer experience.",
+        "zh_watch": "关注印度餐饮业在数字化基础设施建设方面的进一步投入。",
+        "en_watch": "Monitor further investments in digital infrastructure within the Indian restaurant industry.",
+        "sources": [
+          {
+            "name": "hospitality.economictimes.indiatimes.com",
+            "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNNnEtTkZxWkhrd1I4dDgyRWVIQU5CUk1sOEplR3VHMFZ6SFNkX1cwYkFxTUpnNlUzUVpXWUcyRVNsd0JkVVF5WUtReVNUc2dmT29nTWx5bU1nU0p5cklPUHI5UTVabHdhMENjbkdVZUYwOWdLdDBEcGNXX1ZfeVpVUEN3YVVPdFZqa3JPU3JUVURjV240eXQ2NldmcGhEaUlvNDZESkVVVzR6RFFZRjVLSGZmUEhhNGNPUGJ1RFdudEtuSlk0QjlNSnhGRTJDTFpuRm5WQ3k1WG42QXAyN2R6OUZsdTFQU2NOMlYzRdIB8AFBVV95cUxOd0hnRzJRYTNZX0ZQMjlvN2ZPYTdNNjBKTll0cFVENWRqMGxTSUNYcVRpQy1HSlVXa2x0NURONFNrRUxCR3NWc3BJTkYtcjVUQ2NRNS1EZ1pYYWJSOFVHaWt1SzZRb2x5UndqNV9KVTFTLUc1bWI1RzZXcW1iQXhQUWhUMzE0S2ZpX3hudVI3cWwtQUFScmJPeFlfQWplSVE5S0s3MklNYVVMRFVQZ0JHMXNucTctTFhtZTNtd1RVc0Z2NGF4YUs2cnlzMzdoaVhGWUFWWW5CMUdMRnRUYWhJUE04ZVZ5U1ZoLW5OaUk4QTk?oc=5"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "date": "2026-08-21",
     "zh_summary": "今日简报涵盖了星巴克在可持续包装方面的创新挑战、Antonina's 无麸质烘焙食品在餐饮服务领域的扩张，以及澳门餐饮业的跨界创新合作。",
     "en_summary": "Today's brief covers Starbucks' innovation challenge for sustainable packaging, the expansion of Antonina's gluten-free bakery line into foodservice, and cross-industry gastronomic innovation in Macau.",

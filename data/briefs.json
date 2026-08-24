@@ -1,5 +1,66 @@
 [
   {
+    "date": "2026-08-24",
+    "zh_summary": "今日商业简报涵盖了零售策略调整、FMCG行业领导层变动以及企业增长规划。企业正通过数字化转型和战略重组应对市场挑战。",
+    "en_summary": "Today's business brief covers retail strategy shifts, FMCG leadership changes, and corporate growth planning. Companies are navigating market challenges through digital transformation and strategic restructuring.",
+    "items": [
+      {
+        "zh_head": "Adore Beauty 门店战略初见成效",
+        "en_head": "Adore Beauty's store strategy shows early success",
+        "zh_fact": "Adore Beauty 投入 110 万美元的门店扩张计划开始产生回报，新客户数量激增，获客成本（CAC）下降了 37%，且全渠道购物者的价值是普通客户的 2.5 倍。",
+        "en_fact": "Adore Beauty's $1.1 million store expansion gamble is yielding results, with a surge in new customers, a 37% drop in customer acquisition costs (CAC), and omni-channel shoppers proving to be 2.5 times more valuable.",
+        "zh_why": "尽管门店投资导致短期收益受损，但全渠道策略显著提升了客户粘性和获客效率。",
+        "en_why": "While store investments impacted short-term earnings, the omni-channel strategy has significantly improved customer stickiness and acquisition efficiency.",
+        "insight_zh": "全渠道零售模式在降低获客成本的同时，能有效提升高价值客户的生命周期价值。",
+        "insight_en": "Omni-channel retail models can effectively increase the lifetime value of high-value customers while reducing acquisition costs.",
+        "zh_watch": "关注该品牌后续在门店扩张与盈利能力之间的平衡。",
+        "en_watch": "Monitor the brand's ongoing balance between store expansion and profitability.",
+        "sources": [
+          {
+            "name": "Mi-3.com.au",
+            "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbXUwVWhFMmk3R1hOaXlNWktCMk80YXNJU0JfTGRFLWJsWC13bnpwNk5TdjNpYmhKVGNiQmtkX0VYME9lWWFZelMzUkZPeU8xUTRRb3dzYkx3RnpwbXFzUWhURE9OcW9hZDgtSGF1M1o2WFBPNF9UdlRpaXVadEhWZ0s1eHVDMXRZTExQNUpLV05WN3c1aGhxd2M5c0N2Y3h3ZzhmaTNkSS1acms3MkRVcW56VmpvV2NzRERZ?oc=5"
+          }
+        ]
+      },
+      {
+        "zh_head": "印度消费市场潜力巨大，预计 2036 年超越中国",
+        "en_head": "India's consumer market potential to surpass China by 2036",
+        "zh_fact": "根据最新预测，印度有望在 2036 年超过中国，成为全球富裕消费者数量最多的国家。",
+        "en_fact": "According to recent projections, India is expected to overtake China by 2036 to become the country with the largest number of affluent consumers globally.",
+        "zh_why": "这一趋势反映了印度经济增长带来的中产阶级崛起和消费能力的显著提升。",
+        "en_why": "This trend reflects the rise of the middle class and significant growth in purchasing power driven by India's economic expansion.",
+        "insight_zh": "全球品牌需重新评估其在南亚市场的长期布局，以捕捉这一人口红利。",
+        "insight_en": "Global brands need to re-evaluate their long-term positioning in the South Asian market to capture this demographic dividend.",
+        "zh_watch": "关注跨国企业在印度市场的投资规模及本土化策略。",
+        "en_watch": "Monitor the scale of investment and localization strategies of multinational corporations in the Indian market.",
+        "sources": [
+          {
+            "name": "Whalesbook",
+            "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOd2psd01XZFhybThFOVBPV2VyT0hWR0lKS1gxeTlFdjY1M2ctYkp1UjZvY2RMZmRiMVNJRnBZZE9hRDJxVDJYQWphWUw4RWVDM2RaM2pnVW9teEh0ZVllYkNKYUl0WmFkc0VWLUdLNS0xZ2pfTVJmSXp2dW1mMF9XQVA3OFVrOTAxZm5GZEdvZG1ZVzFvOEY3MmpjaGZzbUJ4RmduTTlXc3VtMFpPeUpiNGJGbzhkSFM0QVNWUVMtS3MxTE9z?oc=5"
+          }
+        ]
+      },
+      {
+        "zh_head": "印度 FMCG 行业领导层大洗牌",
+        "en_head": "Leadership shake-up in India's FMCG industry",
+        "zh_fact": "包括 HUL、GCPL、Britannia、Dabur 和高露洁在内的多家印度顶级快速消费品（FMCG）公司近期进行了大规模的领导层调整。",
+        "en_fact": "Several top Indian FMCG companies, including HUL, GCPL, Britannia, Dabur, and Colgate, have recently undergone significant leadership reshuffles.",
+        "zh_why": "行业正面临增长挑战，企业通过调整管理层以应对不断变化的市场需求和竞争压力。",
+        "en_why": "The industry is facing growth challenges, and companies are adjusting management to navigate evolving market demands and competitive pressures.",
+        "insight_zh": "领导层变动通常是企业在增长放缓时期寻求战略转型和创新突破的信号。",
+        "insight_en": "Leadership changes are often a signal of companies seeking strategic transformation and innovation breakthroughs during periods of slowing growth.",
+        "zh_watch": "观察这些公司在管理层变动后的新战略方向及市场表现。",
+        "en_watch": "Observe the new strategic directions and market performance of these companies following the management changes.",
+        "sources": [
+          {
+            "name": "The Economic Times",
+            "url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxNdWNKQVRURy1FRFNmd29HZ2pmYXhGWUYtSm9mWEYwWE5VSHdsRjVPTTlFOUx3ZXFYNmhIQWc3MnU4aDRpSVdMXzVkQ1NDeGxoc0lZeUxzQ1ljekJmQU9Ca2Nqay1JOEVvYTltZGg0dEZRbFhlZXpMdW8yZmstNVFsUE5fUVk5enhmMGNWZ3pNUFRfY1lXTm16OHRfR0pTMTF6SVVZQmc2ZXlDM1ZGblpmcFFZOGhMYmZZYkJvYmhxc2pUT3RiVDNMREE3TlAtbm9JbXV1S0I2alI4UGFJcWdtbHB0YWpNSVNyWVdOYVF6M2h1djRmYVBvNXJoS3IwM0xEZlZaQkswWUREYXVXMGJhZERBZ0JRNjZVT0ttLW9UaVA4ZlVUbEtUa2ZsR3hNZlMzMmstOGd0VGo1bUlWZnlzOEd2bFlxRUpIRC1qRWxlV0MwR3c1bVhV0gHzAUFVX3lxTE55cUJjQVhoZGlRVkpBTVo5SmhDV2NHOEVSX3pPTGdnbUczemtWdlUwMElaX3hTYzdBRWYzYlBSeG1MbmJVclVLSHJhdWZYYzMzZDJDaGlBWjFxaXRHaDVBUlhjWVpwcEppaFpJbDNSZmtRXzdENXJyby1jYXdIRXg4Rlh5X0o3SDlkY2FVV05HUGhkSFR1MnNEYlRmeV9abFhEV3Z4dFM5Y183VVFUR1QzNjZNaXBkb3JTM3FSYU82bV85Z0RjWjVocDVnYlBNN3RfY1FENV9JY1NMNlFVbUUyOEhvTms1Sm1PcWoyLU5UUG5aTQ?oc=5"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "date": "2026-08-22",
     "zh_summary": "今日餐饮与零售业动态：星巴克英国夏季销售强劲，The Hazelnut Factory 进军北阿坎德邦，餐饮业正通过数字化转型与高端化策略应对消费需求变化。",
     "en_summary": "Today's F&B and retail updates: Starbucks UK reports strong summer sales, The Hazelnut Factory expands into Uttarakhand, and the restaurant industry focuses on digital transformation and premiumization to address shifting consumer demand.",

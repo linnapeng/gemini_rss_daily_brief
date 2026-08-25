@@ -1,5 +1,66 @@
 [
   {
+    "date": "2026-08-25",
+    "zh_summary": "今日零售与餐饮行业动态：Third Wave Coffee完成大规模融资以支持扩张；星巴克通过菜单更新重推经典产品；Target正通过平台化策略加大对食品饮料新兴品牌的支持力度。",
+    "en_summary": "Today's retail and F&B updates: Third Wave Coffee secures significant funding for expansion; Starbucks reintroduces a fan-favorite menu item; Target is deepening its focus on food and beverage by providing a platform for emerging brands.",
+    "items": [
+      {
+        "zh_head": "Third Wave Coffee 融资 4.08 亿卢比用于扩张",
+        "en_head": "Third Wave Coffee Raises Rs 408 Cr for Expansion",
+        "zh_fact": "咖啡连锁品牌 Third Wave Coffee 已筹集 4.08 亿卢比资金，旨在支持其业务扩张计划。",
+        "en_fact": "Coffee chain Third Wave Coffee has raised Rs 408 crore to support its expansion plans.",
+        "zh_why": "该笔资金将直接用于加速品牌在零售市场的门店布局和市场渗透。",
+        "en_why": "The funding will be used to accelerate the brand's store footprint and market penetration in the retail sector.",
+        "insight_zh": "咖啡连锁店持续通过资本注入寻求规模化增长，以应对日益激烈的市场竞争。",
+        "insight_en": "Coffee chains continue to seek scale through capital injections to compete in an increasingly crowded market.",
+        "zh_watch": "关注该品牌在扩张过程中的运营效率及市场占有率变化。",
+        "en_watch": "Monitor the brand's operational efficiency and market share growth during its expansion.",
+        "sources": [
+          {
+            "name": "Indian Retailer",
+            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOYkFweUJ6N0RfRm5ETE5tU3MxZHVXVzRZWnYybnVrVURtV3BDc0tmZlRFRDJTd25aREhWNllHRmEwYk5uVHBUT00zWXFqdWNVb3RDRDNFSFJQQmYtU2ZsX0lBX0VGYmtTaTV3WGpXNnRIVDI4LUZyV1ljVmRvaTkydXNyMnVHQkRvSEJhcmFYdGtjOVZpM3RBZ1YwMUJ5NlpiTmlr?oc=5"
+          }
+        ]
+      },
+      {
+        "zh_head": "星巴克重推 23 年前经典菜单产品",
+        "en_head": "Starbucks brings back 23-year-old fan favorite with new menu",
+        "zh_fact": "星巴克宣布在其菜单中重新引入一款 23 年前的粉丝喜爱产品。",
+        "en_fact": "Starbucks has announced the reintroduction of a 23-year-old fan-favorite item to its menu.",
+        "zh_why": "此举旨在通过怀旧营销策略吸引消费者并提升门店客流量。",
+        "en_why": "The move aims to attract consumers and drive store traffic through nostalgia-based marketing.",
+        "insight_zh": "餐饮品牌利用经典产品回归作为短期促销手段，是应对当前消费疲软的常见策略。",
+        "insight_en": "Leveraging the return of classic products as a short-term promotional tactic is a common strategy for F&B brands facing current consumer headwinds.",
+        "zh_watch": "观察该策略对星巴克近期门店销售额的实际提振效果。",
+        "en_watch": "Observe the actual impact of this strategy on Starbucks' recent store sales.",
+        "sources": [
+          {
+            "name": "AOL.com",
+            "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1xa1pNSnVPTFF1MGIxcXp2aXB3eTZqNE91TW5TMFFDQVNlYy1wbkI0TkhTckMxTUtaallHYzdIOW9XZW1pMFRUcW1wRzNhN1BYWVNrT0VSVGJPbTRhdXZjeTQxSWVYNTJISDNjVjRIS0JYcU9WdnJ0WHU1Ykk?oc=5"
+          }
+        ]
+      },
+      {
+        "zh_head": "Target 加大对食品饮料领域的投入",
+        "en_head": "Target Is Leaning Into Food And Beverage",
+        "zh_fact": "零售巨头 Target 正在加强其在食品和饮料领域的布局，为新兴品牌提供零售平台。",
+        "en_fact": "Retail giant Target is leaning into the food and beverage category, providing a retail platform for emerging brands.",
+        "zh_why": "Target 试图通过引入新兴品牌来丰富其产品组合，以满足消费者对多样化食品选择的需求。",
+        "en_why": "Target is attempting to diversify its product portfolio by introducing emerging brands to meet consumer demand for varied food options.",
+        "insight_zh": "大型零售商正通过扶持新兴品牌来增强自身在食品杂货市场的差异化竞争优势。",
+        "insight_en": "Large retailers are enhancing their competitive differentiation in the grocery market by supporting emerging brands.",
+        "zh_watch": "关注 Target 与新兴品牌合作模式的长期盈利能力。",
+        "en_watch": "Monitor the long-term profitability of Target's partnership model with emerging brands.",
+        "sources": [
+          {
+            "name": "Forbes",
+            "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPaWVudFhDLUV3SUNqMnNqbHQ2aEEtSE81VElHQjRoT0pRMFRtODB4ckNzNkc4a01ySnU5Sk45M1l4XzVTSU5FSVI1ckFqMjNqVS1wQ0YyWUJHSnUtMW9FQmdEUmFaRUtUeWlWVWhnMzQtMkRzUzRrWVJTRGtkN2NyNk4xbGNIRFgzYl9VUDhxcVppcTIyOUIyQkxUQmhQWUkxcjV3YUNHVXRZN2ducFhIQURPeHFKWWlUZjdZYlYwS0UwWTJ4Zi0zQTVLcmZyZmpEOGZObTVONkJsWnJidXg0ZmZENHNtbnRt?oc=5"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "date": "2026-08-24",
     "zh_summary": "今日商业简报涵盖了零售策略调整、FMCG行业领导层变动以及企业增长规划。企业正通过数字化转型和战略重组应对市场挑战。",
     "en_summary": "Today's business brief covers retail strategy shifts, FMCG leadership changes, and corporate growth planning. Companies are navigating market challenges through digital transformation and strategic restructuring.",

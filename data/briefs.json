@@ -1,5 +1,70 @@
 [
   {
+    "date": "2026-08-26",
+    "zh_summary": "今日简报涵盖星巴克秋季菜单发布、印度快速消费品行业面临的增长挑战，以及零售商在产品上架策略上的洞察。",
+    "en_summary": "Today's brief covers the launch of Starbucks' fall menu, growth challenges facing the Indian FMCG sector, and retailer insights on product shelf placement.",
+    "items": [
+      {
+        "zh_head": "星巴克推出秋季菜单及新品",
+        "en_head": "Starbucks Unveils Fall Menu and New Drinks",
+        "zh_fact": "星巴克于8月25日正式推出秋季菜单，包括南瓜拿铁（PSL）的回归以及全新的“Chaider”饮品和香蕉面包风味饮品。",
+        "en_fact": "Starbucks launched its fall menu on August 25, featuring the return of the Pumpkin Spice Latte (PSL) alongside new 'Chaider' and banana bread-flavored drinks.",
+        "zh_why": "这是星巴克季节性营销策略的一部分，旨在通过限时产品推动门店流量。",
+        "en_why": "This is part of Starbucks' seasonal marketing strategy to drive store traffic through limited-time offerings.",
+        "insight_zh": "季节性产品已成为咖啡连锁店维持消费者参与度和提升短期销售额的关键工具。",
+        "insight_en": "Seasonal products have become a key tool for coffee chains to maintain consumer engagement and boost short-term sales.",
+        "zh_watch": "关注此类季节性促销对星巴克整体扭亏为盈战略的影响。",
+        "en_watch": "Monitor how these seasonal promotions impact Starbucks' broader turnaround strategy.",
+        "sources": [
+          {
+            "name": "Trend Hunter",
+            "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAxZkMzd3lLN3FpdlBwWXY2OVNJMjVuTEl2ejhFci1hSHZGWS14dGVUd19uNDJIUEZySEVOTWMydzA4elhfMEVNQ1NSUmxkLXkwaGdZeVhBNTNrd3BJaVhUWUdHVHlBMU5VSHRwaTlHUXd3NWdRNHZB?oc=5"
+          },
+          {
+            "name": "iHeart",
+            "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOYTFVOVh2Ml9NdzJtblNJaDRlR0hsR0VSVnpYT3ZURnl0YnBvS0VYQ1RqSVdVaEhlSk9Ed0V1LVJZQ1F4eTlSc1JDY2JqVFFSMmVRd2RQcDRxVVR2WnA2Zl9FZzM4OFJyN2k3aHg0QWlCSk1idUF5WjVZdERuUGpjMGtYWmlsT0Q0ZVdGOGJINjBBTnJ2Q1Q1bTlkTndjb044VFJlQ3VDTjBtWXlqeXpKMUtaVFEzSUlUY3M3cG5tdElYSlY5MFZTX01MTWpURFhiV2FmdDhwTXNhRFhH?oc=5"
+          }
+        ]
+      },
+      {
+        "zh_head": "印度快速消费品（FMCG）行业面临增长阻力",
+        "en_head": "Indian FMCG Sector Faces Growth Hurdles",
+        "zh_fact": "由于季风降雨不足以及西亚地区的地缘政治风险，印度快速消费品行业在7月至9月期间面临需求增长压力。",
+        "en_fact": "The Indian FMCG sector is facing demand growth pressures for the July-September period due to a monsoon deficit and risks from West Asia.",
+        "zh_why": "季风降雨直接影响农村地区的消费能力，而外部地缘风险则可能影响供应链和成本。",
+        "en_why": "Monsoon rainfall directly impacts rural consumption power, while external geopolitical risks may affect supply chains and costs.",
+        "insight_zh": "宏观环境因素（如气候和地缘政治）对依赖农村市场的消费品企业构成显著挑战。",
+        "insight_en": "Macro-environmental factors like climate and geopolitics pose significant challenges for consumer goods companies reliant on rural markets.",
+        "zh_watch": "关注企业如何通过数字化转型和高端化策略来抵消这些不利影响。",
+        "en_watch": "Monitor how companies use digital transformation and premiumization strategies to offset these headwinds.",
+        "sources": [
+          {
+            "name": "The Economic Times",
+            "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPUDVXUHdWUW8wa3Rpclg0UlN1c0RiT0M2SmNac1pyNDdMN3ZWN2NLZVRkcDY2Zkd0YlZ3THFUR2V4SExKeFNhWXZTUDVZaExpRXlHV3l3eEtYTXF0MC1vNmtnY1RxT3FwUi1WWmRxS3cwZTBPV3dsR3VyMGlEUlhGd1JwMHBPMTZqSjhDcVF2TXFlZWQ3U1JkOWNvcXB3Z21IY0JUeGhEZHh2Z1gzaXJIT2ZQWW1PTzJKM1B1TEJqRTVkbEw0eTlpWDJpNndUWGwydnRLSm81bkRtUjhDaHVFcHhsMmI0WUHSAewBQVVfeXFMUGVKSDQ1VG4yRDhlY1F5a0hJbDc4bjdKTVU1a1hibFNvU3hRaTlOMUxma1htVElTN2dudHplMFRPc0hKR2stajhuc0RBNDd0WHJBR0E1LW1pazhrSGtaMWUyaEhOZlNmS1JaMHZQN0otZWVzclFad0xCeUJqeTh3cnBxY2I2NWpWMHo0UDUyQ25HN2p4eWJ3dUE4ZllueEV1MnRSUzU1UWMzTTdjVXFCT0FPbFo1dUNxemlDX3VIdWxMQjROZmlKY1dtUlR1RU1WbTU4M0MwemFvLW80V0FDNThUSDZNTmZzWW1qZWQ?oc=5"
+          }
+        ]
+      },
+      {
+        "zh_head": "零售商视角下的产品上架策略",
+        "en_head": "Retailer Perspectives on Product Shelf Strategy",
+        "zh_fact": "零售商强调，食品产品在货架上的表现决定了其市场存亡，强调了实体零售空间与数字化发现渠道结合的重要性。",
+        "en_fact": "Retailers emphasize that the performance of food products on the shelf determines their survival, highlighting the importance of combining physical retail space with digital discovery channels.",
+        "zh_why": "随着消费者行为向数字化转移，品牌必须在实体货架和数字平台之间建立协同效应。",
+        "en_why": "As consumer behavior shifts toward digital, brands must create synergy between physical shelves and digital platforms.",
+        "insight_zh": "全渠道零售策略已成为消费品品牌在竞争激烈的市场中生存的必要条件。",
+        "insight_en": "Omnichannel retail strategy has become a prerequisite for consumer goods brands to survive in a competitive market.",
+        "zh_watch": "关注零售商如何利用数据分析优化货架空间分配。",
+        "en_watch": "Monitor how retailers use data analytics to optimize shelf space allocation.",
+        "sources": [
+          {
+            "name": "BakeryAndSnacks.com",
+            "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPMmYzXzl4MGs0bnJiY3dMUTRpX1pKaUtTb1F0Vmo2WmFvdmVjQk8yb0hQdkVtMzJWSzlwc1dQdjBJUWFsMFZVeGExbnZWQ0xPS0E0RUdpUDAxNTg3ZGk4RzJaZ0Q0STJIbVk1M2pvWnIxcy1adDRWZmJfNnBUZEZtZXBHUlpEU3JoZXRaaU5rbFRETldPRWpTZkd6dnJQeXVuSEVZV2xvZUhVRzJwVzR0bkhXbFNoMXpIdldvVTJtNA?oc=5"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "date": "2026-08-25",
     "zh_summary": "今日零售与餐饮行业动态：Third Wave Coffee完成大规模融资以支持扩张；星巴克通过菜单更新重推经典产品；Target正通过平台化策略加大对食品饮料新兴品牌的支持力度。",
     "en_summary": "Today's retail and F&B updates: Third Wave Coffee secures significant funding for expansion; Starbucks reintroduces a fan-favorite menu item; Target is deepening its focus on food and beverage by providing a platform for emerging brands.",

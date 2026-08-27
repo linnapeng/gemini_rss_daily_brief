@@ -1,5 +1,70 @@
 [
   {
+    "date": "2026-08-27",
+    "zh_summary": "今日零售与餐饮行业动态：星巴克通过高管变动与季节性新品布局秋季市场；Warburtons推出多款面包新品以扩大产品线；雀巢CEO强调印度市场的重要性。",
+    "en_summary": "Retail and F&B industry updates: Starbucks focuses on autumn strategy with leadership changes and seasonal launches; Warburtons expands its bakery range with new product releases; Nestlé CEO highlights the strategic importance of the Indian market.",
+    "items": [
+      {
+        "zh_head": "星巴克任命耐克老将负责供应链，并开启秋季新品营销",
+        "en_head": "Starbucks appoints Nike veteran to supply chain role and launches autumn seasonal campaign",
+        "zh_fact": "星巴克聘请耐克资深人士Andrew Corner担任供应链职务，并正式推出秋季南瓜香料拿铁及相关季节性创新产品。",
+        "en_fact": "Starbucks has hired Nike veteran Andrew Corner for a supply chain role and officially kicked off its autumn season with the return of the Pumpkin Spice platform and new seasonal innovations.",
+        "zh_why": "此举旨在通过高管调整优化运营，并利用季节性产品吸引消费者以应对市场竞争。",
+        "en_why": "The moves aim to optimize operations through leadership changes and leverage seasonal offerings to drive consumer engagement amid market competition.",
+        "insight_zh": "餐饮巨头正通过强化供应链管理与季节性营销组合来应对消费者日益谨慎的消费习惯。",
+        "insight_en": "F&B giants are balancing supply chain optimization with seasonal marketing to navigate increasingly cautious consumer spending habits.",
+        "zh_watch": "关注星巴克在当前消费环境下通过产品创新维持增长的能力。",
+        "en_watch": "Monitor Starbucks' ability to sustain growth through product innovation in the current consumer environment.",
+        "sources": [
+          {
+            "name": "Retail Technology Innovation Hub",
+            "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQZ3A0WTJkOFlialM4aEx1dWZ2bVBkRndESUdmRk5IM2VhM1RYc1hOT0dGZVZYUThTQnBidzB6X0NTMUJIQU02ZndxZUplcGhCNHJWbWoyU3hKbXV6NWp5SlJoWWJyd3hKVDNCdkNhMlV5d05zdEFrZnB5a3QxYzhGczBJQjJCSF95dWVraXJZNlFITlNIREtEYWhyZE44TlN5NW9YNXVZM29PTGl5ZGc3TG1oWVloNUtKWEVYWVRZYWdxNllreEVLRU1kSFZXb1JUZlRqMzNfN1IyaFRXbFM4OA?oc=5"
+          },
+          {
+            "name": "Retail Times",
+            "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPa1NFOWpETWpmYlVZQ3c2WmRTOEZ4VWEwX0laVWc1ckZ0VXFodUhQQVZZUXNJNEJVZG44Z0VfT01TUUVHZl9SVXdZN1JTNlpLWDlXOUVLSVhFSjNiMnJqMVJ5ZE5GZWVuMU5uUkhPTk5mM1BORXFESjNkaVBPb0F0RlpwNmljQ2wxWXFaQXlsWHZHTDg0R0pQQzVvd2FLMHpfVl9TdFZBbmRpQWNxNXMwX1JPSzNHb2tWYWZ6bkx4NFNoUQ?oc=5"
+          }
+        ]
+      },
+      {
+        "zh_head": "Warburtons 扩大面包产品线",
+        "en_head": "Warburtons expands bakery product range",
+        "zh_fact": "Warburtons 宣布推出四款新产品，进一步扩展其酸面包（Sourdough）和虎皮面包（Tiger Bread）系列。",
+        "en_fact": "Warburtons has announced the launch of four new products, expanding its Sourdough and Tiger Bread ranges.",
+        "zh_why": "通过产品多样化满足消费者对不同口味和烘焙品种的需求。",
+        "en_why": "The expansion aims to meet consumer demand for diverse flavors and bakery varieties.",
+        "insight_zh": "烘焙品牌通过持续的产品创新来维持市场份额。",
+        "insight_en": "Bakery brands are maintaining market share through continuous product innovation.",
+        "zh_watch": "观察新产品在零售渠道的销售表现。",
+        "en_watch": "Observe the sales performance of the new products in retail channels.",
+        "sources": [
+          {
+            "name": "Retail Times",
+            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQMWJ4amlIcXNwTmdTcHVRazJMVVEwSnhLem4yUXJZWGRLa0xOdzZRSGc4NkJ5aG4zYjlWREMwRW5mWGJ2d3pxYmNjQ08zS2s3QnRFOGhqWUg4WF95NHRKNlpPbGdxOF9fUHJzTktCREN2XzJuZm45RW5wRm1VWHZEeGdLQW1HUjZlVm1CLXg3S2FHclpHWUVHSkhDekk?oc=5"
+          }
+        ]
+      },
+      {
+        "zh_head": "雀巢 CEO 制定印度市场增长路线图",
+        "en_head": "Nestlé CEO outlines growth roadmap for India market",
+        "zh_fact": "雀巢首席执行官概述了针对印度市场的全新发展战略，称该市场具有极高的吸引力。",
+        "en_fact": "Nestlé's CEO has outlined a new development strategy for the Indian market, describing it as highly attractive.",
+        "zh_why": "雀巢视印度为关键增长引擎，旨在通过新战略深化在该地区的业务布局。",
+        "en_why": "Nestlé views India as a key growth engine and aims to deepen its business footprint in the region through the new strategy.",
+        "insight_zh": "跨国食品巨头正加大对新兴市场的投入以寻求长期增长。",
+        "insight_en": "Multinational food giants are increasing investment in emerging markets to seek long-term growth.",
+        "zh_watch": "关注雀巢在印度市场的后续投资与产品扩张计划。",
+        "en_watch": "Monitor Nestlé's subsequent investment and product expansion plans in the Indian market.",
+        "sources": [
+          {
+            "name": "The Economic Times",
+            "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNQUJCcThIMDFKR1Item5Xb0wwaXQ3ejdhWFdBRGo0aWU0SmdzdUg1M3owZ2tTbld5UXlfcm1nZG1ISlAyZUdBTWhQU2JYd1NqTnNMTTBjSUpwSTZzQXA3M0VXcVZiZlJQZkVhZ1RnV3ZQOWJDYWp5RzFMSDE1MEh4dVZ4Ny1UNFktRGNlZmpHWDJhNGN6LUVrWGw1Mk1BRkR3SkdXb0hldG5CWXg5a3RGMkp6bElvS1U1M1MyS0x2NzZZcGZ0aXJ6cHRzWDNwS1E3cE1ESVFIaU9wNlBwZHVYMNIB5gFBVV95cUxNaGZPRVNfd1FEWnVGYlk1dmdrMVhUM2pVT183Y0V0cFFodEVsM01NUEs1UkRMcjZSQlczak52bklfSFFYX3VKZHBVTkp5bUFvRWptTy1YVjhRNkpuVjVPYTRUV1gxZEVuM1ZTaWpUbG4wRV9RVWNNaENLTVNkNGN5LVk5ajZXZk81Y1NFYnRoTGJrNzlmbUt0N0ZtZ1ZURTg5bTg5Wk1LRmFKR2JsV3N5ZlFLSFZkRktDVHkzZVRiTm5LYXRKUXBtSFRZT1RpRmh5UENkZlhUWExVYmV5eUZveHA5OFFvZw?oc=5"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "date": "2026-08-26",
     "zh_summary": "今日简报涵盖星巴克秋季菜单发布、印度快速消费品行业面临的增长挑战，以及零售商在产品上架策略上的洞察。",
     "en_summary": "Today's brief covers the launch of Starbucks' fall menu, growth challenges facing the Indian FMCG sector, and retailer insights on product shelf placement.",

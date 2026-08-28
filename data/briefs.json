@@ -1,5 +1,66 @@
 [
   {
+    "date": "2026-08-28",
+    "zh_summary": "今日零售与餐饮行业动态：星巴克韩国推出秋季限定饮品，Crumbl与Minecraft达成联名合作，Bikaji Foods通过聘请专家加速烘焙业务扩张。",
+    "en_summary": "Retail and F&B industry updates today: Starbucks Korea launches autumn seasonal drinks, Crumbl collaborates with Minecraft for a limited-time dessert, and Bikaji Foods scales its bakery division through expert partnership.",
+    "items": [
+      {
+        "zh_head": "星巴克韩国推出秋季限定饮品",
+        "en_head": "Starbucks Korea brings back Black Glazed Latte for autumn",
+        "zh_fact": "星巴克韩国宣布重新推出秋季限定饮品“黑釉拿铁”（Black Glazed Latte）。",
+        "en_fact": "Starbucks Korea has reintroduced its seasonal Black Glazed Latte for the autumn period.",
+        "zh_why": "该产品作为季节性营销策略的一部分，旨在通过限时供应吸引消费者关注。",
+        "en_why": "The product is part of a seasonal marketing strategy designed to drive consumer interest through limited-time availability.",
+        "insight_zh": "餐饮连锁品牌持续利用季节性限定产品来维持品牌热度并提升客流量。",
+        "insight_en": "F&B chains continue to leverage seasonal limited-edition products to maintain brand relevance and drive foot traffic.",
+        "zh_watch": "关注季节性产品对季度销售额的拉动作用。",
+        "en_watch": "Monitor the impact of seasonal product launches on quarterly sales performance.",
+        "sources": [
+          {
+            "name": "QSR Media Asia",
+            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTGJFMzIzUW5fd09wcS1tVm13OFlEa0ZxNk1jSHQzaDlFZXVnVVZlc0l6TC03ckVSd3Npa3ZRNkhGUmQwdURHUUVtd3YzQWp2MEYxM210MG45TU4zaC0xOUtFY25pRVQxWVJoaFBuN3F2STMwRHVGM1ZUU0laVDdmaERTa21MWWEyRGllM3hYcDZuREphLTJGTGYzS3JLdw?oc=5"
+          }
+        ]
+      },
+      {
+        "zh_head": "Crumbl与Minecraft达成联名合作",
+        "en_head": "Crumbl and Minecraft Join Forces for Limited-Time Dessert Collaboration",
+        "zh_fact": "烘焙连锁品牌Crumbl与游戏《Minecraft》合作，推出了一款限时供应的联名甜点。",
+        "en_fact": "Bakery chain Crumbl has partnered with the game Minecraft to launch a limited-time collaborative dessert.",
+        "zh_why": "此次合作旨在通过跨界联名触达年轻游戏玩家群体，提升品牌曝光度。",
+        "en_why": "The collaboration aims to reach younger gaming demographics and increase brand exposure through cross-industry marketing.",
+        "insight_zh": "跨界联名已成为食品零售商吸引特定消费群体的重要手段。",
+        "insight_en": "Cross-industry collaborations have become a key tactic for food retailers to engage specific consumer segments.",
+        "zh_watch": "观察此类跨界合作对品牌社交媒体互动率的影响。",
+        "en_watch": "Observe the impact of such cross-industry collaborations on brand social media engagement.",
+        "sources": [
+          {
+            "name": "Business Wire",
+            "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNTGZ1Z3VlcUhhdmUxUVlzZUhqdWtBcElINlRnd0xmVjRVdjlSdEk5UU12RWtrRmVMRUQ0VndPSE5IeFh5YWdOZnRRV05CX2R6SFlwOGJJcHJuU2JCNjFiSmFkZ0VwVE1qcC11WVpFZmo2clpXVVRWY0R1bWNaVEhRbGhGSHZYMGpPMGx5SHIwOEI1UGoxMGVfdU41N253WFAzd1lWSzQyX0RDd2JHNnRVbDYzQkdkWHluNU1vTDY5OU1MZWdwbUJz?oc=5"
+          }
+        ]
+      },
+      {
+        "zh_head": "Bikaji Foods聘请专家加速烘焙业务扩张",
+        "en_head": "Bikaji Foods Partners Bakery Expert Thayekunni Khaleel to Scale Bikaji Bakes",
+        "zh_fact": "Bikaji Foods宣布与烘焙专家Thayekunni Khaleel合作，旨在扩大其“Bikaji Bakes”业务规模。",
+        "en_fact": "Bikaji Foods has announced a partnership with bakery expert Thayekunni Khaleel to scale its 'Bikaji Bakes' operations.",
+        "zh_why": "通过引入专业人才，公司希望提升烘焙产品的生产能力和市场竞争力。",
+        "en_why": "By bringing in professional expertise, the company aims to enhance the production capacity and market competitiveness of its bakery products.",
+        "insight_zh": "传统食品企业正通过专业化运营和人才引进，积极拓展烘焙等高增长品类。",
+        "insight_en": "Traditional food companies are actively expanding into high-growth categories like bakery through professional operations and talent acquisition.",
+        "zh_watch": "关注Bikaji Bakes在市场份额上的增长表现。",
+        "en_watch": "Monitor the growth performance of Bikaji Bakes in terms of market share.",
+        "sources": [
+          {
+            "name": "Indian Retailer",
+            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMlhmOW1famxDLUhfMEpueUlGOU51dTJ4ZExsNURRSm1ZV1E3MkRFTC1wNTd3MHVMcU9IZWFJN2FNemwtVk9rc2lTUDJMQ0QtQzJlbzNCSGJlMjY1RkV3dFhrUnJvYzd1WVdwbkRXa2x6WVBfcHhyQUVuLTdrbllhM25DUGUtRWlfQ2xpQklRcm5scXJSZENDenZsOFUyc0NQTDM5LVMzOThjZkVKcHc?oc=5"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "date": "2026-08-27",
     "zh_summary": "今日零售与餐饮行业动态：星巴克通过高管变动与季节性新品布局秋季市场；Warburtons推出多款面包新品以扩大产品线；雀巢CEO强调印度市场的重要性。",
     "en_summary": "Retail and F&B industry updates: Starbucks focuses on autumn strategy with leadership changes and seasonal launches; Warburtons expands its bakery range with new product releases; Nestlé CEO highlights the strategic importance of the Indian market.",

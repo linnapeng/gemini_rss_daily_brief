@@ -1,5 +1,70 @@
 [
   {
+    "date": "2026-08-29",
+    "zh_summary": "今日零售与餐饮行业动态：星巴克推出秋季新品，咖啡连锁持续创新；Woolworths在南非开设超豪华食品旗舰店；餐饮运营商正通过饮料创新吸引年轻消费者。",
+    "en_summary": "Today's retail and F&B highlights: Starbucks launches fall menu items, coffee chains continue to innovate; Woolworths opens an ultra-luxury food flagship in South Africa; restaurant operators are ramping up beverage innovation to attract younger demographics.",
+    "items": [
+      {
+        "zh_head": "星巴克推出2026秋季菜单",
+        "en_head": "Starbucks Launches 2026 Fall Menu",
+        "zh_fact": "星巴克已正式推出2026年秋季菜单，其中包括新推出的香蕉面包。",
+        "en_fact": "Starbucks has officially launched its 2026 fall menu, which includes the addition of banana bread.",
+        "zh_why": "餐饮连锁品牌通过季节性新品和烘焙食品扩展，以维持消费者兴趣并增加客单价。",
+        "en_why": "F&B chains utilize seasonal menu updates and bakery expansions to maintain consumer interest and increase average transaction value.",
+        "insight_zh": "季节性产品已成为咖啡连锁店维持品牌新鲜感和驱动短期销售增长的核心策略。",
+        "insight_en": "Seasonal product offerings have become a core strategy for coffee chains to maintain brand freshness and drive short-term sales growth.",
+        "zh_watch": "关注咖啡连锁店如何通过烘焙产品与饮料的组合策略提升门店盈利能力。",
+        "en_watch": "Monitor how coffee chains leverage the combination of bakery items and beverages to improve store profitability.",
+        "sources": [
+          {
+            "name": "Foodbeast",
+            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOLVNUd3VnVE1GdlZVR0NrYU81UjNUNVZQc3hjLWt6Uzdaa2pVWG1JM1pzaHNLUW5JTE1IOHdsM2NhQS1jTkNUaDhUd1NzRjY1YlNYbnNrcnFJdkc2emVaQ0E5bHpUVGgyeFZldG9WWnhDcWNkNlU3UVAyVkpQVExGT3FMRHRxMHpOdVJwY3ZSNWd0SUdXNGhz?oc=5"
+          }
+        ]
+      },
+      {
+        "zh_head": "Woolworths在南非开设超豪华食品旗舰店",
+        "en_head": "Woolworths Opens Ultra-Luxury Food Flagship in South Africa",
+        "zh_fact": "零售商Woolworths在南非Dainfern开设了一家新的超豪华食品旗舰店（Food Emporium）。",
+        "en_fact": "Retailer Woolworths has opened a new ultra-luxury Food Emporium flagship store in Dainfern, South Africa.",
+        "zh_why": "该举措旨在通过高端零售体验和差异化门店布局，抢占高端消费市场份额。",
+        "en_why": "The move aims to capture market share in the premium segment through high-end retail experiences and differentiated store formats.",
+        "insight_zh": "在竞争激烈的零售环境中，通过旗舰店进行品牌升级是零售商提升品牌溢价的关键手段。",
+        "insight_en": "In a competitive retail environment, brand elevation through flagship stores is a key method for retailers to increase brand premium.",
+        "zh_watch": "观察此类高端门店模式是否会进一步推广至其他区域市场。",
+        "en_watch": "Observe whether this high-end store model will be further expanded to other regional markets.",
+        "sources": [
+          {
+            "name": "newsday.co.za",
+            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWUxEOFNNUEFJNTJROWo0aVZhM1RCYk5YaWVDSk94SUsxbW1RY1RobDdxbWVCVHhaU0ZwUVZaOW9heWh0N0lCMXBuaVA4SDRQT3k5TkhVeVdlT3p5WGI5RWV3ZEc1dlZsWW5MUWIwUEFadThjX0FxWkhOUDN6dFZYY1VrcTJRYUx5Rjl3SkExdmF4NFQyU3c0eA?oc=5"
+          },
+          {
+            "name": "businesstech.co.za",
+            "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZWtFS0FreTJBWnlQR25uX2l2VWFqaEh2MzJLZWlKZlFFNGk3ZjdDM0pGRnhCazdQMDFTeVdBQ0Zfd25jSjJ4Z1oxRERucG84cUpFQ2oyT042QjZxSmdnM1lwR2N2dExFemhKQldpLUFjQTJ4M2dZZUpldzFSbjJ3UEZkaW5nZnFhMkNtZlFkUnZjZ0xIdU5mY3poNDUxRVFkZmFGMFdlVktUQlBiOS15ZGZMRQ?oc=5"
+          }
+        ]
+      },
+      {
+        "zh_head": "餐饮运营商加大饮料创新力度以吸引年轻群体",
+        "en_head": "Restaurant Operators Ramp Up Beverage Innovation to Attract Younger Demographics",
+        "zh_fact": "报告显示，为了迎合Z世代和千禧一代消费者的需求，餐饮运营商正在加大在饮料领域的创新投入。",
+        "en_fact": "Reports indicate that restaurant operators are increasing their investment in beverage innovation to cater to the demands of Gen Z and Millennial consumers.",
+        "zh_why": "年轻消费者对个性化和创新型饮料的需求日益增长，促使运营商调整产品组合以保持竞争力。",
+        "en_why": "The growing demand from younger consumers for personalized and innovative beverages is prompting operators to adjust their product portfolios to remain competitive.",
+        "insight_zh": "饮料创新已成为餐饮业吸引年轻客群、提升门店流量和利润率的重要增长引擎。",
+        "insight_en": "Beverage innovation has become a significant growth engine for the restaurant industry to attract younger customers and improve store traffic and margins.",
+        "zh_watch": "关注未来餐饮品牌在饮料品类上的研发投入及其对整体营收的贡献。",
+        "en_watch": "Monitor future R&D investments in the beverage category by restaurant brands and their contribution to overall revenue.",
+        "sources": [
+          {
+            "name": "Seeking Alpha",
+            "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNT2hhbEdUX2RVRTRhd01meUpoUDNRSEFPWEFKRXV6ME5HQWVHMF84Rk1KVFA4Z1lXNDVQU3RqNDFvZlF3WHBfTm5CNkZDOHVvYloyaVh2YTdMYUNFMndkM3ZrajFGSkdFTnR1TFF2akN4YzdXV3NJN3pXMEM2bkx6aU5vQUJKWi1oUFpCdUhtM3J1c3hMUkh4Q1VYTEdYcjZOdkxtYVotX0MzcndHOWFmVnRUaUd5dUE?oc=5"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "date": "2026-08-28",
     "zh_summary": "今日零售与餐饮行业动态：星巴克韩国推出秋季限定饮品，Crumbl与Minecraft达成联名合作，Bikaji Foods通过聘请专家加速烘焙业务扩张。",
     "en_summary": "Retail and F&B industry updates today: Starbucks Korea launches autumn seasonal drinks, Crumbl collaborates with Minecraft for a limited-time dessert, and Bikaji Foods scales its bakery division through expert partnership.",

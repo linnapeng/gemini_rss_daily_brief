@@ -1,5 +1,66 @@
 [
   {
+    "date": "2026-08-31",
+    "zh_summary": "今日零售与消费领域动态：沃尔玛扩展Subway配送服务，AARAV推出消费者驱动的创新智能平台，Devyani制定KFC餐饮业务增长计划。",
+    "en_summary": "Retail and consumer updates today: Walmart expands Subway delivery services, AARAV launches a consumer-led innovation platform, and Devyani outlines growth plans for KFC dine-in operations.",
+    "items": [
+      {
+        "zh_head": "沃尔玛扩大Subway配送服务范围",
+        "en_head": "Walmart expands Subway restaurant delivery offer",
+        "zh_fact": "继夏季推出该服务后，沃尔玛已将Subway餐厅的配送服务范围从门店周边扩展至更广区域。",
+        "en_fact": "Following a summer launch, Walmart has extended its Subway restaurant delivery offer beyond its store estate.",
+        "zh_why": "此举旨在通过扩大配送覆盖面来提升便利性并增加餐饮业务的触达范围。",
+        "en_why": "The move aims to enhance convenience and increase the reach of its restaurant delivery services.",
+        "insight_zh": "零售商正通过整合餐饮配送服务来增加门店流量之外的收入来源。",
+        "insight_en": "Retailers are increasingly integrating restaurant delivery services to diversify revenue streams beyond traditional foot traffic.",
+        "zh_watch": "配送范围的进一步扩大是否会影响运营成本。",
+        "en_watch": "Whether further expansion of delivery zones will impact operational costs.",
+        "sources": [
+          {
+            "name": "Retail Technology Innovation Hub",
+            "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQMHFsYW81V0xId1BNSjN4VUlzUDFfUDJZcnI5Sk1OVmhjMTlrc1VtNlRrUFJDaFJUVmhJY1pHQnJSa1I2WG1CSTRJa01PWW9keVFla0piNS1Jdkp6RER6UUd2c2Q4RXMtc2dNRjVTMFdINHdhandFZTlNQzJtOFhxaC1ENWlWOXpGMHh3R01WNDJBaDJiUXJmUVI0VnVIYVQ1NXo4NmNZaGk1aFdBeHRWMUNYcWdRSU9QSC1iMUkteWt4VktNXzk1ZkFIcVdtZTRmUHRIbV9DMVU?oc=5"
+          }
+        ]
+      },
+      {
+        "zh_head": "AARAV推出智能平台以推动FMCG创新",
+        "en_head": "AARAV launches intelligence platform for FMCG innovation",
+        "zh_fact": "AARAV Fragrances and Flavors推出了“AARAV Intelligence”，旨在利用消费者数据推动快速消费品（FMCG）领域的动态创新。",
+        "en_fact": "AARAV Fragrances and Flavors has launched 'AARAV Intelligence' to enable dynamic, consumer-led innovation in the FMCG sector.",
+        "zh_why": "该平台旨在通过实时消费者洞察帮助企业更精准地进行产品开发。",
+        "en_why": "The platform is designed to help companies improve product development precision through real-time consumer insights.",
+        "insight_zh": "数据驱动的创新正成为FMCG企业应对快速变化市场需求的核心竞争力。",
+        "insight_en": "Data-driven innovation is becoming a core competency for FMCG firms to address rapidly shifting market demands.",
+        "zh_watch": "该平台在实际产品开发中的应用效果。",
+        "en_watch": "The effectiveness of the platform in real-world product development cycles.",
+        "sources": [
+          {
+            "name": "ANI News",
+            "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQUlg3TzV0aFJCa0htRm92UFNld2tOLTFmZVpXZFNOTmY5OHZFRENDVFZubXpRSkhFaFNQUER4S3hnTWI5TDRJTGdFV3hsRzFOM1JMQUdON184aERjMGV6SEZ3ZlQtaXd5ZjdVbkdUY3Q3LWxkUHNEdE13MktPbi0zNkNWMkV6LVpqSzNiTFc3M29mZ0ZxWjZhTV9yOHdsejkwU3JFUVpEelNLY2hTREYtWVZOSFU2ZzNWUkdxNDZFUWVHaFRKOUk4QnhMcV9zczdPNzF0cU9zM3ZOTnNWSjF2aWJ5cjlaQ3BNOEE?oc=5"
+          }
+        ]
+      },
+      {
+        "zh_head": "Devyani制定KFC餐饮业务增长计划",
+        "en_head": "Devyani targets KFC dine-in growth in FY27 plan",
+        "zh_fact": "Devyani在2027财年的扭亏计划中，设定了将KFC堂食业务占比提升至59%-60%的目标。",
+        "en_fact": "In its FY27 turnaround plan, Devyani has set a target to reach 59-60% dine-in salience for KFC.",
+        "zh_why": "公司希望通过加强堂食体验来优化业务结构并提升盈利能力。",
+        "en_why": "The company aims to optimize its business structure and improve profitability by strengthening the dine-in experience.",
+        "insight_zh": "餐饮连锁企业正在重新平衡外卖与堂食比例，以寻求更可持续的增长模式。",
+        "insight_en": "Restaurant chains are rebalancing the mix between delivery and dine-in to seek more sustainable growth models.",
+        "zh_watch": "该堂食占比目标能否在竞争激烈的市场中顺利实现。",
+        "en_watch": "Whether the dine-in target is achievable in a highly competitive market.",
+        "sources": [
+          {
+            "name": "scanx.trade",
+            "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWWRiaGRNaDBrYko0Mk5vaUhtVzN2Mlp2NmpCTS1wOHRZX251alRJNTVBZENoel9wSE9jMjFrdWV6UTY3S3VuRi1fXzJlbzR3dWY4Vzl6WDhTRldRQzhWRTRfVExsa0liVkNTTFN1d2pVbF9fVzVQNjlCZFpQTlRuNDR6cTRmWnFkaGJFVm9KdWE0eW9SMnYyUm1DWkFCZkdhemNsM002WnFFaGVYNkpkb1l2dF8wTkZIM0E?oc=5"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "date": "2026-08-30",
     "zh_summary": "本简报涵盖了零售扩张、食品饮料行业战略调整以及品牌运营的最新动态。",
     "en_summary": "This brief covers the latest developments in retail expansion, strategic shifts in the food and beverage industry, and brand operations.",

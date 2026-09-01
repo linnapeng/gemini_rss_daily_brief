@@ -1,5 +1,78 @@
 [
   {
+    "date": "2026-09-01",
+    "zh_summary": "今日简报涵盖星巴克的产品与战略调整、快消品行业的创新技术应用，以及零售业的运营动态。",
+    "en_summary": "Today's brief covers Starbucks' product and strategic adjustments, innovation in the FMCG sector, and retail operational developments.",
+    "items": [
+      {
+        "zh_head": "星巴克引入国际咖啡新品并调整菜单策略",
+        "en_head": "Starbucks Introduces International Coffee and Adjusts Menu Strategy",
+        "zh_fact": "星巴克首次将一款广受欢迎的国际咖啡产品引入美国市场，并正通过与Floura Fiber的纤维零食合作来重塑其菜单策略。",
+        "en_fact": "Starbucks is bringing a fan-favorite international coffee to the U.S. for the first time and is reportedly reframing its menu strategy through a fiber snack partnership with Floura Fiber.",
+        "zh_why": "这些举措旨在通过产品创新和健康导向的菜单调整，推动星巴克的业务转型与增长。",
+        "en_why": "These moves aim to drive business turnaround and growth through product innovation and health-oriented menu adjustments.",
+        "insight_zh": "咖啡连锁品牌正通过差异化产品和健康功能性食品来应对激烈的市场竞争。",
+        "insight_en": "Coffee chains are leveraging differentiated products and health-focused functional foods to navigate intense market competition.",
+        "zh_watch": "星巴克菜单转型对未来季度业绩的影响。",
+        "en_watch": "The impact of Starbucks' menu turnaround on future quarterly performance.",
+        "sources": [
+          {
+            "name": "Allrecipes",
+            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBmNkN5RnBEQVVReXhGZHBXTmpzcW9yMXM3bVVxTTQ0MnJ2dWZFMUZSdnE3U3h1MmFxV3lyQXBrWV9PTmdWdkpPUWJlZjFuX2dENkxmYVpQSWdVTlZNNnoyNldlVHBDUG9jbnc?oc=5"
+          },
+          {
+            "name": "simplywall.st",
+            "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOZmgzWjUtT2tQVWFSUUw0ZGJaN1lxYlYtaFJLZ1QzZUF1YlV1QXRfWVU3MlRWM1h3dTUzRXlYcW9ORXpJaWd5VmhUa2FmUV9ZSlF5TEgzbGxWZTVpYmRZbjFfR0dpNkUtVlZ6SEw2NnBOOHFPZTJMVW1hX2lMc3RQRmVMd0xjaENZZW8yTWlpMjNVV3MyTGQ0WlJ5Rks2dXNad0hvUzRnX1RpZWxCWE1FZ09QTTdvSXczRFdjUjlUUzJXamlVTHoxbmVpcXFrVTJRNTlV0gHYAUFVX3lxTFBLMXZNVFdYNHlUTEVTUGluZEFHSXplVHpNRkh4ZTZsZGl0OGdIMHZoSnFBZTRYT3VnUzhxbDUwQ2tzVjRpUjhpR2JEcjBoVHYzX1BkTTV6Vlhpd0R0WG42SW14eGN6cDZQS0FSS254Q1NFV3lpbEcxOTQtTzV4c0w0aVlSUjRUZVpkdXBJdmFjN3ktV2VkUFFhMjBibmpkTmlaV3R1TDh4TndDV3h6SUd2VVR1a2JDVXJLcExfc29PbEZ4NjMySUxXQ1EwTXl3YjFMSWh3ZnljcQ?oc=5"
+          }
+        ]
+      },
+      {
+        "zh_head": "快消品行业利用AI与消费者洞察推动创新",
+        "en_head": "FMCG Industry Leverages AI and Consumer Insights for Innovation",
+        "zh_fact": "AARAV Fragrances and Flavors推出了AARAV Intelligence，旨在通过消费者驱动的数据实现快消品创新；同时，汇通达网络在财报中强调了“快消零售连锁+AI技术”战略的进展。",
+        "en_fact": "AARAV Fragrances and Flavors launched AARAV Intelligence to enable consumer-led FMCG innovation, while Huitongda Network reported progress in its 'FMCG retail chains + AI technology' strategy.",
+        "zh_why": "企业正通过数字化转型和AI技术更精准地捕捉消费者需求，以应对市场波动。",
+        "en_why": "Companies are utilizing digital transformation and AI to capture consumer demand more accurately in response to market volatility.",
+        "insight_zh": "AI技术正在成为快消品企业提升运营效率和产品开发敏捷性的核心工具。",
+        "insight_en": "AI technology is becoming a core tool for FMCG companies to enhance operational efficiency and product development agility.",
+        "zh_watch": "AI驱动的创新模式在提升市场份额方面的实际成效。",
+        "en_watch": "The actual effectiveness of AI-driven innovation models in gaining market share.",
+        "sources": [
+          {
+            "name": "India's News.Net",
+            "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPc2F2VFhPaUJjdk11NWhVeXl4NW5DS21MdVhJckd0TjlPWUUzRkJidjY2THpEQVF0c1doSV9WVk9rdDRzLXE1OUU3cDM0SnlwOTlybDM0OGpxdlNyN1Y1eTIwei05TmF2YmF2Z1ZzeFRkd1dRcTN4NDdCdGQ5b05Fbi0xeE4tcTNWU0Jmc0pRV3dVOTctM05MSnVXNjlvZDhkU1pjYllQdGJ6WkJRWkdobDBqVVMwXzNPRk5RT0wtQlpGUHN4WHJFV0I0Y2xKZER0ZWRmcmNLMkxydVFBU2c?oc=5"
+          },
+          {
+            "name": "TradingView",
+            "url": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxNZXlyNlJ0OFo3RG9aUVpQZWJEV0MzNUVnRmRXYTBON0VUY2t1emNrdnRJNnV4aW5mRUQ2M1RhSTBiVEp4SXlQMlZBUHNxN3J0bHQ5SUx4TXoza2M5MVBGTTBCZnpRUzdoV1BtT3N0eVVrWVZUWDZNVkpBV0FTU0RXeU5GRGwwQlcxTVZDN2wxbUtIRWx3Z2YxNE1yNmxXN3ltSTFWckpzZFA4S29ZM21SeFRNaUFNRzNzanhTY1dpRndBMlVqZzFJbzFZZkRPcjFRT0VDX3BocmYyTU1tS2JMSXdQeUFycWZPZjVnaTlRV2taZ3dUdjJYcTMyUUlMUHlfRXp4Y205TFZWRktZX2JQbEZBU2VUNDJzUTdlWE43V19TM1RwdElBNlhmaExhZ2tEeFNBT1NOazZ6ZlVIeC1aZGd6UFhyeWl0enRraEYwcDVLenhJbnZtVjR3V3BvSGlp?oc=5"
+          }
+        ]
+      },
+      {
+        "zh_head": "零售与餐饮业运营动态：扩张与折扣策略",
+        "en_head": "Retail and Restaurant Operations: Expansion and Discount Strategies",
+        "zh_fact": "Happy Belly预计到2027年餐厅数量将达到183家；同时，GPStar客户在SBG食品品牌可享受10%的折扣，Flipkart Minutes报告Rakhi购物增长3倍。",
+        "en_fact": "Happy Belly is projected to reach 183 restaurants by 2027; meanwhile, GPStar customers receive a 10% discount on SBG food brands, and Flipkart Minutes reported 3X growth in Rakhi shopping.",
+        "zh_why": "零售商和餐饮品牌通过扩张计划和促销活动来刺激消费需求并扩大市场覆盖。",
+        "en_why": "Retailers and restaurant brands are using expansion plans and promotional activities to stimulate consumer demand and broaden market reach.",
+        "insight_zh": "在成本压力下，通过精准的促销和规模化扩张是零售品牌维持增长的关键。",
+        "insight_en": "Under cost pressures, precise promotions and scalable expansion are key for retail brands to maintain growth.",
+        "zh_watch": "扩张计划的执行进度及促销活动对利润率的影响。",
+        "en_watch": "The execution progress of expansion plans and the impact of promotions on profit margins.",
+        "sources": [
+          {
+            "name": "retail-insider.com",
+            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQa2JMeF9nM29pWlZTYUp3ZTRIa195d0JMR1dOc1V1dVRvbGNsQUdrWEhCU1hLQ2VNTm1VWWZEVGRPQzNjdUtLaUtGYU1sYmt3SXF3ZWFDZGNvOFhTM29zcS05VTFHUTh5NFhvX1pfbng3ZjU3ZndtQkhwcjZCUnBIX25iV1htcG9EeGN4QzBzaFg2ZjB4ZTVHRzBHamxuSlZzQUdKc0NnVks?oc=5"
+          },
+          {
+            "name": "daily-sun.com",
+            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSUtTVE51X29wRFVVVHZGTzZSdnJBM1FPYUdGRkNUUmN0Sk5IQ2d1WXZNV25TNWZNbEdzbU9nRkZka0xsZ0VET2duWUVRaTE4MzdZV0lMQjhaYUMwRHlTTnFkekd5N1dqVGdsRjJKcHl5WDZCajluTENvX1VVQU9BWDJGTFNvX0Q2SzJuYjlKNnFDVllsX3VuZ0p1OUo?oc=5"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "date": "2026-08-31",
     "zh_summary": "今日零售与消费领域动态：沃尔玛扩展Subway配送服务，AARAV推出消费者驱动的创新智能平台，Devyani制定KFC餐饮业务增长计划。",
     "en_summary": "Retail and consumer updates today: Walmart expands Subway delivery services, AARAV launches a consumer-led innovation platform, and Devyani outlines growth plans for KFC dine-in operations.",

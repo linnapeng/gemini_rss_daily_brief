@@ -1,5 +1,70 @@
 [
   {
+    "date": "2026-09-03",
+    "zh_summary": "今日零售与餐饮行业动态包括Shoprite收购非洲最大咖啡连锁品牌、塔塔星巴克推出新品，以及cbdMD对Twinlab的收购计划。",
+    "en_summary": "Today's retail and F&B updates include Shoprite's acquisition of Africa's largest coffee chain, new menu innovations at TATA Starbucks, and cbdMD's planned acquisition of Twinlab.",
+    "items": [
+      {
+        "zh_head": "Shoprite收购非洲最大咖啡连锁Vida e Caffè",
+        "en_head": "Shoprite Acquires Africa's Largest Coffee Chain Vida e Caffè",
+        "zh_fact": "Shoprite以6200万美元收购了非洲最大的咖啡连锁品牌Vida e Caffè，此前该公司报告年销售额为168亿美元。",
+        "en_fact": "Shoprite has acquired Africa's largest coffee chain, Vida e Caffè, for $62 million, following the retailer's report of $16.8 billion in annual sales.",
+        "zh_why": "此举标志着Shoprite在餐饮零售领域的扩张，旨在利用其庞大的零售网络整合咖啡业务。",
+        "en_why": "This move marks an expansion for Shoprite into the F&B retail space, aiming to leverage its massive retail network to integrate coffee operations.",
+        "insight_zh": "大型零售商通过收购专业餐饮品牌来提升门店体验和多元化收入来源的趋势日益明显。",
+        "insight_en": "Large retailers are increasingly acquiring specialized F&B brands to enhance in-store experiences and diversify revenue streams.",
+        "zh_watch": "收购后的整合效率及Vida e Caffè在Shoprite门店的渗透率。",
+        "en_watch": "Post-acquisition integration efficiency and the penetration rate of Vida e Caffè within Shoprite stores.",
+        "sources": [
+          {
+            "name": "Business Insider Africa",
+            "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPN0VIZHRqVEU3cVRZSWJnN1AyMUtlbS1CdFMyRDZKTmtYQnhIM0VDdENfVHNhaDlQUXIzTzJUYXJFU1hhSFhELWk2cEdic2t3aVBZZnFtQVFYR0dwd3FSakdDeGhWYWlKbUtPYzFOdTBmRXRWSV9ZNlAxV0dLMjFSTFRtVmQ4WVhhSm1OMS1fQnNFZVl3ZDFGeGpyZUhGMHhlWjJKeExsQnFwTDRBYTlWRkpCalhLbEt1MWVjSUYta0ZXdEdfMzBnT0lVWlVqTW1JWG9SbUQwdDRxZw?oc=5"
+          }
+        ]
+      },
+      {
+        "zh_head": "塔塔星巴克推出咖啡创新产品与南瓜香料系列",
+        "en_head": "TATA Starbucks Launches Coffee Innovations and Pumpkin Spice Favorites",
+        "zh_fact": "塔塔星巴克在其菜单中引入了新的咖啡创新产品，并重新推出了南瓜香料系列饮品。",
+        "en_fact": "TATA Starbucks has introduced new coffee innovations to its menu and brought back its pumpkin spice favorites.",
+        "zh_why": "通过季节性产品和菜单创新，品牌旨在吸引消费者并提升门店客流量。",
+        "en_why": "Through seasonal offerings and menu innovation, the brand aims to engage consumers and drive store footfall.",
+        "insight_zh": "",
+        "insight_en": "",
+        "zh_watch": "消费者对新品的接受度及季节性营销对销售的拉动作用。",
+        "en_watch": "Consumer reception to new products and the impact of seasonal marketing on sales.",
+        "sources": [
+          {
+            "name": "Chennaionline",
+            "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSmJXX0dfVzFPX3IyTjJwZktmcGl2S0xVOWFjT3cyQmMtQWwyQ3A5ekZER212UUtHMzFLWlJBZUpuT2Z1TnhTLWFwVGVTSDBham9xZkk4dWdmcHdKMlQyWU9NMjFVNHF0SkU5NS1DNXNrVDZDejlWUWVlSDUyZjhXYWhzM1pGYkEwVVVxUDFDS0xGcDcwREYzdENnYmtrOXJMZFEydWdwRjhDalM4RVUxRHUzTDllZURnREpQSTFpQmZkenh1Smlz0gHHAUFVX3lxTE1KYldfR19XMU9fcjJOMnBmS2ZwaXZLTFU5YWNPdzJCYy1BbDJDcDl6RkRHbXZRS0czMUtaUkFlSm5PZnVOeFMtYXBUZVNIMGFqb3FmSTh1Z2Zwd0oyVDJZT00yMVU0cXRKRTk1LUM1c2tUNkN6OVZRZWVINTJmOFdhaHMzWkZiQTBVVXFQMUNLTEZwNzBERjN0Q2dia2s5ckxkUTJ1Z3BGOENqUzhFVTFEdTNMOWVlRGdESlBJMWlCZmR6eHVKaXM?oc=5"
+          }
+        ]
+      },
+      {
+        "zh_head": "cbdMD计划收购Twinlab品牌以扩大健康产品组合",
+        "en_head": "cbdMD to Acquire Twinlab Brands to Expand Wellness Portfolio",
+        "zh_fact": "cbdMD已达成协议收购Twinlab品牌，该品牌目前服务于包括GNC在内的5万家零售网点，收购尚待批准。",
+        "en_fact": "cbdMD has agreed to acquire Twinlab brands, which currently serve 50,000 retail outlets including GNC; the acquisition is pending approval.",
+        "zh_why": "此次收购旨在通过整合Twinlab广泛的零售分销渠道，扩大cbdMD在消费健康领域的市场份额。",
+        "en_why": "The acquisition aims to expand cbdMD's market share in the consumer wellness sector by integrating Twinlab's extensive retail distribution channels.",
+        "insight_zh": "",
+        "insight_en": "",
+        "zh_watch": "监管部门对收购的审批进度及整合后的渠道协同效应。",
+        "en_watch": "Regulatory approval progress and the synergy of channels post-integration.",
+        "sources": [
+          {
+            "name": "citybiz",
+            "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNV1V4aWl3S0tkYnBtSEl2NmJLektvaWxqMk14ODNBd0R1Y0VqbjBmbzNqcEpvY1NpXzAyUUxXd2hXWENOYThCM1VIY09ZZWpXRTF6VTlwUjRkQk1HQjVUdDVDV1JDVC12aVlMcGxUY3R1NHBpVUZTNHVHYWlpWklFTG5zNllxOEZLSzlhdU9zVjBGX3V0VmtNUXZVcnprb2g2dVdUak1rS3lsaVFR?oc=5"
+          },
+          {
+            "name": "Stock Titan",
+            "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUkJCS2FHTVlJdy1lMkdBLURRZGNJTHdRWUtOd2NwRmdtNWRDSVloeXg4YkZxcHBITlpWOUY0UUkxX1Z6R3VIT2JKODJRVHNVZEcxejZ6aXJmQUZ3Vl9ndmFHT3YySlNMUjNJYUhRT3ZpeHljOGRPcFFWRnBfT25xU0k5TEkzRVZKQVRfSU9KX0d2alVUMUJQS19QdnAwRDVBRWRNUDNsSUdYMExJTC1HSWcwMnVyQQ?oc=5"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "date": "2026-09-02",
     "zh_summary": "今日餐饮与零售业动态：星巴克通过聘请耐克高管进行供应链转型并更新菜单；Après Roasters在Marshall开设新店；零售业方面，Couche-Tard盈利增长但加拿大便利店销售趋平。",
     "en_summary": "Today's F&B and retail updates: Starbucks is undergoing a supply chain transformation with a new Nike hire and updating menus; Après Roasters is opening a new location in Marshall; in retail, Couche-Tard reports earnings growth despite flattening convenience sales in Canada.",

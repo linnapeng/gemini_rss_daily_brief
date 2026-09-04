@@ -1,5 +1,66 @@
 [
   {
+    "date": "2026-09-04",
+    "zh_summary": "今日简报涵盖了全球餐饮与烘焙行业的创新动态，包括星巴克的新品发布、巴黎特色咖啡店的开业，以及烘焙巨头在英国设立创新中心以支持制造增长的举措。",
+    "en_summary": "Today's brief covers innovation in the global F&B and bakery sectors, including new menu launches at Starbucks, the opening of a niche coffee shop in Paris, and a major bakery manufacturer's new innovation center in the UK.",
+    "items": [
+      {
+        "zh_head": "星巴克推出九款新品并回归南瓜拿铁",
+        "en_head": "Starbucks launches nine new menu items and brings back pumpkin spiced latte",
+        "zh_fact": "星巴克宣布推出九款新菜单项，并重新上架季节性产品南瓜拿铁。",
+        "en_fact": "Starbucks has launched nine new menu items and reintroduced its seasonal pumpkin spiced latte.",
+        "zh_why": "这是星巴克通过季节性产品和菜单更新来吸引消费者并提升门店流量的常规策略。",
+        "en_why": "This is a standard strategy for Starbucks to drive store traffic and consumer engagement through seasonal offerings and menu refreshes.",
+        "insight_zh": "餐饮连锁品牌正日益依赖季节性限定产品来维持品牌热度。",
+        "insight_en": "F&B chains are increasingly relying on seasonal limited-time offers to maintain brand relevance.",
+        "zh_watch": "关注此类季节性营销对同店销售额的实际拉动作用。",
+        "en_watch": "Monitor the actual impact of such seasonal marketing on same-store sales.",
+        "sources": [
+          {
+            "name": "thesun.co.uk",
+            "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNnNrcVJpUVF6anVBN25wQmdxSEMxOVlmT3NSS3VTdUs1UjlxNzRRejRCMG5VY0NvM00zeTViWDdFTm1acjUwS2U0UnFIUjZKQmgyQWd3bER3ODEyRm0tUGJsZDh2c3RQUHlCTXRRNEVKWnBLZ18wekVzUHg3VEN2c3RfbEVHWTB1QUEyUVA2WTk?oc=5"
+          }
+        ]
+      },
+      {
+        "zh_head": "巴黎新开业咖啡店 Salted Boy 主打咸味面包",
+        "en_head": "Paris-based coffee shop 'Salted Boy' opens, focusing on salted bread",
+        "zh_fact": "一家名为 Salted Boy 的咖啡店在巴黎开业，该店专门提供咸味面包产品。",
+        "en_fact": "A new coffee shop named Salted Boy has opened in Paris, specializing in salted bread products.",
+        "zh_why": "该店通过聚焦单一特色品类（咸味面包）进行差异化竞争，以吸引追求独特口味的消费者。",
+        "en_why": "The shop is differentiating itself by focusing on a niche category (salted bread) to attract consumers seeking unique culinary experiences.",
+        "insight_zh": "精品咖啡店正通过与特定烘焙品类的深度绑定来打造品牌差异化。",
+        "insight_en": "Boutique coffee shops are building brand differentiation through deep integration with specific bakery categories.",
+        "zh_watch": "观察此类垂直细分品类在竞争激烈的咖啡市场中的生存能力。",
+        "en_watch": "Observe the viability of such vertical niche categories in the highly competitive coffee market.",
+        "sources": [
+          {
+            "name": "Sortir à Paris",
+            "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPMmhwVU9PMmpuV2ZjZGY5dmNNWkdqMzNPRVJOcm0xR2E5UG1ya1Q1M3czMDVFUmo1N1k4dVNPYy1nMTVoX2owMEdJZm9GWWthdjByLTJsaC1IalI1Z25VYkJ5bHZjTmJiVTdPaVJfMEluS0NwNTFtWHBwZEp0Zm1xNHczcTRBaTY1LWpaQVZJQU5RLVdyRnNxNGVQWmE3NHRHaVAtSGFxY1Zqc083RTlPR21xUHZZamlVVGptZTR4eWFSZUhWbjRPU1BqOEItSU1jMVhvUGNJSmFiMFVtVVJuVnowOVdoeVQxLUc5ay0yV0xnQQ?oc=5"
+          }
+        ]
+      },
+      {
+        "zh_head": "C.H. Guenther 在英国考文垂设立烘焙创新中心",
+        "en_head": "C.H. Guenther opens Centre of Excellence in Coventry, UK",
+        "zh_fact": "C.H. Guenther 在英国考文垂开设了一个卓越中心，旨在加速烘焙创新并支持其在英国及欧洲的制造增长。",
+        "en_fact": "C.H. Guenther has opened a Centre of Excellence in Coventry, UK, to accelerate bakery innovation and support manufacturing growth across the UK and Europe.",
+        "zh_why": "此举旨在通过本地化研发和创新能力，应对欧洲市场对烘焙产品不断增长的需求。",
+        "en_why": "The move aims to address growing demand for bakery products in the European market through localized R&D and innovation capabilities.",
+        "insight_zh": "大型烘焙制造企业正通过设立区域创新中心来缩短产品开发周期。",
+        "insight_en": "Large bakery manufacturers are shortening product development cycles by establishing regional innovation hubs.",
+        "zh_watch": "关注该中心后续推出的新产品及其对欧洲市场份额的影响。",
+        "en_watch": "Monitor the new products launched from this center and their impact on European market share.",
+        "sources": [
+          {
+            "name": "bastillepost.com",
+            "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxNNHgxMHNBSmd6ZFpoTkMtNGdUcDBYWVI3dndNc19JWFpscnlnX3dta291RDlkejN2azV5dzFTdWVERnd4bHFoUktOS2loY3lqd04zNHJRbHVTWERpdWVtOXJfM3daWHpOLXVZVl9DYmhXd2Z5WXRJWDFYQ2t4NUU0eXl3UHdNRGFHOVFRNGJQZDVLaGw1NTV0M1RURS10Nkl5NDJrRElWbF9ubE0yV1BmN3BDUWlIMDlPRWhiVGlMTmVsRWR2dUE0a09vNWs1Z0d3MTR2V05NbndVSGNCamZnT0w4N3VqZ2ltb1hSNldzcllCLXpBbDVpaExhckk2a2FTa0R3OG05d2hVSmRoc3owd2VUSFJ6Q05YR2tBblFKMkU4MUxpZmc?oc=5"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "date": "2026-09-03",
     "zh_summary": "今日零售与餐饮行业动态包括Shoprite收购非洲最大咖啡连锁品牌、塔塔星巴克推出新品，以及cbdMD对Twinlab的收购计划。",
     "en_summary": "Today's retail and F&B updates include Shoprite's acquisition of Africa's largest coffee chain, new menu innovations at TATA Starbucks, and cbdMD's planned acquisition of Twinlab.",

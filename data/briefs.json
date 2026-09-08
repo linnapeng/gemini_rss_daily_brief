@@ -1,5 +1,66 @@
 [
   {
+    "date": "2026-09-08",
+    "zh_summary": "今日零售与食品饮料行业动态：达能收购Huel以拓展功能性营养市场；消费者健康饮食趋势显著，印度市场正转向酸奶、芡实等健康零食；同时，星巴克在东亚零售市场的成功经验引发行业关注。",
+    "en_summary": "Retail and F&B industry updates: Danone expands into functional nutrition with the acquisition of Huel; consumer trends show a shift toward healthier snacking, notably in India with preferences for yogurt and makhana; meanwhile, Starbucks' success in East Asian retail continues to draw industry analysis.",
+    "items": [
+      {
+        "zh_head": "达能收购Huel拓展功能性营养业务",
+        "en_head": "Danone expands into functional nutrition with Huel acquisition",
+        "zh_fact": "达能（Danone）已完成对Huel的收购，旨在进一步扩大其在功能性营养领域的产品组合。",
+        "en_fact": "Danone has acquired Huel to grow its presence and product portfolio within the functional nutrition sector.",
+        "zh_why": "此举反映了大型食品饮料企业通过并购快速切入高增长的功能性食品市场，以应对消费者对健康营养产品需求的增长。",
+        "en_why": "This move reflects the strategy of major F&B companies to enter high-growth functional food markets through M&A to meet rising consumer demand for health-oriented products.",
+        "insight_zh": "",
+        "insight_en": "",
+        "zh_watch": "达能后续如何整合Huel的品牌资源及其在功能性营养市场的份额变化。",
+        "en_watch": "How Danone integrates Huel's brand resources and the subsequent impact on its market share in functional nutrition.",
+        "sources": [
+          {
+            "name": "Food & Beverage Outlook",
+            "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNTUtzMWdzM0o2X29OYjJxTXJmNnJnSHpOMzdyNnU3OU8wZHJSQm5nQkhsUzJyX3pBR2xrRjczdFFQcGx3UFRVYWNHTE1tdDYwdWs0a0VDUURpYTh6Um02MGlhMHhJMFBMZ1l2ZXlFOTlmODlBc1FUajF2QlpMMXhwWUhNUUJWQ21DYmZTUmp3QWFqbk9xZXBlUndyNkpzcWJ4UndjRF9IeXllWEtkVWpjYmlBU0xTRmc?oc=5"
+          }
+        ]
+      },
+      {
+        "zh_head": "印度消费者健康零食趋势显著",
+        "en_head": "Shift toward healthy snacking in India",
+        "zh_fact": "印度消费者正逐渐减少垃圾食品摄入，转而选择酸奶、芡实（makhana）和多谷物面粉等更健康的零食替代品。",
+        "en_fact": "Indian consumers are increasingly replacing junk food with healthier snack alternatives such as yogurt, makhana, and multi-millet flours.",
+        "zh_why": "消费者健康意识的提升正在重塑零食市场的消费结构，推动传统零食向健康化转型。",
+        "en_why": "Rising health consciousness among consumers is reshaping the snacking market structure, driving a transition toward healthier product categories.",
+        "insight_zh": "",
+        "insight_en": "",
+        "zh_watch": "该趋势是否会促使更多跨国食品品牌在印度市场调整其产品配方与品类布局。",
+        "en_watch": "Whether this trend will prompt more multinational food brands to adjust their product formulations and category layouts in the Indian market.",
+        "sources": [
+          {
+            "name": "Bhaskar English",
+            "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcktieWZ5UTNCSkgwb1NCc21UQkRIVDNzMXN1Z1QxLTgwRFhNVnh2Snp0b252ZFZUM1VpbTZWdkFoOHhVTHlVLVNDMU80bVRSSnR2ckp0UHp5ZjJ6WWQ5aTJ0OFBiZHBvT0VZRFVHWVo3MGpqamQ4MklWdTQ5TVRWLTBQbjRHUm1XN0ZkZVE4V1Frc1lxYi04dFl3QUk1QnpKd1RxWWNRRWpxZ0M2LTFqNUlSb0N2SC1wUUZ2c21n0gG-AUFVX3lxTE5yS2J5ZnlRM0JKSDBvU0JzbVRCREhUM3Mxc3VnVDEtODBEWE1WeHZKenRvbnZkVlQzVWltNlZ2QWg4eFVMeVUtU0MxTzRtVFJKdHZySnRQenlmMnpZZDlpMnQ4UGJkcG9PRVlEVUdZWjcwampqZDgySVZ1NDlNVFYtMFBuNEdSbVc3RmRlUThXUWtzWXFiLTh0WXdBSTVCekp3VHFZY1FFanFnQzYtMWo1SVJvQ3ZILXBRRnZzbWc?oc=5"
+          }
+        ]
+      },
+      {
+        "zh_head": "星巴克在东亚零售市场的成功经验分析",
+        "en_head": "Analysis of Starbucks' success in East Asian retail",
+        "zh_fact": "行业分析指出，星巴克在东亚零售市场的成功得益于其建立的“无形层”运营模式，这使其在沃尔玛等零售商面临挑战的区域依然保持优势。",
+        "en_fact": "Industry analysis suggests that Starbucks' success in East Asian retail is attributed to an 'invisible layer' of operations, allowing it to maintain an advantage in regions where retailers like Walmart have struggled.",
+        "zh_why": "该模式强调了品牌在特定文化背景下通过运营深度与本地化策略构建竞争壁垒的重要性。",
+        "en_why": "This model highlights the importance of building competitive moats through operational depth and localization strategies within specific cultural contexts.",
+        "insight_zh": "",
+        "insight_en": "",
+        "zh_watch": "星巴克如何持续利用其运营模式应对东亚市场日益激烈的咖啡连锁竞争。",
+        "en_watch": "How Starbucks continues to leverage its operational model to navigate the increasingly intense coffee chain competition in East Asia.",
+        "sources": [
+          {
+            "name": "Retail Asia",
+            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObjBrYmVkMG5fSkhRa2ZTUTR0ZUhwMTQwbXpEQ2tzcXUxWjhLVTJoazRmd3ZYYjJIbEhFbkdjWFppR1RiLWtjTHZIcWdoTExGWC15X1dCSHpRSHpveEtBYnpHbjB0ZmpQQloyQTlwcm1Td0x1RGhybGU5Rmk1U3huRFpuTGhfa3RiU204ajhjSUR3V2lvR2l2R3ZEaHZFaDhSYUxsZUZLV0I?oc=5"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "date": "2026-09-05",
     "zh_summary": "今日零售与消费行业动态：Nothing Before Coffee计划扩张至170家门店；星巴克推出全国性健康吧台并与图卢兹足球俱乐部合作；快速消费品企业通过小包装蛋白产品渗透大众市场。",
     "en_summary": "Retail and consumer highlights today: Nothing Before Coffee targets 170 outlets; Starbucks launches a nationwide wellness bar and partners with Toulouse FC; FMCG firms are leveraging small-format protein packs to penetrate the mass market.",

@@ -1,5 +1,66 @@
 [
   {
+    "date": "2026-09-09",
+    "zh_summary": "今日商业简报涵盖了食品饮料行业的创新趋势、零售市场的战略调整以及消费品市场的结构性变化。",
+    "en_summary": "Today's business brief covers innovation trends in the food and beverage industry, strategic shifts in retail, and structural changes in the consumer goods market.",
+    "items": [
+      {
+        "zh_head": "雀巢聚焦“更少、更大”的创新策略",
+        "en_head": "Nestlé bets on “fewer, bigger” innovations",
+        "zh_fact": "雀巢公司宣布将重心转向更少但规模更大的创新项目，旨在推动食品业务的可持续增长。",
+        "en_fact": "Nestlé is shifting its focus toward fewer, larger innovation projects to drive scalable growth in its food business.",
+        "zh_why": "此举旨在通过集中资源提升核心产品的市场影响力和研发效率。",
+        "en_why": "The move aims to concentrate resources to enhance the market impact and R&D efficiency of core products.",
+        "insight_zh": "大型食品企业正通过精简产品线来应对日益复杂的市场需求，以实现更高效的规模化扩张。",
+        "insight_en": "Large food enterprises are streamlining product portfolios to navigate complex market demands and achieve more efficient, scalable expansion.",
+        "zh_watch": "关注雀巢后续在甜点及其他品类中的具体产品落地情况。",
+        "en_watch": "Monitor the rollout of specific products in dessert and other categories following this strategic shift.",
+        "sources": [
+          {
+            "name": "Food Ingredients First",
+            "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZU9YOVhSZ25yUE9yeFdPMmtuVF90ajJaeVZsQjE1ZlZEcTI5N0IxejFaTnVlb05iNnNLTW5Pc3UzRFloMG9HM3VSTjF1SERCMWxYUWhXVEtBRVIxU1dqUFNObF9nYWs2QmEzeVJoajk2VTdCdGdSeVF5dkRoS3BYYm1pMGpKRm5RSXpRbWYyMW9CQQ?oc=5"
+          }
+        ]
+      },
+      {
+        "zh_head": "星巴克推出春季能量提神饮品",
+        "en_head": "Starbucks launches new energy refreshers",
+        "zh_fact": "星巴克近期推出了全新的能量提神饮品系列，以迎合春季饮品市场的消费趋势。",
+        "en_fact": "Starbucks has introduced a new line of energy refreshers to align with spring beverage market trends.",
+        "zh_why": "通过季节性新品发布，品牌旨在吸引寻求功能性与口感创新的消费者。",
+        "en_why": "Through seasonal product launches, the brand aims to attract consumers seeking a combination of functionality and flavor innovation.",
+        "insight_zh": "",
+        "insight_en": "",
+        "zh_watch": "观察此类功能性饮品对星巴克季度销售额的贡献度。",
+        "en_watch": "Observe the contribution of these functional beverages to Starbucks' quarterly sales performance.",
+        "sources": [
+          {
+            "name": "ABC News",
+            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQelhUNzZGY1czT2cwMF9EcUdqb1B3Njd5TFJFMjFleFd3SmFHUkpYZ0RhSDJwUVFpXzUyUEZBeTBFNGsyZVBZcGdHb2ZyZmlnR1NzTk1pb09SX1UyVm9ZQTR4a0xsN3hYWGQ0U29KNlhhYTMyOVMySXgzQldudEFKaEpRbWo1VVVXWHhaZldkcEgwSXFWNjg3Mm1qbmbSAaIBQVVfeXFMTXFfbnpLTGtnSzd0U3JReTJ2WTB5NGkxdTN0cWZNZE91dkxEdlhfclA3MjJKOENwdmpQMm83ekxIOFNrS1V0ZnhrQ3diZTBHdVlNVXFoMkJNZHN5ZDdoQ0IxamJvYTUzcmhVZkpycE96cmg3cFV2REV2NnM3ZktTSzlua0I3S1g5Q2VhY0toeWlQY2pWZ181bWxKNzRic2I4UGpB?oc=5"
+          }
+        ]
+      },
+      {
+        "zh_head": "美国消费品市场呈现两极分化趋势",
+        "en_head": "US consumer goods market splitting in two",
+        "zh_fact": "根据NIQ和World Data Lab的分析，价值超过1.1万亿美元的美国消费品市场正在出现明显的两极分化。",
+        "en_fact": "According to analysis by NIQ and World Data Lab, the $1.1 trillion US consumer goods market is showing a clear split.",
+        "zh_why": "市场结构的变化反映了消费者在不同经济环境下对品牌选择和支出习惯的调整。",
+        "en_why": "The shift in market structure reflects adjustments in consumer brand preferences and spending habits under varying economic conditions.",
+        "insight_zh": "",
+        "insight_en": "",
+        "zh_watch": "关注零售商如何针对不同消费群体调整其库存和定价策略。",
+        "en_watch": "Monitor how retailers adjust their inventory and pricing strategies to target different consumer segments.",
+        "sources": [
+          {
+            "name": "Yahoo Finance Singapore",
+            "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA1ZjBLb0xpOGM5b1VaWlhHS2JNTjRqc01UT1FpWVZ0d3F2MmFmQ2tKT29UNFZ2ZmNPR1NmUDZrck1jbnB2bUdmLVAyNnA0X0xBenFkT2xvbWtWckZ3RkdEQ1Z0Y2lSOVF3cmFqaHkwdzYzdV9UWWdhUA?oc=5"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "date": "2026-09-08",
     "zh_summary": "今日零售与食品饮料行业动态：达能收购Huel以拓展功能性营养市场；消费者健康饮食趋势显著，印度市场正转向酸奶、芡实等健康零食；同时，星巴克在东亚零售市场的成功经验引发行业关注。",
     "en_summary": "Retail and F&B industry updates: Danone expands into functional nutrition with the acquisition of Huel; consumer trends show a shift toward healthier snacking, notably in India with preferences for yogurt and makhana; meanwhile, Starbucks' success in East Asian retail continues to draw industry analysis.",

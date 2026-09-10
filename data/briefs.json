@@ -1,5 +1,66 @@
 [
   {
+    "date": "2026-09-10",
+    "zh_summary": "今日零售与餐饮行业动态包括：星巴克在越南开设首家手语门店；烘焙品牌St Pierre推出巧克力榛子夹心牛角包；C.H. Guenther建立卓越中心以加速烘焙创新。",
+    "en_summary": "Today's retail and F&B updates include: Starbucks opening its first Signing Store in Vietnam; bakery brand St Pierre launching chocolate and hazelnut filled croissants; and C.H. Guenther establishing a Centre of Excellence to accelerate bakery innovation.",
+    "items": [
+      {
+        "zh_head": "星巴克在越南开设首家手语门店",
+        "en_head": "Starbucks opens first Signing Store in Vietnam",
+        "zh_fact": "星巴克在越南开设了其首家手语门店（Signing Store）。",
+        "en_fact": "Starbucks has opened its first Signing Store in Vietnam.",
+        "zh_why": "此举旨在通过提供包容性的工作环境和无障碍服务，进一步提升品牌在当地的社会责任形象与市场渗透率。",
+        "en_why": "This move aims to enhance the brand's local social responsibility profile and market penetration by providing an inclusive work environment and accessible services.",
+        "insight_zh": "跨国餐饮品牌正通过差异化的门店体验和包容性运营，深化与当地社区的联系。",
+        "insight_en": "Multinational F&B brands are deepening their connection with local communities through differentiated store experiences and inclusive operations.",
+        "zh_watch": "星巴克在东南亚市场的进一步包容性扩张策略。",
+        "en_watch": "Starbucks' further inclusive expansion strategy in the Southeast Asian market.",
+        "sources": [
+          {
+            "name": "retailasia.com",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMURqWi1pZUVMXzRUdnBwd1BHcGZKcUxBTW05MWFNZURKNGFOd3JfeXQ3Z2lJeEZxOHF3UkhiWjlmYV9EaGI3QmdUWEtndHVQNnRTNUNjRTBQUDNRREkxYVhkSVE5VGJpYU0wMGw1WjRKMUV1M0xxc0dNT3RmWUZCc0xMN3B4bEVE?oc=5"
+          }
+        ]
+      },
+      {
+        "zh_head": "St Pierre推出巧克力榛子夹心牛角包",
+        "en_head": "St Pierre launches Chocolate & Hazelnut Filled Croissants",
+        "zh_fact": "烘焙品牌St Pierre宣布其新款巧克力榛子夹心牛角包已获得全国范围的零售上架许可。",
+        "en_fact": "Bakery brand St Pierre has secured nationwide listings for its new Chocolate & Hazelnut Filled Croissants.",
+        "zh_why": "通过拓展产品线并利用全国性分销渠道，品牌旨在满足消费者对高端便利烘焙食品的需求。",
+        "en_why": "By expanding its product line and leveraging nationwide distribution channels, the brand aims to meet consumer demand for premium convenient bakery items.",
+        "insight_zh": "烘焙行业正通过口味创新和扩大分销渠道来抢占零售市场份额。",
+        "insight_en": "The bakery industry is capturing retail market share through flavor innovation and expanded distribution channels.",
+        "zh_watch": "消费者对高端即食烘焙产品的接受度及市场表现。",
+        "en_watch": "Consumer acceptance and market performance of premium ready-to-eat bakery products.",
+        "sources": [
+          {
+            "name": "Retail Times",
+            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOY1lXb1pYZDRsWlphYU8tTEZoUDVjR2RBa0RlYmN1ZWlIcGlldzRRcVVXakZRT01UN1JOdEVWempFeG1OLXFTNUJscS0wRTUzSXh2QXctNWFBUkNCZ1VuNV9JREo4dXh1NnNHdlM0ZnlPa05ZeEtvcDY3UTVwUW53eFpWcWRkdFRtcW5raEtJNUNXMHg0U1JlODVQdXBVYWlEY3lIdGs1QTNSVFdwVFE?oc=5"
+          }
+        ]
+      },
+      {
+        "zh_head": "C.H. Guenther建立卓越中心以加速烘焙创新",
+        "en_head": "C.H. Guenther Centre of Excellence to accelerate bakery innovation",
+        "zh_fact": "C.H. Guenther宣布成立卓越中心（Centre of Excellence），旨在加速其烘焙业务的创新进程。",
+        "en_fact": "C.H. Guenther has announced the establishment of a Centre of Excellence to accelerate innovation in its bakery operations.",
+        "zh_why": "该中心将专注于研发和工艺改进，以应对不断变化的烘焙市场需求和提升生产效率。",
+        "en_why": "The center will focus on R&D and process improvements to address evolving bakery market demands and enhance production efficiency.",
+        "insight_zh": "大型食品制造企业通过建立专门的创新中心，以应对日益复杂的市场竞争和消费者偏好。",
+        "insight_en": "Large food manufacturing companies are establishing dedicated innovation centers to navigate increasingly complex market competition and consumer preferences.",
+        "zh_watch": "该中心后续推出的创新产品及其对市场的影响。",
+        "en_watch": "Future innovative products launched by the center and their market impact.",
+        "sources": [
+          {
+            "name": "Food and Drink Technology",
+            "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQXzJOWnE2U0RPT3MxOUtJWUtsZXNZNnZ0bWM5QW5HblJ0TVY4SXRmTTVDalNLR2kwdlBGdFNqXzk1V3hCQXYtS1Q0YzJRS3FCV1RPOFZIeGtKb0FDV3h2M3E0ZEVYMkFjdDRKNk1HTXhDWXdyNEFqQUV6QS11VWV4SlctU1NPRDVHR2lOVnZrTjc0am5LMjRjSHNHSzBPVU8waldxa2h2Q3pWNy1uYUtoZmNrY0xVVW8?oc=5"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "date": "2026-09-09",
     "zh_summary": "今日商业简报涵盖了食品饮料行业的创新趋势、零售市场的战略调整以及消费品市场的结构性变化。",
     "en_summary": "Today's business brief covers innovation trends in the food and beverage industry, strategic shifts in retail, and structural changes in the consumer goods market.",

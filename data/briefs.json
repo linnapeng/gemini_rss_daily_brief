@@ -1,5 +1,70 @@
 [
   {
+    "date": "2026-09-11",
+    "zh_summary": "今日零售与餐饮行业动态：星巴克持续推进门店升级并拓展中国市场；烘焙品牌St Pierre推出新品；Luckin Coffee获得Mubadala投资。",
+    "en_summary": "Retail and F&B updates today: Starbucks continues store upgrades and China expansion; bakery brand St Pierre launches new products; Luckin Coffee secures investment from Mubadala.",
+    "items": [
+      {
+        "zh_head": "星巴克推进门店升级与中国市场扩张",
+        "en_head": "Starbucks Advances Store Upgrades and China Expansion",
+        "zh_fact": "星巴克首席执行官表示将进行数千次门店升级，并持续押注中国市场增长。此外，公司已投资10亿美元用于提升门店的舒适度与欢迎感。",
+        "en_fact": "Starbucks CEO announced plans for thousands of store upgrades and a continued bet on growth in China. Additionally, the company has invested $1 billion to improve store warmth and welcoming environments.",
+        "zh_why": "这是星巴克“回归”战略的一部分，旨在通过提升门店体验来应对市场竞争与品牌形象挑战。",
+        "en_why": "This is part of the 'Back to Starbucks' strategy, aimed at addressing market competition and brand image challenges by enhancing the in-store experience.",
+        "insight_zh": "餐饮巨头正通过资本投入改善实体空间，以应对消费者对体验感日益增长的需求。",
+        "insight_en": "F&B giants are leveraging capital investment to improve physical spaces, responding to growing consumer demand for experiential retail.",
+        "zh_watch": "关注星巴克在门店升级后的客流量与财务表现。",
+        "en_watch": "Monitor foot traffic and financial performance following the store upgrades.",
+        "sources": [
+          {
+            "name": "tradingview.com",
+            "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNVUJxX2xWTFktcjJwTVdLNGFoRnhxWTM2US1iQ2x5V1FLRTZ5c1hUc01VSlFQQ3dmZDFRaTZyNFNWZDR4R2x1b0J2MGlRMUx2WUtzcGt3eno5YVo0eXJscklGblMtcld4a29zRXdwRnpYcFpBbE5jMkJCRlg3SVNTQkZWMlRiYzNWUWpHTDQ1dTAyXzRyX2psYmU1RVpQdkZFUnVZcVhPeF94dGU0cXJVTTRyT2ExbEpPMU1EUVZMZ3NjenNaSzRrc3NCSERXU1dpVEtJ?oc=5"
+          },
+          {
+            "name": "MCA Insight",
+            "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPeXB2X1phQi16Zm54R09xZExPMTBScGhTM3J3bkNMbGE0bG00Y1lmNHllVERsYVdseTJPNW1nZ3NXZGQtSlhCNDU3ZHIwd3dsVl9nU3dacjFObXRaSE0takJoT2gzTXU3anZGZEtMWVJrSHZSQmd3a0ZFajVvWVVQa05aMktUUllQYVU1bTB4QUNVcC01QnFPellFZkY2cDFXd2J2N2tkV1VJTzhHdXJxaW9pQVprdGM?oc=5"
+          }
+        ]
+      },
+      {
+        "zh_head": "St Pierre在Tesco推出新品",
+        "en_head": "St Pierre Launches New Products in Tesco",
+        "zh_fact": "烘焙品牌St Pierre宣布其新款巧克力榛子夹心牛角面包已在Tesco超市实现全国范围上架。",
+        "en_fact": "Bakery brand St Pierre has secured nationwide listings in Tesco supermarkets for its new chocolate and hazelnut filled croissants.",
+        "zh_why": "该举措旨在通过零售渠道扩张，提升品牌在烘焙市场的覆盖率。",
+        "en_why": "This move aims to increase brand penetration in the bakery market through retail channel expansion.",
+        "insight_zh": "烘焙品牌通过与大型零售商合作，利用其分销网络快速触达消费者。",
+        "insight_en": "Bakery brands are leveraging the distribution networks of major retailers to reach consumers rapidly.",
+        "zh_watch": "关注该新品在零售渠道的销售表现及市场反馈。",
+        "en_watch": "Monitor sales performance and market feedback for the new product in retail channels.",
+        "sources": [
+          {
+            "name": "KamCity",
+            "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQbjh0RTFSbEJTeklMdUplV01SZy1NLTF5Z05nRFRaZFFQNG5yeGZVYWJNUTEtTFI3ckNRR2I0VmVUejFpcEgwYmVQNTlnc3hyUmpONVFKdFJBZlJGUVZFZkROaWppeDB0MHpDdllfb3pPOGFCYVhvdzhBNlhEcFdzUkR0S2Nlamo1UXNGSENPV2hWY0RWcTVJazlhbVdRQmVqZ2Y3NmhVOUxER1FDRkNEcC13XzFvd2tpS0lYNFhSVmZxenAtRVBjWHY4MExvd1lt?oc=5"
+          }
+        ]
+      },
+      {
+        "zh_head": "Luckin Coffee获Mubadala投资",
+        "en_head": "Luckin Coffee Receives Investment from Mubadala",
+        "zh_fact": "据报道，穆巴达拉投资公司（Mubadala）已向被称为“中国星巴克”的瑞幸咖啡（Luckin Coffee）注资8.6亿。",
+        "en_fact": "Mubadala has reportedly allocated 860 million to Luckin Coffee, often referred to as the 'Chinese Starbucks'.",
+        "zh_why": "此项投资反映了国际资本对中国咖啡连锁市场增长潜力的持续关注。",
+        "en_why": "This investment reflects the continued interest of international capital in the growth potential of the Chinese coffee chain market.",
+        "insight_zh": "中国咖啡市场的竞争格局正吸引全球主权财富基金的战略性布局。",
+        "insight_en": "The competitive landscape of the Chinese coffee market is attracting strategic positioning from global sovereign wealth funds.",
+        "zh_watch": "关注瑞幸咖啡在获得注资后的扩张计划与市场份额变化。",
+        "en_watch": "Monitor Luckin Coffee's expansion plans and market share changes following the capital injection.",
+        "sources": [
+          {
+            "name": "Demócrata",
+            "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWkFMNUlBNjBzODZUY1hGdjE2NnlMSm1PVno0ajhHTDdBUHhzZzBGYzljQWdGOC1kWnZkMkI1WFhQSENnc1kyNkhxLS1zY1pNSzM3OFphM2VZZmF3eWcwcFZhbnhuWDNkdUduZ0VNbnNjSnJERldWOEREOHlkWmVLa21YWHo3UC1rOXZHUU9iV205YU0xTEo3c2RkVjZjNVltelkzZE9sUTlPWnBLdE1V0gGvAUFVX3lxTE9aQUw1SUE2MHM4NlRjWEZ2MTY2eUxKbU9WejRqOEdMN0FQeHNnMEZjOWNBZ0Y4LWRadmQyQjVYWFBIQ2dzWTI2SHEtLXNjWk1LMzc4WmEzZVlmYXd5ZzBwVmFueG5YM2R1R25nRU1uc2NKckRGV1Y4REQ4eWRaZUtrbVhYejdQLWs5dkdRT2JXbTlhTTFMSjdzZGRWNmM1WW16WTNkT2xROU9acEt0TVU?oc=5"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "date": "2026-09-10",
     "zh_summary": "今日零售与餐饮行业动态包括：星巴克在越南开设首家手语门店；烘焙品牌St Pierre推出巧克力榛子夹心牛角包；C.H. Guenther建立卓越中心以加速烘焙创新。",
     "en_summary": "Today's retail and F&B updates include: Starbucks opening its first Signing Store in Vietnam; bakery brand St Pierre launching chocolate and hazelnut filled croissants; and C.H. Guenther establishing a Centre of Excellence to accelerate bakery innovation.",

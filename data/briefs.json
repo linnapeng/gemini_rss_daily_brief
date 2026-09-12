@@ -1,5 +1,66 @@
 [
   {
+    "date": "2026-09-12",
+    "zh_summary": "今日零售与餐饮行业动态：星巴克在中国推出AI咖啡闹钟服务，并利用Refreshers系列提振下午时段客流；印度餐饮连锁The Pizza Bakery母公司获得5.32亿卢比融资以支持全国扩张；消费者对家庭咖啡体验的需求持续增长。",
+    "en_summary": "Retail and F&B updates: Starbucks launched an AI-powered Coffee Alarm Clock in China and is leveraging its Refreshers line to boost afternoon traffic; Indian chain The Pizza Bakery's parent, Popo Global, secured Rs 532 Cr for national expansion; consumer demand for at-home coffee experiences continues to rise.",
+    "items": [
+      {
+        "zh_head": "星巴克在中国推出AI咖啡闹钟服务",
+        "en_head": "Starbucks launches AI-powered Coffee Alarm Clock in China",
+        "zh_fact": "星巴克联合支付宝“Ah Bao”为中国消费者推出了AI驱动的咖啡闹钟服务。",
+        "en_fact": "Starbucks has launched an AI-powered Coffee Alarm Clock service for Chinese consumers in collaboration with Alipay's 'Ah Bao'.",
+        "zh_why": "此举旨在通过数字化创新提升品牌互动与服务体验。",
+        "en_why": "The initiative aims to enhance brand engagement and service experience through digital innovation.",
+        "insight_zh": "餐饮品牌正通过AI工具将服务延伸至消费者的日常生活场景中。",
+        "insight_en": "F&B brands are extending their services into consumers' daily routines through AI-driven tools.",
+        "zh_watch": "该服务对提升早间时段订单转化率的实际效果。",
+        "en_watch": "The actual impact of the service on morning order conversion rates.",
+        "sources": [
+          {
+            "name": "Retail Technology Innovation Hub",
+            "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQaHVuS2dDdHVER283SkQyLTVCQlg2b2Vlbk52MkVVMFNJUzM5Y0xwWHluVzBBRVAwV2o3d09aREp2c1VkZWx6Q001UlhpTzFlMWNuSHFfaFp6YzNZNTAycVRINk8yZHE3RV96SVY4a3ZPYmotbFljZDB5ekFDYXFxVDU4aUFnTVlsekY5UHdQaEVydXAzeTNDV2k0cWtYWkV3V0QxaFBuMUotMmx3Z3NrekVLSXA2Vk0zaTg4dm5mSTA2ZEQ4S2pIcFltaHVsUWhnOS00NUJHN3ZGSEVkQkNKOHdwSm8xcVVEamc?oc=5"
+          }
+        ]
+      },
+      {
+        "zh_head": "The Pizza Bakery母公司获5.32亿卢比融资",
+        "en_head": "The Pizza Bakery parent Popo Global secures Rs 532 Cr funding",
+        "zh_fact": "印度餐饮连锁品牌The Pizza Bakery的母公司Popo Global已获得5.32亿卢比的融资，用于支持其全国扩张计划。",
+        "en_fact": "Popo Global, the parent company of Indian restaurant chain The Pizza Bakery, has secured Rs 532 Cr in funding to support its national expansion plans.",
+        "zh_why": "资金将用于扩大品牌在印度市场的门店覆盖范围。",
+        "en_why": "The capital will be used to scale the brand's footprint across the Indian market.",
+        "insight_zh": "印度餐饮市场持续吸引资本，推动本土连锁品牌的快速扩张。",
+        "insight_en": "The Indian F&B market continues to attract capital, fueling the rapid expansion of local chains.",
+        "zh_watch": "扩张计划的执行进度及市场竞争压力。",
+        "en_watch": "The execution pace of the expansion plan and competitive market pressures.",
+        "sources": [
+          {
+            "name": "Indian Retailer",
+            "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNOTMwNF9VRDRHVXhFVUxCRkxyaE1tYV9mT2tvcmQxdmFmNE9PdU90VG9GOE0xdFBxMG1SOXkyenNkWHNTWjRtWmRpX0VhSmV2YWF5UV9qSi05bkFLUmkteFEycHRPcDdDeUVlODJ2MGNMXzFJS1VJUkxMSUc1eExFRHgtdm80cTRUV2RBVHlNd29fUnhjVG1LcmpuZmZVc3NNMl9sd2V4a3FEVndIWnZKa1gtRVQzTV81V1pCdDl6d05qcC1Y?oc=5"
+          }
+        ]
+      },
+      {
+        "zh_head": "消费者寻求在家复刻咖啡店体验",
+        "en_head": "Consumers seek to replicate coffee shop experiences at home",
+        "zh_fact": "行业报告显示，消费者对在家中复刻专业咖啡店体验的需求日益增长，这反映了消费者口味的日益成熟。",
+        "en_fact": "Industry reports indicate a growing consumer demand for replicating professional coffee shop experiences at home, reflecting increasingly sophisticated consumer tastes.",
+        "zh_why": "消费者希望在家庭环境中获得更高品质的咖啡消费体验。",
+        "en_why": "Consumers are looking to achieve higher-quality coffee consumption experiences within their home environments.",
+        "insight_zh": "家庭咖啡市场的增长为零售商提供了新的产品开发机遇。",
+        "insight_en": "The growth of the at-home coffee market presents new product development opportunities for retailers.",
+        "zh_watch": "零售商如何通过产品创新满足这一高端化趋势。",
+        "en_watch": "How retailers will address this premiumization trend through product innovation.",
+        "sources": [
+          {
+            "name": "Wholesale Manager",
+            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUEE0SDlmVDgycWpiaHc3ZlJNTUt5WXpvbmVYZjAtRFZiVzZ1NjlHcDk0eHRQQlpQalJIaUs3MHVRS1NmbFVEU1ZxYlFicjJEVFcwNU44Yjc1bTRhZnlyVGNTTnlQYnItbFBOSFJtR1M1VEt1ZmVKMUJXb1hxN0tSeDM3VEhTVTdrbVNyS2hMTDRhMkhNY3ZrdXZNbmY5a0FLTmhRdGNVRWpRQXlxQkdTX1Z3?oc=5"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "date": "2026-09-11",
     "zh_summary": "今日零售与餐饮行业动态：星巴克持续推进门店升级并拓展中国市场；烘焙品牌St Pierre推出新品；Luckin Coffee获得Mubadala投资。",
     "en_summary": "Retail and F&B updates today: Starbucks continues store upgrades and China expansion; bakery brand St Pierre launches new products; Luckin Coffee secures investment from Mubadala.",

@@ -1,5 +1,66 @@
 [
   {
+    "date": "2026-09-13",
+    "zh_summary": "本期简报涵盖了食品饮料行业的创新动态，包括Allied Blenders进军单一麦芽威士忌市场，以及烘焙行业对高端化创新的持续关注。此外，法国咖啡馆的创新设计展示了零售空间转型的趋势。",
+    "en_summary": "This brief covers innovations in the food and beverage sector, including Allied Blenders' entry into the single malt whisky market and the bakery industry's focus on premium innovation. Additionally, the innovative design of a French café highlights trends in retail space transformation.",
+    "items": [
+      {
+        "zh_head": "Allied Blenders投资11.5亿卢比进军单一麦芽威士忌市场",
+        "en_head": "Allied Blenders to Invest Rs 115 Cr to Enter Single Malt Whisky Segment",
+        "zh_fact": "Allied Blenders宣布投资11.5亿卢比，正式进入单一麦芽威士忌细分市场。",
+        "en_fact": "Allied Blenders has announced an investment of Rs 115 crore to enter the single malt whisky segment.",
+        "zh_why": "此举旨在通过高端化战略扩大其在烈酒市场的产品组合。",
+        "en_why": "The move aims to expand its product portfolio in the spirits market through a premiumization strategy.",
+        "insight_zh": "酒类品牌正通过进入高端细分市场来寻求增长，以应对消费者对高品质产品需求的增加。",
+        "insight_en": "Alcohol brands are seeking growth by entering premium segments to meet rising consumer demand for high-quality products.",
+        "zh_watch": "关注该品牌在高端威士忌市场的市场份额表现。",
+        "en_watch": "Monitor the brand's market share performance in the premium whisky market.",
+        "sources": [
+          {
+            "name": "Indian Retailer",
+            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZnlFMVhvQlRZR055c2xzTG56Vkd5YnlDRmpOcld5ZXBqYms4M2N6NWlISkhRNlNLV25ta1ppeG1zREJJUGRQcXMtMW4tclp2YkhkZFYzdGJsS1JBbVRvdzJVVUtPdE5zNDllN0NSTzhvSTh4cG1TS0NzM1VzbUlVLS1vaGp3WEl2d21jR3VMTWVPeXZQazFJdVFBZ2ZCWVRhNGlZ?oc=5"
+          }
+        ]
+      },
+      {
+        "zh_head": "St Pierre通过高端创新推动增长",
+        "en_head": "St Pierre – Growth through Premium Innovation",
+        "zh_fact": "St Pierre品牌强调通过高端化创新策略来实现业务增长。",
+        "en_fact": "The St Pierre brand is emphasizing business growth through a strategy of premium innovation.",
+        "zh_why": "烘焙行业正通过提升产品品质和创新来吸引消费者。",
+        "en_why": "The bakery industry is attracting consumers by enhancing product quality and innovation.",
+        "insight_zh": "",
+        "insight_en": "",
+        "zh_watch": "观察高端烘焙产品在零售渠道的销售表现。",
+        "en_watch": "Observe the sales performance of premium bakery products in retail channels.",
+        "sources": [
+          {
+            "name": "Wholesale Manager",
+            "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZVBSR0UzU2tDVE1QZHJ4YW8ya3RrU0VFRVlOb2x0QVBVVHZ6RlI5V09WUTI3RDI2eUFHN25hOFJEMWVBaFdPcHZxUk55TWFiUlFWcmtNR01kNGxMZ0JzVkRvYTh2d1BXLWNrekxQX05wVW8wUkJTYk1uT0ZhbjJxTA?oc=5"
+          }
+        ]
+      },
+      {
+        "zh_head": "法国咖啡馆通过创新设计实现空间转型",
+        "en_head": "Innovative Design Transforms Small French Café into Sleek, Futuristic Space",
+        "zh_fact": "一家小型法国咖啡馆通过创新设计，将其空间改造为具有未来感的零售环境。",
+        "en_fact": "A small French café has been transformed into a sleek, futuristic space through innovative design.",
+        "zh_why": "零售商正利用空间设计作为提升品牌体验和吸引客流的手段。",
+        "en_why": "Retailers are using spatial design as a means to enhance brand experience and attract foot traffic.",
+        "insight_zh": "",
+        "insight_en": "",
+        "zh_watch": "关注零售空间设计趋势对消费者参与度的影响。",
+        "en_watch": "Monitor the impact of retail space design trends on consumer engagement.",
+        "sources": [
+          {
+            "name": "freeyork",
+            "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE11X3RPMm1YODFXdTE3MDlIV1VWc1JLbDE1M1VXbEFmc2FjdXdLb0lKb3p5VldtdWNndFpXd2ppeGgwR3M4SzVnZ0QwbDc3c0xycWlheE9ZSHU1TllNT1ZvU0duRWYwYU9iSGRYcy1PcHpyZmVxcFFqcw?oc=5"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "date": "2026-09-12",
     "zh_summary": "今日零售与餐饮行业动态：星巴克在中国推出AI咖啡闹钟服务，并利用Refreshers系列提振下午时段客流；印度餐饮连锁The Pizza Bakery母公司获得5.32亿卢比融资以支持全国扩张；消费者对家庭咖啡体验的需求持续增长。",
     "en_summary": "Retail and F&B updates: Starbucks launched an AI-powered Coffee Alarm Clock in China and is leveraging its Refreshers line to boost afternoon traffic; Indian chain The Pizza Bakery's parent, Popo Global, secured Rs 532 Cr for national expansion; consumer demand for at-home coffee experiences continues to rise.",

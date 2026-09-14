@@ -1,5 +1,66 @@
 [
   {
+    "date": "2026-09-14",
+    "zh_summary": "今日商业简报涵盖了食品饮料行业的创新与扩张，包括Sunrice的产品升级、La Kaffa在美国的扩张战略，以及日本养老咖啡馆引发的社会护理讨论。",
+    "en_summary": "Today's business brief covers innovation and expansion in the food and beverage sector, including product upgrades at Sunrice, La Kaffa's U.S. expansion strategy, and a debate on social care sparked by a Japanese dementia-friendly cafe.",
+    "items": [
+      {
+        "zh_head": "Sunrice推出高蛋白大米产品",
+        "en_head": "Sunrice adds protein to staple rice products",
+        "zh_fact": "Sunrice宣布在其主食大米产品中添加蛋白质成分。",
+        "en_fact": "Sunrice has announced the addition of protein to its staple rice products.",
+        "zh_why": "此举旨在通过功能性食品创新提升其核心产品的市场竞争力。",
+        "en_why": "This move aims to enhance the market competitiveness of its core products through functional food innovation.",
+        "insight_zh": "食品企业正通过在传统主食中添加营养成分来迎合消费者对健康和功能性饮食的需求。",
+        "insight_en": "Food companies are catering to consumer demand for health and functional diets by fortifying traditional staples with added nutrients.",
+        "zh_watch": "关注该产品在市场上的销售表现及消费者接受度。",
+        "en_watch": "Monitor the product's market performance and consumer reception.",
+        "sources": [
+          {
+            "name": "Inside FMCG",
+            "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPYl9scm9vTVZKd3VieDV0RUt0ZXctQi05U1hJajhzZUo4UEpKdU1pN0MwUm5TejZzMEozU21rYnZIZjNIckp6VzRQQ2FxSTl0T0JKekNOajN5bV9VSVhBS1hYU3k0Z2lzcEdkdkFUczQwdVNiaWNHVW5KMEJLOTRlSjliZ2NaOHlxWXc?oc=5"
+          }
+        ]
+      },
+      {
+        "zh_head": "La Kaffa在休斯顿开设首家双品牌门店",
+        "en_head": "La Kaffa opens first dual-brand store in Houston",
+        "zh_fact": "La Kaffa在休斯顿开设了其首家双品牌门店，并计划今年在美国市场门店总数超过20家。",
+        "en_fact": "La Kaffa has opened its first dual-brand store in Houston and aims to surpass 20 locations in the U.S. this year.",
+        "zh_why": "公司正通过门店扩张和品牌组合策略加速其在美国市场的渗透。",
+        "en_why": "The company is accelerating its U.S. market penetration through store expansion and a dual-brand strategy.",
+        "insight_zh": "餐饮连锁企业通过双品牌模式可以更有效地利用门店空间并吸引多元化的客户群体。",
+        "insight_en": "Restaurant chains can leverage dual-brand models to utilize store space more effectively and attract diverse customer segments.",
+        "zh_watch": "关注其扩张目标的达成情况及双品牌模式的运营效率。",
+        "en_watch": "Monitor the achievement of expansion targets and the operational efficiency of the dual-brand model.",
+        "sources": [
+          {
+            "name": "finance.biggo.com",
+            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1HNFBpNTVycHBqaUtRcFBPdmZWU1NvN1BrN3dEdWNsTWVncnp1VEdyRnBaVEpiSERJREg4WEFjRzNxVy1tbVczVUhpM0x1TWxpQnk0d042bGNsV2VOS0txOUY1YURtTHdENEhTd1ZHc0FlRjk4ZWc?oc=5"
+          }
+        ]
+      },
+      {
+        "zh_head": "日本“奶奶咖啡馆”引发护理创新讨论",
+        "en_head": "Japan's 'Grandma's Cafe' sparks debate on innovative care",
+        "zh_fact": "日本一家咖啡馆允许患有痴呆症的老人每日炸猪排，这一做法引发了关于护理创新与社会参与的广泛讨论。",
+        "en_fact": "A Japanese cafe allows a dementia patient to fry pork cutlets daily, sparking a widespread debate on innovative care and social participation.",
+        "zh_why": "该案例挑战了传统的痴呆症护理模式，引发了关于风险管理与患者生活质量平衡的争议。",
+        "en_why": "The case challenges traditional dementia care models, sparking controversy over the balance between risk management and patient quality of life.",
+        "insight_zh": "在老龄化社会中，如何平衡患者的社会参与感与安全保障是服务行业面临的新课题。",
+        "insight_en": "In an aging society, balancing social participation for patients with safety guarantees is a new challenge for the service industry.",
+        "zh_watch": "关注此类创新护理模式在社会舆论和监管层面的后续反馈。",
+        "en_watch": "Monitor subsequent feedback from public opinion and regulators regarding such innovative care models.",
+        "sources": [
+          {
+            "name": "toy-people.com",
+            "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA4dHRBcE55TDNMdUZZUFlSSGN6ZlgydXVCZHlXcmlvdjg2cHB6dDZndE54WG9qc3Rxbm5HMzNKdkhBbnVsQm1sN3NhamNGOWRz?oc=5"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "date": "2026-09-13",
     "zh_summary": "本期简报涵盖了食品饮料行业的创新动态，包括Allied Blenders进军单一麦芽威士忌市场，以及烘焙行业对高端化创新的持续关注。此外，法国咖啡馆的创新设计展示了零售空间转型的趋势。",
     "en_summary": "This brief covers innovations in the food and beverage sector, including Allied Blenders' entry into the single malt whisky market and the bakery industry's focus on premium innovation. Additionally, the innovative design of a French café highlights trends in retail space transformation.",

@@ -1,5 +1,70 @@
 [
   {
+    "date": "2026-09-15",
+    "zh_summary": "今日简报涵盖了零售商与食品科技平台的合作、咖啡连锁行业的扩张与竞争，以及餐饮连锁企业的资本运作与产品创新。",
+    "en_summary": "Today's brief covers partnerships between retailers and food-tech platforms, expansion and competition in the coffee chain industry, and capital operations and product innovation in restaurant chains.",
+    "items": [
+      {
+        "zh_head": "玛莎百货（M&S）在英国全境推广Too Good To Go合作",
+        "en_head": "M&S expands Too Good To Go partnership across the UK",
+        "zh_fact": "继在部分门店进行试点后，玛莎百货正式与食品剩余管理平台Too Good To Go达成合作，在英国全境门店推广该服务，旨在减少烘焙产品等食品浪费。",
+        "en_fact": "Following a trial in select stores, M&S has partnered with the surplus food app Too Good To Go across the UK to reduce food waste, specifically targeting bakery products.",
+        "zh_why": "零售商正通过数字化手段解决库存积压问题，以提升可持续发展表现并降低运营损耗。",
+        "en_why": "Retailers are leveraging digital solutions to address inventory surplus, aiming to improve sustainability metrics and reduce operational losses.",
+        "insight_zh": "",
+        "insight_en": "",
+        "zh_watch": "零售业在减少食物浪费方面的技术应用趋势。",
+        "en_watch": "The trend of technology adoption in retail to mitigate food waste.",
+        "sources": [
+          {
+            "name": "Retail Technology Innovation Hub",
+            "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNVzdjWU5HMTFvRmQweXVILUNOb0tiYUxxY1pxZU5ldGwtQzhrRkRncGhwSU12TTJjRWVNR0V3NTJpbDBhVUl0SXZXemFoZnM5ekItSGNzWTYyOTV1N29ZUDQxRFB4Z3JBNEgzRzlUUElRc29EV3htRUFMNTN6NWlaNzZXeDJHOVp5cnFsNzB0TGFjcTFiQjBZQS1NSDJGbXMtQUw1b3htVFpXaE1mMmdNaDhpWG1JTWx6cWYwTFFrODJKS2NtNnl2THNBS0dUNlZqdF9tYmx1RzJmT0dWY1U0RmNodU1Objlxc2txUmF3?oc=5"
+          },
+          {
+            "name": "Retail Week",
+            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWmJZbUFiZ1NaTGI2ajdZd0RnRXIxWFlJZmVNZjNvVmdfREtsS3R3TmNBc3pQX29VRW9wVWhySXd5UXZNbkxWZUQ3VUNQeTBNTVhzVUtXQjZJODNneDZWb0lIYVUtY0dRNFJMQVJXdDFTTXBjWVViTGNVSG1MSVN4ZExzNS1lSnkzMjlYeU9yOFZRNEJzUWZpa0hCVk1mMENJUlFMckxJdGw?oc=5"
+          }
+        ]
+      },
+      {
+        "zh_head": "上海咖啡市场竞争加剧，品质成为核心驱动力",
+        "en_head": "Shanghai coffee market competition intensifies with focus on quality",
+        "zh_fact": "上海咖啡市场持续繁荣，品牌间的竞争已从规模扩张转向对高品质咖啡产品的争夺。",
+        "en_fact": "The Shanghai coffee market continues to boom, with competition among brands shifting from scale expansion to the pursuit of high-quality coffee offerings.",
+        "zh_why": "随着消费者对咖啡认知度的提升，市场需求已从基础消费转向对精品化和差异化产品的追求。",
+        "en_why": "As consumer awareness of coffee grows, market demand has shifted from basic consumption to a preference for specialty and differentiated products.",
+        "insight_zh": "",
+        "insight_en": "",
+        "zh_watch": "高端咖啡品牌在上海市场的差异化策略。",
+        "en_watch": "Differentiation strategies of premium coffee brands in the Shanghai market.",
+        "sources": [
+          {
+            "name": "Daily Coffee News by Roast Magazine",
+            "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOYkZlVlF1OWFuaFIzcXY2d0V4eVFfbUJaTVVWQl9YdTZzOXM3WDNEQnEtdlU2bGw4THl5YzdCLTFzbkVwWUJSWDljQVlQbVJkUmxYcTlSZWhpbXBzNzZDNXJvcmVxd3NHcGZyYnh6WlR6VTVjSW9acUFzR21Ub0ZiQkFMeXgtb3FOb2gzUm55REY5OUYtWEdCMFZXZGZTNnBxOWdxRVFwbw?oc=5"
+          }
+        ]
+      },
+      {
+        "zh_head": "Happy Belly Food Group收购Ghost Taco连锁餐厅50%股份",
+        "en_head": "Happy Belly Food Group acquires 50% of Ghost Taco restaurant chain",
+        "zh_fact": "Happy Belly Food Group已签署最终协议并完成对Ghost Taco快餐连锁店50%股权的收购。",
+        "en_fact": "Happy Belly Food Group has signed a definitive agreement and completed the acquisition of a 50% stake in the fast-casual restaurant chain Ghost Taco.",
+        "zh_why": "餐饮集团通过收购成熟或具有增长潜力的品牌来加速市场扩张和业务多元化。",
+        "en_why": "Restaurant groups are accelerating market expansion and business diversification through the acquisition of established or high-growth potential brands.",
+        "insight_zh": "",
+        "insight_en": "",
+        "zh_watch": "餐饮连锁行业的并购整合趋势。",
+        "en_watch": "M&A consolidation trends within the restaurant chain industry.",
+        "sources": [
+          {
+            "name": "TradingView",
+            "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxOVWFTektDbnVNdnRsQTZMOTZBZjJpbi1rSUszNVBnMExkRUtrdGtUVVcyMWhZLXNtelFrRnhUZGNLNGhuVUJOZ2dQd2M4aTd0amtfRUQ3MkR4cy16SnJHaU5hVXNWcktOWUdpUGZvRjlSdmN0TEZFbTg0S00tVGxXb21vT3Z2aENGUmp2S3BjRkczM1ZreHg1NVhLVDhadmNieXBwLUdYMnNrS0xONUVSbi1kVkg3Zl9zYVFqMkg1M3R2Y3dtdWVCR2luSGFBT1JJcEFyemgyTXE0QTZHT292bGI1aWRZblpUb0hkNWJXdnpUQWtrRTJ3STBzSEdielNiVWd1QUF4WFYzRnR2dG1XbXo0NGk5bmpqM0JFZmJNRk1RZjdxSHVPV2FrOHg0ODQ?oc=5"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "date": "2026-09-14",
     "zh_summary": "今日商业简报涵盖了食品饮料行业的创新与扩张，包括Sunrice的产品升级、La Kaffa在美国的扩张战略，以及日本养老咖啡馆引发的社会护理讨论。",
     "en_summary": "Today's business brief covers innovation and expansion in the food and beverage sector, including product upgrades at Sunrice, La Kaffa's U.S. expansion strategy, and a debate on social care sparked by a Japanese dementia-friendly cafe.",

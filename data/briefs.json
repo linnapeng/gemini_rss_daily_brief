@@ -1,5 +1,66 @@
 [
   {
+    "date": "2026-09-17",
+    "zh_summary": "今日零售与餐饮业动态：Tropical Smoothie Cafe启动品牌焕新；日本便利店利用AI开发创新甜点；南非零售业面临价值导向与高端化并存的消费分化趋势。",
+    "en_summary": "Retail and F&B updates today: Tropical Smoothie Cafe launches a brand transformation; Japanese convenience stores leverage AI for dessert innovation; South African retail faces a split consumer trend between value-seeking and premiumization.",
+    "items": [
+      {
+        "zh_head": "Tropical Smoothie Cafe启动品牌焕新",
+        "en_head": "Tropical Smoothie Cafe Unveils Brand Transformation",
+        "zh_fact": "Tropical Smoothie Cafe宣布进行全面的品牌转型，包括推出新Logo，旨在适应其业务增长需求。",
+        "en_fact": "Tropical Smoothie Cafe has announced a full-scale brand transformation, including a new logo, to keep pace with its business growth.",
+        "zh_why": "品牌通过视觉更新以保持在快速扩张过程中的市场竞争力。",
+        "en_why": "The brand is updating its visual identity to maintain market competitiveness during its rapid expansion.",
+        "insight_zh": "餐饮连锁品牌在快速扩张期常通过品牌焕新来强化市场定位并吸引新客群。",
+        "insight_en": "F&B chains often use brand refreshes during rapid expansion phases to reinforce market positioning and attract new demographics.",
+        "zh_watch": "品牌焕新后的市场表现及门店扩张速度。",
+        "en_watch": "Market performance and store expansion speed following the brand refresh.",
+        "sources": [
+          {
+            "name": "QSR Magazine",
+            "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWUtGMFhJVmo3dW9XVzRqV1RKdmFpVnAzcFF5dkZLcF93ckJnVTZYWlY5WTdCT3Zyam9wbV9CcVVTUXdSWHJVbFRxLWQtTm94NUpLalNVUlpta0MwLTd6Q2R0ZDVydmc2c3pWOTZsSUJiS29FRGwzbXZlOW01TDFvbnRhMG9lSWlYem5PTmwxTmxObXBoWnNYTXpQdGNGVVpoQUZJR3YyYWFPeHpmY254MUxUN01KUQ?oc=5"
+          }
+        ]
+      },
+      {
+        "zh_head": "日本便利店利用AI驱动甜点创新",
+        "en_head": "Japanese Convenience Stores Use AI for Dessert Innovation",
+        "zh_fact": "日本便利店正在利用人工智能技术开发创新甜点，例如近期出现的酸黄瓜味塔等独特产品。",
+        "en_fact": "Japanese convenience stores are utilizing AI technology to develop innovative desserts, such as the recent introduction of unique products like pickle-flavored tarts.",
+        "zh_why": "利用AI分析消费者数据以创造新奇口味，从而在竞争激烈的零售市场中脱颖而出。",
+        "en_why": "Leveraging AI to analyze consumer data for creating novel flavors helps retailers stand out in a highly competitive market.",
+        "insight_zh": "",
+        "insight_en": "",
+        "zh_watch": "AI辅助产品研发在零售业的普及程度及消费者接受度。",
+        "en_watch": "The adoption rate of AI-assisted product development in retail and consumer acceptance.",
+        "sources": [
+          {
+            "name": "Newswav",
+            "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNmw4c1hjZ0p2dEZMeGgwdFR2cGg5cG5oakloS0EwU2NueXo4X3VSRHJVVXd4MWhQV01pUE9YdlRfQWY1RWllOUVycHlIcnVGd3c4RTVoLWhhS0puVzBtRmRlcDlNNEFFVmdHUG1KLXYzcUFScTFjYUhWSDY0MFZJYVo0bXRzTzZxZUJmbFplSlZCRkFXQjJ6V2RQcWhjai0zLTlyTU00a3dsQ1ZSeDdOcE9vQk12bWc?oc=5"
+          }
+        ]
+      },
+      {
+        "zh_head": "南非零售业呈现消费分化趋势",
+        "en_head": "South African Retail Shows Split Consumer Trends",
+        "zh_fact": "南非零售市场目前呈现出两种截然不同的消费行为：一方面是追求性价比的价值导向型消费，另一方面是高端化消费。",
+        "en_fact": "The South African retail market is currently exhibiting two distinct consumer behaviors: value-seeking consumption and premiumization.",
+        "zh_why": "经济环境导致消费者在不同品类中采取差异化的购买策略。",
+        "en_why": "Economic conditions are leading consumers to adopt differentiated purchasing strategies across various categories.",
+        "insight_zh": "",
+        "insight_en": "",
+        "zh_watch": "零售商如何针对不同消费群体调整其产品组合与定价策略。",
+        "en_watch": "How retailers adjust their product mix and pricing strategies for different consumer segments.",
+        "sources": [
+          {
+            "name": "TradingView",
+            "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQLVV4U3dWUmVNeVMzTXh3RE5saUVQZWVrdTUtWTFmLWJ3eDhDbS1FZW1UbnZCXzd3X2t6MmRoaUF4b3NEQW9QeUxXSGVNZHdPNm40dWdLLWdKRm85QVpLZEV0R0MzaVJ3cHBBYmlNX2ZkejR6X0w0bnJtd1J5eDFtc2pSSkdsOEZKdHpzSzd2dG1xMjMwR2ZvcXF3UkZRem50cGN3bVZMN19lc28wMzlKeU9ONng2SEZ3WjVvVjZFNDJMdjZSZWRWSEt2N1RlbzlZdERmNHY0WHlWMDZaVFk3QmdfZHpXbDVyOWdF?oc=5"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "date": "2026-09-15",
     "zh_summary": "今日简报涵盖了零售商与食品科技平台的合作、咖啡连锁行业的扩张与竞争，以及餐饮连锁企业的资本运作与产品创新。",
     "en_summary": "Today's brief covers partnerships between retailers and food-tech platforms, expansion and competition in the coffee chain industry, and capital operations and product innovation in restaurant chains.",

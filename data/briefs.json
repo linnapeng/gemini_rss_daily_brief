@@ -1,5 +1,74 @@
 [
   {
+    "date": "2026-09-18",
+    "zh_summary": "今日零售与餐饮行业动态：Tropical Smoothie Cafe启动品牌重塑，Knott’s Bakery与Ole & Steen分别通过新店开业及跨界合作拓展业务，M&S在伦敦开设新门店。",
+    "en_summary": "Retail and F&B updates today: Tropical Smoothie Cafe has launched a brand transformation, while Knott’s Bakery and Ole & Steen are expanding through new store openings and collaborations, alongside M&S opening a new location in London.",
+    "items": [
+      {
+        "zh_head": "Tropical Smoothie Cafe启动品牌重塑",
+        "en_head": "Tropical Smoothie Cafe Unveils Brand Transformation",
+        "zh_fact": "Tropical Smoothie Cafe正式宣布品牌重塑计划，并推出了全新的品牌标识。",
+        "en_fact": "Tropical Smoothie Cafe has officially unveiled a brand transformation, including the introduction of a new logo.",
+        "zh_why": "此次品牌升级旨在通过视觉更新提升品牌形象，以适应不断变化的餐饮市场需求。",
+        "en_why": "The rebranding effort aims to refresh the brand's visual identity to better align with evolving market demands in the fast-casual sector.",
+        "insight_zh": "餐饮连锁品牌通过视觉重塑和品牌升级，是应对竞争加剧、吸引年轻消费群体的常见策略。",
+        "insight_en": "Visual rebranding and identity updates are common strategies for F&B chains to maintain relevance and attract younger demographics in a competitive landscape.",
+        "zh_watch": "关注品牌重塑后的市场反馈及后续门店运营策略。",
+        "en_watch": "Monitor market reception following the rebrand and subsequent operational strategies.",
+        "sources": [
+          {
+            "name": "fastcasual.com",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNR2p4bkhESHR1V1dsUGNlRV85TmVhWUx1SXppcnR6enVCUVFxZVRMOXBvVUVGRXYweFBGX0x6bjFIdU44TXFmdWhXdWY5aVpKc0VrZ2ZDaFhUZ0NZLThRRndqNGNkRnQtTVpIeGFpc08wMGVydkZvSUc5SkE1SGtGN0x2ZWphQjRUNlRXcQ?oc=5"
+          },
+          {
+            "name": "Restaurant Dive",
+            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZFE1bWd2eEE2WVJJdHQ3QW9BeC1OWkVRbmVqS2JOMXk3MmhhOHZJRjAzNWhKZjRyVWJFZTkxamk0d19mdWEzZUZseFhQZGxCVDZVYTVVSWl3Mk1CVTVNQVk4OGo1bG5KUEQ4dE5IU0R5aG15NVVHRXB1cFdQOXlHaV9WREpUWFotZVRIa2pMUXNleUxrVVdZ?oc=5"
+          }
+        ]
+      },
+      {
+        "zh_head": "烘焙品牌Knott’s与Ole & Steen拓展门店布局",
+        "en_head": "Bakery Brands Knott’s and Ole & Steen Expand Store Footprints",
+        "zh_fact": "Knott’s Bakery在Forestside开设新店并宣布与Lazy Claire进行合作；Ole & Steen则在伦敦圣保罗区开设了新门店。",
+        "en_fact": "Knott’s Bakery has opened a new store in Forestside and announced a collaboration with Lazy Claire, while Ole & Steen has opened a new bakery in St. Paul’s, London.",
+        "zh_why": "两家品牌均通过增加实体店覆盖范围来扩大市场份额，并利用跨界合作提升品牌影响力。",
+        "en_why": "Both brands are expanding their physical presence to capture market share, with Knott’s leveraging collaboration to enhance brand appeal.",
+        "insight_zh": "烘焙行业正通过社区化扩张与品牌联名，强化消费者粘性。",
+        "insight_en": "The bakery sector is increasingly using community-based expansion and brand collaborations to strengthen consumer loyalty.",
+        "zh_watch": "观察此类精品烘焙店在不同区域的扩张速度与联名效果。",
+        "en_watch": "Observe the expansion pace and the impact of collaborations for these boutique bakery chains.",
+        "sources": [
+          {
+            "name": "Belfast Telegraph",
+            "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPYkt3b0dxWE1VVHRTbnlBVXZWUVE2YW9HUjVyaHA3OHFmZElxMTZkRUlSaWhIMjZidXhUQk1NMUNnZThXZU9Za1N2MnpxTEItcEFhRWNub0tLTjlQbmdVd19aaXVVMHBUZC1KU3pYNnFwNmp1Z2dGY3daQ2V5bE9iZGhGeENpX08zaEdLMkhkWm1UcEpQcUNQeU9NSUJDSlpYXzFobFBuNGkxSlRaaXhUcHdqUlVJRXZhMVkxaHg0RlRrZF80TUZ5b1haRGl2RWlZRHc?oc=5"
+          },
+          {
+            "name": "Retail & Leisure International",
+            "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE92U0ZEeWhENVR0WTRQWmw2VktWVWVycGtHZXl6M3JRZWEwN0FVY3pLMVNDVERwWkE4cWZnd29uR3AyZGZrVVp5QnRnb1hTdWJSSXZaWkJDSWlnX0pNcFdjMHI0T1N3dHFtZDA0?oc=5"
+          }
+        ]
+      },
+      {
+        "zh_head": "玛莎百货（M&S）开设Sydenham新店",
+        "en_head": "M&S Opens New Store in Sydenham",
+        "zh_fact": "玛莎百货（M&S）在Bell Green零售园开设了全新的Sydenham门店。",
+        "en_fact": "Marks & Spencer (M&S) has opened a brand-new store at the Bell Green Retail Park in Sydenham.",
+        "zh_why": "此举是玛莎百货持续优化零售布局、提升线下购物体验策略的一部分。",
+        "en_why": "This opening is part of M&S's ongoing strategy to optimize its retail footprint and enhance the in-store shopping experience.",
+        "insight_zh": "大型零售商持续在成熟零售园区布局，以巩固其线下渠道的客流量。",
+        "insight_en": "Major retailers continue to invest in established retail parks to secure foot traffic for their physical channels.",
+        "zh_watch": "关注该门店对周边零售区域的带动作用。",
+        "en_watch": "Monitor the impact of this store on the surrounding retail area.",
+        "sources": [
+          {
+            "name": "Marks & Spencer",
+            "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTUxxN2oyWmE1U3FlajZ2eUxxUmVBZVN4N0kyYURXMHlMSDUxR2MxR2pWcl9xNW1nMGRxc09MQW1mTnBCWENxZFY5TFdwUGpzY0xoRmw2RFg4dGZ0MUw3VGRhS01QWmpxWmdOcDQ1MEdYeVRKU0xYZnVfM21rTURnaU9JVWZNNjFSdF9SQU9iXzV0OG01V2dpUXpEMk9LUzV2bERyZTJyaDB2cEM5V0F1TTlYTDVqVFh6S3c?oc=5"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "date": "2026-09-17",
     "zh_summary": "今日零售与餐饮业动态：Tropical Smoothie Cafe启动品牌焕新；日本便利店利用AI开发创新甜点；南非零售业面临价值导向与高端化并存的消费分化趋势。",
     "en_summary": "Retail and F&B updates today: Tropical Smoothie Cafe launches a brand transformation; Japanese convenience stores leverage AI for dessert innovation; South African retail faces a split consumer trend between value-seeking and premiumization.",

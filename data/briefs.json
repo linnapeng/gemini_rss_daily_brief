@@ -1,5 +1,66 @@
 [
   {
+    "date": "2026-09-19",
+    "zh_summary": "今日商业简报涵盖咖啡连锁店扩张、烘焙行业动态以及零售品牌运营策略。重点包括圣路易斯咖啡品牌开设新店、Greggs在超市内开设小型门店，以及Walker’s Shortbread在旅游零售渠道的合作。",
+    "en_summary": "Today's business brief covers coffee chain expansion, bakery industry developments, and retail brand operations. Highlights include a St. Louis coffee brand opening a new location, Greggs launching small-format sites in supermarkets, and Walker’s Shortbread’s partnership in travel retail.",
+    "items": [
+      {
+        "zh_head": "圣路易斯咖啡公司在市中心开设第三家门店",
+        "en_head": "St. Louis-based coffee company to open 3rd cafe location in downtown St. Louis",
+        "zh_fact": "一家总部位于圣路易斯的咖啡公司宣布将在圣路易斯市中心开设其第三家咖啡馆。",
+        "en_fact": "A St. Louis-based coffee company is set to open its third cafe location in downtown St. Louis.",
+        "zh_why": "此举反映了当地咖啡连锁品牌在核心商业区持续扩张的趋势。",
+        "en_why": "This move reflects the ongoing expansion trend of local coffee chain brands in core business districts.",
+        "insight_zh": "区域性咖啡品牌通过增加市中心网点来提升品牌可见度并捕捉通勤客流。",
+        "insight_en": "Regional coffee brands are increasing brand visibility and capturing commuter traffic by adding downtown locations.",
+        "zh_watch": "关注该品牌在竞争激烈的市中心市场的运营表现。",
+        "en_watch": "Monitor the brand's operational performance in the competitive downtown market.",
+        "sources": [
+          {
+            "name": "The Business Journals",
+            "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWnJ3SW1TNnhMbnNoRFdmZ3l5MDA5WkJVeXllMVBKNV9oUVd2UXlzYmxCUEIyZ21MVXNwVi1CQkhIR3hMNjA2M3htSmVKajJmVWp6T2djcFAzc1FxWGtDY29ad2lhMlR5ZUZycXg5TTFYN0Z0RTV5OFV3b3dVN2xXT19DbGxlQXdLR3QxZ2w4em9yUEVZdHpLVmN3?oc=5"
+          }
+        ]
+      },
+      {
+        "zh_head": "Greggs在Tesco超市内开设首家Bitesize门店",
+        "en_head": "Greggs opens first supermarket Bitesize site in Tesco",
+        "zh_fact": "烘焙连锁品牌Greggs在Tesco超市内开设了其首家“Bitesize”概念门店。",
+        "en_fact": "Bakery chain Greggs has opened its first 'Bitesize' concept site within a Tesco supermarket.",
+        "zh_why": "这是Greggs通过小型化门店进驻大型零售商渠道以触达更多消费者的战略举措。",
+        "en_why": "This is a strategic move by Greggs to reach more consumers by entering large retailer channels through small-format stores.",
+        "insight_zh": "烘焙品牌正通过与超市合作的店中店模式优化渠道布局。",
+        "insight_en": "Bakery brands are optimizing channel distribution through shop-in-shop models in partnership with supermarkets.",
+        "zh_watch": "观察此类店中店模式在超市渠道的复制潜力。",
+        "en_watch": "Observe the replication potential of this shop-in-shop model within supermarket channels.",
+        "sources": [
+          {
+            "name": "British Baker",
+            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQXMxNWhxQmdpcFJPNm8xb09CMFZlZ2Myek9MdmxLeUFXOUdkNHZERHpvUXgwQnd4Q192bHBnX3ZadTh4UEVDYTdVYlJ0Y1NXdjdzMk9oeElhOXNDTjkzUkFKcDFEQ3FVOG5uQkhWRUhxOHhFUm9uQXZvcVVpdG9RT3hrYVB0V2pjdWtyOUROcUVWTmNPZVBRUm9BRmp3SmRNYVE?oc=5"
+          }
+        ]
+      },
+      {
+        "zh_head": "Walker’s Shortbread与Avolta达成旅游零售合作",
+        "en_head": "Walker’s Shortbread partners with Avolta for travel retail launch",
+        "zh_fact": "Walker’s Shortbread与Avolta合作，在英国旅游零售渠道推出独家女王纪念饼干罐。",
+        "en_fact": "Walker’s Shortbread has partnered with Avolta to launch an exclusive Queen’s commemorative tin in UK travel retail.",
+        "zh_why": "品牌利用旅游零售渠道的独家产品发布来提升高端礼品市场的品牌影响力。",
+        "en_why": "The brand is leveraging exclusive product launches in travel retail to enhance its influence in the premium gifting market.",
+        "insight_zh": "旅游零售渠道是高端食品品牌进行品牌展示和限量版产品营销的关键阵地。",
+        "insight_en": "Travel retail channels are key venues for premium food brands to showcase their brand and market limited-edition products.",
+        "zh_watch": "关注此类纪念性产品在旅游零售渠道的销售表现。",
+        "en_watch": "Monitor the sales performance of such commemorative products in travel retail channels.",
+        "sources": [
+          {
+            "name": "Retail Times",
+            "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOUURwQ1NMN2w5WjJTQjE2d2tTOERNeWtfRXRRT3NfRlJSOTlyem5uY2R3WTJhZVphMTh1cjFhQVdaSDdvMm1RdGxEQVJHWm1rSWdVZldyQlkwZ1NBQnpsSW5waEg0QXJUSUQ5QTlqRFlnR0FRTnhIUkdjbWJ4aVU3dU1kRnBRSW01SGkwclpPeTRNV082cVFxUkVFZjlVdW1uU2tIbUJPZTd6YWNxYkx3aHhTUlhtUmk4MmsxeGpncnJsZ3h3RFJvZGc5dw?oc=5"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "date": "2026-09-18",
     "zh_summary": "今日零售与餐饮行业动态：Tropical Smoothie Cafe启动品牌重塑，Knott’s Bakery与Ole & Steen分别通过新店开业及跨界合作拓展业务，M&S在伦敦开设新门店。",
     "en_summary": "Retail and F&B updates today: Tropical Smoothie Cafe has launched a brand transformation, while Knott’s Bakery and Ole & Steen are expanding through new store openings and collaborations, alongside M&S opening a new location in London.",

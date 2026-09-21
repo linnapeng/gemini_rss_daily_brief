@@ -1,5 +1,66 @@
 [
   {
+    "date": "2026-09-21",
+    "zh_summary": "今日简报涵盖了全球咖啡连锁店的蛋白质产品创新、食品包装行业的增长趋势，以及Barker’s Professional在风味创新方面的最新进展。",
+    "en_summary": "Today's brief covers protein product innovation in global coffee chains, growth trends in the food packaging industry, and the latest flavor innovation developments from Barker’s Professional.",
+    "items": [
+      {
+        "zh_head": "咖啡连锁店推出蛋白质饮品以应对需求",
+        "en_head": "Coffee chains launch protein drinks amid demand",
+        "zh_fact": "尽管乳清价格上涨，Chaayos、Tim Hortons和星巴克仍推出了蛋白质饮品，以捕捉市场对蛋白质产品的增长需求。",
+        "en_fact": "Despite a surge in whey prices, Chaayos, Tim Hortons, and Starbucks have launched protein drinks to capture growing market demand for protein-based products.",
+        "zh_why": "咖啡连锁店正通过产品组合多元化来吸引注重健康的消费者，并以此作为应对原材料成本压力的策略。",
+        "en_why": "Coffee chains are diversifying their product portfolios to attract health-conscious consumers as a strategy to navigate rising raw material costs.",
+        "insight_zh": "在成本压力下，通过高附加值的功能性产品维持利润率已成为餐饮零售业的共同趋势。",
+        "insight_en": "Maintaining margins through high-value functional products has become a common trend in the F&B retail sector amidst cost pressures.",
+        "zh_watch": "关注此类功能性饮品在不同市场的渗透率及消费者接受度。",
+        "en_watch": "Monitor the penetration and consumer acceptance of such functional beverages across different markets.",
+        "sources": [
+          {
+            "name": "The Economic Times",
+            "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPQURMVFBjTjgwd2p6SVctaXBEZy14LXpuLWJuZlEwajM2YkJPQ3l5V2p3TXA2ZTRFYm9KT0h2UXZ2NGVDRDM3SnJSUjBGV3I3U0poS0V4SUtXVDFETmZ3N0dKZmhNVThBcVR3YU5ra3ktT1hYNnhxZkxkYmR1TGFLY29aQk91dS16YUVrQjlrR1d5cmxXZk1mMUhsZC0xVlI4cFQ5YzlTRlNnVUxUa1Y1ZEstSDluLXRaVGFSNnZvLXNISDRXQlY4N3IweDhWSFhLR05kLWJRLVlMRW5QYjU3TndNaEJnR0J2dl9McWhKRUFneXVHRGhNYUphS1pmQlEzT1JLNU1n0gGGAkFVX3lxTE9BRExUUGNOODB3anpJVy1pcERnLXgtem4tYm5mUTBqMzZiQk9DeXlXandNcDZlNEVib0pPSHZRdnY0ZUNEMzdKclJSMEZXcjdTSmhLRXhJS1dUMUROZnc3R0pmaE1VOEFxVHdhTmtreS1PWFg2eHFmTGRiZHVMYUtjb1pCT3V1LXphRWtCOWtHV3lybFdmTWYxSGxkLTFWUjhwVDljOVNGU2dVTFRrVjVkSy1IOW4tdFpUYVI2dm8tc0hINFdCVjg3cjB4OFZIWEtHTmQtYlEtWUxFblBiNTdOd01oQmdHQnZ2X0xxaEpFQWd5dUdEaE1hSmFLWmZCUTNPUks1TWc?oc=5"
+          }
+        ]
+      },
+      {
+        "zh_head": "食品包装需求推动组合密封市场增长",
+        "en_head": "Food and beverage packaging demand drives closure market growth",
+        "zh_fact": "预计到2035年，食品和饮料行业对包装的需求将持续推动组合式橡胶-金属密封件市场的增长。",
+        "en_fact": "Demand from the food and beverage industry is expected to continue driving growth in the combination rubber-metal closures market through 2035.",
+        "zh_why": "随着食品安全和保鲜要求的提高，包装技术的创新与升级成为供应链中的关键环节。",
+        "en_why": "As food safety and preservation requirements increase, innovation and upgrades in packaging technology have become critical links in the supply chain.",
+        "insight_zh": "包装行业正通过技术升级来满足下游食品饮料行业对产品质量和保质期的更高标准。",
+        "insight_en": "The packaging industry is meeting higher standards for product quality and shelf life in the downstream F&B sector through technological upgrades.",
+        "zh_watch": "关注包装材料的成本波动及其对食品生产商定价策略的影响。",
+        "en_watch": "Monitor fluctuations in packaging material costs and their impact on pricing strategies for food producers.",
+        "sources": [
+          {
+            "name": "IndexBox",
+            "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPWUZKTXJSSkNLaUdOb1NjWnNjRDlmY0tMUDM1OFBCSzZsSjZwRlpmYV9VZjNYazlNNkZ2dkEyX3E4clZudGQyVGpvUWs2Q1RWeElSVzJBTUVmSFdJRUdFejVtZUVmSUhuQ0hRcjB1cUN2dmRoQ0F0VUE5SVo2OEx6MHMxOEFnQm5kN3RQZU84UmFLc25qUjBPNWlGN09sVUJCMnNPSTZ6Ty1HZzM2LWZXNFpiMVpjbW9ibzhDa0FuWVFKWWhiS2VIVWV5Z0lYY096YUVfR1UtUzVFN3RfUHZELQ?oc=5"
+          }
+        ]
+      },
+      {
+        "zh_head": "Barker’s Professional 结合全球水果专长与本地风味创新",
+        "en_head": "Barker’s Professional blends global fruit expertise with local flavour innovation",
+        "zh_fact": "Barker’s Professional 正在将其全球水果加工经验与本地风味创新相结合，旨在为餐饮行业提供更多样化的产品选择。",
+        "en_fact": "Barker’s Professional is combining its global fruit processing expertise with local flavor innovation, aiming to provide more diverse product options for the hospitality industry.",
+        "zh_why": "通过本地化创新，企业能够更好地满足特定区域市场对独特口味的需求，从而增强市场竞争力。",
+        "en_why": "Through localized innovation, companies can better meet the demand for unique flavors in specific regional markets, thereby enhancing market competitiveness.",
+        "insight_zh": "全球化供应链与本地化口味研发的结合是食品原料供应商实现差异化竞争的核心路径。",
+        "insight_en": "The combination of global supply chains and localized flavor R&D is a core path for food ingredient suppliers to achieve differentiated competition.",
+        "zh_watch": "关注该品牌在不同区域市场的风味推广效果及其对餐饮客户的影响。",
+        "en_watch": "Monitor the effectiveness of the brand's flavor promotions in different regional markets and their impact on hospitality clients.",
+        "sources": [
+          {
+            "name": "restaurantandcafe.co.nz",
+            "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQW5GckZ4M2l1QzB0dFNIaEVKbEdLX3R0ZzJJUFMwLTBjNHBNUHVBaldmUXVNVU1RYkpoSTdCQ3JYbHdjWEZaWWFLbzlWMjBaSmZyZmZ5My1iaFZQS2VPcG1hMWxLbnBQaUU4ZkFuSktzUllZalFTMXYteUE0cl9ScHBPR2lJeDFHMkxBWGJoMHU3ZWxhenhOa0p5eURzc3ZWSzNySUttLWJ0ZXNKcnhyZUdscw?oc=5"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "date": "2026-09-20",
     "zh_summary": "今日零售与消费行业动态包括：信实零售完成对METRO印度的收购；星巴克就佛罗里达州DEI诉讼达成和解并支付100万美元；Co-op在阿特尔伯勒开设新店以服务当地社区。",
     "en_summary": "Today's retail and consumer industry updates include: Reliance Retail completing its acquisition of METRO India; Starbucks settling a Florida DEI lawsuit with a $1 million payment; and Co-op launching a new store in Attleborough to serve the local community.",

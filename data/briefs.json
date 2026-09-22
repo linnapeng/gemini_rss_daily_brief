@@ -1,5 +1,78 @@
 [
   {
+    "date": "2026-09-22",
+    "zh_summary": "今日商业简报重点关注星巴克在印度设立全球能力中心、快消品行业趋势以及品牌扩张动态。",
+    "en_summary": "Today's business brief highlights Starbucks' new Global Capability Centre in India, FMCG industry trends, and brand expansion activities.",
+    "items": [
+      {
+        "zh_head": "星巴克在印度钦奈设立首个全球能力中心",
+        "en_head": "Starbucks Establishes First Global Capability Centre in Chennai, India",
+        "zh_fact": "星巴克宣布在印度钦奈建立其首个全球能力中心（GCC），预计将创造超过800个就业岗位，旨在打造Wi-Fi软件技术中心。",
+        "en_fact": "Starbucks has announced the establishment of its first Global Capability Centre (GCC) in Chennai, India, which is expected to create over 800 jobs and serve as a hub for Wi-Fi software technology.",
+        "zh_why": "此举标志着星巴克在印度市场运营重心的深化，通过本地化技术研发提升全球数字化能力。",
+        "en_why": "This move marks a deepening of Starbucks' operational focus in the Indian market, aiming to enhance global digital capabilities through localized technology development.",
+        "insight_zh": "跨国餐饮巨头正通过在印度设立技术中心，将数字化转型与本地人才库相结合，以优化全球运营效率。",
+        "insight_en": "Multinational F&B giants are leveraging India's talent pool to drive digital transformation and optimize global operational efficiency.",
+        "zh_watch": "该中心在软件开发与全球业务支持方面的实际产出。",
+        "en_watch": "The center's actual output in software development and global business support.",
+        "sources": [
+          {
+            "name": "Dailyhunt",
+            "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOV01KRXl6U2kxNV9XUEthOF9kcmpTVlFEWDQwWDBPOHFFOUF1R1RvWkttdWZnSjUxbFhmd0ktN0xNa1FyQmdmMTFnekxSN01yTkROclJ5dlB1OFludVV1OUVLUEY4eWEwYmlHQlp6dFk2TjNOSWI4dnRiUTcwQzJNcUZyeUZVN1N0cDA2T3VqbWVBNk55cnQ5LXNUbmIyU0MyY2I1V1ZfY2RTY1MzTnc1dXBGaF9nVWNERjlUU3JEVzhDTEhiYWRXejlXcmk1eUprSWNZdXhyOHVBaWowckp1T1VXMGlUS1RSaDd6N0NNemxsN3JYTVU1ZnlR?oc=5"
+          },
+          {
+            "name": "The Hindu",
+            "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNTzJ5ekNOV3Q0ZnpEdzI4X0JheDR2VHZBLWZ3WWtSX3RlQ3JPWkFNYW92WWVSVF8xZDJpbjdxWjhGY09ud3dnQ0tVUzRIcVpaMTFjQkVoNXprU3Jzbk9vSlM3bmlDQVJZZXdvRzVqcEVWZTI4MG5yU0h6WEJKTENYTTdacC1WdVhSNXRSaVdXZmV1MmdXSUhQRjU4YmpscVRCcjV2Q2lvdnYyMDhCbFJ6M01OYmJGZUh0OHFnbVR6QTJfaHpiVlhxbHdlaHBNNEFRUmZoTDFVWDTSAd8BQVVfeXFMT2d0QUJsS241TmcyR1h4UjVpMi1IYXA5WWttSWRtQ0c3YTdUaGh0UVdTbHFEbnkzTmVnd05NRWdrY0Q3LXowejh2WTBSRk9yTmc4blhZZDc0aXdEWjZnOGhtczBac0lYT1hKS0NHZmlvUThrTmNLcGwyS3JhOXU0cWgxN0VHcVpkeGVwTzQzNU9YTDBQNHJ6OTJLNFFoanRVTWVzQXBxTEFMNGpGdkNSSzJOenFaWklNQUxCY0JtU2RoV3BHREpqNFpTRHlxd2l3YWJiSUdCYnB0WC1vSWZYRQ?oc=5"
+          }
+        ]
+      },
+      {
+        "zh_head": "快消品行业面临成本压力与增长挑战",
+        "en_head": "FMCG Industry Faces Commodity Cost Pressures and Growth Challenges",
+        "zh_fact": "快消品（FMCG）公司在原材料成本上涨的背景下，正通过维持价格稳定来寻求销量增长，同时行业内对产品创新和清洁标签的需求日益增加。",
+        "en_fact": "FMCG companies are focusing on volume growth by holding prices steady amid rising commodity costs, while the industry sees increasing demand for product innovation and clean labels.",
+        "zh_why": "通胀压力迫使企业在定价策略与市场份额之间寻找平衡，创新成为维持竞争力的关键。",
+        "en_why": "Inflationary pressures are forcing companies to balance pricing strategies with market share, making innovation a key driver for maintaining competitiveness.",
+        "insight_zh": "在成本上升环境下，品牌正从单纯的价格竞争转向通过产品差异化（如清洁标签）来吸引消费者。",
+        "insight_en": "In a high-cost environment, brands are shifting from pure price competition to attracting consumers through product differentiation, such as clean labels.",
+        "zh_watch": "主要快消品企业的利润率变动情况。",
+        "en_watch": "Margin fluctuations for major FMCG firms.",
+        "sources": [
+          {
+            "name": "Indian Retailer",
+            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbXVRTmVTaXJKbTBYLWVWc3Q4UzV2WmpoOUZWemVVUzBsN0R4a1pIdHRZc2ctd01zQ0xydkFWejZyS1BhUjdOcjVhanlNVVRnS2lxQy1HQWwzanV4bGdTVUtYSllMamUxWXhscjdoeGxKWnZTZElrbHE0dU5MOUNfcFZlSG1lekNNbXlJMXBkVHJWQjB3cUlONGJwcFNmdzNPVHhHag?oc=5"
+          },
+          {
+            "name": "progressivegrocer.com",
+            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRFVEanFjZjVjVXhPQW5sQVB3SlJRcU84aHJKQ2FVLTMtWlViVXNDdkJxbjVLX1RQbXNfSy1DaXlsVkdnaUtiOEZGVkFNMGh0bkNwYkZOMW1Wc1BnTWFRSzFNZ3JiTV9tZUVzbWljSzFkSl9FVUZTZnlBdUFFVHBjZ0xfdU80YXQzdFFwaEM3QW95c0c3NVc0d3BwZXAxRlpKNlE?oc=5"
+          }
+        ]
+      },
+      {
+        "zh_head": "零售与品牌扩张动态",
+        "en_head": "Retail and Brand Expansion Dynamics",
+        "zh_fact": "多家零售企业近期发布扩张计划，包括Aritzia的美国扩张、DAVIDsTEA的零售增长，以及Co-op在Attleborough的新店开业。",
+        "en_fact": "Several retail firms have announced expansion plans, including Aritzia's U.S. growth, DAVIDsTEA's retail expansion, and the opening of a new Co-op store in Attleborough.",
+        "zh_why": "零售商正通过地理扩张和数字化转型来应对市场波动，以期提升投资者信心。",
+        "en_why": "Retailers are pursuing geographic expansion and digital transformation to navigate market volatility and boost investor confidence.",
+        "insight_zh": "零售业的扩张策略正趋于多元化，结合了实体店布局与数字化渠道的协同效应。",
+        "insight_en": "Retail expansion strategies are becoming more diversified, combining physical store footprints with the synergy of digital channels.",
+        "zh_watch": "零售扩张对企业利润率及运营成本的影响。",
+        "en_watch": "The impact of retail expansion on corporate margins and operating costs.",
+        "sources": [
+          {
+            "name": "kalkine.ca",
+            "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOWRzdlFyc0lXV083d3VGWmlqcVlGT3Z2bkFidHgtQTVaMzhwNGZHSGVHczVNTVhEU1BvTUNnWV9kWlJZS3VBVHFjSkduM3U0MExsVUN6UWQteWVieVBFc0g5ekxmTHpXVExKdDREQ0tsZHE4VDhXWU9kQjk4S3hpczkyaTgzb19VZFp2Rk9YdFUyRXdrdkh4QjM4UVFXUTNQMUJ5UVYxVnRybDhaVVd5Y3hteW42dkRKazJ0Zw?oc=5"
+          },
+          {
+            "name": "Grocery Trader",
+            "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNZEc5eU1XSXNSMV9XMmRvakxrNlZqUDVCMVF0d0dEeGtEMGpvSDdXY0Fsa0JXVU5yRWxKZXlwNzBZLWhWZGlEdEJkNHNzN1N3X0tCLUN4Rkl0clRKSW5lY2kyY05VSkx4d3JwWHU0YzQ5aklfNFF6Tnk4aHBGNmFZQjNZOVZfZkdHeTN0QkdldlZPYWJlMlFkWGt4TnBoRlFlM0Y0TTBVSWVLM3RqX3ZIS0JwRFMxNnVtU1d0U0FJSC1zTS13VURRQ1RoVFBMeGtuTHBMaDFrNmdaR3c?oc=5"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "date": "2026-09-21",
     "zh_summary": "今日简报涵盖了全球咖啡连锁店的蛋白质产品创新、食品包装行业的增长趋势，以及Barker’s Professional在风味创新方面的最新进展。",
     "en_summary": "Today's brief covers protein product innovation in global coffee chains, growth trends in the food packaging industry, and the latest flavor innovation developments from Barker’s Professional.",

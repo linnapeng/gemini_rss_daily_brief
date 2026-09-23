@@ -1,5 +1,70 @@
 [
   {
+    "date": "2026-09-23",
+    "zh_summary": "今日简报涵盖了咖啡连锁店的技术创新、零售业的品牌扩张以及快速消费品行业的市场趋势。",
+    "en_summary": "Today's brief covers technological innovation in coffee chains, retail brand expansion, and market trends in the FMCG sector.",
+    "items": [
+      {
+        "zh_head": "星巴克引入Clover Vertica技术",
+        "en_head": "Starbucks Introduces Clover Vertica Technology",
+        "zh_fact": "星巴克正在其咖啡店中部署Clover Vertica系统，以实现按需现磨咖啡服务。",
+        "en_fact": "Starbucks is deploying the Clover Vertica system in its coffeehouses to enable on-demand freshly brewed coffee service.",
+        "zh_why": "该技术旨在提升咖啡制作的效率与新鲜度。",
+        "en_why": "The technology is designed to enhance the efficiency and freshness of coffee preparation.",
+        "insight_zh": "咖啡连锁店正通过自动化设备优化运营，以满足消费者对高品质现制饮品的需求。",
+        "insight_en": "Coffee chains are optimizing operations through automated equipment to meet consumer demand for high-quality, freshly prepared beverages.",
+        "zh_watch": "关注该技术在不同门店的普及速度及其对客户体验的影响。",
+        "en_watch": "Monitor the rollout speed of this technology across stores and its impact on customer experience.",
+        "sources": [
+          {
+            "name": "Starbucks",
+            "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNXzN0UDNmZmNxMXBndU9oaXNWMllDWXJBbGQ1eGd0V0VzVlBIdzNtNHJWMG1tZXJDYW9UMGViSFZxbHJ3S09uR3p3STJWd0l5Uks4cTdxSUxCeENTUXFuMENDbjJtSlZvTFNlT3BtaUwyYk1QQ0d2cmdyNDU1OEJ2VC11Z2MwZjBJbGFFclhnc19tcV9kNlVjV1ZBTG5taU1FZm0wMDJTQVNBaF9rV0daT2dPVldfV3kwQjFuY0lXU3VZa2FpMHNiektoLXBTWjNudkZzSkRPSl9Ldw?oc=5"
+          }
+        ]
+      },
+      {
+        "zh_head": "K2 Korea集团收购户外品牌Nepa",
+        "en_head": "K2 Korea Group Acquires Outdoor Brand Nepa",
+        "zh_fact": "继K2和Eider之后，K2 Korea集团宣布收购户外品牌Nepa，进一步扩大其户外产品组合。",
+        "en_fact": "Following K2 and Eider, K2 Korea Group announced the acquisition of outdoor brand Nepa, further expanding its outdoor portfolio.",
+        "zh_why": "此举旨在增强集团在户外零售市场的竞争力和市场份额。",
+        "en_why": "This move aims to strengthen the group's competitiveness and market share in the outdoor retail sector.",
+        "insight_zh": "零售集团通过并购整合品牌资源，以应对日益激烈的户外运动市场竞争。",
+        "insight_en": "Retail groups are consolidating brand resources through M&A to address increasing competition in the outdoor sports market.",
+        "zh_watch": "观察收购后各品牌在产品线和渠道上的整合协同效应。",
+        "en_watch": "Observe the integration synergies in product lines and channels following the acquisition.",
+        "sources": [
+          {
+            "name": "매일경제",
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9lUUhYSEpNQTBUd3FwYU1FUGRodGlyN1FDWFJxdl9mbEtfdVFDWng2amRJLXFFRVRzLV95eTdScjZKYW00cVV0TVE1VVByQ0R1ZUEw?oc=5"
+          }
+        ]
+      },
+      {
+        "zh_head": "快速消费品企业应对节日消费需求",
+        "en_head": "FMCG Firms Brace for Festive Demand",
+        "zh_fact": "面对节日旺季，快速消费品公司正应对消费者日益增强的价值敏感度，同时在液体洗涤剂等领域加大投入。",
+        "en_fact": "Facing the festive season, FMCG companies are managing increasingly value-conscious consumers while betting big on categories like liquid detergents.",
+        "zh_why": "消费者在节日期间表现出更强的价格意识，促使企业调整策略以维持市场份额。",
+        "en_why": "Consumers are showing stronger price sensitivity during the festive period, prompting firms to adjust strategies to maintain market share.",
+        "insight_zh": "在通胀压力下，品牌需在提供节日促销与保持利润率之间寻找平衡。",
+        "insight_en": "Under inflationary pressure, brands must find a balance between offering festive promotions and maintaining profit margins.",
+        "zh_watch": "关注节日期间各品类的销售表现及促销策略的有效性。",
+        "en_watch": "Monitor sales performance across categories and the effectiveness of promotional strategies during the festive season.",
+        "sources": [
+          {
+            "name": "BusinessLine",
+            "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNd2pwMjdrYi1GQTdac0Iydk91ZmZPaFBUdktwN0dOS2dDcDJKS2wyRGRIM3ZSaC1jUmNyYm4yOHc3UGZVRGxzZEpKalBtSnFqOGowY2gyNkNuY0Q2YjVlWndrcGVrMlYwMnRRV2xDbXl1T1dQTEk5UHBmZ0lGYkNLamFSS0V0cGppUnZ1OXNveFhWYVV4R3ZnemI0TkR3QnVCcmduV09Xdm1UOTZBY0dHOTBGbEg4cXNrd3hYWkRBTDhVSkFaSXh1Sm1nY0xXOEpxQ1ptaQ?oc=5"
+          },
+          {
+            "name": "Moneycontrol.com",
+            "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPSldkTFFwdC01NlJXWVdDXzEwSVlkT0xmS0NUVk4xV1JhaFVJM3JIMlRNV0dtSkwyZkUzN1NIdWZCYmZGOUdtUDE5eEU2R3QzVEU4ekJ3QVdJenNfcl9yTGNPYUpFQkJuQlVhZEJoSlZOYjhiNFJiZE4yTFlieWRiNUF1WWV2SHdWNlJWU29TVW0wSkNUTzZGTUhoTjBka2x0UGtPblRnYnRiYUYtMXJQNk5LYjRwNTEtcmVrMy1CZUhIaWdEbjVvcVJKVUtHQdIB0wFBVV95cUxPNFIxWFlxUUkwSDBLc2cwalA1NXJlR09oNHAzNGl0VXVXWEE1cXc4MkZRdlU0SDBsd3RVQVljTHdWN1o0S0h3aGsyeGx2Z1FpaTlUajhZVU51d25qOU11MTlQM3AwaWhFdzVvdHcyQ0Y1T0ZsTzhjdXgtRkNvZHd2S2F6RlRGRklDNmZ0WGVHRUdJUENlaURrc0RGYmsxUjJ4TU5WZ3hieWs2UDltOHRpcDZtdTRsMUxPTWZTWTM5ZXAwNHBqWnZKdmhJN0xtejczU3Zv?oc=5"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "date": "2026-09-22",
     "zh_summary": "今日商业简报重点关注星巴克在印度设立全球能力中心、快消品行业趋势以及品牌扩张动态。",
     "en_summary": "Today's business brief highlights Starbucks' new Global Capability Centre in India, FMCG industry trends, and brand expansion activities.",

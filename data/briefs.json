@@ -1,5 +1,70 @@
 [
   {
+    "date": "2026-09-24",
+    "zh_summary": "今日简报涵盖了全球餐饮与零售业的最新动态，包括星巴克数字化菜单的推广、烘焙行业的创新趋势，以及快消品市场面临的挑战。",
+    "en_summary": "Today's brief covers the latest developments in the global food, beverage, and retail sectors, including Starbucks' digital menu rollout, innovation trends in the bakery industry, and challenges facing FMCG market launches.",
+    "items": [
+      {
+        "zh_head": "星巴克数字化菜单推广进度近90%",
+        "en_head": "Starbucks Digital Menu Rollout Nears 90%",
+        "zh_fact": "星巴克正在推进其数字化菜单系统的部署，目前覆盖率已接近90%，旨在通过数字化手段提升下午时段的销售表现。",
+        "en_fact": "Starbucks is advancing the deployment of its digital menu system, which has now reached nearly 90% coverage, aiming to boost afternoon sales through digital integration.",
+        "zh_why": "该举措是星巴克应对市场竞争、优化门店运营效率及提升顾客点单体验的核心策略之一。",
+        "en_why": "This initiative is a core strategy for Starbucks to address market competition, optimize store operational efficiency, and enhance the customer ordering experience.",
+        "insight_zh": "",
+        "insight_en": "",
+        "zh_watch": "数字化菜单是否能有效转化为下午时段的客流量增长。",
+        "en_watch": "Whether the digital menu will effectively translate into increased foot traffic during afternoon hours.",
+        "sources": [
+          {
+            "name": "finance.yahoo.com",
+            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZDJ0bjlFVkhCYXVVSW4xTVNnLUdaYzgyb21HX0dtaXk5RlZnbzc3R053czdqVl90bnFKSkpTS3k1X0F0V0JSaWJsVzJVNHFFSGJHSU9CQktVMVFNS0dUdk9EdnhOcHM1Z1hkbnk0a2hlaGhkME5pMGRIWl9qNm83U3ZsTVRiUDhBRDR5Y0tHOWxSM0VkRHFXZXhsS250QQ?oc=5"
+          }
+        ]
+      },
+      {
+        "zh_head": "烘焙行业创新：南瓜香料与咸味新品引领潮流",
+        "en_head": "Bakery Innovation: Pumpkin Spice and Savory Launches Lead Trends",
+        "zh_fact": "南瓜香料继续推动秋季菜单创新，同时咖喱、披萨和香肠等咸味口味成为烘焙新品研发的热点。",
+        "en_fact": "Pumpkin spice continues to drive fall menu innovation, while savory flavors like curry, pizza, and bangers have become focal points for new bakery product development.",
+        "zh_why": "季节性口味和咸味创新是烘焙品牌吸引消费者、增加产品多样性的主要手段。",
+        "en_why": "Seasonal flavors and savory innovations are primary methods for bakery brands to attract consumers and increase product variety.",
+        "insight_zh": "",
+        "insight_en": "",
+        "zh_watch": "消费者对咸味烘焙产品的接受度及市场表现。",
+        "en_watch": "Consumer acceptance and market performance of savory bakery products.",
+        "sources": [
+          {
+            "name": "Food Business News",
+            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQmVJYnQxQmVTV2xUQXY5V3o2SFZ0cWRJUTdMdHNVeWFrZDZSU3BVTFR3OGZxR2RNSmZjQkRDZUE2Q0pTRXJvX0NRcW5NRXRBYk4wNFAwQUxiXy0yVElHVFdkUjVfWUxtZ2xtcTZQRXVmUmthVUtTQ0ZaRVlPVDl5dFg5ZTdSTHo2UkphVEFFLXFFcGRBV3NfMWFoWGlnRGsyM3c?oc=5"
+          },
+          {
+            "name": "British Baker",
+            "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOODBPa0Y2eERtQlRMaU03WG12b05PRExIX3FSY2tBbkloYjhLMXhtNFVKVE1yVmg1VzNqcklMTmd6VDBFeUJFWnFVY0tZSmIySHptZVNSR1NHNjhWZjNQUi1nRkZQVl9BUzlqUzNIcHAzX2RqRDNRSmJXQ2FNdEY4ZDNjUy1CUlg5dUc4NURFY2tSd1JRbzhUSFhyS2dLampRVTdKQVhKS3pzb3M1M0k0dzItMU1yTTBW?oc=5"
+          }
+        ]
+      },
+      {
+        "zh_head": "快消品新品上市成功率仅为17%",
+        "en_head": "Only 17% of FMCG Launches Achieve Success",
+        "zh_fact": "最新行业数据显示，仅有17%的快消品（FMCG）新品上市后能实现强劲的试用率和重复购买率。",
+        "en_fact": "Recent industry data indicates that only 17% of FMCG product launches achieve strong trial and repeat purchase rates.",
+        "zh_why": "市场竞争加剧和消费者偏好快速变化，使得新品在维持长期市场份额方面面临巨大挑战。",
+        "en_why": "Intensifying market competition and rapidly shifting consumer preferences make it challenging for new products to maintain long-term market share.",
+        "insight_zh": "",
+        "insight_en": "",
+        "zh_watch": "品牌如何通过精准营销和产品差异化来提升新品存活率。",
+        "en_watch": "How brands utilize precise marketing and product differentiation to improve the survival rate of new products.",
+        "sources": [
+          {
+            "name": "Retail News Asia",
+            "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZ1RhQWtCbzZQYmQ3WXlHaGxkWjgzalFTTGl1c21pcmkzU3gtWTAwVG5pT2IxTVYzVEt2TEZlOWdUNWp6aWo0NU5HUTF5OUxVM1BRS3g0and6TXN5RDBFb0Q3RFNFdzdUeG5DSVZ1bW5EaUlZMFVNclBpVjlxVlNDT2lvaXpySTU2d2xnTXF4aGtXTzJSYjVjR0l3?oc=5"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "date": "2026-09-23",
     "zh_summary": "今日简报涵盖了咖啡连锁店的技术创新、零售业的品牌扩张以及快速消费品行业的市场趋势。",
     "en_summary": "Today's brief covers technological innovation in coffee chains, retail brand expansion, and market trends in the FMCG sector.",

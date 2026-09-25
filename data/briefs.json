@@ -1,5 +1,74 @@
 [
   {
+    "date": "2026-09-25",
+    "zh_summary": "今日零售与餐饮行业动态：星巴克计划关闭250家表现不佳的门店以推进转型；7-Eleven推出包含塔可、鸡肉和早餐选项的新超值菜单；Wall's品牌通过推出苏格兰蛋产品扩展其高蛋白食品系列。",
+    "en_summary": "Today's retail and F&B updates: Starbucks plans to close 250 underperforming stores as part of its ongoing turnaround; 7-Eleven has introduced new value menus featuring tacos, chicken, and breakfast items; Wall's is expanding its high-protein range with the launch of a Scotch egg product.",
+    "items": [
+      {
+        "zh_head": "星巴克计划关闭250家门店",
+        "en_head": "Starbucks to close 250 underperforming stores",
+        "zh_fact": "星巴克宣布将关闭250家表现不佳的门店，作为其持续转型战略的一部分。",
+        "en_fact": "Starbucks announced it will close 250 underperforming stores as part of its ongoing turnaround effort.",
+        "zh_why": "此举旨在优化门店组合，应对持续的经营挑战。",
+        "en_why": "The move is intended to optimize the store portfolio and address ongoing operational challenges.",
+        "insight_zh": "大型连锁品牌正通过精简门店网络来提高整体盈利能力。",
+        "insight_en": "Major chains are streamlining store networks to improve overall profitability.",
+        "zh_watch": "关注后续门店关闭对品牌市场覆盖率及财务表现的影响。",
+        "en_watch": "Monitor the impact of these closures on brand market coverage and financial performance.",
+        "sources": [
+          {
+            "name": "The Business Journals",
+            "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWTVveFBrSzAydV9QdlpwTTVUSkdRdGFmRjk3SXdYUkw3VjBSLS1QTkZJcFQ0MXAyOGxJejEyNXNUaWFtM29hZFRlSmVjU2h1TkFqcXRYemY5YTEzT3hjN1RDSDE1ZjFhMWJyVDV0cnVYYl9xcmIyUmtwS3FHU2VGbXNoaHhKeFd1TVZleElqbmlGX1hsVktoREptelVmQWxNRmxwaHNRYw?oc=5"
+          },
+          {
+            "name": "Forbes",
+            "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbll6RDJnS215aWF2WVFOSzVHVlIxNUZTaUlkUGRGeFZqVXc5ZlU4bXN5cEdNSzVPZGk5bk83bkJxZlVRZFZnTzloZFViV3NhdTlmbks1al9sV1ZETWcwUjg4NWw3eFZvQUZVeHBtalU5WEp6cG5YdVlGaEJMOU5mc09NN2dXdU9TMERLeHM1Y0xzMGVUQVZIQ1Vubzdjak5GMExTUzg5Q3BDTjNm?oc=5"
+          }
+        ]
+      },
+      {
+        "zh_head": "7-Eleven推出新超值菜单",
+        "en_head": "7-Eleven introduces new value menus",
+        "zh_fact": "7-Eleven在餐厅业务中推出了三款新的超值菜单，涵盖塔可、鸡肉和早餐食品。",
+        "en_fact": "7-Eleven has rolled out three new value menus in its restaurants, featuring tacos, chicken, and breakfast items.",
+        "zh_why": "旨在通过提供高性价比的餐饮选择，提升消费者的用餐便利性。",
+        "en_why": "The initiative aims to enhance mealtime convenience by offering cost-effective dining options.",
+        "insight_zh": "便利店正通过强化餐饮服务来争夺快餐市场份额。",
+        "insight_en": "Convenience stores are strengthening their food service offerings to compete for fast-food market share.",
+        "zh_watch": "观察此类超值菜单对便利店客流量的拉动作用。",
+        "en_watch": "Observe the impact of these value menus on driving foot traffic to convenience stores.",
+        "sources": [
+          {
+            "name": "corp.7-eleven.com",
+            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPS19PZzd2Wkgxb09XdlljMkFuQkRtYjFJM2ZBS1JPbDlWTnRFYS1HWHJYLVd0NDFFMHN6WVAyRFk2djZ1OXNDOVVUX0JGVy1kb3NacjN3dXVVTHVFcVF1MFV5QnJNbTVoQUZvcHhTUktrYzF5S3JkQ2NfSTZqeEdYY2RFaEtFT1lIeTRqanBTRjlHcnEtSXZTUTVFcV9OR0J0VHZOXzhUZlBPRmtpN3hOaERR?oc=5"
+          },
+          {
+            "name": "Cleveland.com",
+            "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNd3pETlVoZGJJVzBQRG5MdUdOd2dTVzhqcGRyQmp5ak9LTGkzR1M1NDhnWXFtRHRNc01BdkpzOUV6MXVRRWFvcTYtUkJsWE5ONk5oUVBRMDNBLWhwUkhDV04xbDY0c0IzMzROampRNzY0WFdZU0NUVTBjWDM1MXAyWjhmeVl0Q01zN3hLMURXR2R0d2FoSTBVWDZFVXRheG1JTGxNdXZBbTBob2ttNTF3cExsWFFvdnNjMTZ0b1BEZ1FseXlBWFJUU9IByAFBVV95cUxNd3pETlVoZGJJVzBQRG5MdUdOd2dTVzhqcGRyQmp5ak9LTGkzR1M1NDhnWXFtRHRNc01BdkpzOUV6MXVRRWFvcTYtUkJsWE5ONk5oUVBRMDNBLWhwUkhDV04xbDY0c0IzMzROampRNzY0WFdZU0NUVTBjWDM1MXAyWjhmeVl0Q01zN3hLMURXR2R0d2FoSTBVWDZFVXRheG1JTGxNdXZBbTBob2ttNTF3cExsWFFvdnNjMTZ0b1BEZ1FseXlBWFJUUw?oc=5"
+          }
+        ]
+      },
+      {
+        "zh_head": "Wall's扩展高蛋白产品线",
+        "en_head": "Wall's expands high-protein product range",
+        "zh_fact": "Wall's品牌通过推出苏格兰蛋产品，进一步扩展了其高蛋白食品系列。",
+        "en_fact": "Wall's has expanded its high-protein range with the launch of a new Scotch egg product.",
+        "zh_why": "此举旨在满足消费者对便捷、高蛋白零食日益增长的需求。",
+        "en_why": "The launch is designed to meet the growing consumer demand for convenient, high-protein snacks.",
+        "insight_zh": "食品品牌正通过功能性定位（如高蛋白）来吸引健康意识较强的消费者。",
+        "insight_en": "Food brands are leveraging functional positioning, such as high-protein content, to attract health-conscious consumers.",
+        "zh_watch": "关注该新品在零售渠道的市场表现及消费者反馈。",
+        "en_watch": "Monitor the market performance and consumer feedback for this new product in retail channels.",
+        "sources": [
+          {
+            "name": "KamCity",
+            "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOektHQzhCcDh4QnMyQ3NNUGQycG1RVG1vSnF3YWNHM2t5OGNfZVFJaXFJOThsV1NySkR0MDZXaUx1TG82VXphSGxGQ01xVGpjUWc3dERMSTFZS3ZqUWZ4WHQxZEpNUkZ1SUVrbGxvUkQwdHp6VEU1U3VrdWpHVUduaWw5eHhMeWNEdlJSUTFrR3hSZWx1ZmY3b1czZkI4d1c4MHdLUVZ0YUllcTNh?oc=5"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "date": "2026-09-24",
     "zh_summary": "今日简报涵盖了全球餐饮与零售业的最新动态，包括星巴克数字化菜单的推广、烘焙行业的创新趋势，以及快消品市场面临的挑战。",
     "en_summary": "Today's brief covers the latest developments in the global food, beverage, and retail sectors, including Starbucks' digital menu rollout, innovation trends in the bakery industry, and challenges facing FMCG market launches.",

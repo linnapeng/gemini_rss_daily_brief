@@ -1,5 +1,70 @@
 [
   {
+    "date": "2026-09-27",
+    "zh_summary": "今日简报涵盖了咖啡连锁店的运营调整、创新产品发布以及印度零售市场的扩张动态。",
+    "en_summary": "Today's brief covers operational adjustments in coffee chains, innovative product launches, and expansion dynamics in the Indian retail market.",
+    "items": [
+      {
+        "zh_head": "星巴克关闭250家门店",
+        "en_head": "Starbucks to Close 250 Stores",
+        "zh_fact": "星巴克近期宣布将关闭250家门店，其中包括长岛地区的至少3家门店。",
+        "en_fact": "Starbucks has announced the closure of 250 stores, including at least three locations on Long Island.",
+        "zh_why": "此次关闭是星巴克优化零售布局和应对市场挑战的最新举措。",
+        "en_why": "These closures are part of Starbucks' latest efforts to optimize its retail footprint and address market challenges.",
+        "insight_zh": "大型连锁品牌正通过精简门店网络来应对运营压力和市场变化。",
+        "insight_en": "Major chains are streamlining their store networks to navigate operational pressures and market shifts.",
+        "zh_watch": "关注星巴克后续的全球战略调整及其对日本市场股权审查的影响。",
+        "en_watch": "Monitor Starbucks' subsequent global strategic adjustments and the impact of its Japan stake review.",
+        "sources": [
+          {
+            "name": "Newsday",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMzl6NFI3ekd4VTgxUTRpemduby1nSThjMTZneHRkbkxNWUJUdEd4UWctc0RRNkZVY0l0ZE1oUU9VVDd6SUtjVXhMNEZUbVcxNlZaZmduVmRfVnlkVmt5WjZ5YjRVeWRweDZHSlpOcnJkUDlPYXRpMUNhbHRNN3R0UEtkWTVqR2dUa2Vj?oc=5"
+          },
+          {
+            "name": "Yahoo Finance Singapore",
+            "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQM0tRWVdkQ245SjFBRXI2QkRVcU1UZjhUUWVDUFJkOFpJb1dYWDYtNGJzTUdjb3VtMTUxMVVkeFJPTkFoOWlqOTltUlRWR18ycTlQaVJjZ3pZM255X0FZN0ZKTTVqRGY1S1BZT2h3bHp1NHVLTkhYbkhEZ1RzWTZ5aGlMdVRFUQ?oc=5"
+          }
+        ]
+      },
+      {
+        "zh_head": "Café Amazon推出创新饮品",
+        "en_head": "Café Amazon Launches Innovative Beverages",
+        "zh_fact": "Café Amazon推出了花香滴滤咖啡以及酱油焦糖风味的新品。",
+        "en_fact": "Café Amazon has introduced floral drip coffee and soy sauce caramel-flavored creations.",
+        "zh_why": "品牌通过引入独特风味组合来吸引消费者并提升产品创新力。",
+        "en_why": "The brand is introducing unique flavor combinations to attract consumers and enhance product innovation.",
+        "insight_zh": "咖啡连锁店正通过跨界风味实验来增加菜单的差异化竞争力。",
+        "insight_en": "Coffee chains are leveraging experimental flavor profiles to differentiate their menus.",
+        "zh_watch": "观察此类创新风味在市场上的接受度及后续推广情况。",
+        "en_watch": "Observe the market reception and subsequent promotion of these innovative flavors.",
+        "sources": [
+          {
+            "name": "Mini Me Insights",
+            "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbC1xdXFrX3lhS0w2ekNtd01EX09kRkUzOEhYcWxZaUtLanlQTHNFQ1BndWdaU1ZVQXdWOGVWd0lIUndWTUhJN3lteHpfS2M4Q1FNM0l3dnkxRTMyWjFRbVRFcTBPMVAzQ0ViemNUbUVLbmRvQ3pzT0RVem1HR2RDM2NrR3I0RjdTbm8ycWJYUDRRM29PQ2pDa25RU1RZSjFNZnIxY3VjQTBmN1JGdnVqWlNnNkNvUQ?oc=5"
+          }
+        ]
+      },
+      {
+        "zh_head": "Anera Silver启动零售扩张计划",
+        "en_head": "Anera Silver Launches Retail Expansion",
+        "zh_fact": "珠宝品牌Anera Silver正式进入零售市场，并计划在未来五年内开设100至150家门店。",
+        "en_fact": "Jewelry brand Anera Silver has made its retail debut and plans to open 100 to 150 stores over the next five years.",
+        "zh_why": "该品牌旨在通过实体店扩张来建立品牌影响力并触达更多消费者。",
+        "en_why": "The brand aims to build its presence and reach more consumers through physical store expansion.",
+        "insight_zh": "尽管数字化趋势明显，新兴品牌仍视实体零售为建立品牌信任的关键渠道。",
+        "insight_en": "Despite digital trends, emerging brands still view physical retail as a key channel for building brand trust.",
+        "zh_watch": "关注其扩张速度及在竞争激烈的零售市场中的表现。",
+        "en_watch": "Monitor its expansion pace and performance in the competitive retail market.",
+        "sources": [
+          {
+            "name": "Indian Retailer",
+            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdktfX1U2d2p3R3pOb282VXZJNlZONlhwN1dxc2dUaERuRWtiSHRnc004d0MxQ0RZQld2UndWWGpOdVdZVzVmOS1QdzBuXzVhSHNRVXNxRkZuYldLRWx2RUhvNWloQ1hyaFBQSUtuOTVtWElyQUtCN3gycGtxS1VBeVBfd18wbGEzb0RfYWo5UW8xSXVsNXZTTWY4aw?oc=5"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "date": "2026-09-26",
     "zh_summary": "今日零售与餐饮行业动态：星巴克计划关闭北美250家门店；烘焙领域，Brinker Bakery与ARYZTA达成战略合作，同时Nestlé Professional指出超市烘焙业务存在盲点；印度快速消费品市场正积极布局蛋白质产品领域。",
     "en_summary": "Retail and F&B updates: Starbucks plans to close 250 stores in North America; in the bakery sector, Brinker Bakery and ARYZTA have formed a strategic partnership, while Nestlé Professional highlights blind spots in supermarket bakery operations; meanwhile, FMCG giants are expanding into India's protein market.",

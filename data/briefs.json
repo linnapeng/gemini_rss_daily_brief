@@ -1,5 +1,66 @@
 [
   {
+    "date": "2026-09-29",
+    "zh_summary": "今日简报涵盖咖啡连锁店的扩张与品牌活动，以及印度消费品市场的品牌动态与战略收购。",
+    "en_summary": "Today's brief covers coffee chain expansion and brand initiatives, alongside brand developments and strategic acquisitions in the Indian consumer goods market.",
+    "items": [
+      {
+        "zh_head": "瑞幸咖啡在新加坡达成100家门店里程碑",
+        "en_head": "Luckin Coffee reaches 100-store milestone in Singapore",
+        "zh_fact": "瑞幸咖啡在新加坡的门店数量已达到100家。",
+        "en_fact": "Luckin Coffee has reached the 100-store milestone in Singapore.",
+        "zh_why": "该里程碑标志着瑞幸咖啡在海外市场扩张战略的持续推进。",
+        "en_why": "This milestone marks the continued progress of Luckin Coffee's international expansion strategy.",
+        "insight_zh": "咖啡连锁品牌正通过快速扩张和本地化运营深耕东南亚市场。",
+        "insight_en": "Coffee chains are deepening their presence in Southeast Asian markets through rapid expansion and localized operations.",
+        "zh_watch": "瑞幸在其他国际市场的后续扩张速度。",
+        "en_watch": "The pace of Luckin's expansion in other international markets.",
+        "sources": [
+          {
+            "name": "Inside Retail Asia",
+            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSlVWSEc3Y1doQ01FVjJBSkYtTVp4VHFLWEh0Wjd6c1JvWlJvdEVXNWFjSTRFRUctR3JFakR1MXVnUy1taWdieVR6Wi0xbWxPcEFxLVBZQ0dVa1FfclFyLTFqaEVMWkJXN1BzTkFucHRNUmNQWlJveHdDUTNFSnpJclhlbVJNcHFuWkJBTXFOd3lCZEppcnNn?oc=5"
+          }
+        ]
+      },
+      {
+        "zh_head": "ITC以6.45亿卢比全资收购Yoga Bar",
+        "en_head": "ITC acquires full ownership of Yoga Bar for Rs 645 crore",
+        "zh_fact": "印度企业ITC已完成对健康食品品牌Yoga Bar的全部股权收购，交易金额为6.45亿卢比。",
+        "en_fact": "Indian conglomerate ITC has acquired full ownership of the health food brand Yoga Bar for Rs 645 crore.",
+        "zh_why": "此举旨在增强ITC在健康食品领域的市场份额。",
+        "en_why": "The acquisition is aimed at strengthening ITC's market share in the health food segment.",
+        "insight_zh": "大型消费品公司正通过收购新兴健康品牌来应对消费者对健康饮食需求的增长。",
+        "insight_en": "Large consumer goods companies are acquiring emerging health brands to address growing consumer demand for healthier food options.",
+        "zh_watch": "ITC后续在健康食品品类的整合与产品线扩展。",
+        "en_watch": "ITC's subsequent integration and product line expansion in the health food category.",
+        "sources": [
+          {
+            "name": "Storyboard18",
+            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZlgyZFVYSFVNV3hGRXdmem10dEFMVWFtN1U3WGV0UWVVX25EWHNVZmtRRTl3STkxQkdEYi15M205WkxFbjgxQUk2eXprNFIwakh0WFBaRVhqSmJzQVV2V1ZQSlFLMnB2RUtKR1dWZGk3NmxvemVmQ09pbC1Xa0FGdXctd3V0MjZTWl9HbVFFZV9Fek1taW1UVVNEeFMwZldYY09PQWFnMnlmMFhRYkxKQkdR0gG3AUFVX3lxTE5JeWh0bS1HelNISVVObG1uMEFyVG1GbkRBZHU4c1BRSUpVZzVPWl80bERuNEZaXzhXckMwQk5RQVNfU0lzdlF4YUhMQTNYcTY4NFFqWVpoeFg3MDhKYmxCNmNWYzE0RVNoejhyZFI5a204b1JEcFlfNnRtemVDREYya3E4NTc0S2V0U0tNU3VvTnU2WFI5VXdsWWZqam9SQWVsYlY2QW1Pb2EzSXBzb1RCQl83Wk10dw?oc=5"
+          }
+        ]
+      },
+      {
+        "zh_head": "星巴克在哥斯达黎加举办2026年LAC咖啡师大赛",
+        "en_head": "Starbucks Crowns 2026 LAC Barista Champion in Costa Rica",
+        "zh_fact": "星巴克在哥斯达黎加举行了2026年拉丁美洲和加勒比地区（LAC）咖啡师冠军赛。",
+        "en_fact": "Starbucks held its 2026 Latin America and Caribbean (LAC) Barista Championship in Costa Rica.",
+        "zh_why": "该赛事旨在提升咖啡师专业技能并强化品牌文化。",
+        "en_why": "The event aims to enhance barista professional skills and reinforce brand culture.",
+        "insight_zh": "通过举办区域性赛事，咖啡连锁店能够有效提升员工参与度并展示其对咖啡品质的承诺。",
+        "insight_en": "By hosting regional competitions, coffee chains can effectively boost employee engagement and demonstrate their commitment to coffee quality.",
+        "zh_watch": "星巴克在拉美地区的品牌忠诚度与人才培养计划。",
+        "en_watch": "Starbucks' brand loyalty and talent development programs in the Latin American region.",
+        "sources": [
+          {
+            "name": "Global Coffee Report",
+            "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOR0Fyc3phV2phc1RvbENCSS1ZTlhxQjBnVVU1TDkycUNiUkd4bFhIcGNPV0cycTdHbkZCaTRhekUyRkhFT2xPRjUycVdQVDhhVXRtLUR1cW1UUTk1ejNlWXBOT2NOdVhHTnRYSVVCT1dEWGV4QV9nRzA3YkxYTXZhMk1uNXJDMkU?oc=5"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "date": "2026-09-28",
     "zh_summary": "今日简报重点关注印度餐饮零售业的扩张与市场挑战。咖啡连锁品牌Third Wave Coffee达成250家门店里程碑，Vanilla Miel在Lower Parel开设第二家分店。与此同时，印度快速消费品（FMCG）行业面临增长放缓，多数品类销量下滑。",
     "en_summary": "Today's brief highlights expansion and market challenges in the Indian F&B retail sector. Third Wave Coffee has reached a 250-cafe milestone, while Vanilla Miel opened its second location in Lower Parel. Concurrently, the Indian FMCG sector is facing a slowdown, with a majority of categories reporting volume declines.",

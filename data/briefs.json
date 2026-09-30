@@ -1,5 +1,78 @@
 [
   {
+    "date": "2026-09-30",
+    "zh_summary": "今日食品饮料行业动态聚焦于咖啡品牌的全球扩张与创新，以及功能性食品市场的增长趋势。",
+    "en_summary": "Today's food and beverage industry updates focus on the global expansion and innovation of coffee brands, alongside growth trends in the functional food market.",
+    "items": [
+      {
+        "zh_head": "瑞幸咖啡在新加坡达成100家门店里程碑",
+        "en_head": "Luckin Coffee Celebrates 100-Store Milestone in Singapore",
+        "zh_fact": "瑞幸咖啡在进入新加坡市场三年后，门店数量已达到100家，标志着其作为中国咖啡品牌全球化战略的重要进展。",
+        "en_fact": "Three years after entering the Singapore market, Luckin Coffee has reached 100 stores, marking a significant milestone in its global expansion strategy as a Chinese coffee brand.",
+        "zh_why": "此举展示了中国咖啡品牌通过快速扩张和本地化运营成功进入国际市场的潜力。",
+        "en_why": "This move demonstrates the potential for Chinese coffee brands to successfully enter international markets through rapid expansion and localized operations.",
+        "insight_zh": "",
+        "insight_en": "",
+        "zh_watch": "瑞幸咖啡后续在其他国际市场的扩张速度与品牌全球化表现。",
+        "en_watch": "The pace of Luckin Coffee's subsequent expansion into other international markets and its global brand performance.",
+        "sources": [
+          {
+            "name": "Singapore Economic Development Board (EDB)",
+            "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNS1pzejMzcW5sZHhzVzFROFZkQ1NGUm13RU1UOF9rRU1WakpMQUxsQWw2SGVLRURvNVhfaGpxWlFBRFNFSDRSSi1IbnNHNVlDdW5YZmhWYTlKanlrNDVyNHBJRmFmVDhnMF9tcHhVTmlYR0tiTVRzQTI0enpIWnhDMDA3NXdfTXRmUjdhczNIMnlfNGxrMjMzMDV6dkpNM1c0ZzVwLV9UemMwWnA2NFlYdzliMnF3a281dHdQZEhLV1dMU0ZVS2ljUDBvMkdtN1Y3SDR3aWhEUXJqUE0?oc=5"
+          },
+          {
+            "name": "China Daily",
+            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE51dEVZakhWSVl1dF83dFNWUGNTTFBVamVhVHJHRGs1VDlUTnRCY3h3a3RUOWhUMjhRMnpsS0tOcXJsZFozQlBUZ2JpaGtEcDhDdHpoazlyVXktOThZdVhESXRwUVpCM0JpajUtVlRVano4WVlzY0J6aVJsNzF4QQ?oc=5"
+          }
+        ]
+      },
+      {
+        "zh_head": "星巴克在加拿大推出韩式风味咖啡新品",
+        "en_head": "Starbucks Launches New Korean-Inspired Coffee in Canada",
+        "zh_fact": "星巴克在加拿大市场推出了一款全新的韩式风味咖啡饮品。",
+        "en_fact": "Starbucks has introduced a new Korean-inspired coffee beverage across the Canadian market.",
+        "zh_why": "咖啡连锁品牌正通过引入具有地域特色的创新口味来吸引消费者并保持市场新鲜感。",
+        "en_why": "Coffee chains are attracting consumers and maintaining market relevance by introducing innovative, region-specific flavors.",
+        "insight_zh": "",
+        "insight_en": "",
+        "zh_watch": "该产品的市场反响及星巴克未来在北美市场对亚洲风味产品的开发力度。",
+        "en_watch": "Market reception of the product and Starbucks' future development of Asian-inspired offerings in the North American market.",
+        "sources": [
+          {
+            "name": "Daily Hive",
+            "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE04SEJzRWF2eXEwZWpvQWtzQndKY0R0WEJpbGV6ZVJPUk9ILVh4M2k0bVYyM3ZtTlg4dmctN0VqQmtEeXRqSUNTMWxac05QUVZjSXRsSVgydzFxMHBRSmp1TzJBdG84bUtv?oc=5"
+          }
+        ]
+      },
+      {
+        "zh_head": "功能性食品市场需求驱动增长",
+        "en_head": "Functional Food Market Demand Drives Growth",
+        "zh_fact": "根据最新行业统计，玛卡（Maca）、海藻（Sea Moss）和抹茶（Matcha）等功能性食品市场预计将持续增长，其中玛卡市场预计至2035年将以6.2%的复合年增长率增长。",
+        "en_fact": "According to recent industry statistics, markets for functional foods such as Maca, Sea Moss, and Matcha are expected to grow, with the Maca market projected to expand at a CAGR of 6.2% through 2035.",
+        "zh_why": "消费者对健康和功能性营养需求的日益增长是推动这些细分市场扩张的主要动力。",
+        "en_why": "Growing consumer demand for health and functional nutrition is the primary driver behind the expansion of these market segments.",
+        "insight_zh": "",
+        "insight_en": "",
+        "zh_watch": "功能性食品在主流零售渠道的渗透率及相关产品的创新应用。",
+        "en_watch": "The penetration rate of functional foods in mainstream retail channels and innovative applications of related products.",
+        "sources": [
+          {
+            "name": "IndexBox",
+            "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcFFKaGRYdW9kelVWTmFlTy1iM1BneGFBUUVlVWNDU0p0a3Z6MWhLTkU0RXlUVFlrbkZCVHFPSzRLSlBEVVBSc3M5R2FTZXhZRlVJZFJMc1VqM2l4VXRtcmZfQXJ1Z0ZvdDEzY1BzSm9IbVlmUk5mbjJTODRHVU9jbUlfUGcxbFBWa2V3WGxFdzFRdzJZdm9yZzB3RzVuXzMyNkF0M01lY0gtZ1k?oc=5"
+          },
+          {
+            "name": "IndexBox",
+            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPT0UtTlptQWVqSFBjSUpHUk9IR2paYlpXUUJQbVo3eHZ0WURzRmQ1RFdMOTdmXzFQOTZPMC1wdHdxVzg5S0tBVW16UUlqUERNQlFhdmZVSGp0N2taM1BzeHA5M3N4VG5MUHNvM3gzUUJnMTRneUJpVlgwTjFGRUZ4dHVxRlkyZHZyNEh3ekRBOTlvNlRIeWF4ZExhUHJONG9fZ093bw?oc=5"
+          },
+          {
+            "name": "IndexBox",
+            "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUjk4SnFXcXUwVnUwVGFUdkJVMWpVaHVkZVF2QjdIWGJ2Unc2M1Vhc0hfd1BXaDYzeFlsT0ZUYXkxdzZZemdJVmMza2tneS00UmtNUDQ3QTRiRHhFWFlKMklvalJJYkRmZEdZZ0NMcmpiLW1yVVFVbWpBazRmSjN1YkthUFNrcndrN1dibk1MUVhJUjJDQUFHcmVVdkx5TEswS1A1Rk9hVQ?oc=5"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "date": "2026-09-29",
     "zh_summary": "今日简报涵盖咖啡连锁店的扩张与品牌活动，以及印度消费品市场的品牌动态与战略收购。",
     "en_summary": "Today's brief covers coffee chain expansion and brand initiatives, alongside brand developments and strategic acquisitions in the Indian consumer goods market.",

@@ -1,5 +1,70 @@
 [
   {
+    "date": "2026-10-02",
+    "zh_summary": "今日简报涵盖了星巴克的产品创新与品牌活动、McCormick的财务表现以及烘焙行业的最新产品发布。",
+    "en_summary": "Today's brief covers product innovation and brand events at Starbucks, financial performance for McCormick, and new product launches in the bakery sector.",
+    "items": [
+      {
+        "zh_head": "星巴克推出空气搅打浓缩咖啡",
+        "en_head": "Starbucks Introduces Air-Whipped Espresso",
+        "zh_fact": "星巴克正在通过推出“空气搅打浓缩咖啡”（Air-Whipped Espresso）来迎合新的饮品趋势。",
+        "en_fact": "Starbucks is tapping into a new trend with the launch of 'Air-Whipped Espresso'.",
+        "zh_why": "该举措旨在通过产品创新吸引消费者，并进一步巩固其在咖啡市场的领先地位。",
+        "en_why": "This move aims to attract consumers through product innovation and further solidify its leadership in the coffee market.",
+        "insight_zh": "咖啡连锁店正通过质地创新（如空气搅打）来提升消费者的感官体验。",
+        "insight_en": "Coffee chains are enhancing consumer sensory experiences through texture innovation, such as air-whipping.",
+        "zh_watch": "关注该产品在不同市场的消费者接受度。",
+        "en_watch": "Monitor consumer reception of this product across different markets.",
+        "sources": [
+          {
+            "name": "The Food Institute",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdlRTcENWZ0JGQ0RGaHJ2ZjQwYjE5RDZud052SVBIZWJfOG9Bd1k0d2lQSmhHN1hDdzdZVjZBNExKa2FyTm1BLUw3RTlOWU9OdEdzVFZLM2ctWXVlVVN4Ukp0NFBHd29NTDhZbktWd1dtcUE4R3YwVlJPT0VjVjc5UGxpX3ZodUhiV1RN?oc=5"
+          }
+        ]
+      },
+      {
+        "zh_head": "McCormick第三季度财报表现强劲",
+        "en_head": "McCormick Reports Strong Q3 Earnings",
+        "zh_fact": "McCormick (MKC) 2026年第三季度财报显示，公司利润超出预期，主要得益于利润率的提升以及在墨西哥市场的增长。",
+        "en_fact": "McCormick (MKC) Q3 2026 earnings beat estimates, driven by margin gains and growth in the Mexican market.",
+        "zh_why": "利润率的扩张和战略性市场扩张是推动其财务表现优于预期的关键因素。",
+        "en_why": "Margin expansion and strategic market expansion were key factors in driving financial performance above expectations.",
+        "insight_zh": "食品巨头正通过优化运营效率和区域性并购来抵御市场波动。",
+        "insight_en": "Food giants are leveraging operational efficiency and regional acquisitions to hedge against market volatility.",
+        "zh_watch": "关注其后续在墨西哥市场的整合效果。",
+        "en_watch": "Monitor the integration progress in the Mexican market.",
+        "sources": [
+          {
+            "name": "The Globe and Mail",
+            "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPY3pseUczbDAtd0FHX0hwV2tsUUNJVktCbTljUXpxN2pfQ3RPMHVORDNYUnV3eGVFeW80WjFsVExPcVBvdDJSVmpHMGJYVE5nX1ZzcV9vbjNFeEVwdkhUZEhKVlZadkZuTF9xbEdlUi1ldEg1TEZ5NHZlT2xNRW1ySS1jY1VmbTIxZG82MDBUM3VsTXRQcUZHSWZVNWtrSk9yMk5aVWw2RmNLcVNNbDRZcXRMMjFxS2NqWHBqY3pYcjh2U1U?oc=5"
+          },
+          {
+            "name": "Proactive financial news",
+            "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNU0l1ODJRbnFkVE9wSnJGVmJyM2VvdVl4cmsyTDNfTUFQazZQUGtJM2dmd2l4Vl9DSC1aWklrQU9DcWRmN3RSbFc3VFl3U3BMT2dUX0pMXzlMYmRFd3ZQR2hla21ybURIQkxGMlk3ckxZbUhxbjREQ2JjdTBkVnVrWTRhYWF6ZUF5b3VsM0x1RVNnM2M0V0ZUaF92bGszZFdIb0p6ejVTQTZDWHZuMVFTenRQOU4xYnZNcG9rNlZEN2NFUkwweE9QaUlxRWpzVkp4Z19INTBaQmhtWUJfbTZUQg?oc=5"
+          }
+        ]
+      },
+      {
+        "zh_head": "烘焙品牌推出多样化新品",
+        "en_head": "Bakery Brands Launch Diverse New Products",
+        "zh_fact": "多家烘焙品牌近期推出了包括蛋糕、甜甜圈、饼干和羊角面包在内的新产品系列。",
+        "en_fact": "Various bakery brands have recently launched new product ranges including cakes, doughnuts, cookies, and croissants.",
+        "zh_why": "品牌通过不断更新产品组合来满足消费者对新鲜感和多样化口味的需求。",
+        "en_why": "Brands are continuously updating their product portfolios to meet consumer demand for novelty and diverse flavors.",
+        "insight_zh": "烘焙行业竞争激烈，产品创新是维持市场份额的核心驱动力。",
+        "insight_en": "The bakery industry is highly competitive, and product innovation is a core driver for maintaining market share.",
+        "zh_watch": "观察这些新品在零售渠道的销售表现。",
+        "en_watch": "Observe the sales performance of these new products in retail channels.",
+        "sources": [
+          {
+            "name": "British Baker",
+            "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNUVUxT2l0clJoTU9RcHU0RFFrVmtweXVWTjVoMUFEbW5IOW02VUpEWXQtblZmcTV5eXI4TjZlZUdmc1pDblZKRW5aZ1l5T0ZfOThrdTFtbnFXWFg2em5Rb2RiblBtNjYtV0lpRVlIMXZiTGR0alJBYkp0QTBnSkRxNkM2TWNjMjl5SVJ6Q0wzUTVvS1Y4S3RHNS1KTnR4Q3pVZXZzN3BmMEtDRGUyNHh0eFFNZVkxX3hjWjUwX1NQMFd5NGYyRmc?oc=5"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "date": "2026-10-01",
     "zh_summary": "今日零售与餐饮行业动态包括：韩国烘焙品牌Samlip在SIAL Paris 2026展示以拓展全球市场；CAVA任命John Ludeke为首席营销官；星巴克调整其气候承诺。",
     "en_summary": "Today's retail and F&B updates include: South Korean bakery brand Samlip showcasing at SIAL Paris 2026 for global expansion; CAVA appointing John Ludeke as CMO; and Starbucks rolling back climate commitments.",

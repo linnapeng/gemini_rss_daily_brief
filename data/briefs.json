@@ -1,5 +1,70 @@
 [
   {
+    "date": "2026-10-03",
+    "zh_summary": "今日简报涵盖了星巴克面临的财务挑战与营销动态、餐饮业的创新趋势以及零售业的扩张策略。",
+    "en_summary": "Today's brief covers financial and marketing developments at Starbucks, innovation trends in the food and beverage sector, and expansion strategies in retail.",
+    "items": [
+      {
+        "zh_head": "星巴克面临财务压力与退款危机",
+        "en_head": "Starbucks Faces Financial Pressure and Refund Crisis",
+        "zh_fact": "据报道，星巴克在两周内处理了760亿韩元的退款，导致公司损失180亿韩元。",
+        "en_fact": "Starbucks reportedly processed 76 billion won in refunds over two weeks, resulting in an 18 billion won loss for the company.",
+        "zh_why": "该事件反映了品牌在处理消费者需求和市场波动时面临的严峻挑战。",
+        "en_why": "This event highlights the severe challenges the brand faces in managing consumer demand and market volatility.",
+        "insight_zh": "品牌在进行病毒式营销和产品推广时，必须平衡运营能力与消费者预期，以防范财务风险。",
+        "insight_en": "Brands must balance operational capacity with consumer expectations when executing viral marketing and product promotions to mitigate financial risks.",
+        "zh_watch": "关注星巴克后续的品牌修复策略及市场反应。",
+        "en_watch": "Monitor Starbucks' subsequent brand recovery strategies and market response.",
+        "sources": [
+          {
+            "name": "아시아경제",
+            "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1ZZnNudHJEX0FsWG1PeDk0MU83V1I2TjY2WVk2dnk3WlRWWVpFRUU4N1RNbnpiMkIzREUyQXNYR05sNnpNeFE2M2pncDM0TVRNMUplQ1lta0EtWmZCNGtYXzJ1VUQ?oc=5"
+          }
+        ]
+      },
+      {
+        "zh_head": "咖啡行业创新趋势：纹理成为新焦点",
+        "en_head": "Coffee Industry Innovation: Texture Becomes a New Focus",
+        "zh_fact": "咖啡行业正通过引入不同的纹理体验来推动饮料创新，使产品更具趣味性。",
+        "en_fact": "The coffee industry is driving beverage innovation by introducing varied texture experiences to make products more playful.",
+        "zh_why": "消费者对感官体验的需求不断增长，促使品牌在口味之外寻求差异化。",
+        "en_why": "Growing consumer demand for sensory experiences is pushing brands to seek differentiation beyond just flavor.",
+        "insight_zh": "通过感官创新（如纹理）提升产品附加值是当前餐饮品牌吸引年轻消费者的重要手段。",
+        "insight_en": "Enhancing product value through sensory innovation, such as texture, is a key strategy for F&B brands to attract younger consumers.",
+        "zh_watch": "观察更多咖啡连锁店是否会跟进此类感官创新。",
+        "en_watch": "Observe whether more coffee chains will follow suit with similar sensory innovations.",
+        "sources": [
+          {
+            "name": "InsightTrendsWorld",
+            "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQQTZJejdqMlFXTzNid0ZkTFFCZWdzQ0Q0aGpPWFllVVpSNU9QbThyTXZ3WjlnTHFCaVVXNXU4dVg4LW9kM2xuTzg4bmFvTzA5cDlvR2ZrSXMxQ2N6NHNoeXpoX0VHYkI0UXVrcVFrcDFUOXhvbkhGQmxnM01WQU5ySEdHUEZ4NTkxNExPemRrdE9jWVF4dkNaWXJQTTlDYkU1ZUVQRjVhLTR6Y1lpbGhiR1V2d0ZSZzkwR1JZQ0E1Yw?oc=5"
+          }
+        ]
+      },
+      {
+        "zh_head": "Phillips Edison 扩大杂货零售合资项目",
+        "en_head": "Phillips Edison Expands Grocery-Anchored Venture",
+        "zh_fact": "Phillips Edison & Company 扩大了与 Northwestern Mutual 的合资合作，计划将年度收购规模提升至6亿至7亿美元。",
+        "en_fact": "Phillips Edison & Company has expanded its joint venture with Northwestern Mutual, planning to increase annual acquisitions to $600–700 million.",
+        "zh_why": "此举旨在通过增加杂货类零售资产的布局，增强公司的财务灵活性和市场份额。",
+        "en_why": "This move aims to strengthen the company's financial flexibility and market share by expanding its footprint in grocery-anchored retail assets.",
+        "insight_zh": "在零售业面临门店关闭潮的背景下，聚焦杂货类刚需资产仍是稳健的扩张策略。",
+        "insight_en": "Focusing on essential grocery-anchored assets remains a robust expansion strategy amidst the current wave of retail store closures.",
+        "zh_watch": "关注该合资项目在2026年后续的收购执行情况。",
+        "en_watch": "Monitor the execution of acquisitions for this joint venture throughout 2026.",
+        "sources": [
+          {
+            "name": "Globest",
+            "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMlpPWHp0R1V2OUlWODZCeWVYUHlUWjFBWHBhMEs0bnFUbXlvR3BNUXc2ZFZBbXRuZVMwOUQ4aHRXTlhXSDZWaEkxQ3FRbUlKc0lDSUxYSlRVc3E0ekU2dFRURDlzZWM2Ukp2aGFScUtVeDYxcGFIanJyWGwwQkg1Qlo3cWhaalZQY3BMV0x1LWNnVUFEOEhNTDhweGpZMk5xenh1aHhBMHhyaVVq?oc=5"
+          },
+          {
+            "name": "TradingView",
+            "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNdUpfbFVudWlVLU9NamJhU0F3MGMyUTZWdFRSaXhvUmE1eC1XcXN5NEVEZUR5anVrdnpicWxUTXpCMlBaXzlZNjNDOGN0UTZJOFptdHVPZ2kwWEhCR0dXbHFoSVVtcm1IMG9RZFJqSHdRelY2cUNpSzZ6V3dBRktycmNfdXNxbmZjNjA0REJmSlNQTE5DMEZ3WFZ2WVlWMkFPeHZ2M1NkandFTS1fakpXbDRlM0o3NjBmdUFJZWpEMGpGamxqSWM0NGVVNk9XYmJCbEhIY1UxTldZU1ZKSktUa0piVW1XSVhXeFpXSHRCLXV4UXl0X29UaWNqRkFRY0JET0k5cVJwNUlkQQ?oc=5"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "date": "2026-10-02",
     "zh_summary": "今日简报涵盖了星巴克的产品创新与品牌活动、McCormick的财务表现以及烘焙行业的最新产品发布。",
     "en_summary": "Today's brief covers product innovation and brand events at Starbucks, financial performance for McCormick, and new product launches in the bakery sector.",

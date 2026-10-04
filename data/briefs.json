@@ -1,5 +1,66 @@
 [
   {
+    "date": "2026-10-04",
+    "zh_summary": "今日简报涵盖了食品饮料行业的并购动态、发酵食品的市场增长趋势以及有机冷萃咖啡的消费需求分析。",
+    "en_summary": "Today's brief covers M&A activity in the food and beverage sector, market growth trends for fermented foods, and consumer demand analysis for organic cold brew coffee.",
+    "items": [
+      {
+        "zh_head": "荷美尔食品以10.5亿美元收购Brakebush Brothers",
+        "en_head": "Hormel Foods to acquire Brakebush Brothers for US$1.05B",
+        "zh_fact": "荷美尔食品公司宣布以10.5亿美元的价格收购Brakebush Brothers。",
+        "en_fact": "Hormel Foods has announced the acquisition of Brakebush Brothers for US$1.05 billion.",
+        "zh_why": "此举旨在通过收购扩大荷美尔在食品加工领域的业务版图。",
+        "en_why": "The acquisition is intended to expand Hormel's footprint in the food processing sector.",
+        "insight_zh": "大型食品企业持续通过战略并购整合供应链，以增强市场竞争力。",
+        "insight_en": "Large food companies continue to consolidate supply chains through strategic M&A to enhance market competitiveness.",
+        "zh_watch": "关注该收购案对荷美尔后续产品线及市场份额的影响。",
+        "en_watch": "Monitor the impact of this acquisition on Hormel's subsequent product lines and market share.",
+        "sources": [
+          {
+            "name": "Food Business Middle East & Africa",
+            "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVDk2OS1MQ0FOM3NZbWdSRmE2ZFZmVGc3U3ZjZGFWcmJaRk8zV0g5ZnhRX2sycGNYZnRYeklPZkVzY194dEc4SUR5SHNYUGpLVl94YUtoZVBaeFZLQVRmYjJpVXczakQ1aGJQdE5kRmItT1RGQ2VUX3lZYnVlZ1VOR24zaHd3TS1MVTBMemhza3Y?oc=5"
+          }
+        ]
+      },
+      {
+        "zh_head": "发酵食品与饮料市场受肠道健康需求驱动加速增长",
+        "en_head": "Fermented Foods and Beverages Market to Accelerate on Gut-Health Demand",
+        "zh_fact": "预测显示，受消费者对肠道健康关注度的提升，发酵食品和饮料市场将持续增长至2035年。",
+        "en_fact": "Forecasts indicate that the fermented foods and beverages market will continue to grow through 2035, driven by rising consumer interest in gut health.",
+        "zh_why": "健康意识的增强是推动该品类市场扩张的核心动力。",
+        "en_why": "Increased health consciousness is the core driver for the expansion of this category.",
+        "insight_zh": "功能性食品正逐渐从利基市场走向主流，健康属性成为产品创新的关键。",
+        "insight_en": "Functional foods are moving from niche to mainstream, with health attributes becoming key to product innovation.",
+        "zh_watch": "观察发酵类产品在不同零售渠道的渗透率变化。",
+        "en_watch": "Observe changes in the penetration rate of fermented products across different retail channels.",
+        "sources": [
+          {
+            "name": "IndexBox",
+            "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPSE1Bd3RxMzVmcnY1em1WMWplb3JlYnNNMnRwZkpEekRfLWZfVFd1ZGZPVFNOV2JDV044Ry1POGE1U0xxWVhiQ2V6NGVhUkpaek9zWkxJU0VweG5Udmp0NHV2c3V2ZzdockE4MDFiYjZ6Vm1wTGdSUTJ2RkVyZ2lHYlhSRXpHdEZXOVJodE1NYmttSDZHWnRDbGZGV1VKOUs5aE9XY0VBWHFPMEdSZEtQY3J1bWlHVVlWTVJNN2xMaThGX2p4eHVjR1NQdmk1Wjc4bFE?oc=5"
+          }
+        ]
+      },
+      {
+        "zh_head": "有机冷萃咖啡市场因高端化与便利性需求而增长",
+        "en_head": "Organic Cold Brew Coffee Market Driven by Premiumization and Convenience",
+        "zh_fact": "到2035年，有机冷萃咖啡市场预计将因消费者对高端品质和便捷饮用体验的需求而持续增长。",
+        "en_fact": "The organic cold brew coffee market is projected to grow through 2035, driven by consumer demand for premium quality and convenient consumption experiences.",
+        "zh_why": "消费者对高品质咖啡的追求以及对即饮产品的偏好推动了该市场的扩张。",
+        "en_why": "The consumer pursuit of high-quality coffee and preference for ready-to-drink products are driving market expansion.",
+        "insight_zh": "咖啡消费的高端化趋势显著，即饮（RTD）形式进一步降低了消费门槛。",
+        "insight_en": "The premiumization trend in coffee consumption is significant, and the ready-to-drink (RTD) format further lowers the barrier to entry for consumers.",
+        "zh_watch": "关注有机认证在咖啡品牌差异化竞争中的作用。",
+        "en_watch": "Monitor the role of organic certification in the differentiation of coffee brands.",
+        "sources": [
+          {
+            "name": "IndexBox",
+            "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNRTlIa09IOHZaYXplQi1NNjFOR2pnM0RlT3FpeHJmd05iSDk4aFV0b0ZDdlJhRlZEMlQ4YnlURDJ4TFZWNkpVaFRiMC1iRFhHSUdWSDcteEkxR3JjUWc1XzhJSUhOWTZ2OG1oOWc2XzlVNzlDbXR0Rnc3VGhqRnc3ZmVvVGhrdldfd3VQQU00U1E2RUdwQlR3dTJoeWRhTjBZWUVzWF9YczZEWUxLVVVlM2lTdGVjMnRiMFV0NUhVUQ?oc=5"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "date": "2026-10-03",
     "zh_summary": "今日简报涵盖了星巴克面临的财务挑战与营销动态、餐饮业的创新趋势以及零售业的扩张策略。",
     "en_summary": "Today's brief covers financial and marketing developments at Starbucks, innovation trends in the food and beverage sector, and expansion strategies in retail.",

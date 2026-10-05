@@ -1,5 +1,74 @@
 [
   {
+    "date": "2026-10-05",
+    "zh_summary": "今日简报涵盖了零售扩张、咖啡市场趋势以及烘焙行业的增长策略。",
+    "en_summary": "Today's brief covers retail expansion, coffee market trends, and growth strategies in the bakery sector.",
+    "items": [
+      {
+        "zh_head": "Nykaa零售网络扩张至338家门店",
+        "en_head": "Nykaa expands retail network to 338 stores",
+        "zh_fact": "Nykaa在2027财年第二季度保持强劲增长，其零售网络已扩展至338家门店，商品交易总额（GMV）增长处于30%左右的水平，净收入同比增长29%。",
+        "en_fact": "Nykaa maintained strong growth in Q2 FY27, expanding its retail network to 338 stores, with GMV growth in the low 30s and net revenue up 29% year-on-year.",
+        "zh_why": "该数据反映了美妆零售商在实体渠道布局与线上增长方面的持续投入。",
+        "en_why": "The data reflects the retailer's continued investment in physical channel presence alongside online growth.",
+        "insight_zh": "全渠道零售模式仍是美妆品牌提升市场份额的关键驱动力。",
+        "insight_en": "Omnichannel retail remains a key driver for beauty brands to capture market share.",
+        "zh_watch": "关注其后续季度在二三线城市的门店渗透率。",
+        "en_watch": "Monitor its store penetration in tier-2 and tier-3 cities in upcoming quarters.",
+        "sources": [
+          {
+            "name": "storyboard18.com",
+            "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQcnZKc2ZucEV2QnZ3XzFtQ2U4RkFCYl96eXdRUlhfN1VMVjJnRG1BWDhlRER5bHJQRzdtQmhmY3AxNHc0em5kdkJEVm9tSXVaSERZUF9abnQ2NzZ2UXVoR3FmY2tyc2JvNTRQalVWakpQSDNQd2EzandRS0hWTWd0VHp2SUdzVzV2cnRyOS1xdFZJRTdKRFFUdFVLZjEzazJ2WlY5cWdzQnNERklDRnFIYzdQbU5Jay1NR2NqeG1Ob1g2V3BGNWRLTEtpQkctRDN4Y3fSAdIBQVVfeXFMUHJ2SnNmbnBFdkJ2d18xbUNlOEZBQmJfenl3UVJYXzdVTFYyZ0RtQVg4ZUREeWxyUEc3bUJoZmNwMTR3NHpuZHZCRFZvbUl1WkhEWVBfWm50Njc2dlF1aEdxZmNrcnNibzU0UGpVVmpKUEgzUHdhM2p3UUtIVk1ndFR6dklHc1c1dnJ0cjktcXRWSUU3SkRRVHRVS2YxM2sydlpWOXFnc0JzREZJQ0ZxSGM3UG1OSWstTUdjanhtTm9YNldwRjVkS0xLaUJHLUQzeGN3?oc=5"
+          },
+          {
+            "name": "scanx.trade",
+            "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOV0xxYUNxSHdFNmpSTks2cWQ0cTk3M291SFVoQzUtQi02TEdNMEg4eXBRSXBMdml0MWdJeEtpTFNxdkx2ZnlrU2hqekNBY3l3ZDlJazdpMEdIazdnaXVlSEd3eDZMc0Y1LWQ3V0dlc3JSTVpoYmhCQ0lseHNEUGNTeEc5V2otM2tSSnNReHRCWEsyVGFQalZpMU9keXJzaWpBcUZzcVNtVDRlc05ORDFuNjFORmJaNTA?oc=5"
+          }
+        ]
+      },
+      {
+        "zh_head": "希腊咖啡市场展现韧性",
+        "en_head": "Greek coffee market proves resilient",
+        "zh_fact": "尽管面临多变的消费者趋势，希腊咖啡市场仍表现出较强的韧性，创新成为推动冰咖啡增长的核心动力。",
+        "en_fact": "Despite shifting consumer trends, the Greek coffee market has demonstrated resilience, with innovation serving as a core driver for iced coffee growth.",
+        "zh_why": "消费者对咖啡产品的需求持续演变，迫使市场通过产品创新来维持增长。",
+        "en_why": "Evolving consumer demand for coffee products is forcing the market to rely on product innovation to sustain growth.",
+        "insight_zh": "产品功能化与口味创新是成熟咖啡市场保持活力的关键。",
+        "insight_en": "Functional product offerings and flavor innovation are key to maintaining vitality in mature coffee markets.",
+        "zh_watch": "观察冰咖啡细分领域在非夏季月份的销售表现。",
+        "en_watch": "Observe sales performance of the iced coffee segment during non-summer months.",
+        "sources": [
+          {
+            "name": "Greek City Times",
+            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSE9qeFNCa2pZRDVYQWJBQjNoOS13UGNmR3VHeXJwZ3JZUWF6VTVhMndITmlQallBOVQ0dVBhOGM4V21XekNxTkgzTll2Z3pPT0RXenp3a1ZhQ1U2d3IyVi1iR25zYU5ndXhYWkw2bnJKZmpaVURxMU8xTy13UHR1LXlhMFNLMGtNdWY0S3NDQ29CemltYjBkWTdRMl8?oc=5"
+          },
+          {
+            "name": "Grocery Trader",
+            "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNU3hnSVcteFdnOXg2LXFVWFhrc2NMUXpIeWVNbndQVXBySnVIcXRrc2IyR01WQS1nbHduLXp0emZRYWpBMnE2dGk3MGpEc2Q2cEUxeWQxUXlWNExMUV9jVjRXdVJNU1ZCbGRTWnpBVVF4S2R6UHdDUUIzREhrRlMwd1hZOTVEUQ?oc=5"
+          }
+        ]
+      },
+      {
+        "zh_head": "高端化定位驱动烘焙行业增长",
+        "en_head": "Premium positioning drives bakery growth",
+        "zh_fact": "行业分析指出，高端化定位是当前烘焙市场实现增长的关键策略，品牌通过提升产品品质与定位来吸引消费者。",
+        "en_fact": "Industry analysis indicates that premium positioning is a key strategy for current bakery market growth, with brands leveraging product quality and positioning to attract consumers.",
+        "zh_why": "消费者对烘焙食品的品质要求日益提高，促使品牌向高端化转型。",
+        "en_why": "Increasing consumer demand for quality in bakery products is driving brands toward premiumization.",
+        "insight_zh": "在竞争激烈的烘焙市场，差异化的高端产品能有效提升品牌溢价能力。",
+        "insight_en": "In a competitive bakery market, differentiated premium products can effectively enhance brand pricing power.",
+        "zh_watch": "关注高端烘焙品牌在渠道扩张中的表现。",
+        "en_watch": "Monitor the performance of premium bakery brands in channel expansion.",
+        "sources": [
+          {
+            "name": "Grocery Trader",
+            "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQQzNlUm5CSWk3MG5vUnhTZ3hGSmp5TnRjTHk4REZTM2xVcnRlNTdxZzJlb1Zfa2FhUUQxdzFJQ1V4dGh1R2NIZUx3TzZmRzdsaWpDc1g5QTFtRXpoQml1M1VVQXJpRFRDVzRncW1ZTFM1SEFOTXI3RWoyb0ZXSWhwakFpUW50dw?oc=5"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "date": "2026-10-04",
     "zh_summary": "今日简报涵盖了食品饮料行业的并购动态、发酵食品的市场增长趋势以及有机冷萃咖啡的消费需求分析。",
     "en_summary": "Today's brief covers M&A activity in the food and beverage sector, market growth trends for fermented foods, and consumer demand analysis for organic cold brew coffee.",

@@ -1,5 +1,66 @@
 [
   {
+    "date": "2026-10-06",
+    "zh_summary": "今日简报涵盖了咖啡连锁店的经营动态、食品饮料行业的创新趋势以及零售品牌的扩张策略。",
+    "en_summary": "Today's brief covers operational updates in coffee chains, innovation trends in the food and beverage industry, and expansion strategies for retail brands.",
+    "items": [
+      {
+        "zh_head": "Costa咖啡恢复营业利润，销售额突破12.9亿英镑",
+        "en_head": "Costa returns to operating profit as sales top £1.29bn",
+        "zh_fact": "Costa Coffee已恢复营业利润，年销售额超过12.9亿英镑。",
+        "en_fact": "Costa Coffee has returned to operating profit, with annual sales exceeding £1.29 billion.",
+        "zh_why": "该数据反映了Costa在经历市场调整后的财务复苏。",
+        "en_why": "This figure reflects the financial recovery of Costa following market adjustments.",
+        "insight_zh": "咖啡连锁品牌正通过优化运营效率和调整市场策略来应对成本压力。",
+        "insight_en": "Coffee chains are navigating cost pressures by optimizing operational efficiency and adjusting market strategies.",
+        "zh_watch": "关注咖啡连锁品牌在不同市场的盈利能力表现。",
+        "en_watch": "Monitor the profitability performance of coffee chains across different markets.",
+        "sources": [
+          {
+            "name": "MCA Insight",
+            "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWTBJWnRMT256UzN2OUFyT3BOa3I2Q2d1eUkwWjFIR2xFMV9NQ0g0aS1CQW44eEtMQ3lTUWcwei0zQjE0Nng3LWxlNDB4UHlDT0c1MmY2Y2l6czU0QUJnZjVWQ1ZLMW1xVlpKVHhFWHFQeklSWVBHRC1tLTFMcUhHUFY5WENHb1BZeWQtckJITHYtaG9xN3dkSktGbVFBMGE1dUowR3NOeUNwb052?oc=5"
+          }
+        ]
+      },
+      {
+        "zh_head": "Puratos在新泽西州推出高蛋白烘焙预拌粉",
+        "en_head": "Puratos launches high-protein bakery mixes in NJ",
+        "zh_fact": "烘焙原料供应商Puratos在新泽西州推出了高蛋白烘焙预拌粉产品。",
+        "en_fact": "Bakery ingredient supplier Puratos has launched high-protein bakery mixes in New Jersey.",
+        "zh_why": "此举旨在满足消费者对功能性食品和健康烘焙选择日益增长的需求。",
+        "en_why": "This move aims to meet the growing consumer demand for functional foods and healthier bakery options.",
+        "insight_zh": "烘焙行业正通过功能性配方创新来提升产品附加值。",
+        "insight_en": "The bakery industry is increasing product value through functional ingredient innovation.",
+        "zh_watch": "观察功能性烘焙产品在零售渠道的渗透率。",
+        "en_watch": "Observe the penetration rate of functional bakery products in retail channels.",
+        "sources": [
+          {
+            "name": "NJBIZ",
+            "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBOVnhlU0NyampTTG5tNXZ4MGpaOE1TRVFIVWZCa3hhdGc5cm9hMTZhcWFyanF5NzJUbXgyU1ZpSS1RUklNX1VhOU5yNGk3S2xqdURXMTNuOFNNaGVOQVJ3V2hDbGdqZw?oc=5"
+          }
+        ]
+      },
+      {
+        "zh_head": "玛莎百货（M&S）开设新食品大厅并确认更多选址",
+        "en_head": "Marks and Spencer opens new food hall with 2 more locations confirmed",
+        "zh_fact": "玛莎百货近期开设了一家新的食品大厅，并已确认另外两个地点的开店计划。",
+        "en_fact": "Marks and Spencer has recently opened a new food hall and confirmed plans for two additional locations.",
+        "zh_why": "这是玛莎百货持续扩大其食品零售业务版图的一部分。",
+        "en_why": "This is part of Marks and Spencer's ongoing expansion of its food retail footprint.",
+        "insight_zh": "零售商正通过增加食品专卖店密度来增强市场竞争力。",
+        "insight_en": "Retailers are enhancing market competitiveness by increasing the density of food-focused stores.",
+        "zh_watch": "关注零售商在食品板块的扩张速度与选址策略。",
+        "en_watch": "Monitor the expansion speed and site selection strategy of retailers in the food sector.",
+        "sources": [
+          {
+            "name": "The Mirror",
+            "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTnJRR2hEZ1ZOUDlBbTBva2RrN1pZenQzSEU3X2gzWXRlbTEtczRaNG92SzFPMWgtZkdXVEE3MzE4VU9seGxRUTFUQUE1N2t0OGM0R01CYVBqYnlPc2prd0RNbWFPcG15TWgxYS1OVVJGb1p5TUZqWl9SMEliMHI2US15QktxMWpoSHJmZkI0MHnSAZABQVVfeXFMTU5yUUdoRGdWTlA5QW0wb2tkazdaWXp0M0hFN19oM1l0ZW0xLXM0WjRvdksxTzFoLWZHV1RBNzMxOFVPbHhsUVExVEFBNTdrdDhjNEdNQmFQamJ5T3Nqa3dETW1hT3BteU1oMWEtTlVSRm9aeU1GalpfUjBJYjByNlEteUJLcTFqaEhyZmZCNDB5?oc=5"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "date": "2026-10-05",
     "zh_summary": "今日简报涵盖了零售扩张、咖啡市场趋势以及烘焙行业的增长策略。",
     "en_summary": "Today's brief covers retail expansion, coffee market trends, and growth strategies in the bakery sector.",

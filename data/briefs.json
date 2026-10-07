@@ -1,5 +1,70 @@
 [
   {
+    "date": "2026-10-07",
+    "zh_summary": "今日零售与餐饮行业动态：中国咖啡巨头转向盈利与高端化体验；星巴克在丹东开设新店，同时面临关于蛋白质饮料“无糖”声明的诉讼；阿联酋消费者调查显示72%的受访者愿意为高质量产品支付更高价格。",
+    "en_summary": "Retail and F&B industry updates today: China's coffee giants are shifting toward profitability and premium experiences; Starbucks has opened a new location in Dandong while facing a lawsuit over 'sugar-free' claims for its protein beverages; a consumer survey in the UAE reveals that 72% of shoppers are willing to pay more for quality.",
+    "items": [
+      {
+        "zh_head": "中国咖啡巨头战略转型",
+        "en_head": "China's coffee giants pivot strategy",
+        "zh_fact": "中国咖啡行业的主要参与者正从过去激进的扩张模式，转向追求盈利能力和提供高端化消费体验。",
+        "en_fact": "Major players in China's coffee industry are shifting from aggressive expansion models toward prioritizing profitability and premium consumer experiences.",
+        "zh_why": "市场竞争加剧促使企业重新评估增长策略，以实现可持续的财务表现。",
+        "en_why": "Increased market competition is forcing companies to re-evaluate growth strategies to achieve sustainable financial performance.",
+        "insight_zh": "咖啡连锁品牌正从“规模优先”转向“质量与利润优先”，反映了中国消费市场趋于成熟。",
+        "insight_en": "Coffee chains are shifting from 'scale-first' to 'quality and profit-first,' reflecting the maturation of the Chinese consumer market.",
+        "zh_watch": "后续各品牌在高端化产品线上的投入力度。",
+        "en_watch": "Monitor future investments in premium product lines by major brands.",
+        "sources": [
+          {
+            "name": "Asia News Network",
+            "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOT1QwNHpPRGtGaWRSMzdVcFpVT3hmVUc5VVlSYzI3TjNwT0EzM0NfSWxXcmpZY21RdENNcHlQT0pCRnFXZTBSMjMzWWlrR2JoVjR2OGxuSzh5aURnbkRPNUJrOFZIdDMzS0w0S0lfVlcxR2IxUmtFdUJIeGFBZzd4VVdxNWZTTkdBNTlNM29vdF9YS0hKdGpqMkpZS2xUbFoyNXA2YWswWWNmaVdvdlZfU1k3dzhsOG1Ta3Mw?oc=5"
+          }
+        ]
+      },
+      {
+        "zh_head": "星巴克面临法律挑战与扩张并存",
+        "en_head": "Starbucks faces legal challenges alongside expansion",
+        "zh_fact": "星巴克在丹东开设了新店，但同时因其蛋白质饮料的“无糖”声明而面临法律诉讼。",
+        "en_fact": "Starbucks has opened a new store in Dandong, while simultaneously facing a lawsuit regarding 'sugar-free' claims on its protein beverages.",
+        "zh_why": "法律诉讼源于消费者对产品标签准确性的质疑，而新店扩张则是其全球布局的一部分。",
+        "en_why": "The lawsuit stems from consumer concerns over product labeling accuracy, while the store expansion is part of its global footprint strategy.",
+        "insight_zh": "",
+        "insight_en": "",
+        "zh_watch": "诉讼案件的进展及其对品牌声誉的影响。",
+        "en_watch": "Monitor the progress of the lawsuit and its potential impact on brand reputation.",
+        "sources": [
+          {
+            "name": "Seoul Economic Daily",
+            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOS0RuYVRYcWttZlR0MjZjNl9pUXZkam8ybU1uOWhhVlphTENneXdRX2pRWVFRcGRhbXV0UHFGTlp0d2ZrMTRwaUlKdzlHbmoyRlh4OS1WY01zZWY5S3o2d2NOUGFkTkUwaFYya0RhbzQxMUxaMTVXSGdZekQtTVdqdXVrcnhNQjFBZGlkUWZ1R3Fvb1RBUTl1S3RXZnVxTjVZQ3g4MTNaQjM?oc=5"
+          },
+          {
+            "name": "ET BrandEquity",
+            "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNRDROV3k2ZE9iOExSdFdCZHFvSGZyTlplLUc1TC1hSXRMc2t6dF9sMnhZUmV1ZWFuaW8xQXctR0pBczM5LUNSbC1nSVIyby1HWk44UE1BZzEzMEp3S2ZpTkpoNG9VYS1EUzJrSW9temRodHJjdXdMaHZwYnR5VHB2akpxSWt4UzdsS3NCVHR0c2JKdXo4cmY3Uk5lRUxhT3BMTnNOSGs2NWtsdDFIS01zSXp5bHA4R0t6Sl9IRzNmQzFOdldIcFhHMzZfMlM4X2VoYUIwVnV2N0xad9IB3wFBVV95cUxQY2NOSHBRMEUyV05BLU1EYzNibndjRkJVY2Y1UTNDUG1yQ1hEbldXNE1abzdwQVcxa0JMam5jR0lFeDAxeXN3OUdGNzFWVWVGNk1rQVhEWnFUa1RPNXUyT1BlQ0tzU2ZRSkZPb0xoODFoQU5BeHc5ZnJPbF9SdzJMVnJYRnhtckozZnoxX0JEazdJemtrMjBjRUZwdmxKRi0zM3NHMDlEU1d4RlVyRGl3aW51Wmh4bU5IZ3VWMURQMm1iUERwaTExOFc5ZWlLSnJpOHh3ZjZsUVFtQjc5cTlv?oc=5"
+          }
+        ]
+      },
+      {
+        "zh_head": "阿联酋消费者质量偏好调查",
+        "en_head": "UAE consumer quality preference survey",
+        "zh_fact": "根据NIQ的调查，72%的阿联酋消费者表示愿意为高质量的产品支付更高的价格。",
+        "en_fact": "According to a survey by NIQ, 72% of consumers in the UAE are willing to pay more for high-quality products.",
+        "zh_why": "该数据反映了阿联酋市场消费升级的趋势，消费者对产品品质的重视程度日益提升。",
+        "en_why": "This data reflects a trend of consumption upgrading in the UAE market, with consumers placing increasing importance on product quality.",
+        "insight_zh": "",
+        "insight_en": "",
+        "zh_watch": "零售商是否会通过调整产品组合来响应这一消费趋势。",
+        "en_watch": "Monitor whether retailers will adjust their product portfolios to respond to this consumer trend.",
+        "sources": [
+          {
+            "name": "Khaleej Times",
+            "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPY3ZCUmZXRnl1RGhmYkY4QUpPUDhCMnVnMDFuWjFSQmcxcDlYeWI5MzlmY2o5YzY3aU5nRkoyZmtIdk5fYzJZcjlZZGNRWlh2Tk1nRTJ1ZFlGNmdxUWt4Zl9zX2U1eFFtbkVIbXFsY2hwNHVod0RLbDJ1eGExTl9pc2x1X2xjSFNONDY4ODRTSHNobkVJejRBV3VyWVpGeThTMXl5bmlzONIBpwFBVV95cUxPY3ZCUmZXRnl1RGhmYkY4QUpPUDhCMnVnMDFuWjFSQmcxcDlYeWI5MzlmY2o5YzY3aU5nRkoyZmtIdk5fYzJZcjlZZGNRWlh2Tk1nRTJ1ZFlGNmdxUWt4Zl9zX2U1eFFtbkVIbXFsY2hwNHVod0RLbDJ1eGExTl9pc2x1X2xjSFNONDY4ODRTSHNobkVJejRBV3VyWVpGeThTMXl5bmlzOA?oc=5"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "date": "2026-10-06",
     "zh_summary": "今日简报涵盖了咖啡连锁店的经营动态、食品饮料行业的创新趋势以及零售品牌的扩张策略。",
     "en_summary": "Today's brief covers operational updates in coffee chains, innovation trends in the food and beverage industry, and expansion strategies for retail brands.",

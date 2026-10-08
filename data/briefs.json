@@ -1,5 +1,70 @@
 [
   {
+    "date": "2026-10-08",
+    "zh_summary": "今日零售与餐饮行业动态聚焦于数字化转型、品牌战略调整及季节性产品创新。人工智能正在重塑食品消费与购买决策，同时星巴克等品牌在面临运营挑战的同时持续进行季节性营销。",
+    "en_summary": "Today's retail and F&B industry updates focus on digital transformation, brand strategic shifts, and seasonal product innovation. Artificial intelligence is reshaping food consumption and purchasing decisions, while brands like Starbucks continue seasonal marketing amidst ongoing operational challenges.",
+    "items": [
+      {
+        "zh_head": "人工智能正在重塑食品消费与零售体验",
+        "en_head": "AI is reshaping food consumption and retail experiences",
+        "zh_fact": "Mars与Conagra的研究指出，人工智能正在改变消费者发现、选择及购买食品的方式，并对零售业的未来产生深远影响。",
+        "en_fact": "Research from Mars and Conagra indicates that AI is changing how consumers discover, select, and purchase food, with significant implications for the future of retail.",
+        "zh_why": "企业正利用AI技术优化消费者决策路径，以适应不断变化的购物习惯。",
+        "en_why": "Companies are leveraging AI technology to optimize consumer decision paths to adapt to evolving shopping habits.",
+        "insight_zh": "",
+        "insight_en": "",
+        "zh_watch": "关注AI在食品供应链及个性化营销中的进一步应用。",
+        "en_watch": "Watch for further applications of AI in food supply chains and personalized marketing.",
+        "sources": [
+          {
+            "name": "Food & Beverage Outlook",
+            "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORFF6Y1hnT192WmdKelR0ZW5lMFVSZldITjBIQW9ac2NsdFd6UV9ZTGlLbDYtalp4VlNZeUFpd05vYjlzdHVZTnUzVkZRTHZvcjFCcEFjMnhoSHYzOWtLMy1xR0hXMVZUcHpIMGR6eVVXb3lvcnhWMGVzejY1YUQwcU03OTlEd01ZemU2UDJKXzJSU3ZDZDdNS1ZLZlFSOWZIbWJDUVEzYTRYRnJNaGVKNTZLZTE3ZHEzQkE?oc=5"
+          },
+          {
+            "name": "Inside FMCG",
+            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaUlqak4yWDdBMVhiejZYTWFJOGh2MUhiMlpaZDlzclE2eFpMUHFZQ2ZfWFVqTXpuN293ems2ei1LYUNSakxIeW9EUV9yUzU2aGZseE1QRW1hdERDWS0xY28tVDRzc0JrYlRCZzdueWp2NXlFUk9JMG43R0hMNFA4ZFhiN0NOSmNUdXJJQzJqZ1kyQ1NoWUlfWg?oc=5"
+          }
+        ]
+      },
+      {
+        "zh_head": "星巴克日本推出万圣节限定菜单",
+        "en_head": "Starbucks Japan unveils Halloween menu",
+        "zh_fact": "星巴克日本市场已正式发布其万圣节主题菜单，作为其季节性产品创新的一部分。",
+        "en_fact": "Starbucks Japan has officially released its Halloween-themed menu as part of its seasonal product innovation.",
+        "zh_why": "餐饮连锁品牌通过节日限定产品来提升门店客流量并增强消费者参与度。",
+        "en_why": "F&B chains use holiday-limited products to drive store traffic and increase consumer engagement.",
+        "insight_zh": "",
+        "insight_en": "",
+        "zh_watch": "观察此类季节性营销活动对第四季度销售额的贡献。",
+        "en_watch": "Observe the contribution of such seasonal marketing campaigns to Q4 sales.",
+        "sources": [
+          {
+            "name": "QSR Media Asia",
+            "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNaWh4X25yaVlEc01xM3dOV1U4YlViNF80OG5BT3d5WnBWX3ZfY2ctRHQ4OFlqRm9nQjE4TEhmMW9VRGgySEoza0NpUTc4RUYxZndzTnpZbXlOTVZIbGthXzNWNlI3WGhHTGFaLXpMT0hncXFteFFQNEl5MzVLQTU4aVNqOEg3YjZUdWc?oc=5"
+          }
+        ]
+      },
+      {
+        "zh_head": "安踏完成对Puma 29%股份的收购",
+        "en_head": "Anta completes acquisition of 29% stake in Puma",
+        "zh_fact": "安踏已完成对Puma 29%股份的收购，交易金额为15亿欧元，丁世忠首次阐述了多品牌战略逻辑。",
+        "en_fact": "Anta has completed the acquisition of a 29% stake in Puma for €1.5 billion, with Ding Shizhong discussing the logic of their multi-brand strategy for the first time.",
+        "zh_why": "此举标志着安踏进一步强化其全球多品牌布局，以提升在国际零售市场的竞争力。",
+        "en_why": "This move marks a further strengthening of Anta's global multi-brand portfolio to enhance competitiveness in the international retail market.",
+        "insight_zh": "",
+        "insight_en": "",
+        "zh_watch": "关注安踏后续如何整合Puma资源及其对品牌运营的影响。",
+        "en_watch": "Watch for how Anta integrates Puma resources and the impact on brand operations.",
+        "sources": [
+          {
+            "name": "BigGo Finance",
+            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE50NEYyNHQyYVoydXI1Q24zTHU5Yk15RXhaZUM3MFk4dm1RM1RYcVRTTldNMkxqUUNObTMyaGs3Yk9kNmpUbEhydzhOUk5CUzVaZTJGRnZSd2xZSHg2cU5mV1JEOTlMYzQwQTJ3a0FGQnhaSXJBTmc?oc=5"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "date": "2026-10-07",
     "zh_summary": "今日零售与餐饮行业动态：中国咖啡巨头转向盈利与高端化体验；星巴克在丹东开设新店，同时面临关于蛋白质饮料“无糖”声明的诉讼；阿联酋消费者调查显示72%的受访者愿意为高质量产品支付更高价格。",
     "en_summary": "Retail and F&B industry updates today: China's coffee giants are shifting toward profitability and premium experiences; Starbucks has opened a new location in Dandong while facing a lawsuit over 'sugar-free' claims for its protein beverages; a consumer survey in the UAE reveals that 72% of shoppers are willing to pay more for quality.",

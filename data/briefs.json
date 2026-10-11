@@ -1,5 +1,66 @@
 [
   {
+    "date": "2026-10-11",
+    "zh_summary": "今日简报涵盖了食品饮料行业的创新趋势、零售业的增长动态以及消费品行业的成本压力。",
+    "en_summary": "Today's brief covers innovation trends in the food and beverage sector, growth dynamics in retail, and cost pressures within the consumer goods industry.",
+    "items": [
+      {
+        "zh_head": "Cremo 将“盐面包”热潮转化为冰淇淋体验",
+        "en_head": "Cremo turns Shio Pan craze into an indulgent ice cream experience",
+        "zh_fact": "Cremo 推出了以“盐面包”（Shio Pan）为灵感的冰淇淋产品，旨在利用这一烘焙流行趋势吸引消费者。",
+        "en_fact": "Cremo has launched an ice cream product inspired by the 'Shio Pan' (salt bread) trend, aiming to leverage this bakery craze to attract consumers.",
+        "zh_why": "品牌通过将流行的烘焙口味与冰淇淋结合，寻求在竞争激烈的甜点市场中实现差异化。",
+        "en_why": "The brand seeks to differentiate itself in the competitive dessert market by combining a popular bakery flavor with ice cream.",
+        "insight_zh": "食品品牌正通过跨品类创新，将社交媒体上的烘焙热点转化为即食产品，以提升市场吸引力。",
+        "insight_en": "Food brands are leveraging cross-category innovation to turn social media bakery trends into ready-to-eat products to enhance market appeal.",
+        "zh_watch": "关注此类跨品类创新是否能持续带动销售增长。",
+        "en_watch": "Monitor whether such cross-category innovations can sustainably drive sales growth.",
+        "sources": [
+          {
+            "name": "Mini Me Insights",
+            "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZmFQR0RNdjh3TzN0c1lLWC1tZHk1TGZvalkxZWUxOEhiV3NrQ0JsTVdCR0JEWnRzUHJQZFAxTFk0TEd2b21TZE1GRkZDSGF0dVY5VVo2YmxGTGRWVEpDTDZTZG5qR2JvZFlGdUoxLU41dDJlMk1xVHR3TzNueGNxekg5cFlmUFBCQWQ4a0VFVUl3T2Q0aHBDeE1ybWxzNnpYSXhGSE1ZcUpXclZF?oc=5"
+          }
+        ]
+      },
+      {
+        "zh_head": "快速消费品行业面临第二季度利润率挤压",
+        "en_head": "Rising Input Costs Squeeze FMCG Margins in Q2",
+        "zh_fact": "报告显示，第二季度投入成本的上升对快速消费品（FMCG）行业的利润率造成了压力。",
+        "en_fact": "Reports indicate that rising input costs have exerted pressure on profit margins within the Fast-Moving Consumer Goods (FMCG) sector during the second quarter.",
+        "zh_why": "原材料和运营成本的增加直接影响了企业的盈利能力，迫使企业重新评估定价策略。",
+        "en_why": "Increased raw material and operational costs have directly impacted corporate profitability, forcing firms to re-evaluate pricing strategies.",
+        "insight_zh": "在成本上升的环境下，消费品公司可能面临提价与市场份额流失之间的艰难平衡。",
+        "insight_en": "In an environment of rising costs, consumer goods companies may face a difficult balance between raising prices and losing market share.",
+        "zh_watch": "观察企业是否会通过优化供应链或调整产品组合来应对利润压力。",
+        "en_watch": "Observe whether companies will address margin pressure through supply chain optimization or product mix adjustments.",
+        "sources": [
+          {
+            "name": "Rediff MoneyWiz",
+            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPaGhKOWZPT00zaUE0aFNRNEZqR190OVlUVDNyS05wb1ZBZ0hXWGJvRzNJX3RmdFFnZWVjZUFlQktROFh0akRKR1BKdVVjbnpoRHQ2OXRhdjEyRm5Ya1NZYVNKZWdXVkF4dkNkTDJFV2pPLXFEU3ZaemQzWWVtNjFwREN5dE1XX3hlRm5aNVdOSUdxWHI5cXkwNXZRcnF2d9IBowFBVV95cUxQMTFMVlZreWt6eE1PUm9OWWVKajJweWJ3SkRGdzNKR2xpN2xHNExCSHFkLXJkZFlRTHNIY1VSQy0yQTVwYWdOakNIZUF5VnRERklvbDlKZkY5X0Y2MXdfS2N1aHFBdjh6aXFmZnZiVHRRSFRqZ3RWcU9yN1RpeUY4UFdtU01mYlpGMWo1NFZ0NGYzbmpjdDNuSHJqRUJacDFXZkd3?oc=5"
+          }
+        ]
+      },
+      {
+        "zh_head": "零售业增长分化与人工智能的应用扩展",
+        "en_head": "Retail Growth Divides and AI’s Expanding Role in Canadian Retail",
+        "zh_fact": "零售行业观察指出，零售增长呈现分化趋势，同时人工智能在加拿大零售业中的应用范围正在扩大。",
+        "en_fact": "Retail industry observations highlight a divide in retail growth, alongside the expanding role of artificial intelligence within the Canadian retail sector.",
+        "zh_why": "市场环境的变化导致不同零售商的表现出现差异，而AI技术被视为提升运营效率的关键工具。",
+        "en_why": "Shifting market conditions have led to performance disparities among retailers, while AI technology is viewed as a key tool for improving operational efficiency.",
+        "insight_zh": "零售商正通过技术投资来应对增长放缓，AI在优化库存和客户体验方面发挥着越来越重要的作用。",
+        "insight_en": "Retailers are investing in technology to combat slowing growth, with AI playing an increasingly vital role in optimizing inventory and customer experience.",
+        "zh_watch": "关注AI技术在零售运营中的具体落地效果及其对利润的贡献。",
+        "en_watch": "Monitor the specific implementation results of AI technology in retail operations and its contribution to profitability.",
+        "sources": [
+          {
+            "name": "Retail Insider",
+            "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPN0RrSDRoTVdIUTlTM3liZHdic0ZTWU9rb3g1ckZVelgybjQzYkluenhleUNZVkhOTmd6NFlQVUtJSEVETm5ucVVtVjlxSGxOOF93ZjRRd3c2NVN2OUNpTGNzOW5EWEdkbUttT1FSX3pndTZTenBaRjBNZFZJSWtMT19KeDFzLVRZSkJ1VkpJNThUTWMyS2Nfd0kyN2p0ZndnOWRJOU53TDk5bTNfZDVrdHhaU2RRMTQ1aHBoMkM2SzhRbWh5ZUFz?oc=5"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "date": "2026-10-09",
     "zh_summary": "今日零售与餐饮行业动态包括星巴克推出新品及潜在收购传闻，以及食品饮料行业的创新与扩张。",
     "en_summary": "Today's retail and F&B industry updates include new product launches and potential acquisition rumors for Starbucks, alongside innovation and expansion across the food and beverage sector.",

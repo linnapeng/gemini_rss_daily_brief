@@ -1,5 +1,66 @@
 [
   {
+    "date": "2026-10-12",
+    "zh_summary": "今日零售与消费行业动态：星巴克涉及DFI与香港餐饮业的重组；快速消费品（FMCG）行业预计第二季度营收增长，但成本上升可能挤压利润空间；零售商V2 Retail公布第二季度业绩，营收同比增长28.4%。",
+    "en_summary": "Today's retail and consumer updates: Starbucks is involved in the reorganization of DFI and Hongkong Caterers; the FMCG sector expects Q2 revenue growth, though rising costs may pressure margins; retailer V2 Retail reported a 28.4% YoY revenue increase for Q2.",
+    "items": [
+      {
+        "zh_head": "星巴克涉及DFI与香港餐饮业的重组",
+        "en_head": "Starbucks part of DFI and Hongkong Caterers’ reorganisation",
+        "zh_fact": "星巴克品牌被纳入DFI零售集团与香港餐饮业的业务重组计划中。",
+        "en_fact": "The Starbucks brand is included in the business reorganization involving DFI Retail Group and Hongkong Caterers.",
+        "zh_why": "此举反映了大型零售与餐饮集团在当前市场环境下对品牌组合与运营结构的调整。",
+        "en_why": "This move reflects the ongoing adjustments to brand portfolios and operational structures by major retail and catering groups in the current market.",
+        "insight_zh": "大型餐饮特许经营商正在通过重组优化资产配置，以应对区域市场变化。",
+        "insight_en": "Major catering franchisees are optimizing asset allocation through reorganization to adapt to regional market shifts.",
+        "zh_watch": "关注重组后星巴克在香港市场的运营策略调整。",
+        "en_watch": "Monitor potential operational strategy shifts for Starbucks in the Hong Kong market following the reorganization.",
+        "sources": [
+          {
+            "name": "Law.asia",
+            "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBEb253TjQyamU0QnVtdktVTEZzZFcwVkxldlpZM0IxdDdlOE91ZVJ6WVdJV3FNVHFMYlFqRkU4NENLa3RfLWR4ck5JSTZleG00b1FQRzZBYkFMamxmZlZsV0RMMUNuakNlNlo4M2ctS19QX1NSWWhj?oc=5"
+          }
+        ]
+      },
+      {
+        "zh_head": "快速消费品行业：营收增长与成本压力并存",
+        "en_head": "FMCG sector: Revenue growth amid cost pressures",
+        "zh_fact": "行业分析显示，快速消费品（FMCG）企业预计在第二季度实现营收增长，但原材料及运营成本的上升可能导致利润率受损。",
+        "en_fact": "Industry analysis indicates that FMCG companies expect revenue growth in Q2, but rising raw material and operational costs may dent profit margins.",
+        "zh_why": "需求复苏推动了销售额增长，但通胀压力持续影响企业的盈利能力。",
+        "en_why": "Demand recovery is driving sales growth, but inflationary pressures continue to impact corporate profitability.",
+        "insight_zh": "消费品企业正面临“增收不增利”的挑战，需通过供应链优化来抵消成本上涨。",
+        "insight_en": "Consumer goods companies face the challenge of revenue growth without profit growth, necessitating supply chain optimization to offset rising costs.",
+        "zh_watch": "观察各品牌在第二季度财报中如何平衡定价策略与成本控制。",
+        "en_watch": "Observe how brands balance pricing strategies and cost control in their Q2 financial reports.",
+        "sources": [
+          {
+            "name": "The Economic Times",
+            "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQcjdYLVlJS3NBMlpDT0w2dE5wSGJTQ2VYVEwzLUtQSWItUjFWUkIwZHFOamFjem54RTJ5ZFlKaGlPRjJBU2E2WEw2Z2Z3ME1BLXJnbDg3cnIyZ3NJWGVvWndvVEFCb3RBdkR6Z3B5cEZEdVc5Z1ZqVzB4Vm5QTnl5VjNIMElsb1RndVRWZlVlWmFteHRCczUyZkFZRGxfZkllVWVPLXRFZkQzTFlhYkxWUHd5NXpKZXctNkhhcjktckl1czNMQXotbXdRR0tKc1nSAdQBQVVfeXFMTlBKenpHMVdiX1l0TUl1bzZhVU1UeXVoYnNOOTRuZVpVV285ZXF4dy1Cb2t3R1NOUDVCc3VBMHltUC1sX0FvalNlSVJkRGFjNnRNV3VObDhSR0pKb1RuMUFFYlpJLTdFRENoY3Q3ZGRrdzEwZTB0bXc2RUQ5ZTB6TTlKSU9neEt3ZFJxcWM0NkNsUXJZSnBSaGdYdGEzWlIteG1rWnlHamtaa29YNUpSVXY0U3c4emYyRVRzUzdPSUFQclN1aHpZbUFkWXBydWFIVmY4NDI?oc=5"
+          }
+        ]
+      },
+      {
+        "zh_head": "V2 Retail 第二季度营收同比增长28.4%",
+        "en_head": "V2 Retail Q2 revenue rises 28.4% YoY",
+        "zh_fact": "零售商 V2 Retail 公布了2027财年第二季度业绩，营收达到90.5亿卢比，同比增长28.4%。",
+        "en_fact": "Retailer V2 Retail reported its Q2 FY27 results, with revenue reaching ₹905 crore, a 28.4% increase year-on-year.",
+        "zh_why": "该增长数据反映了公司在特定零售细分市场的扩张与市场份额的提升。",
+        "en_why": "The growth figures reflect the company's expansion and increased market share in specific retail segments.",
+        "insight_zh": "在当前零售环境下，保持两位数的营收增长显示了该品牌在目标客群中的竞争力。",
+        "insight_en": "Maintaining double-digit revenue growth in the current retail environment demonstrates the brand's competitiveness among its target audience.",
+        "zh_watch": "关注其后续季度在成本控制与利润转化方面的表现。",
+        "en_watch": "Monitor its performance in cost control and profit conversion in subsequent quarters.",
+        "sources": [
+          {
+            "name": "scanx.trade",
+            "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYy1xOXJkaHRxd0llMmxFVzFLcW9Qd0tfYUZmQzk5UHJDaW9WT0lvUHhzUE1WSVhBS0lLQmlyX0pxdFhOMnlndmFJbVZJa2kwSkxoVTBvdWktbU5lWDVuLVRGWDRWZml2azhMdUdOYUhPUlNWenFBR1J5eGEtQnFHSzFtOHFYYjlIQ2N2dVUxOTlGRzNJdl9SVTF6UFF4b2FPMFNScEJBT3JvRUZYZ3djZlRpTUQ?oc=5"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "date": "2026-10-11",
     "zh_summary": "今日简报涵盖了食品饮料行业的创新趋势、零售业的增长动态以及消费品行业的成本压力。",
     "en_summary": "Today's brief covers innovation trends in the food and beverage sector, growth dynamics in retail, and cost pressures within the consumer goods industry.",

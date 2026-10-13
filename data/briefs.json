@@ -1,5 +1,70 @@
 [
   {
+    "date": "2026-10-13",
+    "zh_summary": "今日餐饮零售行业动态包括：星巴克否认收购Chipotle的传闻；印度餐饮市场持续扩张，Flameback Cafe & Bakery在加尔各答开设第二家分店，Ajay’s Cafe推出新品；同时，零售商正积极调整产品组合以应对消费者需求变化。",
+    "en_summary": "Today's F&B and retail updates include: Starbucks dismissing rumors of a Chipotle acquisition; continued expansion in the Indian market with Flameback Cafe & Bakery opening its second Kolkata outlet and Ajay’s Cafe launching new menu items; and retailers actively adapting product assortments to meet evolving consumer trends.",
+    "items": [
+      {
+        "zh_head": "星巴克否认收购Chipotle传闻",
+        "en_head": "Starbucks dismisses Chipotle acquisition rumors",
+        "zh_fact": "星巴克已正式回应并平息了关于其计划收购Chipotle的传闻。",
+        "en_fact": "Starbucks has officially responded to and shut down speculation regarding a potential takeover of Chipotle.",
+        "zh_why": "此前市场流传星巴克可能进行此项大规模收购，引发了广泛关注。",
+        "en_why": "The market had previously speculated about a potential blockbuster acquisition, drawing significant attention.",
+        "insight_zh": "大型餐饮连锁企业在当前市场环境下，通过并购实现增长的传闻极易引发股价波动。",
+        "insight_en": "In the current market environment, rumors of M&A activity among major restaurant chains can easily trigger stock price volatility.",
+        "zh_watch": "星巴克后续的战略增长方向。",
+        "en_watch": "Starbucks' future strategic growth direction.",
+        "sources": [
+          {
+            "name": "The Business Journals",
+            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWGJzeS03anA1V01aNU5ncnhST0lxVTRORHFib0NQaGRDekt2TUNxZVNZYmhJWUNiaHpoS0Etel9wQUI4aHhGTlhVVDlZU0VPWkpndWlKYVVVZVhhakdKQlViaTlkS3pPcDZtVkNmWDkzSGFZMUc3V3VhSlAyWWR0ZVNsMjlpU2d2MFBzbUU1WFNzWjZJQnRjUWpPcW9uZw?oc=5"
+          },
+          {
+            "name": "Forbes",
+            "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRDlDQWgydVFJc0RIWFRyVFVYbmtNdktsYlJ4Z2EtQUpsYVVIWTZGZ0pQTTJoUDJjY09ra3NJT0g0WlU5aUxjcDVET0hESVBYVTlxUVBEenREVHBSZkhfRFN4MHkxM0ZTd0k3ai1PakNUM0Vra2dBNjlnTEYxbHFTY05JQUp5MTBGa2lQM2RpWnNFZl9mdkJDU2p4UFpqb0FWN2JXMDVJLVJOYUU?oc=5"
+          }
+        ]
+      },
+      {
+        "zh_head": "Flameback Cafe & Bakery在加尔各答开设第二家分店",
+        "en_head": "Flameback Cafe & Bakery opens second outlet in Kolkata",
+        "zh_fact": "Flameback Cafe & Bakery在加尔各答开设了第二家门店，主打100%素食产品以迎合节日消费需求。",
+        "en_fact": "Flameback Cafe & Bakery has unveiled its second outlet in Kolkata, offering a 100% vegetarian menu tailored for festive indulgence.",
+        "zh_why": "品牌旨在通过扩大门店网络和提供素食选择来吸引当地消费者。",
+        "en_why": "The brand aims to attract local consumers by expanding its footprint and providing vegetarian options.",
+        "insight_zh": "针对特定饮食偏好（如素食）的区域性扩张是餐饮品牌在印度市场增长的重要策略。",
+        "insight_en": "Regional expansion targeting specific dietary preferences, such as vegetarianism, is a key growth strategy for F&B brands in the Indian market.",
+        "zh_watch": "印度区域性餐饮品牌的扩张速度。",
+        "en_watch": "The pace of expansion for regional F&B brands in India.",
+        "sources": [
+          {
+            "name": "AIMA Media",
+            "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWjZNd21BUTlZYmVuZE9BWVhqX2d3MEhUNHNDbThfMmtmU19BZm1SNV95MHh2U0VSM3Q2eUlLZlZOenNKVEZ3UUJoRmhrYVczcG5xVGZpT21uR2R5bGg3YlFVTm1SYTJYaVFPaHgwLXUyOUZrMU0zM0NSZGxHbGxUZUlTc0xuYXhjaHh5N2lDcVM2MjhuRlNsRlhB?oc=5"
+          }
+        ]
+      },
+      {
+        "zh_head": "零售商积极调整食品与饮料产品组合",
+        "en_head": "Retailers actively adapt food and beverage assortments",
+        "zh_fact": "零售商（如Target）正在根据当前消费者的需求变化，调整其食品和饮料的商品组合。",
+        "en_fact": "Retailers, such as Target, are adapting their food and beverage assortments to align with the changing needs of today's shoppers.",
+        "zh_why": "为了适应不断变化的消费者偏好和市场趋势，零售商必须持续优化其货架产品。",
+        "en_why": "To stay relevant to shifting consumer preferences and market trends, retailers must continuously optimize their product offerings.",
+        "insight_zh": "零售商的选品策略正从传统模式转向更加注重健康和个性化需求。",
+        "insight_en": "Retailer assortment strategies are shifting from traditional models toward a greater focus on health and personalized consumer needs.",
+        "zh_watch": "大型零售商在食品品类上的创新举措。",
+        "en_watch": "Innovation initiatives by major retailers in the food category.",
+        "sources": [
+          {
+            "name": "Progressive Grocer",
+            "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSnRXanFTTjZydU5sYVZCQ3NMSzl6bzJSMkJsNGJ5YTR2MmhpT3pvRUduTGdNWjFTMllsVmpqRlJ3d2pZWXR0SXBOYmwxNk5FdHZLNXRGYy1IRUxkdXFZYkNSaGtPd2hNQW1ITmVEUG1nZi03NlUwSnpsUXJPVXg5cllIY0VudzFTVUVTVjU2ekNZNV95eEFEbEdBNDViQ3dGcjJUNFRKVQ?oc=5"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "date": "2026-10-12",
     "zh_summary": "今日零售与消费行业动态：星巴克涉及DFI与香港餐饮业的重组；快速消费品（FMCG）行业预计第二季度营收增长，但成本上升可能挤压利润空间；零售商V2 Retail公布第二季度业绩，营收同比增长28.4%。",
     "en_summary": "Today's retail and consumer updates: Starbucks is involved in the reorganization of DFI and Hongkong Caterers; the FMCG sector expects Q2 revenue growth, though rising costs may pressure margins; retailer V2 Retail reported a 28.4% YoY revenue increase for Q2.",

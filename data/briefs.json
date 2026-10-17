@@ -1,5 +1,66 @@
 [
   {
+    "date": "2026-10-17",
+    "zh_summary": "今日简报涵盖了咖啡与烘焙行业的创新趋势、品牌合作以及消费者行为动态。重点包括咖啡品牌通过个性化糖浆和节日联名提升体验，以及消费者在节日期间对价格的敏感度。",
+    "en_summary": "Today's brief covers innovation trends in the coffee and bakery sectors, brand collaborations, and consumer behavior dynamics. Highlights include coffee brands enhancing experiences through private label syrups and festive partnerships, alongside consumer price sensitivity during the holiday season.",
+    "items": [
+      {
+        "zh_head": "咖啡品牌通过私有品牌糖浆推动饮料创新",
+        "en_head": "Coffee brands drive beverage innovation with private label syrups",
+        "zh_fact": "World Coffee Portal指出，咖啡店正通过引入私有品牌糖浆来掌控饮料创新，以满足消费者对个性化口味的需求。",
+        "en_fact": "World Coffee Portal reports that coffee shops are leveraging private label syrups to take ownership of beverage innovation and meet consumer demand for personalized flavors.",
+        "zh_why": "随着消费者对独特饮品体验的追求，品牌通过定制化配料提升差异化竞争优势。",
+        "en_why": "As consumers seek unique beverage experiences, brands are using customized ingredients to enhance their competitive differentiation.",
+        "insight_zh": "咖啡零售商正从单纯的销售转向通过供应链控制来定义品牌风味。",
+        "insight_en": "Coffee retailers are shifting from mere sales to defining brand flavor profiles through supply chain control.",
+        "zh_watch": "关注咖啡店是否会进一步扩大自有配料的生产线。",
+        "en_watch": "Watch for further expansion of in-house ingredient production lines by coffee shops.",
+        "sources": [
+          {
+            "name": "World Coffee Portal",
+            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRVNKZjlUbWxET2d6dnlUbjhqT3hWSEduYkdpSWJOTTZmSFZudzRzaVZfOGh6LUJWMkdWb0lMQ0FtTWRkVUlZYmh0Y19UZlFFclZaRUwtUnY2WG5RZ3RkY3hEaVNhbm9rbnBoTXI3c3g3cnpSSmRXTEVkUFFMMFY2UUIwYUVrTnpNSjhZQVhSNDlabTQ3SjdTak96aTk3QQ?oc=5"
+          }
+        ]
+      },
+      {
+        "zh_head": "塔塔星巴克与 Paul & Mike 联名推出排灯节特别产品",
+        "en_head": "Tata Starbucks partners with Paul & Mike for Diwali-themed offerings",
+        "zh_fact": "塔塔星巴克与巧克力品牌 Paul & Mike 合作，在排灯节期间推出了结合咖啡与巧克力的联名产品。",
+        "en_fact": "Tata Starbucks has collaborated with chocolate brand Paul & Mike to launch a festive range combining coffee and chocolate for the Diwali season.",
+        "zh_why": "品牌通过节日联名吸引消费者，利用本土化节日氛围提升品牌参与度。",
+        "en_why": "Brands are leveraging festive collaborations to attract consumers and boost engagement by tapping into local holiday sentiment.",
+        "insight_zh": "",
+        "insight_en": "",
+        "zh_watch": "观察此类跨界联名对节日期间销售额的提振作用。",
+        "en_watch": "Monitor the impact of such cross-brand collaborations on sales performance during the festive period.",
+        "sources": [
+          {
+            "name": "Passionate In Marketing",
+            "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaU5uUW5tcGdka2gzNTZfUGhqczVYM1pyZGUxT1pPSURpbFY1Y3pOcENIS2M3R1laaC1ycGxYVFZtMmNKYUpDbFVPa2M3TU5xWVZ0MERKdVpuWG51QS1BbFRIU0kxcENZUmU4NmtxMHc4OGVFdHpaVDZTSVAxNGpvdEk2YWNTSmdMNy1Tck5FNkNBdEg0WWZndGg2QV9zSWtaeG83cUIxTW1SVDg?oc=5"
+          }
+        ]
+      },
+      {
+        "zh_head": "印度节日消费呈现价格敏感趋势",
+        "en_head": "Festive spending in India shows price sensitivity",
+        "zh_fact": "尽管节日氛围浓厚，但《经济时报》报道显示，印度消费者在购物时表现出极高的价格敏感度，对每一笔支出都精打细算。",
+        "en_fact": "Despite high festive spirits, The Economic Times reports that Indian shoppers are demonstrating extreme price sensitivity, carefully counting every rupee spent.",
+        "zh_why": "宏观经济压力导致消费者在节日消费中更加谨慎，倾向于高性价比选择。",
+        "en_why": "Macroeconomic pressures are leading consumers to be more cautious during festive shopping, favoring value-for-money options.",
+        "insight_zh": "",
+        "insight_en": "",
+        "zh_watch": "关注零售商是否会通过促销活动来应对消费者的价格敏感度。",
+        "en_watch": "Monitor whether retailers will adjust promotional strategies to address consumer price sensitivity.",
+        "sources": [
+          {
+            "name": "The Economic Times",
+            "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQSnA3THJjZXNmUThwQy1FNFl5U3hZVC1YOVRROFhnZUlzLWI4eDVnc01MNWwyaS1NazZsejJqMF9YWEFzbzVqMHJqOHJrMXhyMUJLVzhZZENHX3QyNkJlZjg5QjB5elFpMG1Vc20xa2F1ZWlkelhieVgyNHQ2bFRMQ2p6NmJha0F5akx5bThnOG5jWjE5cFZHTHdMUUp3aFhwZEN3OWsxX3ZDcjA0T3UzNF9XMFFlWFUxV2pJS0N5d1lHSDZtRDB5MUYtVDd5aERabzlWU3BJNkdwUVNm0gHiAUFVX3lxTE1CNGkyNmc1d2VHT1Q3cnoweWRkSVRkNElmQjh3WS1kaENNanItTWdsOVFMdEpTTXNIeXg5UEVJZW4xQ3JrRXNEOGR0UWI3cV9hd1VNUXlhemFZRzQ1Y3ZLWnFlQmVtem52RVlvMUpXWXJFak5pcEdXQ241Q2ZHM1RCV2hqc3lGMENNTlNKT0sxRFpVZFlwTEVJU3QxaUhVQjNZLWFpUGxxQTR6Z0Z6Q3NtX3hYZHJLZzQ0WXRveVYwM1Jjb3VkSjFpNS1zMXI1X09QZ2NPWmEtak92Y2c1WkFHSUE?oc=5"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "date": "2026-10-15",
     "zh_summary": "今日简报涵盖了Reliance进入即饮乳制品市场、FMCG行业受通胀影响的增长挑战，以及Yum Brands在全球扩张中的市场表现。",
     "en_summary": "Today's brief covers Reliance's entry into the ready-to-drink dairy market, growth challenges for the FMCG sector amid inflation, and market performance for Yum Brands during its global expansion.",

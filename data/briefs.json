@@ -1,5 +1,66 @@
 [
   {
+    "date": "2026-10-19",
+    "zh_summary": "今日商业简报涵盖了餐饮连锁的战略调整、零售业的并购扩张以及社区咖啡馆的成功案例。",
+    "en_summary": "Today's business brief covers strategic adjustments in food chains, retail expansion through acquisitions, and success stories in community cafes.",
+    "items": [
+      {
+        "zh_head": "Devyani International 制定 KFC 扭亏计划",
+        "en_head": "Devyani Targets KFC Turnaround Plan",
+        "zh_fact": "Devyani International 计划在 2027 财年将其 KFC 门店的堂食销售占比提升至 59-60%。",
+        "en_fact": "Devyani International aims to reach 59-60% dine-in sales salience for its KFC outlets in FY27 as part of a turnaround plan.",
+        "zh_why": "该举措旨在通过优化门店运营模式来提升整体盈利能力。",
+        "en_why": "The move is intended to improve overall profitability by optimizing store operating models.",
+        "insight_zh": "餐饮连锁正通过调整销售渠道组合来应对市场波动。",
+        "insight_en": "Food chains are adjusting sales channel mixes to navigate market volatility.",
+        "zh_watch": "关注该策略对后续季度利润率的影响。",
+        "en_watch": "Monitor the impact of this strategy on profit margins in subsequent quarters.",
+        "sources": [
+          {
+            "name": "scanx.trade",
+            "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWWRiaGRNaDBrYko0Mk5vaUhtVzN2Mlp2NmpCTS1wOHRZX251alRJNTVBZENoel9wSE9jMjFrdWV6UTY3S3VuRi1fXzJlbzR3dWY4Vzl6WDhTRldRQzhWRTRfVExsa0liVkNTTFN1d2pVbF9fVzVQNjlCZFpQTlRuNDR6cTRmWnFkaGJFVm9KdWE0eW9SMnYyUm1DWkFCZkdhemNsM002WnFFaGVYNkpkb1l2dF8wTkZIM0E?oc=5"
+          }
+        ]
+      },
+      {
+        "zh_head": "Sathya Agencies 以 1470 万美元收购 Unilet",
+        "en_head": "Sathya Agencies Acquires Unilet for $14.7M",
+        "zh_fact": "Sathya Agencies 已收购位于班加罗尔的零售商 Unilet，交易金额为 1470 万美元。",
+        "en_fact": "Sathya Agencies has acquired Bengaluru-based retailer Unilet in a deal valued at $14.7 million.",
+        "zh_why": "此举是 Sathya Agencies 扩大其零售业务版图战略的一部分。",
+        "en_why": "This acquisition is part of Sathya Agencies' strategy to expand its retail footprint.",
+        "insight_zh": "区域性零售商正通过并购整合以增强市场竞争力。",
+        "insight_en": "Regional retailers are leveraging M&A to consolidate and strengthen market competitiveness.",
+        "zh_watch": "观察整合后的零售网络运营效率。",
+        "en_watch": "Observe the operational efficiency of the integrated retail network.",
+        "sources": [
+          {
+            "name": "Dealroom",
+            "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPeVZ6dmpxdGlDbVZ0ei1xVVNkWmZ4YkhEbkliMU5oTHh1RWVRdHFzYU91Rmlhc0x6Nm5heTAtZlBmOXQ3Q0w5Ymp6NXFXTmhFY0NIUVdFbVdBN3BhY0ZQNkNqNDFuLUNfRTBXVWRtMWw4bG5Ja1MtVzAzNFU4aVhiaGs0WHB1Nk9oMmpVSHAyQ3hsWEx1bmlrRmhn?oc=5"
+          }
+        ]
+      },
+      {
+        "zh_head": "Jaywick 咖啡馆荣获双项大奖",
+        "en_head": "Jaywick Cafe Wins Double Awards",
+        "zh_fact": "位于 Jaywick 的一家咖啡馆因其社区贡献和运营表现获得了两项奖项。",
+        "en_fact": "A cafe in Jaywick has received two awards in recognition of its community contribution and operational performance.",
+        "zh_why": "该咖啡馆通过提供优质服务和社区参与赢得了当地认可。",
+        "en_why": "The cafe earned local recognition through quality service and community engagement.",
+        "insight_zh": "社区导向型咖啡馆在提升品牌忠诚度方面具有独特优势。",
+        "insight_en": "Community-oriented cafes hold a unique advantage in building brand loyalty.",
+        "zh_watch": "关注此类小型独立咖啡馆如何维持其社区影响力。",
+        "en_watch": "Watch how such small independent cafes sustain their community influence.",
+        "sources": [
+          {
+            "name": "Clacton Gazette",
+            "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUkNFbHdQZll4bmVicXBmRnBtZHZtZHRJSkpBM1JvN2RDVU93ei1YMFl3V09wenI0Z01hUmg3Rlo5OHdxM3pHdjBqOFRSajR4dkJENE9ETmFyd3JDS216eFh5YnB4cHkzSTdTYTVmdWtOWmJoQjhkX1lkczR5SFhEd0tWYVktX0duWTdQSlJxYmZPd2lIZTFjOWtTd0FZZXlkS3QyTXM3RTFLa2l0NDhhalRzV00yUDdVaFlYcjJ3?oc=5"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "date": "2026-10-17",
     "zh_summary": "今日简报涵盖了咖啡与烘焙行业的创新趋势、品牌合作以及消费者行为动态。重点包括咖啡品牌通过个性化糖浆和节日联名提升体验，以及消费者在节日期间对价格的敏感度。",
     "en_summary": "Today's brief covers innovation trends in the coffee and bakery sectors, brand collaborations, and consumer behavior dynamics. Highlights include coffee brands enhancing experiences through private label syrups and festive partnerships, alongside consumer price sensitivity during the holiday season.",

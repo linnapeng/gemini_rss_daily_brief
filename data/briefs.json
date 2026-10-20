@@ -1,5 +1,66 @@
 [
   {
+    "date": "2026-10-20",
+    "zh_summary": "今日简报涵盖了食品饮料行业的创新动态，包括塔可钟（Taco Bell）的咖啡业务扩张、快乐蜂（Jollibee）的季节性新品发布，以及快速消费品（FMCG）企业在零售需求谨慎背景下的促销策略。",
+    "en_summary": "Today's brief covers innovation in the food and beverage sector, including Taco Bell's coffee expansion, Jollibee's seasonal product launch, and FMCG companies' promotional strategies amid cautious retail demand.",
+    "items": [
+      {
+        "zh_head": "塔可钟（Taco Bell）扩展咖啡业务并进入新市场",
+        "en_head": "Taco Bell expands Live Más Café with horchata and new markets",
+        "zh_fact": "塔可钟正在通过引入欧洽塔（horchata）饮品并向更多市场推广其“Live Más Café”概念，以扩大其咖啡业务。",
+        "en_fact": "Taco Bell is expanding its coffee business by introducing horchata and rolling out its 'Live Más Café' concept to additional markets.",
+        "zh_why": "此举旨在通过菜单创新和地理扩张，提升其在咖啡和早餐市场的竞争力。",
+        "en_why": "The move aims to strengthen its competitive position in the coffee and breakfast market through menu innovation and geographic expansion.",
+        "insight_zh": "快餐连锁店正通过差异化的饮品选择来争夺咖啡消费场景。",
+        "insight_en": "Fast-food chains are increasingly leveraging differentiated beverage offerings to capture coffee consumption occasions.",
+        "zh_watch": "关注其咖啡业务在不同区域市场的渗透率及消费者反馈。",
+        "en_watch": "Monitor the penetration rate and consumer feedback of its coffee business across different regional markets.",
+        "sources": [
+          {
+            "name": "QSR Web",
+            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUGp4VldSTGdoLXFfdVNTMVlpeUljM0lHRmdZQ1RQM2Y4UEdZMkpjWEpkbDJkUjVKY2ZrS3NtZVg1cjJiNnI5WUtHMDFpb0dRb2FLV1d4QmI3VW9taXUtXzZfR2Jmd09QQ1N1YndCem94QUNoQ0JNYmthemhmWWF0WFdzOS0zSFJFZVhZbV9VWkFxTFY3?oc=5"
+          }
+        ]
+      },
+      {
+        "zh_head": "快乐蜂（Jollibee）联手迪拜巧克力师推出圣诞圣代",
+        "en_head": "Jollibee taps Dubai chocolate chef for Christmas Sundae launch",
+        "zh_fact": "快乐蜂与一位迪拜巧克力师合作，推出了季节性圣诞圣代产品。",
+        "en_fact": "Jollibee has collaborated with a Dubai-based chocolate chef to launch a seasonal Christmas Sundae.",
+        "zh_why": "通过与专业厨师合作，品牌旨在提升节日产品的溢价感和吸引力。",
+        "en_why": "By partnering with a professional chef, the brand aims to enhance the premium appeal and attractiveness of its holiday offerings.",
+        "insight_zh": "餐饮品牌通过跨界合作提升节日营销的独特性。",
+        "insight_en": "Food service brands are utilizing cross-industry collaborations to enhance the uniqueness of their holiday marketing.",
+        "zh_watch": "观察此类高端化合作对节日销售额的提振作用。",
+        "en_watch": "Observe the impact of such premium collaborations on holiday sales performance.",
+        "sources": [
+          {
+            "name": "InsiderPH",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZTZKMWZNMFhNVk9lM3B4QUhKUEFyUzlHUzhnSkFrNDFqOUNIcDF6UkpYUFkwU1NFWUdwOFFnM19td0QySk01TV9CNV96Qno2dnpZTUM0aGRrSWxYbWVLUElNQTZCZ2ZiSERJSlpCdFRtYUdjNkZsYkFiejdxZUgxaUFsSWpiSDRHbF9TRA?oc=5"
+          }
+        ]
+      },
+      {
+        "zh_head": "零售需求谨慎，快消品企业加大节日促销力度",
+        "en_head": "FMCG companies step up festive promotions as retailers remain cautious about demand",
+        "zh_fact": "由于零售商对市场需求持谨慎态度，快速消费品（FMCG）公司正在加大节日期间的促销力度以刺激销售。",
+        "en_fact": "FMCG companies are increasing festive promotions to stimulate sales as retailers remain cautious regarding market demand.",
+        "zh_why": "零售商的库存管理趋于保守，迫使品牌方通过促销手段来确保节日旺季的动销。",
+        "en_why": "Conservative inventory management by retailers is forcing brands to use promotional tactics to ensure sell-through during the peak festive season.",
+        "insight_zh": "宏观消费环境的谨慎导致品牌方在渠道端的促销压力增大。",
+        "insight_en": "A cautious macroeconomic consumption environment is increasing promotional pressure for brands at the channel level.",
+        "zh_watch": "关注促销活动对品牌利润率的影响以及零售商的库存调整情况。",
+        "en_watch": "Monitor the impact of promotional activities on brand margins and retailers' inventory adjustments.",
+        "sources": [
+          {
+            "name": "Moneycontrol.com",
+            "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNQjZDQllUaVBUWEFGWHVtRE5DNUtSbzhiMlV2T1Jha3hMODRUQ2tsTTFua1RCN3RqNjRmT2gteTZWdmFMdndTbkFJNzc5U3U3dHp0a2dxczNiZGdoclcyVVdzQUQtN1NzM09lWW5HeXRxNmNkZWFCUXlpR2VJTEJaMEVXbFM4cjF3N2Y3dDNNQTd6SVE4TGpTRlpwT0VEdGJXckV6U1Nla0VMd29XbHRBdzkzZlRWWUh3amZKb2cwRmJvMlgtTzNfckk3eE56aG9HTWFKcG1mMVhrRDBo0gHcAUFVX3lxTE1CNkNCWVRpUFRYQUZYdW1ETkM1S1JvOGIyVXZPUmFreEw4NFRDa2xNMW5rVEI3dGo2NGZPaC15NlZ2YUx2d1NuQUk3NzlTdTd0enRrZ3FzM2JkZ2hyVzJVV3NBRC03U3MzT2VZbkd5dHE2Y2RlYUJReWlHZUlMQlowRVdsUzhyMXc3Zjd0M01BN3pJUThMalNGWnBPRUR0YldyRXpTU2VrRUx3b1dsdEF3OTNmVFZZSHdqZkpvZzBGYm8yWC1PM19ySTd4Tnpob0dNYUpwbWYxWGtEMGg?oc=5"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "date": "2026-10-19",
     "zh_summary": "今日商业简报涵盖了餐饮连锁的战略调整、零售业的并购扩张以及社区咖啡馆的成功案例。",
     "en_summary": "Today's business brief covers strategic adjustments in food chains, retail expansion through acquisitions, and success stories in community cafes.",

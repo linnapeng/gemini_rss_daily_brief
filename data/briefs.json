@@ -1,5 +1,78 @@
 [
   {
+    "date": "2026-10-21",
+    "zh_summary": "今日简报涵盖了星巴克在美国的销售增长预期、FMCG行业因成本压力面临的定价挑战，以及零售商Kroger的战略转型计划。",
+    "en_summary": "Today's brief covers Starbucks' US sales growth expectations, pricing challenges facing the FMCG sector due to cost pressures, and Kroger's strategic transformation plan.",
+    "items": [
+      {
+        "zh_head": "星巴克预计将保持美国销售增长势头",
+        "en_head": "Starbucks expected to maintain US sales momentum",
+        "zh_fact": "分析师和市场预期显示，星巴克有望在即将发布的财报中实现销售增长，并持续关注其2027年的技术转型计划以改善利润率。",
+        "en_fact": "Analysts and market expectations suggest Starbucks is poised to report sales growth in its upcoming earnings, with investors focused on its 2027 tech overhaul to improve margins.",
+        "zh_why": "投资者正密切关注星巴克在面对运营挑战时，如何通过技术升级来维持销售势头并提升盈利能力。",
+        "en_why": "Investors are closely watching how Starbucks leverages technology to sustain sales momentum and enhance profitability amidst operational challenges.",
+        "insight_zh": "餐饮连锁企业正日益依赖数字化转型来抵御通胀带来的利润率挤压。",
+        "insight_en": "Restaurant chains are increasingly relying on digital transformation to hedge against margin compression caused by inflation.",
+        "zh_watch": "关注星巴克后续财报中关于技术投入对利润率的具体影响。",
+        "en_watch": "Monitor the impact of tech investments on margins in upcoming Starbucks earnings reports.",
+        "sources": [
+          {
+            "name": "Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTng0cjdOQTNiVFNmQUhlOUJmVlRXU05ST283LXN3c2VHUjN3Ql8ybjRBUG40U3QyOUY4ekZtQTgwNWJXdndoR1NvSDNOT2RBTU1UU25mdDFLdm11cWw0ZWl3Y1NQX2I5eWRlWXFyRnNqdU9WREFiUDdhTk1GcUJIUXZMOENHMVF1QXppeDk0LU9WRjRSZm44UUwyU2k1ZTQ?oc=5"
+          },
+          {
+            "name": "TradingView",
+            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORkdERXU3cWhCdC1fNnc3VGYzV1c0RWZQRkI1Y203LWpDT1Q4OHFvWWs1UURKcWE4Q2FTZUg5eXpaN2xCRHF1Z2pBWkM3aWp3ZVdQY2pxNmlyZ0twU2RaSVg5ZkhnYVpZa2pYQXl5SXNkU0pZZVcxdXI1c3RtR2FWb3FuOXJvYWg3NGZPMW4yUUw2eS1lNG9JQ1diUGVKMnQ1TU5KQlEzeU16cVU3S2RpNWhn?oc=5"
+          }
+        ]
+      },
+      {
+        "zh_head": "FMCG行业面临成本压力，小包装定价策略受限",
+        "en_head": "FMCG sector faces cost pressures, limiting small-pack pricing strategies",
+        "zh_fact": "由于成本上升，印度等市场的快速消费品（FMCG）巨头发现，传统的5卢比和10卢比小包装定价模式已难以维持利润空间。",
+        "en_fact": "Due to rising costs, FMCG giants in markets like India are finding that traditional pricing models for small packs, such as ₹5 and ₹10, are no longer sustainable for maintaining margins.",
+        "zh_why": "通胀导致原材料和运营成本增加，迫使企业重新评估其针对价格敏感型消费者的定价结构。",
+        "en_why": "Inflation-driven increases in raw material and operational costs are forcing companies to re-evaluate pricing structures for price-sensitive consumers.",
+        "insight_zh": "在成本高企的环境下，企业必须在维持市场份额与保护利润率之间寻找新的平衡点。",
+        "insight_en": "In a high-cost environment, companies must find a new balance between maintaining market share and protecting profit margins.",
+        "zh_watch": "观察FMCG企业是否会通过缩减包装规格或调整产品组合来应对成本压力。",
+        "en_watch": "Observe whether FMCG firms will respond to cost pressures by shrinking pack sizes or adjusting product portfolios.",
+        "sources": [
+          {
+            "name": "Outlook Business",
+            "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONE1RNmpGZEhJVUtYTXFSekFnbC1xa0xMOUF5TEo4MnNiVkp3SXQ2Y3QwZHJJWDVDZjIycUdadVpCdDlqTGE3LTJORTZmYlFmaEcySXBsTEV5ZG52eDhuNzBGVVF2dDRYTWpWUk1GMHpGWDVtRUUyUXZJcDRMU3ZIM1ZrQm1Pc3ZUMjltY0c5NXh6cXlHMWNYR1NXUlNRNWpPdDlLeU04TkVZcVhfRGE0OUM0dGtxTzTSAcQBQVVfeXFMTzk5NHlXTFFDZ2c5SUFoUndnaGJvcmp0c1BWTnpaT3Rqd3hxMmQwUGtoLUFPRFFPZDNhbnAtQWZXeWdVMHJ4VUdJTFcyTHVEd0Vvc291VXdQc1dXN3o5R245ekl1UXFTRXlKUmJyRlVDb0xxTHFKSFY1ck1KTkxQRDVHY2NDSXNGQjFkNjdGWFM0bUh1UDU1ZUtrZXR6aFdEMUdOX3FRSGZKUS1ZNzJSMW94Wk9EcGpjRGpnQkVYVU5HUTBxOA?oc=5"
+          },
+          {
+            "name": "Moneycontrol.com",
+            "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOcXEtbUc4TXF0NFYzM3JQbmFWdE9zeEFPZXFRYzVmX0RCYy1lWmVGUm5kV1lFSXRaOFFYa3BLbGZHMDU2aWI0SGNVRGtMMmp1ZGI3RnBsMnpHVjFXR2FPYTkzeVlwNl9yQ0diOVhQNVo0TlFrMTladl9iSG1Wb3dqdnZBMWZlUElEaG9kellJRDRBMEJSdVF6RWl3a3hTTHgwdjRzYWFFUFJyeVAxVzVNdEt5TjRkbUFtSTJPdWNlTG5UYWZFYnlRQXpQamMxdV9CczZDX3A5TGlFd3RoZFhlemV4Y2VLdnFxZXZBSnFRNNIB7wFBVV95cUxOcXEtbUc4TXF0NFYzM3JQbmFWdE9zeEFPZXFRYzVmX0RCYy1lWmVGUm5kV1lFSXRaOFFYa3BLbGZHMDU2aWI0SGNVRGtMMmp1ZGI3RnBsMnpHVjFXR2FPYTkzeVlwNl9yQ0diOVhQNVo0TlFrMTladl9iSG1Wb3dqdnZBMWZlUElEaG9kellJRDRBMEJSdVF6RWl3a3hTTHgwdjRzYWFFUFJyeVAxVzVNdEt5TjRkbUFtSTJPdWNlTG5UYWZFYnlRQXpQamMxdV9CczZDX3A5TGlFd3RoZFhlemV4Y2VLdnFxZXZBSnFRNA?oc=5"
+          }
+        ]
+      },
+      {
+        "zh_head": "Kroger发布三年期增长战略与运营改革计划",
+        "en_head": "Kroger announces three-year growth strategy and operational overhaul",
+        "zh_fact": "零售商Kroger在最新的投资者更新中公布了一项为期三年的新计划，旨在通过运营改革实现盈利增长。",
+        "en_fact": "Retailer Kroger unveiled a new three-year plan in its latest investor update, aimed at driving earnings growth through an operational overhaul.",
+        "zh_why": "此举旨在应对不断变化的零售环境，通过优化内部运营来提升长期财务表现。",
+        "en_why": "The move is intended to address the evolving retail landscape and improve long-term financial performance by optimizing internal operations.",
+        "insight_zh": "大型零售商正通过精简运营和明确财务目标来应对市场竞争压力。",
+        "insight_en": "Large retailers are responding to competitive market pressures by streamlining operations and setting clear financial targets.",
+        "zh_watch": "关注Kroger在未来几个季度中如何执行其运营改革的具体举措。",
+        "en_watch": "Monitor how Kroger executes its specific operational reform measures over the coming quarters.",
+        "sources": [
+          {
+            "name": "WSJ",
+            "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWG1nbmRMc2hiR1NOSmNmVTRDbWJ2d0x2RUcyaWV4TF9KcEMtMmJvSlpRcTZpTE5mZW1jQ24xa2o2YVBjSTEzUmloZVBPOTh4cUhPYTF1ZnMxdmNFQl9kQ1Z0M2pLV1JmdWZYRDR0eFlfSjhZSk1mVDNaejdZZVd5NTNhYzZiSG9UTUZHZUNONGpuTXVsVmtNT3BWdFVseHpVUHBDZ0Q0RFNRTmNGWEpmQ3FsZ0hBaGIzVEE?oc=5"
+          },
+          {
+            "name": "Mass Market Retailers",
+            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdmc5MDlkQ2syX2otRmQ0cTkyVjM3aDNjRV9Kd0kzRUVQTmlpN0JnbHZpRmxQWDBFNW5KV1pQSUp5TmNJLWhQY3ZsVnBETEw2dEJkaXpBTGdVN1FlQUtJQ0RlSl83S0s4b2hiY2RRVmJQcUE5bHVidVpyOVZXOHVheXN3SXQ5XzdlaTdIem9pRjhnSVRlVzJfU3pNaUtjOHNtOHBR?oc=5"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "date": "2026-10-20",
     "zh_summary": "今日简报涵盖了食品饮料行业的创新动态，包括塔可钟（Taco Bell）的咖啡业务扩张、快乐蜂（Jollibee）的季节性新品发布，以及快速消费品（FMCG）企业在零售需求谨慎背景下的促销策略。",
     "en_summary": "Today's brief covers innovation in the food and beverage sector, including Taco Bell's coffee expansion, Jollibee's seasonal product launch, and FMCG companies' promotional strategies amid cautious retail demand.",

@@ -1,5 +1,70 @@
 [
   {
+    "date": "2026-10-23",
+    "zh_summary": "今日商业简报涵盖了食品饮料行业的创新与合作，包括塔可钟与百事可乐延长合作关系、Martini Professional在新加坡设立创新中心，以及GS25推出的季节性联名产品。",
+    "en_summary": "Today's business brief covers innovation and partnerships in the food and beverage sector, including the extended partnership between Taco Bell and PepsiCo, the launch of Martini Professional's innovation hub in Singapore, and GS25's seasonal collaboration launch.",
+    "items": [
+      {
+        "zh_head": "塔可钟与百事可乐续签11年合作协议",
+        "en_head": "Taco Bell and PepsiCo Extend Partnership for 11 Years",
+        "zh_fact": "塔可钟与百事可乐宣布延长合作关系至2036年，双方将共同推进饮料创新，并继续提供标志性的激浪Baja Blast。",
+        "en_fact": "Taco Bell and PepsiCo have extended their partnership through 2036, focusing on beverage innovation and the continued availability of the iconic Mountain Dew Baja Blast.",
+        "zh_why": "此举旨在通过长期战略合作，在快速服务餐厅（QSR）领域推动饮料产品的持续创新与市场增长。",
+        "en_why": "The extension aims to drive ongoing beverage innovation and market growth within the QSR sector through a long-term strategic alliance.",
+        "insight_zh": "",
+        "insight_en": "",
+        "zh_watch": "双方在驱动窗口和外卖渠道的饮料创新表现。",
+        "en_watch": "Beverage innovation performance in drive-thru and delivery channels.",
+        "sources": [
+          {
+            "name": "Revista Merca2.0",
+            "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPRFpESy13cjk1MVp6VkdBR1FRRXRva2NGYm4yYWhrMjBEZDA4UkFYOWk0a28yR1JnSTZ4Zk1NRndsNXByellHNHdYOFRaeUlnQm9OTVpZbmo3Rk1VVUtjSUVaaHBwVWFxUTE4cVAwb1dhMEE4OXpMTHdkTFRJRXlPWGw3QXZsYzBrcEFETHJVZThSZ3V0NnQ5SUNlSDl4d3dwMlJhR0RBUTFaZTc0YzR2QWZ4a1BnR3dTYlV6d0VPVE1QMVREMm9V?oc=5"
+          },
+          {
+            "name": "QSR Web",
+            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdVRXbC1vQXpqbVF2Q2dtOERSMTFwaVJGTWZuTXY3X25iYTl3VnNfOU1pNkEtSkNod3VibzFfT2xNVVdOMmQ0c3BzV183QlBUVEJfSWdGQ1JpZDk1NkNDODBZSTFFU3djVzhKLVRoZXFWMWVoM2VpdEVDUGxFRlJ1eno0U0tiSXRBMHNPV1ZxRmgyeGtLLVNJVGVIcHItV0w2Y2QxY1gwV0M?oc=5"
+          }
+        ]
+      },
+      {
+        "zh_head": "Martini Professional在新加坡开设亚洲首个创新中心",
+        "en_head": "Martini Professional Opens Asia's First Innovation Hub in Singapore",
+        "zh_fact": "Martini Professional在新加坡设立了Unica创新中心，旨在将意大利的配料专业知识引入亚洲市场。",
+        "en_fact": "Martini Professional has established the Unica Innovation Hub in Singapore, aiming to bring Italian ingredient expertise to the Asian market.",
+        "zh_why": "该中心旨在通过本地化创新，满足亚洲市场对高品质食品配料日益增长的需求。",
+        "en_why": "The hub is designed to meet the growing demand for high-quality food ingredients in the Asian market through localized innovation.",
+        "insight_zh": "",
+        "insight_en": "",
+        "zh_watch": "该中心对区域食品加工与餐饮创新的影响。",
+        "en_watch": "The impact of the hub on regional food processing and culinary innovation.",
+        "sources": [
+          {
+            "name": "Asia Food Journal",
+            "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOdkcxVDRJb0lhWnpYNGpOblhualh1UXBCdTg2TVJQVlNkaUlpa2ZtUU0wN21yLUNUWFVjRHh5X0ZCOWowX2RYQjNGUWZidG1EZFVCZ2RHS25hcjYxMTNNSTRXUW5xM1FEMWlOUmtvSHlLdy1HRzRQaFV2M1VyTUdZOVg5ZjhSYmJCUlBMN2dJUTBSNTlGZDBoeDRCUW11aTViWDc5dHdEbmpnQjN0bERUanluME80SDhLZHhtQXVDOW9Fa3V5aHVNTjNqaURIQUg2U0E?oc=5"
+          }
+        ]
+      },
+      {
+        "zh_head": "GS25推出‘面包超人’联名蒸包产品",
+        "en_head": "GS25 Launches ‘Anpanman’ Collaboration Steamed Buns",
+        "zh_fact": "随着蒸包季节的到来，便利店品牌GS25推出了与‘面包超人’联名的系列产品，并附赠100种不同的贴纸。",
+        "en_fact": "With the arrival of the steamed bun season, convenience store brand GS25 has launched a collaboration product with ‘Anpanman’, featuring 100 types of collectible stickers.",
+        "zh_why": "利用季节性需求与知名IP联名，旨在提升便利店的客流量与消费者的购买兴趣。",
+        "en_why": "Leveraging seasonal demand and a well-known IP collaboration aims to increase foot traffic and consumer purchase interest in convenience stores.",
+        "insight_zh": "",
+        "insight_en": "",
+        "zh_watch": "此类IP联名产品对便利店季节性销售额的拉动作用。",
+        "en_watch": "The impact of such IP-based collaborations on seasonal convenience store sales.",
+        "sources": [
+          {
+            "name": "매일경제",
+            "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE91Y1VrNVZ4ZXRhWHE2bV9Gb0p1NDdUbmZDVDhWRWhHX09fYjZRS25KWFNzWWluVnRDSVU1NEpsYWhucDlOZnJtMW5DNWs3dw?oc=5"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "date": "2026-10-22",
     "zh_summary": "今日零售与消费领域动态：屈臣氏在马来西亚推出首个“Watsons Plus”客户体验店；Secret Alchemist营收突破1.2亿卢比并扩展香水产品线；零售商Alsea Europa第三季度营收增长2.8%。",
     "en_summary": "Retail and consumer updates today: Watsons launched its first 'Watsons Plus' customer experience store in Malaysia; Secret Alchemist surpassed Rs 120 crore in revenue and expanded its perfume range; Alsea Europa reported a 2.8% revenue increase for Q3 2026.",

@@ -1,5 +1,70 @@
 [
   {
+    "date": "2026-10-24",
+    "zh_summary": "今日零售与餐饮行业动态：星巴克推出万圣节主题饮品并面临假日季挑战；印度快餐市场预计至2031年将突破472.8亿美元；Sweetgreen任命前Shake Shack高管担任行政主厨。",
+    "en_summary": "Retail and F&B industry updates: Starbucks launches Halloween-themed beverages amid holiday challenges; India's QSR market is projected to exceed $47.28 billion by 2031; Sweetgreen appoints former Shake Shack culinary leader as executive chef.",
+    "items": [
+      {
+        "zh_head": "星巴克推出万圣节限定饮品并迎接假日季考验",
+        "en_head": "Starbucks Launches Halloween Beverages Amid Holiday Season Test",
+        "zh_fact": "星巴克推出了名为“黑猫星冰乐”（Black Cat Frappuccino）的万圣节主题饮品，该产品不含咖啡成分，并配有猫耳装饰。",
+        "en_fact": "Starbucks has introduced a Halloween-themed 'Black Cat Frappuccino,' a coffee-free beverage featuring cat-ear decorations.",
+        "zh_why": "该举措正值星巴克面临关键的假日销售季节，公司需通过季节性创新来吸引消费者。",
+        "en_why": "The launch comes as Starbucks faces a critical holiday season, requiring seasonal innovation to drive consumer engagement.",
+        "insight_zh": "餐饮连锁品牌正通过高度视觉化的季节性产品来维持社交媒体热度并提升假日客流量。",
+        "insight_en": "F&B chains are leveraging highly visual seasonal products to maintain social media buzz and drive holiday foot traffic.",
+        "zh_watch": "星巴克在假日季的整体销售表现及消费者对季节性产品的反馈。",
+        "en_watch": "Starbucks' overall holiday sales performance and consumer reception to seasonal offerings.",
+        "sources": [
+          {
+            "name": "Forbes",
+            "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZ3lCbGpkRXA5RVRYTy1Ed2VrVUlMeG5CYXdHLW5WMF9BcXhLYzI5UFlIdEZZOGdRNWhHRGJOaExvRnprdFZkVGhiaXVwSWNhVFYtbnZzemJ3aFFLQm1SMkNNT2tvcWt0NFpTbFk0ZWM4NGl2SWlGOUhoU2tHeW13STFENHdvekRmc04wcEJKVE10b3ZXM2ZLNlhtbF8yTnJzUjZHNlpXVzNUSXh6LVh4ZEE5bzg5TEhGdjFjeEFVVjZsTzQ?oc=5"
+          },
+          {
+            "name": "Trend Hunter",
+            "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5ac0RhS3BINTFTZVU3YWdrM3cwT0Z5R0FrZ1JaQkRxSDNJUmVQMGV2RHBMSnFsN1p4dExSdWVlTFlvMC1sLWpFMTBmVHFtanBxNEh1TExJaTZzejdOb2lWV1hnU0xqcm42TlBPdnVoQWdXeVU?oc=5"
+          }
+        ]
+      },
+      {
+        "zh_head": "印度快餐（QSR）市场预计至2031年将超472亿美元",
+        "en_head": "India's QSR Market Projected to Surpass $47.28 Billion by 2031",
+        "zh_fact": "根据Mordor Intelligence的报告，印度快餐市场预计将持续增长，主要驱动力为菜单本地化策略及外卖平台的普及。",
+        "en_fact": "According to a Mordor Intelligence report, the Indian QSR market is expected to grow significantly, driven by menu localization and the adoption of delivery aggregators.",
+        "zh_why": "消费者对便利性和多样化口味的需求推动了该市场的长期扩张。",
+        "en_why": "Growing consumer demand for convenience and diverse flavor profiles is fueling long-term market expansion.",
+        "insight_zh": "新兴市场的餐饮增长高度依赖于数字化配送基础设施与本土化口味的结合。",
+        "insight_en": "Growth in emerging market F&B is heavily reliant on the integration of digital delivery infrastructure and localized flavor profiles.",
+        "zh_watch": "印度餐饮市场的竞争格局及外卖平台对连锁餐厅运营的影响。",
+        "en_watch": "The competitive landscape of the Indian F&B market and the impact of delivery platforms on chain operations.",
+        "sources": [
+          {
+            "name": "StreetInsider",
+            "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxObUdUUWJNQTV1REQxTVF4bzdteUlFSDBKd29od2Z3Z0tfd2xZeDBCcW56WU5XV1V2MV9kWDY5N1FUdzRRZnZzVUpEY2t0RkRCU19FTGhaamFUSC14N1ZVUnRESUZ2X0pOSFYyTklmOHBwUVJBQ3VDaTFTakRGTWVQMWVDYmYzME9GVVNlR2h4Qkw0dmtyUS1zcEN2eEp0TmUyR0dmY2luN0tianloQjR1a3g5U1ByMTlQcHU5UnVoN3JLcnh2NGhBLUlGQ2FESkYyaWxodFhpSUFnSVRpSzBTMjZObDljX3JJV0VwY0YwOE1KTWR4eGtkbHJybklnaEd6M1dmY056TEN2LUlNemVMYXlLbUJyaHJ1em53SjhCMnlvbXdLcEhV?oc=5"
+          }
+        ]
+      },
+      {
+        "zh_head": "Sweetgreen任命前Shake Shack高管担任行政主厨",
+        "en_head": "Sweetgreen Appoints Former Shake Shack Culinary Leader as Executive Chef",
+        "zh_fact": "Sweetgreen宣布聘请John Karangis担任行政主厨，他此前曾在Shake Shack担任类似的烹饪领导职务。",
+        "en_fact": "Sweetgreen has announced the appointment of John Karangis as executive chef, who previously held a similar culinary leadership role at Shake Shack.",
+        "zh_why": "此举旨在加强公司的产品研发能力，通过行业资深人才提升菜单创新水平。",
+        "en_why": "The move aims to strengthen the company's product development capabilities and elevate menu innovation through industry expertise.",
+        "insight_zh": "餐饮品牌通过引入竞争对手的资深人才来优化产品线，是提升市场竞争力的常见策略。",
+        "insight_en": "Hiring senior talent from competitors to optimize product lines is a common strategy for enhancing market competitiveness in the F&B sector.",
+        "zh_watch": "Sweetgreen未来菜单的创新方向及新任主厨对品牌产品策略的影响。",
+        "en_watch": "Future menu innovation at Sweetgreen and the impact of the new executive chef on product strategy.",
+        "sources": [
+          {
+            "name": "Fast Casual",
+            "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNT0h4ZEVyRzVjOXNkMkJ1bXRVYXFQaFJITVdJVVI3bXNMODZoVC1WSnczbTVYY0Rld3N6S253QjMxSG0yY05WX1hsT1Viemhha1VyWDc1VG5zTDJuaE1DUGNzM19wYjY3bDh3RjgzcWZNQ0czYmp6M0x5Rjg5TXl2dlY2TEI5MHhpWjhSamU0eUd2aFBBd21iSTdGNi02bFdUSmNUeE5tNnc5ZEZsOGt2M3R3QQ?oc=5"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "date": "2026-10-23",
     "zh_summary": "今日商业简报涵盖了食品饮料行业的创新与合作，包括塔可钟与百事可乐延长合作关系、Martini Professional在新加坡设立创新中心，以及GS25推出的季节性联名产品。",
     "en_summary": "Today's business brief covers innovation and partnerships in the food and beverage sector, including the extended partnership between Taco Bell and PepsiCo, the launch of Martini Professional's innovation hub in Singapore, and GS25's seasonal collaboration launch.",

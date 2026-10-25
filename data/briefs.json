@@ -1,5 +1,66 @@
 [
   {
+    "date": "2026-10-25",
+    "zh_summary": "今日零售与餐饮行业动态：Shoprite Nigeria 调整扩张策略转向社区店，澳大利亚品牌 The Pancake Parlour 通过 FranGlobal 进入印度市场，同时印度冷冻食品市场正成为快速消费品增长的新引擎。",
+    "en_summary": "Today's retail and F&B updates: Shoprite Nigeria shifts expansion strategy toward neighborhood stores, Australian brand The Pancake Parlour enters the Indian market via FranGlobal, and India's frozen food sector emerges as a new growth engine for FMCG.",
+    "items": [
+      {
+        "zh_head": "Shoprite Nigeria 转向社区店扩张",
+        "en_head": "Shoprite Nigeria Shifts to Neighborhood Store Expansion",
+        "zh_fact": "Shoprite Nigeria 宣布将改变其扩张策略，从依赖大型购物中心转向开设社区门店。",
+        "en_fact": "Shoprite Nigeria announced a shift in its expansion strategy, moving away from mall-based expansion to focus on opening neighborhood stores.",
+        "zh_why": "此举旨在更贴近消费者，优化零售覆盖范围。",
+        "en_why": "The move aims to get closer to consumers and optimize retail coverage.",
+        "insight_zh": "零售商正通过小型化门店提高渗透率，以应对购物中心流量波动。",
+        "insight_en": "Retailers are increasing penetration through smaller-format stores to mitigate foot traffic volatility in malls.",
+        "zh_watch": "社区店模式在当地市场的运营效率。",
+        "en_watch": "Operational efficiency of the neighborhood store model in the local market.",
+        "sources": [
+          {
+            "name": "Nairametrics",
+            "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVDhYMW9UbFB5YVp4OE5HbHFMSFNOYWVTamdUcDJNZEhZQ3BQVDdLMWR0dmFYSUhoa3hSdm0zbllUVFhGRGhlX2F5bzhsYm9QM3F3eWdmZ1RzeEdpUjFGVEdEcTJJVXR2TV9wd1d4Vk5Ldk56Z29VYkw3NXhPbl9KdTIyV1haN2VBNHY4OVNoY214MUt4ZlRWb1hMaHduV0xBdW1uem0zYTBheUl5RHhsaXRYYzYyMWNLblVN?oc=5"
+          }
+        ]
+      },
+      {
+        "zh_head": "澳大利亚 The Pancake Parlour 进入印度市场",
+        "en_head": "Australia's The Pancake Parlour Enters Indian Market",
+        "zh_fact": "澳大利亚餐饮品牌 The Pancake Parlour 通过与 FranGlobal 合作，正式进入印度市场。",
+        "en_fact": "Australian F&B brand The Pancake Parlour has officially entered the Indian market through a partnership with FranGlobal.",
+        "zh_why": "这是该品牌全球扩张计划的一部分，旨在利用印度不断增长的餐饮需求。",
+        "en_why": "This is part of the brand's global expansion plan, aiming to capitalize on India's growing demand for dining options.",
+        "insight_zh": "",
+        "insight_en": "",
+        "zh_watch": "国际餐饮品牌在印度市场的本土化适应能力。",
+        "en_watch": "Localization adaptability of international F&B brands in the Indian market.",
+        "sources": [
+          {
+            "name": "Indian Retailer",
+            "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQVzZhSDJ6MzgtU1N0WHJYenRWRjQ1YnJvQTZPR25IelkwQXVpZjNoRXU5Q0hXY2hNLXVNN1VNbG8wY2JTWWsxS19tZTI5NFRKQk5fRHNJOFZXTlhwVVd4Y194M1B0Tkk2YmVNX2VHVDFfODZmZDJUd0xoM3B6RzlfbWs5R2gwVmNxQmRUMTVZY0RfLTczN0p3OFZJLWhQS3F6NG9RWU9kdGxKc2N6aDAtZDY2S0lpVHN6RXdaLU1CYTduRWVnZHlJcHZxNGpYWmJPc3VEVDlmc3c?oc=5"
+          }
+        ]
+      },
+      {
+        "zh_head": "冷冻食品成为印度 FMCG 增长引擎",
+        "en_head": "Frozen Foods Emerge as India's FMCG Growth Engine",
+        "zh_fact": "行业分析指出，冷冻食品正在成为印度快速消费品（FMCG）领域的新增长引擎。",
+        "en_fact": "Industry analysis indicates that frozen foods are emerging as the next growth engine for the FMCG sector in India.",
+        "zh_why": "消费者对便捷食品的需求增加，推动了冷链及冷冻产品的市场扩张。",
+        "en_why": "Increased consumer demand for convenient food options is driving market expansion for cold chain and frozen products.",
+        "insight_zh": "",
+        "insight_en": "",
+        "zh_watch": "冷链基础设施的完善程度对该行业增长的影响。",
+        "en_watch": "The impact of cold chain infrastructure development on industry growth.",
+        "sources": [
+          {
+            "name": "Indian Retailer",
+            "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQX1hVZFA4eTVpa1dwUjU0MnRDZXZRdWR3RE9aVktoSGtvR1hZUDNIQ2t5RkpmX2t6aEVqWWt5Q01EY2tMWnNnakY2UEZOWjFfWlY3RlF1WXR2NWJYNFk4ODI1dEJCZEhkVzByTUNVWm5Vbk5Iam04bi15T0VNZ0t6RDAyampHTjhYMlZISWxLeVRzVlBGZkp3UndfYzNDazRfSUxGNGtWZE1BVDdfTjN3cTB2di1nMkd4QW4xM09NczNfXzdFdFEtMA?oc=5"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "date": "2026-10-24",
     "zh_summary": "今日零售与餐饮行业动态：星巴克推出万圣节主题饮品并面临假日季挑战；印度快餐市场预计至2031年将突破472.8亿美元；Sweetgreen任命前Shake Shack高管担任行政主厨。",
     "en_summary": "Retail and F&B industry updates: Starbucks launches Halloween-themed beverages amid holiday challenges; India's QSR market is projected to exceed $47.28 billion by 2031; Sweetgreen appoints former Shake Shack culinary leader as executive chef.",

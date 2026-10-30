@@ -1,5 +1,66 @@
 [
   {
+    "date": "2026-10-30",
+    "zh_summary": "今日商业简报涵盖了星巴克财报表现、印度作为FMCG增长市场的地位，以及餐饮零售业的扩张与创新动态。",
+    "en_summary": "Today's business brief covers Starbucks' earnings performance, India's status as a growth market for FMCG, and expansion and innovation trends in the food and retail sectors.",
+    "items": [
+      {
+        "zh_head": "星巴克发布2026财年第四季度财报",
+        "en_head": "Starbucks Reports Q4 FY2026 Earnings",
+        "zh_fact": "星巴克公布了第四季度财报，销售额未达预期，但公司强调其美国市场的转型计划正在取得进展。",
+        "en_fact": "Starbucks reported Q4 earnings where sales missed expectations, though the company noted that its U.S. turnaround plan is gaining steam.",
+        "zh_why": "该财报反映了星巴克在当前市场环境下的运营挑战及管理层对未来增长的信心。",
+        "en_why": "The report reflects Starbucks' operational challenges in the current market environment and management's confidence in future growth.",
+        "insight_zh": "餐饮连锁企业正通过战略转型应对消费疲软，重点转向提升运营效率。",
+        "insight_en": "Restaurant chains are navigating soft consumer demand through strategic turnarounds, with a focus on operational efficiency.",
+        "zh_watch": "关注星巴克2027财年的业绩指引及转型计划的执行效果。",
+        "en_watch": "Monitor Starbucks' FY2027 outlook and the execution of its turnaround plan.",
+        "sources": [
+          {
+            "name": "CNBC",
+            "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5UemZ3WjVGcnQtWmo2Rm1JWWdKSncwUUlRMEhvNUt3dG91dmpjckRUU2RvWjVxaDZVQ2IzSHptVHhuWHRvVHI1VjYzT0Q2UHhXanlON29vNi1NV3o3WlU2TF9mWkpJRl9FVzEyOVluRzZiTnB4cERF0gF8QVVfeXFMT055Mjc3YTYxdWJlTUNMaHZDRFA0Umw3YXVCUWVzYVNONEo4SnNvYUpjaF85TmJua3BTZ3FNamc3WHdibEdEcFl6elhoXzdMTVJjTVNYcGNuT0x2YTc3aWVqdzJxQUJGQlYwVGhMYXV3SjEzdHQ2dXRPWFl4Wg?oc=5"
+          }
+        ]
+      },
+      {
+        "zh_head": "全球快消品巨头视印度为关键增长市场",
+        "en_head": "Global FMCG Giants View India as Key Growth Market",
+        "zh_fact": "在西方市场增长放缓的背景下，全球快消品（FMCG）巨头正将印度视为重要的增长引擎。",
+        "en_fact": "Amid a slowdown in Western markets, global FMCG giants are increasingly identifying India as a key growth engine.",
+        "zh_why": "印度庞大的消费市场为面临成熟市场增长瓶颈的跨国企业提供了扩张机会。",
+        "en_why": "India's massive consumer market offers expansion opportunities for multinational corporations facing growth bottlenecks in mature markets.",
+        "insight_zh": "跨国企业正通过调整产品组合和加大新兴市场投入来对冲成熟市场的增长压力。",
+        "insight_en": "Multinationals are hedging against growth pressures in mature markets by adjusting product portfolios and increasing investment in emerging markets.",
+        "zh_watch": "观察跨国企业在印度市场的本地化战略及竞争格局变化。",
+        "en_watch": "Observe the localization strategies and competitive landscape of multinationals in the Indian market.",
+        "sources": [
+          {
+            "name": "Siliconindia",
+            "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQTEJyWWhOaTRSM2tydzBZVVZNdjcteHkxU194TG5HbGZYTUJFTTdYMVVJbFRyT0tiY3dSaG1fNlpxQnI2My1qaDNQUUg0eTJOUWh0Z0NEOGtTWGx5X1o0ZlpTMnZiN1QyUUN5Y1pEblBGMTRDVV85aTE4Z0M4OEd0MmpOYWFxSEVpTnZzX2V1Yk1ueUFndGlOczNOLTZUNVFGSU1sZTd4M0NUa2x6LTJmeDFEVVhKRmVaazVmSWRqTUp5d3FXSTdiUkU3T0lFSDdBWmc0SWlQSTByRmFON0E?oc=5"
+          }
+        ]
+      },
+      {
+        "zh_head": "Theobroma在印度东部扩张门店",
+        "en_head": "Theobroma Expands Store Footprint in Eastern India",
+        "zh_fact": "烘焙连锁品牌Theobroma在加尔各答新开两家门店，正式进入印度东部市场。",
+        "en_fact": "Bakery chain Theobroma has entered the Eastern India market with the opening of two new stores in Kolkata.",
+        "zh_why": "此举标志着该品牌在印度主要城市群的持续扩张战略。",
+        "en_why": "This move marks the brand's continued expansion strategy across major Indian urban clusters.",
+        "insight_zh": "印度高端烘焙市场正随着城市化进程和消费升级而快速增长。",
+        "insight_en": "The premium bakery market in India is growing rapidly alongside urbanization and consumer upgrades.",
+        "zh_watch": "关注该品牌在印度东部市场的后续门店布局及市场渗透率。",
+        "en_watch": "Monitor the brand's subsequent store footprint and market penetration in Eastern India.",
+        "sources": [
+          {
+            "name": "Indian Retailer",
+            "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUjhCLVZwS3NvcHRodGRPQThOcnVTUmh6RGYyMXNnTWhMb3YwZEczYUVHeno3UG91UmRLWURNb0dZc2VzTXpwbU1ZaVhMS21PbUVuSXM1dDFCZ1BVVmRCZktnQVp5OXBLWmE5UERlbXpuZzhOSlI5ZVVxNUwyZWdKbUo1OFpCZi1mWFBLMGV4dTRsaDBKeE0waDhBYVJpeTBPQ0dVNDlzd19ZN3B5c2FJ?oc=5"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "date": "2026-10-25",
     "zh_summary": "今日零售与餐饮行业动态：Shoprite Nigeria 调整扩张策略转向社区店，澳大利亚品牌 The Pancake Parlour 通过 FranGlobal 进入印度市场，同时印度冷冻食品市场正成为快速消费品增长的新引擎。",
     "en_summary": "Today's retail and F&B updates: Shoprite Nigeria shifts expansion strategy toward neighborhood stores, Australian brand The Pancake Parlour enters the Indian market via FranGlobal, and India's frozen food sector emerges as a new growth engine for FMCG.",

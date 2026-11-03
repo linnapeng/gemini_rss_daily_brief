@@ -1,5 +1,66 @@
 [
   {
+    "date": "2026-11-03",
+    "zh_summary": "本期简报涵盖了咖啡连锁店的季节性策略与菜单创新、食品饮料行业的品牌合作趋势，以及零售市场的增长预测。",
+    "en_summary": "This brief covers seasonal strategy and menu innovation in coffee chains, brand collaborations in the food and beverage sector, and retail market growth forecasts.",
+    "items": [
+      {
+        "zh_head": "7 Brew 推出首个食品菜单",
+        "en_head": "7 Brew debuts first food menu",
+        "zh_fact": "咖啡连锁品牌 7 Brew 正式在其菜单中增加了食品选项，这是该品牌首次涉足食品领域。",
+        "en_fact": "Coffee chain 7 Brew has officially added food items to its menu, marking the brand's first expansion into food offerings.",
+        "zh_why": "此举标志着 7 Brew 试图通过多元化产品组合来提升客户体验并增加单店收入。",
+        "en_why": "This move signals 7 Brew's attempt to enhance customer experience and increase per-store revenue through a diversified product portfolio.",
+        "insight_zh": "咖啡连锁店正通过扩展食品菜单来提高客单价，以应对日益激烈的市场竞争。",
+        "insight_en": "Coffee chains are expanding food menus to increase average ticket size in response to intensifying market competition.",
+        "zh_watch": "关注该菜单在不同市场的消费者接受度及对销售额的拉动作用。",
+        "en_watch": "Monitor consumer reception of the new menu across markets and its impact on sales.",
+        "sources": [
+          {
+            "name": "Restaurant Dive",
+            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNaDhoeENWSnlLQ1pIdm10R19naTFTZFAzMUdxTUIydUpucU0ta2NGbzZJWEhnSFJrZUJwLVhoMjNFOGp3aUc4SHZKaDhXOG1HVFU2NDNOMXZxMTZjaWFMVG5mS2ZnVHNULTFMdjl5NVhmby1HT2ltM0FTY3pIU3laRFMyQjhCYmw2cDJyaUk0OVBLNU5QMHhRVA?oc=5"
+          }
+        ]
+      },
+      {
+        "zh_head": "Marzetti 与 Tajín 达成调味品合作",
+        "en_head": "The Marzetti Company and Tajín announce partnership",
+        "zh_fact": "Marzetti 公司宣布与调味品牌 Tajín 合作，计划在调味品货架上推出具有独特风味的新产品。",
+        "en_fact": "The Marzetti Company announced a partnership with the seasoning brand Tajín to bring bold, authentic flavors to the dressing aisle.",
+        "zh_why": "双方旨在通过结合 Marzetti 的分销能力与 Tajín 的品牌影响力，吸引寻求独特口味的消费者。",
+        "en_why": "The companies aim to attract consumers seeking unique flavor profiles by combining Marzetti's distribution capabilities with Tajín's brand recognition.",
+        "insight_zh": "食品品牌通过跨界联名引入标志性风味，是提升货架吸引力的有效手段。",
+        "insight_en": "Cross-brand collaborations to introduce iconic flavors are an effective strategy for food brands to enhance shelf appeal.",
+        "zh_watch": "观察该系列产品在零售渠道的铺货情况及市场反馈。",
+        "en_watch": "Observe the retail rollout and market feedback for this product line.",
+        "sources": [
+          {
+            "name": "Business Wire",
+            "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOcW9KQXhuSGl2ZnozSVZ0c1ZnSkRGRHI5S1N5N1JvMnYxNjZhRVJySUQ2NWxuRVhBQkRZell1UDJ4bUpXeHZ0T19vWWlCUUVaQVVrYkRaVXBzeWNvTWFMVEJMTkxnMEtFWW9jbnNHS2llaFJNSGFPMnRhSHd1NERqeDBTNzdMRnQzZHRSOWFsOG13NV9RMnNsOExBSDhqS2JicTd6VHVWSng0NFR5M2Z2M2RJZFgyLVZHTXBQbEJodHFrNDlSVjdXZ1JFdmRENHJBQW03eFo3eC1KMWptVzJXdmphT0hZeW5QeGc?oc=5"
+          }
+        ]
+      },
+      {
+        "zh_head": "Forrester 预测 2027 年美国零售增长趋于停滞",
+        "en_head": "Forrester predicts U.S. retail growth near 0% for 2027",
+        "zh_fact": "Forrester 的最新预测显示，2027 年美国零售业的“实际”销售增长率预计将接近 0%。",
+        "en_fact": "Forrester's latest forecast indicates that 'real' U.S. retail sales growth is expected to be near 0% in 2027.",
+        "zh_why": "该预测反映了宏观经济压力下消费者支出趋于谨慎的趋势。",
+        "en_why": "This forecast reflects a trend of cautious consumer spending under macroeconomic pressure.",
+        "insight_zh": "零售商在增长放缓的环境下，需更加依赖运营效率和差异化策略来维持利润。",
+        "insight_en": "In a slow-growth environment, retailers must rely more on operational efficiency and differentiation strategies to maintain margins.",
+        "zh_watch": "关注零售商在未来一年内如何调整库存和促销策略以应对增长压力。",
+        "en_watch": "Monitor how retailers adjust inventory and promotional strategies over the coming year to navigate growth pressures.",
+        "sources": [
+          {
+            "name": "Chain Store Age",
+            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWExSN2tPSEkwVGxEdl9UVHZzOWJNd3RYVm82MXp0UGpMeDdjLVE5TVRKLXBxUFdpeFJFS0dQNkFNcUdjcWNhU2pGWVVaQ1ZBTlZnWWFZMC14MkZTVlIyOVprbG8tWkNaQlAyS1N0T0tyUlBKZlJoLTVJc3dxdjI0VjNEdW1feDk5SXRQMU9jZ0VQSjQt?oc=5"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "date": "2026-11-02",
     "zh_summary": "今日零售与餐饮行业动态包括：塔塔星巴克印度公司高层人事变动，以色列咖啡连锁品牌获得大额投资，以及食品饮料行业在抹茶草莓等口味上的创新趋势。",
     "en_summary": "Today's retail and F&B updates include executive leadership changes at Tata Starbucks India, a significant investment in an Israeli coffee chain, and flavor innovation trends featuring matcha-strawberry combinations.",

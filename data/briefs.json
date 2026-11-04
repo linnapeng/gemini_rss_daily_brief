@@ -1,5 +1,70 @@
 [
   {
+    "date": "2026-11-04",
+    "zh_summary": "今日简报涵盖了星巴克应对GLP-1时代的战略转型、Mary Brown's Chicken在印度的扩张计划，以及烘焙行业在国际参与度方面的增长。",
+    "en_summary": "Today's brief covers Starbucks' strategic adaptation to the GLP-1 era, Mary Brown's Chicken's expansion plans in India, and growth in international participation within the bakery industry.",
+    "items": [
+      {
+        "zh_head": "星巴克调整战略以应对GLP-1时代",
+        "en_head": "Starbucks adapts to GLP-1 era",
+        "zh_fact": "星巴克首席执行官表示，公司正在通过推出蛋白质饮料和新零食来调整产品组合，以适应GLP-1药物使用带来的消费习惯变化。",
+        "en_fact": "Starbucks' CEO stated the company is adjusting its product portfolio, including new protein drinks and snacks, to adapt to changing consumer habits driven by the use of GLP-1 medications.",
+        "zh_why": "GLP-1药物的普及正在改变消费者的饮食偏好，迫使餐饮巨头重新评估其菜单策略。",
+        "en_why": "The rise of GLP-1 medications is shifting consumer dietary preferences, forcing major food and beverage chains to re-evaluate their menu strategies.",
+        "insight_zh": "餐饮品牌正通过产品创新积极应对健康趋势带来的市场波动。",
+        "insight_en": "Food and beverage brands are actively responding to market shifts driven by health trends through product innovation.",
+        "zh_watch": "星巴克后续季度财报中关于新产品表现的反馈。",
+        "en_watch": "Feedback on the performance of new products in upcoming Starbucks quarterly earnings reports.",
+        "sources": [
+          {
+            "name": "The Daily Chronicle",
+            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNU0xCZEdBaXRadkZ5eGNnMDg0R0l6NTlGeWtDVDdaT1JBLWtNc2tya1VnT29zb21fQ0JQMF9TWUZTMWlzQTNMamdQNnhhcGl2bkdoMk9pOUoySWRVam1nWks5b1haNXNVS2tqY2pUZlEyQlp6Tnk2QTFuamtSM0Etdi1aenNCbWJ2NGpydmVYLXBoNHZsX0c1a3g2OHJoRDFBWms5d1l4SXJOa0NwNDNhTjN3?oc=5"
+          },
+          {
+            "name": "TradingView",
+            "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQeWYtSjk3WG03Vk1hRlZVbUcwaEZZVUJoNVlxVk92cnJBYXZ5TjNiMGxXbFNxVk9PX2l1ZXc3S0h6UDM0Rml3NE1OUDBsU0FYcmMyQk5KZVZHRzVDNXFqRUh0dGR3bGVrMUItd3Z4UG9qbFljY0RONENvM09OY09PSDMzeDVxUFRXMFFYTlVlZWtUYnROaEF1NGU0TGhXMnRBQWphVjFNYy1wQ2J1c3dmVVdvelFaTDVlWjl1ampBSXpNdFZI?oc=5"
+          }
+        ]
+      },
+      {
+        "zh_head": "Mary Brown's Chicken计划在印度开设220家门店",
+        "en_head": "Mary Brown's Chicken to launch 220 outlets in India",
+        "zh_fact": "Mary Brown's Chicken宣布计划在2030年前在印度市场开设220家新门店，以扩大其在该地区的业务版图。",
+        "en_fact": "Mary Brown's Chicken announced plans to launch 220 new outlets in the Indian market by 2030 to expand its footprint in the region.",
+        "zh_why": "印度快速增长的餐饮市场吸引了国际连锁品牌加大投资力度。",
+        "en_why": "The rapidly growing Indian food and beverage market is attracting international chains to increase their investment.",
+        "insight_zh": "国际快餐品牌正通过激进的扩张战略抢占印度新兴消费市场。",
+        "insight_en": "International fast-food brands are capturing India's emerging consumer market through aggressive expansion strategies.",
+        "zh_watch": "该品牌在印度市场的门店落地速度及本地化菜单调整。",
+        "en_watch": "The pace of store openings and localized menu adjustments by the brand in the Indian market.",
+        "sources": [
+          {
+            "name": "Indian Retailer",
+            "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOWUlIQ3BaZHMwR3VVbzlleWhQbVBQYk51LTZOeHpNaXp3MzJrczAwZUF1Zm5makJMV1F0RVA5OW9zbWlFLXRoTEUwUUVsTmNkeXFfcHBXWWk4Z2FjMHFGRkl1VGRuRno1WmVUTTBmNjFWdGtkWWx3aVlxN2RRY044UTBOb1lxbHBtcHNsN1lZdXRmWDNVN3BOX0NBdEdjOXBVNGZZQmpZVW1JeUxQQ0pHa2Z2UkhxYjNXR1FRQ2IwVXV2TFg1TUU3a1pR?oc=5"
+          }
+        ]
+      },
+      {
+        "zh_head": "Bakery China Autumn 2026国际买家增长50%",
+        "en_head": "Bakery China Autumn 2026 reports 50% growth in international buyers",
+        "zh_fact": "Bakery China Autumn 2026展会报告显示，国际买家数量同比增长了50%，并宣布2027年展会将在成都举办。",
+        "en_fact": "Bakery China Autumn 2026 reported a 50% year-over-year increase in international buyers and announced that the 2027 edition will be held in Chengdu.",
+        "zh_why": "烘焙行业对全球化交流的需求增加，推动了展会国际影响力的提升。",
+        "en_why": "Increased demand for global exchange in the bakery industry has driven the growth of the exhibition's international influence.",
+        "insight_zh": "烘焙行业的创新与贸易正呈现出更强的全球化趋势。",
+        "insight_en": "Innovation and trade in the bakery industry are showing a stronger trend toward globalization.",
+        "zh_watch": "成都展会对于西部地区烘焙市场发展的带动作用。",
+        "en_watch": "The impact of the Chengdu exhibition on the development of the bakery market in Western China.",
+        "sources": [
+          {
+            "name": "Macau Business",
+            "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUzhCQnowRlhvUkw5SjZzZWpTNWt1ZzZRa2ItSWhVQlh1WDVuSmRReG5xSHh2d1hzc1BubHNrZ3dYREItckNOOG1qSlVuZ0dMUjVqWWYtV3ptTlgwV2M3aXR1VV95bUpSbFNiMmt3MHlxZ0xCWlVLOWQ1R0xWTlRoVm14NHdFX1J2YnBDTjY3TjZnLWp2UHlCUFpZN1RGbnRwMm1DUFBkS2R3aFFBMTBybmdHc2V0cC1HemFoSWlONA?oc=5"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "date": "2026-11-03",
     "zh_summary": "本期简报涵盖了咖啡连锁店的季节性策略与菜单创新、食品饮料行业的品牌合作趋势，以及零售市场的增长预测。",
     "en_summary": "This brief covers seasonal strategy and menu innovation in coffee chains, brand collaborations in the food and beverage sector, and retail market growth forecasts.",

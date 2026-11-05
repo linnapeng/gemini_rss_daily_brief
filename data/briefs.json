@@ -1,5 +1,74 @@
 [
   {
+    "date": "2026-11-05",
+    "zh_summary": "今日简报涵盖了咖啡连锁店的数字化转型与创新、食品饮料行业的季节性产品发布，以及零售领域通过人工智能提升运营效率的趋势。",
+    "en_summary": "Today's brief covers digital transformation and innovation in coffee chains, seasonal product launches in the food and beverage industry, and trends in retail operational efficiency through AI.",
+    "items": [
+      {
+        "zh_head": "星巴克探索利用人工智能实现个性化数字菜单",
+        "en_head": "Starbucks explores AI for personalized digital menus",
+        "zh_fact": "星巴克正在考虑在得来速（Drive-Thru）服务中引入人工智能技术，以实现个性化的数字菜单显示。",
+        "en_fact": "Starbucks is exploring the use of AI to implement personalized digital menus at its drive-thru locations.",
+        "zh_why": "此举旨在通过技术升级提升顾客体验和运营效率。",
+        "en_why": "The initiative aims to enhance customer experience and operational efficiency through technological upgrades.",
+        "insight_zh": "餐饮巨头正通过AI技术将标准化服务转向高度个性化，以应对日益激烈的市场竞争。",
+        "insight_en": "F&B giants are leveraging AI to shift from standardized services to highly personalized experiences to remain competitive.",
+        "zh_watch": "关注该技术在2027年大规模部署的进展。",
+        "en_watch": "Monitor progress on the potential large-scale deployment of this technology in 2027.",
+        "sources": [
+          {
+            "name": "CoffeeTalk Magazine",
+            "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5sOEtMNEZLTlZDQm1QeVBJRXJHcVlQVVE2ZWNLVTZJSzBycmQ2bExublBJaGNTY2U2eEd4UG16QVRtaUxEa3pLbTlVTVQ5UWc1WHBRdGZmUzNVNzN6Y29kNWVyZGdwVW9FWFdtOW5EYi1qYjBCVDdqRFBPYUM?oc=5"
+          },
+          {
+            "name": "Gadget Review",
+            "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQalM2VklaYloyUFFac2tmendmTzlJMDREb2xWTUkxdkN6Q20wUzFfZnhBdFV3UFJHVWRCV1VHbWE0dkYxb2hfUUJYY3hFQ3NPY3FTZ3BSSEZPemlfdmlNeFBDeWdMa2dGLXZJZUxscWF3VDdHd2JaYl84ZFpnQ0FqRmNkMGZPZFRxT3pKMi1qc2d6QjNhX0FTSGtjZmNsSFAtRTlsdzlEVmdkaEVZVFNGbUM2S09iTURyclE?oc=5"
+          }
+        ]
+      },
+      {
+        "zh_head": "PJ’s Coffee 推出节日限定饮品",
+        "en_head": "PJ’s Coffee launches holiday treat beverages",
+        "zh_fact": "PJ’s Coffee 宣布推出节日限定新品，包括糖曲奇拿铁（Sugar Cookie Latte）和一款能量饮料。",
+        "en_fact": "PJ’s Coffee has added a Sugar Cookie Latte and a new energy drink to its menu as part of its holiday offerings.",
+        "zh_why": "通过季节性口味创新吸引节日期间的消费者。",
+        "en_why": "The brand is leveraging seasonal flavor innovation to attract consumers during the holiday period.",
+        "insight_zh": "季节性产品发布是咖啡连锁店维持品牌活力和提升短期销售额的关键策略。",
+        "insight_en": "Seasonal product launches remain a key strategy for coffee chains to maintain brand relevance and boost short-term sales.",
+        "zh_watch": "观察其他咖啡品牌在节日期间的类似营销动作。",
+        "en_watch": "Observe similar marketing moves from other coffee brands during the holiday season.",
+        "sources": [
+          {
+            "name": "Trend Hunter",
+            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE96NzRZLS1zZWVPRXp4TGQ0eXJzRjgzQUN1bDczbVdfa3N1djlLR2lFY2l3dzZCQXpHMXIyYWkxdHRaMXFySGtlQXFsd1UzNkszNURfS1JxbDhPeE41WDcxbHkySmtlV08zZmc?oc=5"
+          }
+        ]
+      },
+      {
+        "zh_head": "Andavi Solutions 收购 Infilect 以扩展零售 AI 平台",
+        "en_head": "Andavi Solutions acquires Infilect to expand retail AI platform",
+        "zh_fact": "Andavi Solutions 已收购 Infilect，旨在增强其零售执行平台的人工智能能力和代理 AI（Agentic AI）功能。",
+        "en_fact": "Andavi Solutions has acquired Infilect to expand its AI-powered retail execution platform and incorporate agentic AI capabilities.",
+        "zh_why": "此次收购旨在通过先进的 AI 技术优化零售商的现场执行效率。",
+        "en_why": "The acquisition aims to optimize field execution efficiency for retailers through advanced AI technology.",
+        "insight_zh": "零售技术领域的整合正在加速，AI 驱动的自动化已成为提升供应链和门店运营效率的核心。",
+        "insight_en": "Consolidation in the retail tech sector is accelerating, with AI-driven automation becoming central to improving supply chain and store operational efficiency.",
+        "zh_watch": "关注该技术整合后在零售终端的实际应用效果。",
+        "en_watch": "Monitor the practical application results of this technology integration at the retail level.",
+        "sources": [
+          {
+            "name": "citybiz",
+            "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPOWZDTC1CNlpYYmR4VnA4YUZzdXItR1BzdXhUbHQtWldLRTJZVEZLTFItSVhuLUpWLVUwdmt2MW5rQjFxRU14bmRlNW4wSjY4YkllTkZmbmpIVUZTeFRZblZkMWVLWlRZLWtoYkcybElnRGF2RDdKVUlqckwyeU5QNTl5QzFza0pxakZpM2NONVlxUVlpWWF1Wm9tR0VSMUFxUkJDSk1ZZDF2TnBNMFlha240SEtaQWJlZ3FzMQ?oc=5"
+          },
+          {
+            "name": "PR Newswire",
+            "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNeTZfb25VWXBqREMyLXh6R2FSTy0zbzBPTVV2NXhkSGJWdktvakFkSmg1SHdoZW9BcU8xUm11T0l5MnYtV2x2ckl4RFItc0RGLUQ0Zk9QNjJBQlJxYzRyV0tvc08yTTBoYW9BZ0NiM1JXV2xfUUNfVzBNczRmSEhQZTRKRzdTdEp6ZWc2YW11d05RMnpzWlpZb3ZnWFlXQkMweGdHZzU1TUZpZ3NOUjZBTUVrZEdsYzBVdkxVS3lnQmpDYUdmMlJRWE9zeHFQb181MC0tRHJtUm8zME9QaU1TLTlvWHdJREdYQ0o4Zg?oc=5"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "date": "2026-11-04",
     "zh_summary": "今日简报涵盖了星巴克应对GLP-1时代的战略转型、Mary Brown's Chicken在印度的扩张计划，以及烘焙行业在国际参与度方面的增长。",
     "en_summary": "Today's brief covers Starbucks' strategic adaptation to the GLP-1 era, Mary Brown's Chicken's expansion plans in India, and growth in international participation within the bakery industry.",
